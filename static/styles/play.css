@@ -1,0 +1,12 @@
+@import url('base.css');
+
+.header-wrapper
+{
+   background-color: #1a1aff;
+}
+
+.score-column
+{
+   background-color: #c1c0c0;
+   border-radius: 3px;
+}

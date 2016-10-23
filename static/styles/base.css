@@ -1,0 +1,57 @@
+@font-face
+{
+   font-family: 'Oxygen';
+   font-style: normal;
+   font-weight: 400;
+   src: local('Oxygen'), local('Oxygen-Regular'), url('../lib/Oxygen-Normal.ttf') format('ttf');
+}
+
+/* latin-ext */
+@font-face
+{
+   font-family: 'Oxygen';
+   font-style: normal;
+   font-weight: 700;
+   src: local('Oxygen Bold'), local('Oxygen-Bold'), url(https://fonts.gstatic.com/s/oxygen/v5/fSUtikcZd7PHZK0t2hzTeRJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}          
+
+html 
+{
+  background-color: white;
+}
+
+h1
+{
+   color: white; 
+   font-family: Oxygen;
+}
+
+h3
+{
+   color:white; 
+   font-family: 'Oxygen Bold';
+}
+
+.link-wrapper
+{
+   background-color: white;
+}
+
+.link-wrapper a
+{
+   text-align: center;
+   font-size: 18px;
+   color: #1a1aff;
+}
+
+.link-wrapper a:hover
+{
+   color: white;
+}
+
+.link-wrapper .link-box:hover
+{
+   border-radius: 3px;
+   background-color: #1a1aff;
+}
