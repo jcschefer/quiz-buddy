@@ -1,12 +1,15 @@
 # Jack Schefer
 #
-from flask          import Flask, render_template, url_for
-from flask_socketio import SocketIO
+from flask          import Flask, render_template, session
+from flask_socketio import SocketIO, join_room, emit
 from os             import getenv
 #
 app = Flask( __name__ )
 socketio = SocketIO( app )
 #
+########################################################################################
+# APP ROUTING
+########################################################################################
 @app.route('/')
 @app.route('/index.html')
 def index():
@@ -26,6 +29,10 @@ def play():
     return render_template( 'play.html' )
     #
 #
+########################################################################################
+# SOCKET FUNCTIONS
+########################################################################################
+#
 @socketio.on('click')
 def handleclick():
     #
@@ -38,6 +45,18 @@ def connect():
     print('socket connected')
     #
 #
+@socketio.on('joined_room')
+def join():
+    #
+    room = session.get( 'room' )
+    join_room( room )
+    emit( 'message', { 'msg': session.get( 'name' ) + ' has entered the room.' } , room = room )
+    print(session.get('name'), 'has entered the room.')
+    #
+#
+########################################################################################
+# APP RUNNING
+########################################################################################
 if __name__ == '__main__':
     #
     #app.run( port = int(getenv( 'PORT' )) , debug = True )
