@@ -1,6 +1,6 @@
 # Jack Schefer
 #
-from flask          import Flask, render_template, session
+from flask          import Flask, render_template, request, session
 from flask_socketio import SocketIO, join_room, emit
 from os             import getenv
 #
@@ -23,10 +23,12 @@ def about():
     return render_template( 'about.html' )
     #
 #
-@app.route('/play.html')
+@app.route('/play.html', methods = ['POST'])
 def play():
     #
-    return render_template( 'play.html' )
+    name = request.form['screen_name']
+    room = request.form['room_name']
+    return render_template( 'play.html', name = name, room = room )
     #
 #
 ########################################################################################
