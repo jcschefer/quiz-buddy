@@ -41,3 +41,30 @@ h3
    border-radius: 3px;
    background-color: #1a1aff;
 }
+
+.popup-row
+{
+   position: relative ;
+}
+
+#popup
+{
+   display: -webkit-box ;
+   display: -moz-box ;
+   display: -ms-flexbox ;
+   display: -webkit-flex ;
+   display: flex ;
+   z-index: 1 ;
+   position: absolute ;
+}
+
+#popup form 
+{
+   padding: 15px ;
+   border: 2px solid #1a1aff ;
+   margin: 15px ;
+   position: relative ;
+   margin: 0 auto ;
+   background-color: #d4d4d4 ;
+   border-radius: 3px ;
+}

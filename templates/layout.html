@@ -6,6 +6,7 @@
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oxygen:400,700">
       <link rel="stylesheet" href="/static/lib/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
       <script src="/static/lib/jquery.min.js"></script>
+      <script src="/static/js/base.js"></script>
       {% block head %}{% endblock %}
    </head>
    <body>
@@ -19,9 +20,26 @@
                <a href="/about.html">
                   <div class="link-box col-sm-2">About </div>
                </a>
-               <a href="/play.html">
+               <a id="play-link"href="#">
                   <div class="link-box col-sm-2">Play</div>
                </a>
+            </div>
+            <div class="row">
+               <div class="col-sm-10"></div>
+               <div class="col-sm-2">
+                  <div id="popup">
+                     <form action="play.html" method="POST">
+                        <fieldset>
+                           <legend>Join a Room</legend>
+                           <input type="text" name="screen_name" placeholder="Screen Name"><br>
+                           <select name="room_name">
+                              <option value="test_room">Test</option>
+                           </select>
+                           <input type="submit" value="Submit">
+                        </fieldset>
+                     </form>
+                  </div>
+               </div>
             </div>
          </div>
       </div>
