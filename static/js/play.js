@@ -7,10 +7,15 @@ $( document ).ready( function() {
    var socket = io.connect('http://' + document.domain + ':' + location.port) ;
    socket.on('connect', function(){
       socket.emit('connection');
+      socket.emit('joined_room');
    });
    //
    $( '#button' ).on('click', function(){
       socket.emit('click');
+   });
+   //
+   socket.on('message', function(data){
+      console.log(data['msg']);
    });
    //
 }) ;

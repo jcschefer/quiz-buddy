@@ -1,10 +1,11 @@
 # Jack Schefer
 #
 from flask          import Flask, render_template, request, session
-from flask_socketio import SocketIO, join_room, emit
-from os             import getenv
+from flask_socketio import SocketIO, join_room, leave_room, emit
+from os             import getenv, urandom
 #
 app = Flask( __name__ )
+app.secret_key = urandom( 24 )
 socketio = SocketIO( app )
 #
 ########################################################################################
@@ -27,6 +28,7 @@ def about():
 def play():
     #
     name = request.form['screen_name']
+    session[ 'name' ] = name
     room = request.form['room_name']
     return render_template( 'play.html', name = name, room = room )
     #
@@ -52,7 +54,7 @@ def join():
     #
     room = session.get( 'room' )
     join_room( room )
-    emit( 'message', { 'msg': session.get( 'name' ) + ' has entered the room.' } , room = room )
+    emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' } , room = room )
     print(session.get('name'), 'has entered the room.')
     #
 #
