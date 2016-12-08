@@ -64,7 +64,7 @@ def join():
 if __name__ == '__main__':
     #
     #app.run( port = int(getenv( 'PORT' )) , debug = True )
-    socketio.run( app, debug = True, port = int( getenv('PORT', 5000)) )
+    socketio.run( app, debug = True, host = '0.0.0.0', port = int( getenv('PORT', 5000)) )
     #
 #
 # End of file.
