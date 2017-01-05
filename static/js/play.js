@@ -6,7 +6,7 @@ $( document ).ready( function() {
    //
    console.log('play.js loaded')
    //
-   var socket = io.connect('http://' + document.domain + ':' + location.port) ;
+   var socket = io.connect('https://' + document.domain + ':' + location.port) ;
    socket.on('connect', function(){
       socket.emit('joined_room');
    });
