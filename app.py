@@ -1,12 +1,27 @@
 # Jack Schefer
 #
 from flask          import Flask, render_template, request, session
-from flask_socketio import SocketIO, join_room, leave_room, emit
+from flask_socketio import SocketIO, emit
 from os             import getenv, urandom
 #
 app = Flask( __name__ )
 app.secret_key = urandom( 24 )
 socketio = SocketIO( app )
+#
+class Player:
+    #
+    def __init__( name ):
+        #
+        self.name  = name
+        self.score = 0
+        #
+    #
+    def get_name( self ): return self.name
+    def get_score( self ): return self.score
+    def __lt__( self, other ): return self.score < other.score
+    #
+#
+players = []
 #
 ########################################################################################
 # APP ROUTING
@@ -29,8 +44,7 @@ def play():
     #
     name = request.form['screen_name']
     session[ 'name' ] = name
-    room = request.form['room_name']
-    return render_template( 'play.html', name = name, room = room )
+    return render_template( 'play.html', name = name )
     #
 #
 ########################################################################################
@@ -43,20 +57,21 @@ def handleclick():
     print('it got clicked')
     #
 #
-@socketio.on('connection')
-def connect():
-    #
-    print('socket connected')
-    #
-#
 @socketio.on('joined_room')
 def join():
     #
     room = session.get( 'room' )
-    join_room( room )
-    emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' } , room = room )
+    emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' })
     print(session.get('name'), 'has entered the room.')
     #
+#
+@socketio.on('spacebar')
+def pause_all_answers():
+    #
+    print('spacebar pressed')
+    
+    #
+#
 #
 ########################################################################################
 # APP RUNNING

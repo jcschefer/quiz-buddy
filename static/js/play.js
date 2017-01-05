@@ -8,7 +8,6 @@ $( document ).ready( function() {
    //
    var socket = io.connect('http://' + document.domain + ':' + location.port) ;
    socket.on('connect', function(){
-      socket.emit('connection');
       socket.emit('joined_room');
    });
    //
@@ -19,6 +18,13 @@ $( document ).ready( function() {
    socket.on('message', function(data){
       console.log(data['msg']);
    });
+   //
+   document.body.onkeyup = function(e){
+      if( e.keyCode == 32 ) //Spacebar pressed to answer question
+      {
+         socket.emit('spacebar');
+      }
+   };
    //
 }) ;
 //
