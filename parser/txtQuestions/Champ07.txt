@@ -1,0 +1,455 @@
+ANSWERS: 8 16 1 20 7 10 12 3 5 2 4 19 18 6 15 9 14 13 11 17
+
+575
+
+1. Pop Culture
+One of her most memorable moments was a Gone With The Wind parody in which she
+wore curtains. Her television show featured Lyle Waggoner, Vicki Lawrence, Harvey
+Korman, and Tim Conway. She later played Miss Hannigan in the 1982 film version of
+Annie. Name this comedienne whose show inspired the spin-off Mama’s Family.
+ANSWER: (Carol) Burnett
+2. World Literature
+This Russian character is described by the lines: “How early on he learnt to trouble the
+heart of the professional flirt! When out to burst a rival's bubble, how well he knew the
+way to hurt.” The title character of a novel written in iambic tetrameter, he has flirtations
+with Tatiana and eventually gets into a duel with his friend Vladimir Lensky. Name this
+protagonist created in the 1820s by Alexander Pushkin.
+ANSWER: Eugene Onegin (prompt on half answer)
+3. Algebra (60 Seconds)
+Find the prime factorization of 1599
+ANSWER: 3 times 13 times 41 (any order)
+4. Art/Architecture
+His paintings include The Chestnut Trees at Osny and The Orchard. After growing up in
+the Danish West Indies, he moved to Paris, where he met Monet and Cezanne, with
+whom he became a leader in the impressionist movement. He inspired many painters, and
+his great grandson is now a head curator at the Museum of Modern Art. Name this
+painter of Chestnut Grove at Louveciennes and Peasant Girl Drinking her Coffee.
+ANSWER: (Camille) Pissarro
+5. Chemistry (10 Seconds)
+This device allows ions to move from one solution to another without mixing the
+solutions. Part of a galvanic cell, it prevents charges from building up on both sides of a
+battery, which would prevent continuous electric current. It sometimes uses filter paper
+and often contains potassium chloride. Name this device with a two-word name.
+ANSWER: Salt Bridge
+
+6. Religion/Mythology
+Use the foreign language term, which is sometimes translated as ‘where the birds reside’.
+They are typically made in three pieces, and people passing through them are supposed to
+clap three times and bow three times. Unclean people are not supposed to go through
+them, and they mark passage into the sacred world in the jinja. Name these gates usually
+associated with Shintoism.
+ANSWER: (O-)Torii (Gate)
+7. US History
+Soon after his graduation from Brown University, he became a secretary for President
+Lincoln. He later served in the McKinley and Teddy Roosevelt Administrations, first as
+Ambassador to the United Kingdom and later as Secretary of State, negotiating the Treaty
+of Paris to end the Spanish-American War. He also negotiated with British Ambassador
+Julian Pauncefote over the building of the Panama Canal. Name this diplomat who played
+a major role in our Open Door Policy with China.
+ANSWER: (John) Hay
+8. Geometry/Trigonometry (60 Seconds)
+Find the value of x if a triangle contains a 120 degree angle, and its sides are of lengths x,
+x+1, and x+2.
+ANSWER: 3/2 (or 1 ½ or 1.5)
+9. Language Arts
+Worksheet
+ANSWER: JCDBFHAIGE
+10. Astronomy/Earth Science/Geography
+Also known as the ITCZ, this area is characterized by air moving vertically more than
+horizontally. Located over oceans near the Equator, it is associated with precipitation and
+is often the area in which hurricanes originate. Give this term devised by sailors who
+found these areas depressing.
+ANSWER: Doldrum(s)
+11. World History
+This government was named after the town it was headquartered in, which was chosen
+for its hotels and telephone service. It followed a regime headed by Paul Reynaud. Prime
+Minister Laval was later executed for high treason, and Chief of State Petain eventually
+had his death sentence reduced to life in prison. Name this French government that had
+close ties to Nazi Germany during World War Two.
+ANSWER: Vichy (France)
+
+12. Calculus/Combinatorics (10 Seconds)
+This type of differential equation can be solved by setting the integral of dy over g(y)
+equal to the integral of h(x) dx and then using the initial condition to find the constant of
+integration. That formula assumes that the original equation is written as y prime equals
+h(x) times g(y). Name these differential equations in which it is possible to place one
+variable on one side of the equation and the other variable on the other side of the
+equation.
+ANSWER: Separable (Differential Equations)
+13. British Literature
+He wrote five plays by the age of thirty and then stopped because of a movement in
+Britain to eliminate immorality from the stage. His last play was about Mirabell and
+Millamant, who are trying to get Millamant’s aunt to bless their marriage. His only
+tragedy took place in Granada and was titled The Mourning Bride. His four comedies
+were The Old Bachelor, The Old Dealer, Love for Love, and The Way of the World.
+Name this writer from the late 1600s who wrote, “Heaven has no Rage, like Love to
+Hatred turned, Nor Hell a Fury, like a Woman scorned.”
+ANSWER: (William) Congreve
+14. Music
+Coming from the Italian word for stolen, this is often used by the lead performers in a
+romantic or jazz piece. When used by piano players, their left hand often completes a
+measure before their right hand. It provides flexibility in rhythm. Identify this term that
+refers to a passage in which certain notes are lengthened while others are shortened.
+ANSWER: Rubato
+15. Biology
+Its empirical formula is C8H13O5N, and some researchers think it may contribute to
+asthma. Most people naturally produce enzymes to break it down, and it is used to heal
+wounds and purify water. This polysaccharide is a primary component in fungus cell
+walls. Name this substance that combines with proteins to form arthropod exoskeletons.
+ANSWER: Chitin
+16. Technology
+It is not yet ready for Version 1.0, but a new version is released on the third Tuesday of
+each month. It is register-based rather than stack-based, and it contains a built-in
+grammar engine. When it finally works, it will be able to compile and execute dynamic
+languages. Name this virtual machine being developed along with Perl 6.
+ANSWER: Parrot (Virtual Machine)
+
+17. Current Events
+Most of its construction is done by Raven Development Group, one of its subsidiaries. It
+has a huge training center in Moyock, North Carolina, and was started in 1997 by Erik
+Prince, who recently testified to Congress. This company may soon lose much of its
+business because of an incident on September 16th, when its employees opened fire on
+civilians in Nisoor Square in Baghdad. Name this contractor that often works for the
+State Department.
+ANSWER: Blackwater (USA)
+18. Nonfiction
+Worksheet
+ANSWER: FAEGDHBC
+19. Physics (60 Seconds)
+Include units in your answer. If an object has a rest mass of 100 grams, what would its
+relativistic mass be if it was moving at three fifths of the speed of light?
+ANSWER: 125 Grams (or .125 Kilograms)
+20. US Literature
+The third stanza of this poem is: “And both that morning equally lay In leaves no step
+had trodden black. Oh, I kept the first for another day! Yet knowing how way leads on to
+way, I doubted if I should ever come back.” It is four stanzas long, and the final line is,
+“And that has made all the difference.” Name this Robert Frost work about a traveler
+making a decision.
+ANSWER: (The) Road Not Taken
+21. Pop Culture
+The second player taken in the 1968 NBA draft, the team that selected him improved to
+57-25 during his rookie season. Other than Wilt Chamberlain, he is the only player ever
+to win Rookie of the Year and MVP during the same season. The player selected ahead
+of him, Elvin Hayes, would later be his teammate on the Baltimore, and then
+Washington, Bullets. He also was a generally unsuccessful coach of the Bullets from
+1987 to 1994. Name this athlete who, like Charles Barkley, despite being only six foot
+six, consistently was among the league leaders in rebounds.
+ANSWER: (Wesley) Unseld
+
+22. World Literature
+The title characters in this play repeat the lines brek-ke-ke-kek ko-ax ko-ax and have very
+little to do with the plot. The plot involves Dionysus dressing up like Heracles and
+visiting Hades. Once there, he officiates an argument between Aeschylus and Euripides.
+Name this work by Aristophanes which takes its title from some animals sitting by a
+river.
+ANSWER: (The) Frogs (or Batrachoi)
+23. Algebra (60 Seconds)
+What prime number must be a factor of the sum of any two-digit number plus the twodigit number that has the same digits in the opposite order? For example, it is one of the
+factors of the sum of 57 and 75.
+ANSWER: 11
+24. Art/Architecture
+To support abolition, he drew a picture of a ship from which the sickly slaves were being
+thrown overboard. That picture and others from his later years, like his picture of The
+Great Western Railway, helped set the stage for Impressionism. Other pictures, such as
+The Battle of Trafalgar and The Burning of the Houses of Lords and Commons, depicted
+what were then very recent events. Name this British painter who often painted
+landscapes and shipwrecks.
+ANSWER: (Joseph Mallord William) Turner
+25. Chemistry (10 Seconds)
+If this equation is written using logarithms but not calculus, one side probably will be the
+enthalpy of vaporization divided by the ideal gas law constant all multiplied by the
+quantity of the reciprocal of the initial temperature minus the reciprocal of the current
+temperature. It sometimes is invoked in debates over global warming, and it is used to
+predict the relationship between temperature and pressure in phase changes. Identify this
+equation named after two nineteenth century scientists, one German and the other French.
+ANSWER: Clausius-Clapeyron (Equation or Relation) (accept order reversal)
+26. Religion/Mythology
+After he killed a dragon, Athena told him to plant the dragon’s teeth. The teeth turned
+into warriors, many of whom killed each other, leaving five survivors who helped him.
+The brother of Europa, he also received advice from the Oracle at Delphi. After great
+success as a ruler, he and his wife suffered because of the great misfortunes of their
+descendants. Name this founder of Thebes.
+ANSWER: Cadmus
+
+27. US History
+Worksheet
+ANSWER: GFABLKJCDIEHM
+28. Geometry/Trigonometry (60 Seconds)
+For this problem, x is in degrees. A graph is made from an equation with the form y
+equals tangent of the quantity Kx+L. Find the smallest possible positive value of L so
+that the graph has consecutive asymptotes at x=11 and x=41.
+ANSWER: 24
+29. Language Arts
+In ancient Rome, this word applied to people who taught rhetoric. It currently refers to
+people who, in order to appear brilliant, make arguments that seem correct but are
+actually invalid. This negative connotation is due largely to the fact that the writings of
+their Greek opponents survived and are still studied, while most of their writings were
+lost. Give this term that originally applied to Greek intellectuals who taught for a fee.
+ANSWER: Sophist (accept different word forms)
+30. Astronomy/Earth Science/Geography
+This is the capital of Jalisco, a state in Mexico, and it is named after a town near the
+center of Spain. To attract more tourists, it is constructing a Guggenheim Museum and
+Torrena, which will be the tallest building in Latin America. It is the second largest city
+by population in Mexico. Name this city whose airport is often used by people on their
+way to Puerto Vallarta on the Pacific Ocean.
+ANSWER: Guadalajara
+31. World History
+Formerly known as the Battle of Redemore, it lasted only about two hours. The outcome
+was affected by defections by Thomas and William Stanley. The King of England was
+killed, marking the end of the reign of the House of York. Some people claim it ended the
+Wars of the Roses. Name this 1485 battle won by Henry Tudor, who became Henry the
+Seventh.
+ANSWER: (Battle of) Bosworth (Field)
+32. Calculus/Combinatorics (60 Seconds)
+To make the smallest possible Quiniela Box bet in a horse race, you choose three horses,
+and you win the bet if the top two horses in the race are both from the group you picked.
+What is the probability of winning if you make the smallest possible Quiniela Box bet by
+choosing three random horses in a race with six horses?
+ANSWER: 1/5 (or .2)
+
+33. British Literature
+Some of the married couples in this book are Walter and Lucy Vincy, Caleb and Susan
+Garth, and Tertius and Rosamund Lydgate. The main character spends part of the novel
+in an unhappy marriage to Edward Casaubon. Published in 1871, it is named after the
+fictional town it takes place in. It is unusual for a 19th Century book by a woman, which
+may explain why the author used a male pseudonym. Name this work about Dorothea
+Brooke by George Eliot.
+ANSWER: Middlemarch
+34. Music
+One of his operas is about an old man who tries to marry so that his nephew will not
+inherit his lands, and another opera’s English title is The Elixir of Love. In his most
+famous opera, the sister of Lord Enrico Ashton is in love with Sir Edgardo di
+Ravenswood. Name this early 19th Century Italian composer of Lucia di Lammermoor.
+ANSWER: (Gaetano) Donizetti
+35. Biology
+This six-letter term refers to a body cavity lined with mesodermal tissue containing
+internal organs. Its existence allowed for the development of a circulatory system, and it
+can be found in annelids and almost all animals that evolved after them. Give this term
+beginning with the letter C.
+ANSWER: Coelom
+36. Technology
+Worksheet
+ANSWER: BAFCDE
+37. Current Events
+This American lived two blocks away from his wife throughout their marriage, which is
+now ending with a bitter divorce. His wife has accused him of dognapping and is
+requesting alimony payments equivalent to twenty-four thousand dollars per day. This
+owner of the Pittsburgh Tribune-Review is a billionaire due to a large inheritance. During
+the 1990s, he gave over two million dollars to a magazine so it could investigate
+President Clinton, and he has also given lots of money to the Heritage Foundation. Name
+this great-nephew of Andrew Mellon.
+ANSWER: (Richard Mellon) Scaife (prompt Mellon)
+
+38. Nonfiction
+In 1931, he completed an autobiography titled Out of My Life and Thought. His earlier
+books focused on the belief of Jesus in an impending apocalypse and are exemplified by
+The Quest of the Historical Jesus. Later in life, he became a peace activist and often
+worked with Albert Einstein. Upon receipt of the Nobel Peace Prize, he gave a speech
+titled “The Problem of Peace”. Name this doctor who started a hospital in what is now
+Gabon in Africa.
+ANSWER: (Albert) Schweitzer
+39. Physics (10 Seconds)
+Like Snell, the equations named after this person use indices of refraction, but his
+equations are used to determine how much light is refracted and how much is reflected.
+He performed many of the same experiments as Thomas Young, and though their results
+were helpful in many ways, both were led to believe in the ether. His name is attached to
+a type of lens that has a short focal length using a small amount of material. Name this
+scientist whose zoned lenses have many purposes, including headlights.
+ANSWER: (Augustin-Jean) Fresnel
+40. US Literature
+This play contains the line, “As the history of the world proves, the truth has no bearing
+on anything. It's irrelevant and immaterial, as the lawyers say. The lie of a pipe dream is
+what gives life to the whole misbegotten mad lot of us, drunk or sober.” One of the
+characters is Theodore Hickman, who is known as Hickey. Name this Eugene O’Neill
+play set in Harry Hope’s saloon.
+ANSWER: (The) Iceman Cometh
+41. Pop Culture
+This album includes “Red Hill Mining Town” and “Trip Through Your Wires”. It won
+two Grammy Awards in 1988, and the group that produced it has won twenty Grammys
+since then. It contains their only two songs to hit #1 in the United States: “With or
+Without You” and “I Still Haven’t Found What I’m Looking For”. Name this U2 album.
+ANSWER: (The) Joshua Tree
+42. World Literature
+In this novel, the Eyes are the secret police force. The main character is Offred, who has
+been separated from her husband and daughter. Offred’s job is to bear children for her
+Commander. The story takes place in Gilead, which has replaced the United States
+following a coup. Name this 1985 novel by Margaret Atwood.
+ANSWER: (The) Handmaid’s Tale
+
+43. Algebra (60 Seconds)
+If x and y are both nonnegative and 2x+3y<30, what is the greatest possible value of the
+expression 5x+10y?
+ANSWER: 100
+44. Art/Architecture
+In 1938, he became Architecture Department Chair at Harvard, and he helped design the
+Graduate Center that was built there in 1950. There is a house that bears his name in
+Lincoln, Massachusetts. Before moving to the United States, he spent a few years in
+England, where he designed Impington Village College in Cambridgeshire. Name this
+left wing German interested in industrial design who led the Bauhaus.
+ANSWER: (Georg Walter Adolf) Gropius
+45. Chemistry (10 Seconds)
+Worksheet
+ANSWER: DABC EGFE IKJH
+46. Religion/Mythology
+He wrote Liber Pastoralis Curae, which for centuries described the role of clergymen, and
+he appointed Saint Augustine as the first Archbishop of Canterbury. He also led the
+defense of Rome against Lombard invaders and is widely considered to be the founder of
+the medieval church. Name this man who served as Pope from 590 to 604.
+ANSWER: (Pope or Saint) Gregory I (prompt Gregory, accept Gregory the Great or
+Gregory Dialogus)
+47. US History
+This group had big overlaps with the Ancient Order of Hibernians and the Workingmen’s
+Benevolent Association. One of their leaders was John “Black Jack” Kehoe, and they
+were inspired in part by the Avondale Mine Disaster and The Long Strike. Located in
+Eastern Pennsylvania, they were broken up by a series of murder trials and death
+sentences in the 1870s. Name this secret association that borrowed its name from an Irish
+group that had dressed up as women.
+ANSWER: Molly Maguire(s)
+48. Geometry/Trigonometry (60 Seconds)
+Include units in your answer. Find the total surface area of an icosahedron with each edge
+of length 4 centimeters.
+ANSWER: 80 Root 3 Square Centimeters
+
+49. Language Arts
+This verb is derived from the name of an editor who died in 1825. In 1818, he published
+the works of Shakespeare after removing all the parts he thought were inappropriate for
+women and children. For example, “Out, damned spot” was changed to “Out, crimson
+spot.” The suffix –ize has been added to his name. Name this verb beginning with the
+letter B.
+ANSWER: Bowdler(ize) (accept additional –d, -s, or –ing)
+50. Astronomy/Earth Science/Geography
+Originally catalogued as 2004 DW, a satellite moving around this object was discovered
+earlier this year. Slightly smaller than Sedna, it probably is the largest Plutino other than
+Pluto itself, and it will be classified as a Dwarf Planet if it is almost spherical. Identify
+this Kuiper Belt Object that, like Pluto, is named after a Roman God of the Underworld.
+ANSWER: Orcus (accept 90482)
+51. World History
+His first major victory was at Pasargadai thanks to the support of Harpagos, which
+allowed him to take over Media. Another important victory came four years later,
+allowing him to take control of Sardis after surprising Croesus at the Battle of Thymbra.
+Seven years after that, he took control of Babylon. Name this founder of the Persian
+Empire.
+ANSWER: Cyrus the Great (prompt Cyrus, accept Cyrus followed by The Second, The
+Elder, Vazraka, Kabir, or Bozorg, accept Kourosh in place of Cyrus)
+52. Calculus/Combinatorics (60 Seconds)
+Find the y-intercept of a graph if its derivative is 6x+4 and the area under the curve
+between x=0 and x=1 is 11.
+ANSWER: 8
+53. British Literature
+His poem “A Vision of Judgement” was parodied by Lord Byron. Other poems he wrote
+include “Joan of Arc”, “The Inchcape Rock”, and “After Blenheim”. He served as Poet
+Laureate for thirty years, being succeeded upon his death by William Wordsworth. He
+was a close friend of Samuel Taylor Coleridge; they collaborated on the play The Fall of
+Robespierre. Name this Lake Poet.
+ANSWER: (Robert) Southey
+54. Music
+Worksheet
+ANSWER: ACDFBE
+
+9 4 41 6 2 8
+
+55. Biology
+Type 3, which is often associated with the Greek letter lambda, is not yet universally
+agreed to, but the proposed proteins are affected by Y136. Type 2, which is often
+associated with the Greek letter gamma, is associated with autoimmune diseases. Type 1
+comes in many varieties and stimulates, among other cells, NK cells, osteoblasts, and
+leukocytes. Identify these glycoproteins that get in the way of viral replication.
+ANSWER: Interferon(s)
+56. Technology
+(Note to moderator: Onerror is pronounced On Error.) These two keywords in JavaScript
+used in combination have replaced onerror. They are used in combination, though they
+are often far apart in code. Used to handle exceptions, they are sometimes combined with
+the keyword Finally. Give these words beginning with T and C often used in debugging.
+ANSWER: Try Catch (must have both words in either order)
+57. Current Events
+In 1993, when he was a suburban mayor, he rescued a group of nursery school students
+from a psychotic who called himself the Human Bomb. He was elected to higher office a
+few months ago, defeating a Socialist candidate. Some commentators claim his recent
+divorce was timed well to take attention away from a transportation strike in his country.
+He met this week with President Bush in Mount Vernon. Name this successor of Jacques
+Chirac who is the President of France.
+ANSWER: (Nicolas) Sarkozy
+58. Nonfiction
+Near the beginning of this autobiography, the author describes the times as a child he
+burned his house and hanged a kitten. His father Nathan leaves the family, and his mother
+Ella is poor and sickly. The book begins in Mississippi before moving to Memphis and
+then Chicago. Near the end of this book, the author joins and then leaves the Communist
+Party. The book ends just before he became the most famous African American author of
+his time. Name this work by Richard Wright.
+ANSWER: Black Boy
+59. Physics (10 Seconds)
+Named after the physicist who stated it in 1834, this law connects the Conservation of
+Energy and Faraday’s Law of Induction. It is used to predict the effects on a closed
+conducting coil when a magnet is moved towards or away from it. Name this law that
+states that the induced current will appear in such a direction that it opposes the change
+that produced it.
+ANSWER: Lenz(’s Law)
+
+60. US Literature
+One of the main characters in this novel sometimes uses the name Lucas Burch. Another
+man, who is biracial and was raised by a foster family, sometimes goes by Joe Hines and
+sometimes by Joe Christmas. Name this work that takes place in Jefferson, Mississippi by
+William Faulkner.
+ANSWER: Light In August
+FIRST TIE
+This composer sometimes collaborated with the poet W.H. Auden. His works include
+Seven Sonnets of Michelangelo, Ceremony of Carols, and War Requiem, and he is
+generally regarded as the best British opera composer of the 20th Century. One of his
+operas, about a fisherman accused of killing his apprentice, is Peter Grimes. Some of his
+other operas include Billy Budd, The Turn of the Screw, and Death In Venice. Name this
+composer who wrote The Young Person’s Guide to the Orchestra.
+ANSWER: (Benjamin) Britten
+60 Seconds
+A bag contains one penny, one nickel, one dime, and one quarter. If two coins are picked
+randomly without replacement, what is the probability that their value is over twenty
+cents?
+ANSWER: ½ (accept .5 or 50%)
+This novel involves three suspicious men named Martin, Hardwick, and Morez. They are
+found in the valley that supplies part of the book’s title. Written in 1940, this Western
+takes place in 1885 and involves a posse looking for criminals. Name this book by Walter
+Van Tilburg Clark.
+ANSWER: (The) Ox-Bow Incident
+You can answer with the common three-letter abbreviation or the full word. People with
+this disease cannot create tyrosine. It is a recessive genetic disorder that, if untreated,
+results in mental retardation. Babies are routinely tested for it soon after birth, and people
+who have the disease need to avoid meats and dairy products. Name this genetic disorder
+which affects the breakdown of phenyl alanine.
+ANSWER: PKU (or Phenylketonuria)
+
+SECOND TIE
+This work opens with a discussion between Poseidon and Athena. Hecuba then wakes up
+and describes how her life has become a tragedy. A lot of bad news is delivered by
+Talthybius throughout the play. He tells Andromache that her son will be thrown to his
+death, and he tells Hecuba that her daughter will join a concubine. Name this work by
+Euripides that ends with Hecuba stating, “Woe for thee, O land that nursed my little
+babes!”
+ANSWER: (The) Trojan Women (or Troiades or (The) Women of Troy)
+The three forts involved in this battle were Powell, Gaines, and Morgan. Franklin
+Buchanan eventually surrendered to Union troops after three weeks of fighting in August,
+1864. Union forces were led by David Farragut, who may have said: “Damn the
+torpedoes! Full speed ahead!” Name this naval battle that took place at the Southern end
+of Alabama.
+ANSWER: (Battle of) Mobile Bay (prompt Mobile)
+60 Seconds
+Ignore units. A rectangle has a base of length x and a diagonal of length x+1. Find the
+value of x if the height of the rectangle is 9.
+ANSWER: 40
+THIRD TIE
+This novel features a psychiatrist named William Bradshaw who tends to a World War
+One veteran named Septimus Warren Smith. The main character of the novel, which like
+Ulysses takes place during a single day in June, is named Clarissa. A London resident,
+she starts her day buying flowers for a party she is planning. Name this Virginia Woolf
+novel in which Clarissa is the title character.
+ANSWER: Mrs. Dalloway
+This is a life-size portrait of Jonathan Buttall. He is holding a black hat with a white
+feather, and there are trees in the dark background. Though painted in 1770, it looks like
+a 17th Century portrait. Name this work by Thomas Gainsborough.
+ANSWER: (The) Blue Boy
+(60 Seconds) Rounded to the nearest tenth of a second, if a three kilogram object is shot
+up into the air from ground level at an angle of seventy-nine degrees from the horizontal
+with a speed of one meter per second, how much time will it take to return to the ground?
+You can approximate the acceleration due to gravity as 9.8 meters per square second, and
+the sine of seventy-nine degrees is about 0.98. Remember to round to the nearest tenth.
+ANSWER: 0.2 (Seconds) (accept 1/5 or 2/10 Seconds)
+
+

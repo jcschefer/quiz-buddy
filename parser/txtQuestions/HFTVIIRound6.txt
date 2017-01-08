@@ -1,0 +1,368 @@
+Harvard Fall Tournament VII
+Round 6
+Edited by Stephen Liu, with assistance from Eric Mukherjee and Dallas Simons
+Written by Stephen Liu, Graham Moyer, David Liu, Kuo-Kai Chin, Will Holub-Moorman, Stephen Morrison, Andy
+Dibble, Sriram Pendyala, Jared Cowan, Mark Arildsen, and Artur Meller
+Tossups
+1. A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism,
+while Ferenc Szalasi advocated this ideology through his Arrow Cross Party. Another party following this ideology
+took power after the murder of Giacomo Matteotti, which led to the Aventine Secession. Columns of adherents to
+this ideology participated in the March on Rome, including a paramilitary organization known as the Blackshirts. Its
+name comes from the Latin term for a bundle of rods tied to an axe. For 10 points, name this authoritarian ideology
+that calls for adherence to national community, adopted by Mussolini's Italy and Nazi Germany.
+ANSWER: fascism
+2. The Lucas primality test is based on one finding of this man who pioneered the method of infinite descent. That
+result is a specific case of a theorem that takes an element to the totient function of n-1, Euler’s theorem. Numbers
+for which the converse of that theorem do not hold are called Carmichael Numbers. Another theorem named after
+this man used the modularity conjecture, also called the Taniyama-Shimura Conjecture. That theorem stating that for
+n greater than one there are no solutions to a to the n plus b to the n equals to c to the n for positive a, b, and c was
+proved by Andrew Wiles. For 10 points, identify this man with namesake “little” and “last” theorems.
+ANSWER: Pierre de Fermat
+3. After losing his first Senate race to a man nicknamed “Pappy” who was famous for his radio program, this
+man was elected when a publisher rushed back from a business trip to cast a vote in his favor to break a tie for
+his nomination. Accusations of fraud in that victory against Coke Stevenson helped earn this man the moniker
+of “Landslide,” and a later campaign of his featured the Daisy Ad, which warned against the threat of nuclear war
+under his opponent, Barry Goldwater. This president pushed through legislation for Medicare and a War on Poverty
+as part of his Great Society program. For 10 points, name this president who entered office in Dallas after the
+assassination of John F. Kennedy.
+ANSWER: Lyndon Baines Johnson [Accept LBJ.]
+4. One of these people accidentally sacked Luna thinking that it was Rome and was nicknamed “Ironside.” A group
+of these people were able to settle when Charles the Fat granted their leader Rollo the Duchy of Normandy. An elite
+unit of the Byzantine Army made up of these people served as the Emperor's bodyguards and were known as the
+Varangian Guard. They were responsible for the sacking of Irish monasteries at Lindisfarne and Iona, while they
+made long voyages that resulted in colonies in Greenland and Vinland, founded by Erik the Red and Leif Eriksson.
+For 10 points, name these fierce Scandinavian seafarers who most likely did not wear horned helmets.
+ANSWER: Vikings [Prompt on “Norsemen” or “Scandinavians.”]
+5. This Gospel contains the most expansive account of the feeding of the five thousand. It includes a discussion
+at the Temple during the Feast Booths between Jesus and Nicodemus following a wedding in Cana. This Gospel
+also relates the healing of a paralytic at a Bethesda pool and the raising of Lazarus, which are described as two of
+the seven signs. Unlike the other three Gospels, this gospel contains no accounts of exorcism, the Transfiguration,
+the temptation in the desert, or Sermon on the Mount. For 10 points, name this non-Synoptic Gospel which begins
+instead with, “In the beginning was the Word, and the Word was with God,” the last of the four Gospels.
+ANSWER: The Gospel According to John [Accept The Gospel of John.]
+
+6. Accusations of this man’s populism led to a campaign depicting him as a “chameleon” with an accompanying
+series of ads featuring Culture Club. The Independence Party demanded that this man issue them an apology after he
+publicly referred to them as “fruitcakes,” and he drew criticism after appointing Andy Coulson, the former editor of
+News of the World, as his first communication director. He came to power in a coalition with the Liberal Democrats
+after a 2010 election that resulted in a hung Parliament. That election occurred after a vote of no confidence against
+Gordon Brown’s Labour party. For 10 points, name this current Prime Minister of the United Kingdom.
+ANSWER: David Cameron
+7. The effort of one country to gain independence from this country was led by SWAPO. The precursor to its main
+political party, which was attacked in the Rivonia Trial, was founded by John Dube. Sixty-nine people were killed
+after police opened fire outside a police station in this country’s Sharpeville Massacre, and H.F. Verwoerd led a
+policy that fomented the Soweto Uprising and was ended by F.W. de Klerk. Voortrekkers migrated away from this
+modern-day country in the Great Trek, and it is currently governed by the African National Congress. After his
+release from Robben Island, Nelson Mandela became its president. For 10 points, name this country that once had
+the policy of Apartheid.
+ANSWER: Republic of South Africa [Accept RSA]
+8. One character in this play describes himself as “too much i’ the sun,” and warns another character “There are
+more things in heaven and earth... than are dreamt of in your philosophy.” That character’s last line in this play
+is: “The rest is silence.” Another character warns his son to “Neither a borrower nor a lender be.” In another speech
+from this play, the speaker hopes “to sleep--perchance to dream--ay, there’s the rub,” and wonders whether taking
+arms “against a sea of troubles” or “suffer the slings and arrows of outrageous fortune” is better. For 10 points, name
+this play which advises “to thine own self be true” and asks “to be, or not to be,” written by William Shakespeare.
+ANSWER: The Tragedy of Hamlet, Prince of Denmark
+9. As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands from
+this location with two anvils at her feet. Two residents of this place were the targets of a kidnapping mission by the
+giants Otus and Ephialtes, who ended up leaving with Ares in a jar. One hero who tried to reach this location was
+lamed and doomed to wander the Plains of Aleion after a gadfly was sent to distract Pegasus. Heracles eventually
+settled here and married its cupbearer Hebe, while Hestia gave up her throne in this place to Dionysus. For 10
+points, name this abode of the Greek gods, a mountain situated in northern Greece.
+ANSWER: Mount Olympus [Accept Oros Olympos]
+10. This composer opened a piece for solo piano with a chromatically descending whole tone cadenza and used
+a series of open fifths to evoke church bells in a programmatic prelude depicting a “Sunken Cathedral.” This
+composer of “The Happy Island” included a piece parodying a leitmotif from Richard Wagner’s Tristan und
+Isolde, “Golliwogg’s Cakewalk”, in his Children’s Corner suite. A chromatic flute passage begins a work by this
+man inspired by a Stéphane Mallarmé poem, while a piece contained in his Suite Bergamasque was famously
+inspired by moonlight. For 10 points, name this composer of Prelude to the Afternoon of a Faun and “Clair de
+Lune.”
+ANSWER: Achille-Claude Debussy
+11. The Born-Oppenheimer approximation, which allows approximate decomposition of atomic wavefunctions,
+depends on the relative “slow” motion of these entities. The subclass of mesons known as pions mediates the
+attractive forces within it, which is sometimes known as the residual strong force. This entity’s discovery disproved
+J.J. Thomson’s Plum Pudding model and came about by the unexpected scattering of decaying radium by gold foil
+in the Rutherford Experiment. For 10 points, name this region of the atom which can split or merge in its fission or
+fusion, also known as an alpha particle in the context of helium that consists of protons and neutrons.
+ANSWER: atomic nucleus
+
+12. Robert J. Barro attempted to elaborate on David Ricardo’s proposal that these entities and loans are
+interchangeable because consumers internalize budget constraints. That idea is the Barro-Ricardo equivalence
+theorem. An alternative to one of these entities designed to correct a negative externality created by Arthur Pigou
+is a cap-and-trade system. When introduced into an equilibrated market, they can cause deadweight loss by driving
+a “wedge” between consumers and producers. For 10 points, name these entities that come in Pigovian, estate, value
+added, sales, and income varieties, a percentage of a transaction that goes to the government.
+ANSWER: taxes [Accept any kinds of taxes, like Pigovian taxes, income taxes, or sales taxes.]
+13. The first of these type of materials was discovered by Michael Faraday in 1833 when he was studying the
+properties of silver sulfide. Frenkel excitons generally form in these materials when they are exposed to photons
+that have energies in or near the visible range of the spectrum. These materials observe an increase in resistivity
+when they are cooled, unlike metals such as copper. Graphite behaves like one of these because of its extensive pidelocalization, allowing access to conduction bands. Conductivity of these materials is modified by doping. For 10
+points, name these materials which have a resistivity between that of conductors and insulators.
+ANSWER: semiconductors
+14. A contemporary art movement from this country produced a tent covered in the names of everyone the artist
+slept with from 1963 to 1995, while another artist from that movement created a diamond-studded skull and encased
+a shark in a tank of formaldehyde. A painting by an artist from this country shows a drowned girl floating in a
+stream with flowers in her hands in Ophelia, while another painting from here shows Willy Lott's cottage on the
+left as a horse pulls a cart along the River Stour. For 10 points, name this nation home to Damien Hirst and the PreRaphaelite Brotherhood, as well as the artist of The Hay Wain, John Constable.
+ANSWER: Great Britain [Accept United Kingdom or the UK, prompt on “England.”]
+15. In one play by this author, a murderer lures killers to a pool in the radiant city with obscene pictures, then
+drowns them. In another, a pupil is asked to repeat “the roses of my grandmother are as yellow as my grandfather,
+who is Asiatic” in many languages, before her teacher kills her. Another work by this author of The Killer and
+The Lesson sees a couple set up the titular objects for invisible guests who listen to a mute speaker. In one of this
+author’s most famous plays, Daisy is on the verge of loving Berenger when she transforms into the title creature. For
+10 points, name this Romanian-born absurdist French author who wrote The Bald Soprano and Rhinoceros.
+ANSWER: Eugene Ionesco [Accept Eugen Ionescu.]
+16. It’s not the Tragedy of the Commons, but Garrett Hardin promoted the cultural variety of this value. This
+value appears in the denominator of both the Verhulst-Pearl and competitive Lotka-Volterra equations to study
+predator- prey relationships, as it explains the necessity of both adequate amounts of predators and prey. Serving
+as the horizontal asymptote of a sigmoidal growth curve, this number is symbolized K. China’s projected declining
+agricultural production may negatively impact this number, which is thought to be anywhere from 4 to 16 billion for
+humans on Earth. For 10 points, name this limit to the size of the population an environment can support.
+ANSWER: carrying capacity
+17. In one work, the Empress Sabina was shown as this figure touching her hand to the chest of her husband
+Hadrian. A small globe appears at the foot of a Giambologna sculpture of this figure as the patron of astronomy,
+Urania. This figure was represented by Pauline Borghese holding an apple in a Canova sculpture with her reclining
+on a couch. Praxiteles sculpted her with a jar discarding her robe while preparing for a bath. That work used the
+courtesan Phryne as a model and shows this goddess modestly covering her pubic area with her hand. For 10 points,
+name this goddess of love whose most famous depiction, found in the Louvre, is missing its arms and was found in
+Milos.
+ANSWER: Venus or Aphrodite [Accept either. Accept Venus Victrix or Venus Urania.]
+
+18. In one episode from this novel, the narrator is tricked into jumping onto an electrified carpet in order to pick
+up gold coins. The narrator attends a college financed by a man obsessed with his dead daughter, Mr. Norton, and
+is later kicked out of college by a man who told him he was a “nobody,” Dr. Bledsoe. The narrator is repeatedly
+mistaken for Rinehart, a black man who sacrifices his skin color to fit into white society. The death of Tod Clifton
+sparks a riot in Harlem which leads one character to rename himself Ras the Destroyer. For 10 points, name this
+novel narrated by a nameless black man and written by Ralph Ellison.
+ANSWER: Invisible Man [Do not accept “The Invisible Man.”]
+19. One work in this language shows a character not named Rapunzel letting down her hair so a suitor could climb
+up to talk to her. Her son becomes a hero who tragically kills his son in fear of losing a wrestling match. The
+line “The moving finger writes: and, having writ, moves on” also comes from a work in this language that was
+translated by Edward Fitzgerald. The most famous line in this language notably mentions “a jug of wine, a loaf of
+bread - and thou.” For 10 points, name this language which was used by Ferdowsi for Shahnameh, the national epic
+of Iran, and Omar Khayyam for the Rubaiyat, also referred to as Farsi.
+ANSWER: Persian [Accept Farsi until read.]
+20. This thinker argued that war had driven the Eskimos so far to the north in an essay advocating democratic peace.
+In another work by this thinker, he lists the four types of reflective judgments: the agreeable, beautiful, sublime, and
+good. This author of Perpetual Peace discusses noumenon and phenomenon in his most famous work, which asks
+how synthetic a priori truths are possible. In that work, he argues that one should make sure any moral action should
+be universally applicable, his categorical imperative. For 10 points, name this German Enlightenment philosopher
+and author of Critique of Judgment and Critique of Pure Reason.
+ANSWER: Immanuel Kant
+Bonuses
+1. This man fails to obtain immortality when he is unable to stay awake for seven days and seven nights. For 10
+points each:
+[10] Name this king of Uruk and son of Lugalbanda who was helped by his friend Enkidu in fighting a demon
+named Humbaba in his namesake Mesopotamian epic.
+ANSWER: Gilgamesh the King [Accept Bilgames.]
+[10] Gilgamesh also had to deal with the Bull of Heaven, which was sent by this Assyrian goddess of love after
+Gilgamesh spurned her advances. She had a large blue gate named after her.
+ANSWER: Ishtar [Do not accept “Inanna.”]
+[10] This sister of Ishtar ruled the underworld of Irkalla and forced Ishtar to give up a piece of clothing at each gate
+as she descended to her realm.
+ANSWER: Ereshkigal
+2. Many rulers of it were descended from Jochi, and Uzbeg was an important ruler of it. For 10 points each:
+[10] Name this empire, which later engaged in a “great stand” on the Ugra River against the forces of Ivan III of
+Russia.
+ANSWER: Khanate of the Golden Horde [Accept Great Horde or the Kipchak Khanate.]
+[10] The Golden Horde was founded after the death of this Mongol leader, whose descendent Kublai controlled
+China during the Yuan Dynasty.
+ANSWER: Chinggis Khan [Accept Genghis Khan or Temujin.]
+[10] This other grandson of Chinggis Khan and ruler of the Golden Horde famously led an invasion of Kievan Rus’
+in 1237.
+ANSWER: Batu Khan
+
+3. The Art of Painting inspired this man's painting showing Vermeer on one knee, while his other leg appears
+stretched out to resemble a table. For 10 points each:
+[10] Name this surrealist artist who also showed melting clocks and a swarm of ants in his The Persistence of
+Memory.
+ANSWER: Salvador (Domingo Felipe Jacinto) Dalí (i Domènech)
+[10] This conflict was the subject of Dali's Soft Construction with Boiled Beans as well as a Pablo Picasso work
+painted in response to the bombing of Guernica, which occurred during this war.
+ANSWER: Spanish Civil War
+[10] Tons of flies and multiple copies and views of the Venus de Milo appear in this Dali work, which is framed by
+the walls of an arena where the title figure is presumably about to fight a bull.
+ANSWER: The Hallucinogenic Toreador [Accept El Torero Hallucinogene.]
+4. This battle was preceded by the Siege of Harfleur, and Thomas Erpingham oversaw the English archers who took
+cover in the Forest of Tramecourt. For 10 points each:
+[10] Name this 1415 battle in which Henry V defeated Charles d'Albret, assisted by longbows and a foolish French
+cavalry charge through heavy mud.
+ANSWER: Battle of Agincourt
+[10] The Battle of Agincourt took place during this 1337 to 1453 conflict that began because Edward III of England
+claimed the French throne through his grandfather, Philip IV.
+ANSWER: Hundred Years' War
+[10] The Edwardian phase of the Hundred Years' War saw this 1340 naval battle near Flanders, which resulted in the
+destruction of the French fleet along with any hopes of an invasion of England.
+ANSWER: Battle of Sluys
+5. This ceremony takes place in the Massim archipelago, including the Trobriand Islands, and involves veigun being
+traded clockwise and mwali being traded counterclockwise. For 10 points each:
+[10] Name this ceremonial exchange system in Papua New Guinea that involves the transfer of red and white shells.
+ANSWER: Kula ring [or Kula exchange]
+[10] This Polish-born anthropologist notably studied the Kula ring and also wrote Argonauts of the Western Pacific.
+ANSWER: Bronisław Kasper Malinowski
+[10] In his work Sex and Repression in Savage Society, Malinowski challenged the universality of this concept
+developed by Sigmund Freud, a repressed desire to kill one’s father and sexually possess one’s mother.
+ANSWER: Oedipus complex [Accept Oedipal complex.]
+6. This poet wrote about a tree with “branches like green bronze” and “roots like rocks” in his “Ballad of the Old
+Cypress” and wrote nearly a thousand poems in the “lushi” form. For 10 points each:
+[10] Name this “poet historian,” a Tang Dynasty poet who often wrote about his famous “thatched cottage.”
+ANSWER: Du Fu [Accept Tu Fu.]
+[10] Du Fu wrote a poem titled “Dreaming of” this figure, a fellow Tang Dynasty poet who wrote about lowering his
+head to think about his hometown in “Quiet Night Thought.”
+ANSWER: Li Po [Accept Li Bo, Li Bai, or Li Pai.]
+[10] In one poem, Du Fu wrote about people coming to visit him after he fell off his horse while in this condition.
+Li Po wrote a poem about awakening from this condition on a spring day, likely a frequent occurrence due to his
+legendary fondness for wine.
+ANSWER: drunkenness [Accept equivalents.]
+7. It is bordered by Russia to the northwest, Iran to the south, and Kazakhstan to the northeast. For 10 points each:
+
+[10] Name this largest lake in the world with a salinity content of 1.2% with certain portions that exceed ocean
+salinity by up to 10 times.
+ANSWER: Caspian Sea
+[10] The largest city on the shore of the Caspian Sea is this capital of Azerbaijan, which is near the Lokbatan mud
+volcano and Boyukshor salt lake.
+ANSWER: Baku
+[10] One river with its mouth at the Caspian Sea is this one which originates in and shares its name with a mountain
+range that separates the European and Asian portions of Russia.
+ANSWER: Ural River
+8. This composer’s fourth piano trio begins with a Lento Maestoso in E minor and contains six movements. For 10
+points each:
+[10] Name this composer of the Dumky Trio, who heavily utilized the pentatonic scale in a string quartet based off
+of American folk tunes heard in Spillville, Iowa.
+ANSWER: Antonin (Leopold) Dvorak
+[10] Dvorak’s ninth symphony is given this nickname, and similarly to his American String Quartet, was partially
+inspired by melodies Dvorak encountered while in the United States.
+ANSWER: From the New World [Accept New World Symphony and Z nového světa.]
+[10] This collection of nationalistic works by Dvorak was inspired by a similar set of works by Brahms and contains
+movements inspired by the furiant, dumka, and polka.
+ANSWER: Slavonic Dances [Accept Slovanské tance.]
+9. The shy Freddy Eynsford-Hill accidentally knocks one character’s flowers into the mud in this play, and that
+character later attends the ball of Nepommuck, a man who speaks 32 languages. For 10 points each:
+[10] Name this play in which Colonel Pickering and Harry Higgins make a bet that Higgins cannot turn Eliza
+Doolittle into a proper lady.
+ANSWER: Pygmalion [Do not accept “My Fair Lady.”]
+[10] The Irish playwright of Mrs. Warren’s Profession, Arms and the Man, Man and Superman, and a whole lot of
+other plays wrote Pygmalion.
+ANSWER: George Bernard Shaw
+[10] In Shaw’s play Major Barbara, Barbara works for this organization, then quits when it accepts arms dealer
+Andrew Undershaft. Vachel Lindsay wrote a poem in which its founder, General William Booth, enters into heaven.
+ANSWER: the Salvation Army
+10. This opera sees the evil Nemesis incarnated three times, once as Coppelius who creates a beloved doll, once as
+Doctor Miracle who causes Antonia to die from singing, and once as Lindorf who leaves with the protagonist’s love
+Stella. For 10 points each:
+[10] Name this work in which the Muse takes the form of Nicklausse to devote the protagonist to poetry.
+ANSWER: The Tales of Hoffman
+[10] The Tales of Hoffman was written by Jacques Offenbach, who included the Galop Infernal in an opera about
+this legendary musician “in the underworld.”
+ANSWER: Orpheus
+[10] The Galop Infernal is associated with this type of dance that is typically performed by women in a line lifting
+up their skirts and performing high kicks. This scandalous dance originated from the Moulin Rouge.
+ANSWER: can-can
+11. The cristae is formed by this structure and contributes more surface area for F1 particle activity and removal of
+electrons from NADH and FADH2 in the electron transport chain. For 10 points each:
+[10] Name this portion of mitochondria, a phospholipid bilayer which envelopes the matrix.
+
+ANSWER: inner membrane [Prompt on “membrane.”]
+[10] The electron transport chain is paired with the oxidative variety of this process in the mitochondria. It is often
+catalyzed by kinases and it involves the addition of a certain negatively charged molecule.
+ANSWER: phosphorylation
+[10] The cristae uses a particular synthase to convert a molecule of ADP to this molecule, the main energy molecule
+of cells.
+ANSWER: ATP [Accept Adenosine Triphosphate.]
+12. A supermassive black hole is found at the center of it, and the Solar System is found in its Orion-Cygnus arm.
+For 10 points each:
+[10] Name this galaxy in which the earth resides.
+ANSWER: Milky Way galaxy
+[10] Maffei I is one of this type of galaxy, which has a round-ish shape and often contains stars older than those in
+other galaxies.
+ANSWER: elliptical galaxies
+[10] It is debated whether Centaurus A is an elliptical galaxy or one of this type of galaxy which themselves are an
+intermediate type between spiral and elliptical. These disk-shaped galaxies have lost most of their interstellar matter.
+ANSWER: lenticular galaxies
+13. Name the following about magisterial reformers. For 10 points each:
+[10] This man is a chief expositor of the beliefs of both the Reformed and Presbyterian Churches. Although a
+Frenchman, he spent most of his time in Switzerland where he published his The Institutes of the Christian Religion.
+ANSWER: John Calvin [Accept Jean Calvin or Jean Cauvin.]
+[10] Calvin is considered a part of this movement, in which a number of churches, led by men like Calvin and
+Martin Luther, split away from the Catholic Church.
+ANSWER: the Protestant Reformation
+[10] Like Calvin, this reformer and humanist operated in Switzerland where he clashed horns with Anabaptists and
+Catholic traditions. He formed an alliance of Swiss Reformed cantons, dividing the nation along religious lines.
+ANSWER: Ulrich Zwingli [Accept Huldrych Zwingli]
+14. One character in this play calls another a vegetable, and that character is reassured that he is an animal and not a
+vegetable at his death. For 10 points each:
+[10] Name this play in which Jerry impales himself upon a knife he gives to Peter after explaining why he had just
+visited the titular location.
+ANSWER: The Zoo Story
+[10] This American playwright wrote The Zoo Story in addition to works like The Sandbox and Who’s Afraid of
+Virginia Woolf?
+ANSWER: Edward (Franklin) Albee III
+[10] Albee attempted to adapt this author’s novel Breakfast at Tiffany’s into a musical. This author also wrote an
+account of the brutal murder of the Clutter family by Dick Hickock and Perry Smith, In Cold Blood.
+ANSWER: Truman Capote [Accept Truman (Streckfus) Persons.]
+15. Its speaker warned that its listeners could not allow the title object to “crucify mankind.” For 10 points each:
+[10] Name this speech given at the 1896 Democratic National Convention in support of bimetallism.
+ANSWER: Cross of Gold speech
+[10] This man, nominated for President unsuccessfully by the Democrats in 1896, 1900, and 1908, delivered the
+Cross of Gold Speech.
+ANSWER: William Jennings Bryan
+
+[10] This Ohio Senator and businessman managed the campaign of William McKinley, who would go on to win the
+Election of 1896.
+ANSWER: (Marcus Alonzo) “Mark” Hanna
+16. This philosopher advanced the notion that his opponents followed the way of opinion, while only he followed
+the way of truth. For 10 points each:
+[10] Name this Eleatic philosopher, who argued that all time and existence is one and indivisible and that change is
+impossible in his poem On Nature.
+ANSWER: Parmenides
+[10] In one paradox proposed by Parmenides’ student Zeno, Zeno suggested that even this fierce warrior, the
+deadliest Greek warrior at Troy, would be unable to catch up to a tortoise.
+ANSWER: Achilles
+[10] Parmenides’ philosophical opposite was the philosopher Heraclitus, who argued that everything was always
+changing, and that it was impossible to step into the same one of these objects twice.
+ANSWER: rivers
+17. Answer the following questions about instruments in chemistry. For 10 points each:
+[10] Name this common instrument in the chemical laboratory, types of which include the Buchner, Erlenmeyer, and
+volumetric varieties.
+ANSWER: flask
+[10] Name this chemical instrument which uses electric and magnetic fields to ionize and separate chemical species.
+It displays a quantitative readout of the chemical elements present in the species.
+ANSWER: mass spectrometer
+[10] Mass spectrometers measure this important ratio, which was first calculated for the electron by J. J. Thomson.
+The mass chromatogram readout shows intensity on the y-axis and this ratio on the x-axis.
+ANSWER: mass-to-charge [Prompt on m/z. Do not accept charge-to-mass]
+18. One character in this novel fails to prepare adequately for an autopsy and contracts a fatal case of typhus. For 10
+points each:
+[10] Name this novel in which the nihilist Bazarov shoots his friend Arkady’s father Pavel Kirsanov and dies after
+getting one final chance to praise Madame Odintsova’s beauty.
+ANSWER: Fathers and Sons [Accept Otcy i Deti and Fathers and Children.]
+[10] This author of Fathers and Sons is also famous for his short stories collected in works like Torrents of Spring
+and The Diary of a Superfluous Man.
+ANSWER: Ivan (Sergeyevich) Turgenev
+[10] This is Turgenev’s most famous short story collection. It contains stories like “The District Doctor”
+and “Yermolay and the Miller’s Wife.”
+ANSWER: A Sportsman’s Sketches [Accept Zapiski Okhotnika, The Hunting Sketches, and Sketches From a
+Hunter’s Album.]
+19. A demon named for this man would violate the Second Law of Thermodynamics. For 10 points each:
+[10] Name this Scottish scientist for whom the fundamental equations of electromagnetism are named.
+ANSWER: James Clerk Maxwell
+[10] This law, one of Maxwell’s equations, states that divergence of the E-field is equal to charge density over
+epsilon-0. This law’s version for magnetism forbids monopoles.
+ANSWER: Gauss’s Law
+[10] Maxwell changed Ampere’s Law by adding this term in order to account for such phenomena as magnetic
+fields in vacuum capacitors.
+ANSWER: displacement current
+
+20. This man campaigned under the message “let us face the future,” and the Beveridge Report laid out many
+policies carried out under this man. For 10 points each:
+[10] Name this British Labour prime minister who surprisingly won a post-war election after another candidate
+stated that this man’s policies would require a Gestapo to carry out.
+ANSWER: Clement Attlee
+[10] This man defeated by Attlee in the 1945 election was First Lord of the Admiralty during the Gallipoli
+Campaign and prime minister of Britain during World War II.
+ANSWER: Winston Churchill
+[10] Winston Churchill used this term to describe an entity that “has descended across the continent,” referring to a
+line separating the continent of Europe into spheres of Soviet and Allied control.
+ANSWER: iron curtain
+
+

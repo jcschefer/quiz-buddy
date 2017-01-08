@@ -1,0 +1,349 @@
+UIUC Earlybird 2006 - Round 4
+(Tossups by UIUC Academic Buzzer Team)
+1. Architects of this style include Germain Boffrand and especially Batlassar Neumann, while Clodion is its
+most notable sculptor. Boucher’s Toilet of Venus and The Music Party, Gersaint’s Signboard, and the nowlost Garden of Bacchus by Antoine Watteau are typical works, though this style is probably best
+exemplified by Jean-Honoré Fragonard’s The Swing, which depicts a young man peeking at a pink-clad
+young woman in a shady garden. FTP, name this light, decorative French style of the eighteenth century,
+the name of which roughly means “opulent pearl.”
+ANSWER: rococo (prompt on “style Régence” or “Regency style”)
+2. The son of Enoch, this patriarch is first mentioned in chapter 5 of Genesis and his lineage can be traced
+back six generations to Seth, a son of Adam and Eve. He had his first son, Lamech, at the age of 187, and
+presumably died in the great flood that his grandson, Noah, was famously saved from. Long life obviously
+ran in his family, despite the fact that his father only lived to the age of 365. FTP, name this notably old
+man, who lived to be 969 years old and whose name has become synonymous with longevity.
+ANSWER: Methuselah (or Methushael)
+3. Pencil and Paper Ready. What is the area of a triangle with sides of length 5, 5, and 6? This can be
+computed using Heron’s formula with the semiperimeter equal to 7. It can more easily be computed if you
+realize that a triangle with those dimensions is two right triangles stuck together and each of those right
+triangles has sides of length 3, 4, and 5, and an area of 6. FTP, what is 6 times 2?
+ANSWER: twelve
+4. This scheme encouraged “backyard” production plants and, in its first year of implementation, it led to
+the production of eleven million tons of steel. It was introduced with the phrase “it is possible to
+accomplish any task whatsoever” but, by 1959, even the man who had thought of it admitted to its failure
+and millions of Chinese died from starvation from 1959 to 1962. FTP, name this second Five Year Plan
+implemented by Mao Zedong.
+ANSWER: the Great Leap Forward
+5. At the beginning of this work, the two main characters are expecting guests at 2 A.M, but one of the
+guests unexpectedly teaches biology. The hosts are a history professor and the college president’s daughter
+and the guests, the professor and his wife, are used as pawns by the hosts as the night goes on. Nick,
+Honey, George, and Martha are the characters in, FTP, what work by Edward Albee whose title contains
+the author of Orlando?
+ANSWER: Who’s Afraid of Virginia Woolf?
+6. This event was precipitated when Saifuddin Kichloo and Satyapal were deported; when people came to
+protest, they were fired upon. Those who survived became an angry mob, burning banks and murdering
+several Englishmen in Punjab. In response, General Dyer took 50 armed soldiers, blocked off the only exit
+in the Jallianwallah Bagh, and opened fire, killing 400 and wounding over a thousand. FTP, name the
+atrocity that took place on April 13, 1919 in the namesake Indian city.
+ANSWER: the Amritsar massacre
+7. Philostratus wrote a Lives of the members of this school. Plato claimed that their reasoning is eristikos,
+directed towards victory rather than truth. Notable members of this group of thinkers were Antiphon;
+Prodicus; Thrasymachus; Gorgias, who invented rhetoric; and Protagoras, who claimed that man is the
+measure of all things. FTP, name this school of philosophy opposed by Socrates, which was characterized
+by capricious reasoning, quibbling, and accepting money in exchange for teaching.
+ANSWER: sophism (or sophistic philosophy or sophists)
+
+8. In 1912, this person walked from Illinois to New Mexico, obtaining food by bartering poems from his
+collection Rhymes to be Traded for Bread. He committed suicide by drinking poison in 1931. Some of his
+lesser-known works include The Chinese Nightingale and The Santa Fe Trail, while his most famous work
+focused on a leader of the Salvation Army. FTP, identify the author of General William Booth Enters into
+Heaven.
+ANSWER: Vachel Lindsay
+9. Lord of the Einherjar, this eldest son of Bor has two pets, Geri and Freki, who sit at his feet when he
+occupies Hlidskialf. Possessor of Draupnir and Gungnir, this deity hanged himself from Yggdrasil to attain
+the knowledge of the dead and sacrificed one of his eyes to the Well of Mimir. Destined to be swallowed
+by Fenrir at Vigrid, this war god nevertheless rides into battle on his eight-legged horse, Sleipnir. FTP,
+name this sky father and chief of the Norse gods for whom Wednesday is named.
+ANSWER: Odin (or Wodan or Woden or Wotan)
+10. During this period, the public was influenced by Ludvik Vaculik’s column “2000 Words,” which was
+published in a weekly and both dailies. Television songs, a precursor to music videos, were introduced, and
+it was called “Socialism with a human face” by its leader Alexander Dubcek; it was later crushed by
+Warsaw Pact forces. FTP, name this 1968 counter-revolution in Czechloslovakia.
+ANSWER: the Prague Spring
+11. Cells beyond the Hayflick limit are generally either in the G0 [gee-zero] version of this or tagged for
+programmed cell death. Containing two checkpoints, this in animal cells generally lasts at least 12 hours
+and may entail the existence of centrioles, but in a random orientation. This period is comprised of G1 [geeone], G2 [gee-two], and S sub-phases, during the latter of which DNA replication takes place. FTP, name
+this longest segment of the cell cycle, the phase in between one mitosis and another.
+ANSWER: interphase
+12. This quantity is actually a tensor, but when the axis of rotation is known, the more common scalar
+quantity can be formed using the dot product. When multiplied by the angular acceleration, it yields the net
+torque on an object. When ice skaters pull in their arms, they are reducing this quantity in order to increase
+their angular speed by the conservation of angular momentum. For an ideal particle, it is equal to the mass
+times the square of its distance from the axis of rotation. FTP identify this physical quantity, a measure of
+the difficulty in rotating an object; the rotational analogue of mass.
+ANSWER: moment of inertia (or rotational inertia; prompt on “I”)
+13. Among this person’s accomplishments are founding the cities of Crocodopolis and Memphis, his
+capital. In Crocodopolis, he ordered the building of the first temple to Ptah. Also known as Aha and
+Scorpion, he had two wives, but only one heir, Djer. He routinely attacked the Nubians in the south, and
+expanded Egypt’s influence to the First Cataract. FTP, name this pharaoh who united Upper and Lower
+Egypt.
+ANSWER: Menes (or Mena or Meni or Min or Narmer; accept Aha or Scorpion King before they’re
+mentioned)
+14. Author of the “Heiligenstadt Testament,” this person learned from Albrechtsberger, Salieri, and Haydn.
+Maelzel commissioned this artist’s Battle Symphony, while the Theater an der Wien [VEEN]
+commissioned his Christ on the Mount of Olives, The Creatures of Prometheus, and Fidelio. FTP, name
+this German composer, the identity of whose “Immortal Beloved” is unknown, but who is known to have
+composed the “Emperor” Concerto; “Appasionata” and “Pathétique” Sonatas; “Choral” and “Eroica”
+Symphonies; “Für Elise”; and the “Moonlight” Sonata in spite of his deafness.
+ANSWER: Ludwig von Beethoven
+
+15. Many believe that this locale’s name comes from the Quechua for “Stone Sentinel.” The record for
+ascending this mountain in the Andes is just under six hours in an attempt made from its north side. On its
+south side is its namesake river, which flows west into the Pacific Ocean after passing through Chile. At
+22,831 feet above sea level, it is Argentina’s highest peak. FTP, name this mountain, the tallest in all of
+South America.
+ANSWER: Mount Aconcagua
+16. The two dissenters in this 1973 case were Byron “Whizzer” White and William Rehnquist. Norma
+McCorvey, the plaintiff, has since had a change of heart and regrets her involvement in it. John Roberts
+described the case as “settled law” during his Senate confirmation hearings, although the Supreme Court
+has since ruled on further aspects of its holding, most notably in Planned Parenthood v. Casey. FTP, name
+this notorious Supreme Court decision.
+ANSWER: Roe verses Wade
+17. This person, a descendant of Madame Yepanchin, spent four years in a sanitarium in Switzerland.
+During his journey back to Russia, he meets Rogozhin, who is obsessed with Nastasya Filippovna, whom
+Rogozhin later murders. He asks Aglaya Epanchin to marry him, but later falls out of love with her. FTP,
+name this epileptic character created by Fyodor Dostoevsky whose naïveté can be seen in the novel The
+Idiot.
+ANSWER: Prince Lev Nikolayevich Myshkin (accept The Idiot before it’s mentioned)
+18 Present in trace amounts in the atmosphere, this element’s 133 isotope can be used for radioactive
+dating. This colorless gas emits a characteristic blue glow in a plasma discharge. This element was
+discovered in late nineteenth century England by William Ramsay and Morris Travers when they were
+evaporating liquefied air. With atomic number 54, this element’s most famous use is in its namesake flash
+lamps and it the first noble gas with which a compound was synthesized. FTP, name this second-heaviest of
+the noble gases.
+ANSWER: xenon
+19. In this work, the Dusters break into government offices, but they are finally caught inside a church.
+Roswitha Raguna interprets dreams, but is killed by artillery fire. Agnes has an affair with Jan (pronounced
+Yan) Bronski, but they both die. The main character in this novel can break glass with his shrill voice and
+decided to stop growing when he was three. FTP, name this Günter Grass work about Oskar Matzreth and
+the title musical instrument that he plays.
+ANSWER: The Tin Drum (or Die Blechtrommel)
+20. This person, editor of the Socialist Avanti! from 1912, first gained fame for opposing the Libyan War.
+He switched sides when World War I came around, founding his own newspaper and becoming a corporal
+in the army. After being elected to parliament, his army marched on the capital, and King Victor Emmanuel
+III called on him to form a Cabinet. FTP, name this Italian Fascist leader.
+ANSWER: Benito Amilcare Andrea Mussolini (or Il Duce)
+21. In this work, Maurice accidentally kicks sand into Percival’s eye, but does not apologize. No one knows
+which twin is which, so their names are condensed into one: Samneric. Simon is accidentally mistaken for a
+beast. Jack Merridew is obsessed with hunting and does not want Ralph as chief anymore. Piggy’s glasses
+break and the conch does too. FTP, name this tale of boys on an island who resort to savagery; William
+Golding’s first novel.
+ANSWER: Lord of the Flies
+22. At the age of 16, he began his career as a talent agent at Bloom & Associates in New York City. By his
+twenty-first birthday, he had already held several similar jobs in Los Angeles and had been honored as the
+youngest franchised agent in the industry. He has since moved to becoming a producer, but his impressive
+client list once boasted James Gandolfini, Jimmy Fallon, Lucy Liu, and poker player Johnny Chan. He
+won’t have much time for that line of work anymore, however. FTP, name this man, who early on the
+morning of August 11, won the $12 million first prize at the main event of the 2006 World Series of Poker.
+ANSWER: Jamie Gold
+
+UIUC Earlybird 2006 - Round 4
+(Bonuses by UIUC Academic Buzzer Team)
+1. Given a work of muckraking literature, identify the author FTPE.
+[10] History of the Standard Oil Company.
+ANSWER: Ida Tarbell
+[10] The Octopus.
+ANSWER: Frank Norris
+[10] The Shame of the Cities.
+ANSWER: Lincoln Steffens
+2. Answer the following about an artist and his works FTPE.
+[10] This Spanish expatriate notably collaborated with Georges Braque. His Rose Period includes two
+Harlequin paintings and a depiction of a Woman in a Chemise known as Madeleine.
+ANSWER: Pablo Ruiz y Picasso
+[10] This monumental grayscale oil of 1937 exposes the brutality of the Spanish Civil War by
+metaphorically portraying the bombing of the titular Basque town. A bull at top-left is especially
+memorable.
+ANSWER: Guernica
+[10] This seminal proto-Cubist oil of 1907 depicts five naked prostitutes from the title section of Barcelona.
+The two figures at right have threatening masks instead of heads.
+ANSWER: Les Demoiselles d’Avignon (or The Women of Avignon)
+3. Though Greenland is the largest island on Earth, there are plenty of other large islands to go around.
+FTPE, identify these islands from clues.
+[10] The second-largest island on the Earth, this island is separated from the Australian mainland by the
+Torres Strait. The island is split between two countries, with Indonesia owning the west portion.
+ANSWER: New Guinea (do not accept “Papua New Guinea”)
+[10] The third-largest island in the world, this island in Southeast Asia is divided among Indonesia,
+Malaysia, and Brunei.
+ANSWER: Borneo
+[10] Named for a British explorer, this fifth-largest island in the world features Iqaluit, the capital of the
+Canadian province Nunavut, on its Southern shore.
+ANSWER: Baffin Island
+4. Name these figures from Sumerian mythology FTPE.
+[10] This king of Uruk and subject of a famous epic defeated Humbaba with his pal Enkidu.
+ANSWER: Gilgamesh
+[10] This goddess offered Gilgamesh her love and was refused, which made her quite angry.
+ANSWER: Ishtar
+[10] This god was annoyed by how noisy mankind was, and nearly eliminated the whole race with a
+massive flood.
+ANSWER: Enlil
+5. Identify the following Nobel Peace Prize winners FTPE.
+[10] This Russian leader won in 1990 for helping to end the Cold War.
+ANSWER: Mikhail Gorbachev
+[10] This 1975 winner is a South African Bishop who fights against apartheid and is the author of Crying in
+the Wilderness.
+ANSWER: Desmond Tutu
+[10] This prominent American diplomat won for negotiations in Palestine in 1950.
+ANSWER: Ralph Johnson Bunche
+
+6. Given a quote, name the book of the Bible from which it is taken FTPE.
+[10] “Then the Lord God said, ‘It is not good for the man to live alone.’”
+ANSWER: Genesis
+[10] “People of Israel, listen to all the laws that I am giving you today.”
+ANSWER: Deuteronomy
+[10] “Love is patient and kind; it is not jealous or conceited or proud…”
+ANSWER: 1 Corinthians
+7. Answer the following about American labor history FTPE.
+[10] President Cleveland sent in Federal troops to break up this 1894 strike, saying that “If it takes the
+entire army and navy of the United States to deliver a postcard, that card will be delivered.”
+ANSWER: the Pullman strike
+[10] The fire that happened at this Manhattan factory in 1911 claimed 145 lives, mostly women who had
+jumped to their deaths. It was discovered that they couldn’t escape since the doors couldn’t be unlocked
+from the inside.
+ANSWER: the Triangle Shirtwaist Factory
+[10] In response to a worker’s shooting death during a strike on May 1, 1886, workers held a rally at this
+Chicago locale, where a bomb was set off.
+ANSWER: Haymarket Square
+8. Suppose there are six people at a meeting. FTPE:
+[10] How many possible committees of 3 people can be formed?
+ANSWER: twenty
+[10] If everyone at the meeting were to shake hands with everyone else exactly once, how many
+handshakes would take place?
+ANSWER: fifteen
+[10] If the people were arranged around a circular table such that every seat were identical, how many
+possible permutations would there be?
+ANSWER: 120
+9. Name each of the following about a certain modern composer FTP.
+[10] This crazy dude’s crazy works include HPSCHD, for seven harpsichord soloists and fifty-one tape
+recorders; a series of Imaginary Landscapes; and Roaratorio. Crazy!
+ANSWER: John Milton Cage, Jr.
+[10] Cage invented the “prepared” version of this musical instrument by placing objects from wineglasses
+to cheese on the strings in its body to change the sound of some or all of its keys.
+ANSWER: piano
+[10] The score for Cage’s most famous work, 4’33 [four minutes and thirty-three seconds], contains
+precisely this many notes.
+ANSWER: zero
+10. Identify the following Israeli Prime Ministers FTPE.
+[10] Elected in 1977, he and Yasir Arafat signed the Camp David Accords.
+ANSWER: Menachem Begin
+[10] His brother was a casualty at in the raid at Entebbe, which he led. In 1996, he became the youngest
+elected Prime Minister.
+ANSWER: Binyamin Netanyahu
+[10] He first became Prime Minister in 1974 and ordered the Entebbe Operation. He was re-elected in
+1992, and signed the Gaza-Jericho First Agreement before being assassinated by a Jewish fundamentalist in
+1994.
+ANSWER: Yitzhak Rabin
+
+11. Name each of the following writers of the American frontier FTP.
+[10] Inexplicably, this native of Lake Pepin, Wisconsin fictionalized her early life on the frontier in the
+Little House on the Prairie books.
+ANSWER: Laura Ingles Wilder
+[10] A devotee of Sarah Orne Jewett, this writer created such frontier-set works as Death Comes for the
+Archbishop, O Pioneers!, and My Ántonia.
+ANSWER: Willa Sibert Cather
+[10] This Norwegian immigrant fictionalized his countrymen’s experiences on the prairie in a classic
+trilogy consisting of Giants in the Earth, Peder Victorious, and Their Father’s God.
+ANSWER: Ole Edvart Rölvaag
+12. Name the following historical figures from Ohio FTPE.
+[10] This Copperhead defied Burnside’s orders, expressed sympathy for the Confederacy, was arrested, and
+then banished to the Confederacy. He later moved to Canada.
+ANSWER: Clement Laird Vallandigham
+[10] He was president during the “Billion-Dollar Congress” and signed the Sherman Anti-Trust Act in
+1890.
+ANSWER: Benjamin Harrison (prompt on “Harrison”)
+[10] Called “the most hated and despised man in Georgia,” his regiment was badly beaten at First Bull Run.
+He later assumed command of the armies in the West, and on September 1, 1864 captured Atlanta.
+ANSWER: William Tecumseh Sherman
+13. Answer the following about a certain poetic epic FTPE.
+[10] This unfinished sixteenth-century allegory sets-out to tell the tale of one night in each of its twelve
+books. It is dedicated to Queen Elizabeth I, who appears as Gloriana, the title monarch.
+ANSWER: The Faerie Queene
+[10] This Anglo-Irish poet and friend of Sir Walter Raleigh wrote The Shepheardes Calender, The
+Amoretti, and Epithalamion, but is probably best known for The Faerie Queene.
+ANSWER: Edmund Spenser
+[10] This figure represents St. George and Holiness and is the protagonist of Book I of.
+ANSWER: The Red Cross Knight
+14. Identify things related to a certain television show FTPE.
+[10] This Ron Howard-produced show won an Emmy, but that couldn’t stop it from being cancelled in
+2006 after finishing its third season.
+ANSWER: Arrested Development
+[10] Jason Bateman starred in “Arrested Development” as this hard-working member of the Bluth family.
+ANSWER: Michael Bluth
+[10] This comedian and actor portrays Michael’s unintentionally homosexual-acting brother-in-law Tobias.
+ANSWER: David Cross
+15. Identify the following Indian leaders FTPE.
+[10] This first Mughal emperor conquered Kabul in 1504 and, not long after, captured Agra and Delhi. He
+ruled until 1530 when he was succeeded by Humayun.
+ANSWER: Babur
+[10] He governed the Deccan under his father, Shah Jahan, and went on to defeat his brothers and imprison
+his father in order to gain the throne.
+ANSWER: Aurangzeb Alangir
+[10] This daughter of Jawaharlal Nehru served as Prime Minister from 1966 to 1977 and again from 1980
+until her assassination in 1984.
+ANSWER: Indira Gandhi
+
+16. Answer these related questions from particle physics FTPE.
+[10] These particles mediate the strong nuclear force.
+ANSWER: gluons
+[10] The strong nuclear force binds these particles together in order to form mesons and baryons like the
+proton.
+ANSWER: quarks
+[10] Quarks possess this degree of freedom, which does not have a simple explanation. It is to the strong
+nuclear force what charge is to the electromagnetic force.
+ANSWER: color
+17. Name these dialogues of Plato FTPE.
+[10] Set at the house of Agathon, this dialogue sees Phaedrus, Pausanias, Eryximachus, Aristophanes, and
+Socrates get drunk and talk about love. It is the origin for the idea of the “beast with two backs.”
+ANSWER: Symposium (or Symposion)
+[10] Perhaps the most-studied dialogue, this discussion of a poet-free ideal state ruled by a PhilosopherKing discusses the ring of Gyges and eugenics.
+ANSWER: Republic (or Politeia)
+[10] This dialogue consists of Socrates’ self-defense in his trial for corruption of the youth. In it, Socrates
+famously claims to know nothing, alluding to the idea that this is true wisdom.
+ANSWER: Apology (or Apologia Sokratous)
+18. Name these acids given a chemical formula FTPE.
+[10] H2SO4.
+ANSWER: sulfuric acid
+[10] HBr.
+ANSWER: hydrobromic acid
+[10] H2Cr2O7.
+ANSWER: dichromic acid
+19 I’m just a bill, yes I’m only a bill. FTPE, answer the following about how bills become laws by filling in
+the missing lyrics as sung in the Schoolhouse Rock classic.
+[10] “Well now I’m stuck in [blank] / While a few key congressmen sit and debate.” Examples of these
+include Ways & Means and Appropriations.
+ANSWER: Committees
+[10] “And if they vote for me on Capitol Hill, Well, then I’m off to” this building.
+ANSWER: The White House
+[10] “If the President [blanks] me, I have to go back to Congress.”
+ANSWER: vetoes
+20. Answer each of the following about bacterial genetics FTP.
+[10] In bacteria that lack membrane-bound nuclei, bacterial genetic material is stored in the form of a dense
+loop known as this. They are visible as circular dark spots in micrographs of bacteria.
+ANSWER: nucloids
+[10] These are external genetic elements that may be taken-up by certain bacteria in a process known as
+transformation. If one of these can incorporate itself into the bacterial nucleoid, it is called an episome.
+ANSWER: plasmids
+[10] Bacteria can exchange plasmids in a process known as this, which takes place via appendages called
+sex pili. Paradoxically, the ability to initiate this is often conferred by a plasmid known as F.
+ANSWER: conjugation
+
+21. Name these characters from August Wilson’s Fences FTPE.
+[10] He learned to play baseball in prison and now works as a garbage collector. Alberta later has his baby.
+To him, death is just a fastball on the outside corner.
+ANSWER: Troy Maxson (accept either name)
+[10] He is Troy’s oldest son and is a musician. He often asks his father for money on Friday because it’s
+payday. He also invites Troy to see him perform at the Crawford Grill, but Troy refuses.
+ANSWER: Lyons Maxson
+[10] Troy asks this boss of his if he can work as a driver instead of a lifter because previously, there were
+no black men driving the garbage trucks. He doesn’t know that Troy does not have a driver’s license.
+ANSWER: Mr. Rand
+22. Name these things from The World According to Garp FTPE.
+[10] At the roof of the infirmary of this school, Garp tries to catch a pigeon with a lacrosse stick. His
+mother works for it, and he attends for free.
+ANSWER: Steering
+[10] This is the name of Garp’s short story he wrote while in Vienna. It involves a bear on a unicycle,
+among other things. His son Duncan illustrates a later edition.
+ANSWER: The Pension Grillparzer
+[10] Garp hates these people who have deliberately had their tongues removed, and communicate with
+others by handing out notes. He is later killed by Pooh Percy, one of them.
+ANSWER: Ellen Jamesian
+
+

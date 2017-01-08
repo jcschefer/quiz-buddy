@@ -1,0 +1,589 @@
+OAC 2013
+Packet 16
+
+CATEGORY ROUND
+American Literature: Literature within Literature
+Team A: Multiple layers of novels within novels appear in The Blind Assassin, a complicated novel by this
+Canadian author of The Handmaid's Tale.
+ANSWER: Margaret Eleanor Atwood
+Team B: This character tells several stories, such as "The Fisherman and the Genie," which themselves
+contain more nested stories, in order to forestall her impending execution in One Thousand and One Nights
+.
+ANSWER: Scheherazade (shuh HAIR uh zod)
+Tossup: In one story by this author, the last paragraph is an acrostic which spells, "Icicles by Cynthia.
+Meter from me. Sybil." This author of "The Vane Sisters" began one of his novels with a fictional foreword
+written by John Ray, Jr., claiming that the story has no moral, and that Mrs. Dick Schiller died in childbirth.
+In another of his novels, Charles Kinbote criticizes a 999-line poem by John Shade. This author wrote
+about Clare Quilty abducting Dolores Haze from her stepfather, Humbert Humbert. Name this author of
+Pale Fire and Lolita.
+ANSWER: Vladimir Nabokov [or Vladimir Vladimirovich Nabokov]
+Mathematics: Mathematical Operations (All questions in this round are 20 seconds)
+Team B: Find the determinant of a two-by-two matrix with first row eight, six, and second row twelve,
+thirteen.
+ANSWER: 32
+Team A: Define the operation "a star b" to be equal to a squared minus b. Find 10 star 17.
+ANSWER: 83
+Tossup: By evaluating one over n prime times the integral from a to x of quantity x minus t to the n plus f n
+plus one of t dt, this amount can be found for the Taylor series. Performing the modulo operation yields this
+value. A story about a woman who loses a basket of eggs is often used to introduce a method to work
+backwards given several of these values; that is the "Chinese" theorem about them. This number is obtained
+alongside a quotient. Name this amount left over during a division.
+ANSWER: remainder [or residual]
+
+OAC 2013
+
+16
+
+Page 1 of 17
+
+World History: World War I leaders
+Team A: This general became a national hero in France after repelling the German army at Verdun, but he
+later died in disgrace after serving as chief of state for the Vichy government.
+ANSWER: Henri Philippe Benoni Omer Joseph Pétain
+Team B: This commanding field marshal of German forces in World War I was the longtime president of
+the Weimar Republic, yielding power to Hitler in 1933.
+ANSWER: Paul Ludwig Hans Anton von Beneckendorff und von Hindenburg
+Tossup: Austro-Hungarian Foreign Minister Berchtold implied that this regular patron of the Cafe Central
+in Vienna would never be a significant leader. This man led the forces at Polkovo that defeated Alexander
+Kerensky. This leader of the Fourth International argued for Permanent Revolution rather than the policy of
+"Socialism in One Country." That position led to this man being exiled to Mexico, where he was killed with
+an ice axe. Name this founder of the Red Army and rival of Stalin.
+ANSWER: Leon Trotsky [or Lev Davidovich Bronshtein]
+Fine Arts: Renaissance Artists
+Team B: What early Renaissance artist depicted St. Peter taking a coin from a fish in The Tribute Money,
+one of many works he created for the Brancacci Chapel?
+ANSWER: Masaccio [or Tomaso di Ser Giovanni di Simone]
+Team A: What artist depicted a soldier and a woman nursing her child in front of ominous weather in The
+Tempest?
+ANSWER: Giorgione [or Giorgio Barbarelli da Castelfranco]
+Tossup: This artist tried to downplay his youthful apprenticeship to Ghirlandaio. He painted a self-portrait
+as the flayed St. Bartholomew in his fresco of The Last Judgment. In one of his paintings, the outstretched
+hand of Adam nearly touches the index finger of a reaching God. That fresco, The Creation of Adam, is the
+most famous of the paintings this artist did for the ceiling of the Sistine Chapel. Name this Renaissance
+artist who also sculpted a marble David.
+ANSWER: Michelangelo
+
+OAC 2013
+
+16
+
+Page 2 of 17
+
+Life Sciences: Substances
+Team A: Name the fluid that surrounds and protects the brain.
+ANSWER: cerebrospinal fluid [or cerebral spinal fluid; or CSF]
+Team B: Name the fluid that surrounds a developing fetus.
+ANSWER: amniotic fluid
+Tossup: Increased levels of this substance in the blood causes tendon xanthomas and senile arcus in the
+eyes. The rate-limiting step of the synthesis of this compound is catalyzed by HMG-CoA reductase. This
+substance is the final common product in the production of terpenes. It is the predecessor of steroid
+hormones and is responsible for regulating the fluidity of cell membranes. Name this substance, whose
+levels in the bloodstream are decreased by statins.
+ANSWER: cholesterol
+World Literature: Novel Works
+Team B: In Jonathan Swift's Gulliver's Travels, what is the name of the land of little people where Gulliver
+is washed ashore in his first voyage?
+ANSWER: Lilliput
+Team A: What novel with the alternate title Virtue Rewarded was written by Samuel Richardson and has a
+maidservant with the surname Andrews as its title character?
+ANSWER: Pamela
+In this novel, a woman walking with Mrs. Bickerton gets rescued after unsuccessfully trying to escape a
+pack of gypsies with a cramp from dancing at Highbury. A subplot in this novel is resolved when the death
+of Frank Churchill's aunt allows him to marry his true love, Jane Fairfax. The title character of this novel
+unwisely advises her friend Harriet to reject the proposal of Robert Martin, whom Harriet does eventually
+marry as the title character marries George Knightley. Name this Jane Austen novel about a
+self-proclaimed matchmaker.
+ANSWER: Emma
+
+OAC 2013
+
+16
+
+Page 3 of 17
+
+US Government/Economics: Tea Time
+Team A: Name the former CEO of Godfather's Pizza who gave the Tea Party response to President
+Obama's 2012 State of the Union Address.
+ANSWER: Herman Cain
+Team B: Tea Party Caucus member Tim Scott succeeded Jim DeMint as a U.S. Senator from what state in
+January 2013?
+ANSWER: South Carolina
+Tossup: One member of this family gained national prominence for his "Tale of Two Cities" speech at the
+1984 Democratic Convention and became known as "Hamlet on the Hudson" for his indecision on running
+for President. Another member of this family was Secretary of HUD under President Clinton and defeated
+Tea Party-backed Carl Paladino to win his current position. Name this family, including former governor
+Mario and current governor Andrew, both of New York.
+ANSWER: Cuomo
+Physical Sciences: Stars
+Team B: Stars with masses too low to become neutron stars often become this type of dwarf, the remnant
+left behind after a star sheds its planetary nebula.
+ANSWER: white dwarf [or degenerate dwarf]
+Team A: These rotating neutron stars emit a constant beam of electromagnetic radiation, making them
+detectable only when the beam is pointed towards earth.
+ANSWER: pulsars
+Tossup: One form of this type of radiation was first observed by the Vela satellites. That form of this type
+of radiation is thought to occur when rapidly rotating, high mass stars undergo a supernova or when binary
+neutron stars merge. That form is this radiation's namesake bursts. This kind of radiation is not deflect by
+magnets and was discovered by Paul Villard. When this type of radiation enters a solid, pair production is
+commonly observed. Identify this very high frequency radiation that is more penetrating than alpha and
+beta radiation.
+ANSWER: gamma radiation [or gamma rays]
+
+OAC 2013
+
+16
+
+Page 4 of 17
+
+World Geography: Islands
+Team A: What country is, along with the Netherlands, Sint Maarten, and Curacao, a country within the
+Kingdom of the Netherlands?
+ANSWER: Aruba
+Team B: What is the largest island by size in the US Virgin Islands?
+ANSWER: Saint Croix
+In 1971, this country opened the Zaza Reservoir, which replaced Milk Lake as its largest internal body of
+water. This country's religious center is the shrine to the Virgin of Charity in Cobre. The second-largest city
+in this country is overlooked by the Morro Castle and sits within a valley of the Sierra Maestra. It controls
+the Isle of Youth and has an extraterritorial spot on its southeast owned by the United States. The
+Guantanamo Bay naval base is found in what country, ninety miles south of Florida?
+ANSWER: Republic of Cuba [or República de Cuba]
+American History: Senate Committees
+Team B: An earlier Massachusetts politician who chaired the Senate Foreign Relations Committee was
+what anti-slavery Republican best known for being viciously attacked with a cane by Congressman Preston
+Brooks?
+ANSWER: Charles Sumner
+Team A: What Massachusetts senator was chair of the Senate Foreign Relations Committee from 1929 to
+1924 and used his namesake "Reservations" to thwart ratification of the Treaty of Versailles?
+ANSWER: Henry Cabot Lodge, Sr.
+Tossup: The Ervin Committee investigated this event, during which Rose Mary Woods and CREEP were
+implicated. William Ruckelshaus resigned and Archibald Cox was dismissed in one part of this scandal
+called the Saturday Night Massacre. Woodward and Bernstein uncovered this scandal with the help of
+Mark Felt, who was codenamed "Deep Throat." Name this political scandal in which a hotel was broken
+into under the orders of Richard Nixon, leading to his resignation.
+ANSWER: Watergate scandal
+
+OAC 2013
+
+16
+
+Page 5 of 17
+
+Alphabet Round - Letter Z
+1. What species of African equid is known for its black and white stripes?
+2. What landlocked African country is bounded by the Zambezi and Limpopo rivers?
+3. What painter was known as the Spanish Caravaggio for his use of chiaroscuro?
+4. What first Premier of the People's Republic of China served under Mao Zedong?
+5. What dualistic Persian religion believed in two opposing forces: Ahura Mazda and Angra Mainyu?
+6. What Swiss Reformation leader famously debated Martin Luther and attended the Marburg Colloquy?
+7. What school of Mahayana Buddhism emphasizes achieving enlightenment?
+8. Shaka was a leader of what South African people that fought a namesake war with the British Empire in 1879?
+9. By what term is a fertilized egg known?
+10. What imaginary point lies directly above an observer on the celestial sphere?
+11. What radical Jewish sect opposed the polytheism of pagan Rome?
+12. What ancient Greek philosopher founded Stoicism?
+13. What stringed musical instrument has a prominent solo in Johann Strauss II's Tales from the Vienna Woods?
+14. What figure is the Greek god of the west wind?
+15. What German term attributed to Georg Hegel is translated as "spirit of the time?"
+16. What African state was founded by Mobutu Sese Seko and became the Democratic Republic of the Congo in 1997?
+17. (MULTIPLE WORD ANSWER) In what Nikos Kazantzakis novel does the narrator reopen a disused lignite mine on
+Crete?
+18. What World War II Los Angeles riots were named for the article of clothing worn by Latino youths?
+19. What Russian science fiction author wrote the novel We?
+20. What undead creature is featured in Night of the Living Dead and 28 Days Later?
+
+OAC 2013
+
+16
+
+Page 6 of 17
+
+Alphabet Round - Letter Z ANSWERS
+1. zebra
+2. Zimbabwe
+3. Francisco de Zurbarán
+4. Zhou Enlai
+5. Zoroastrianism
+6. Ulrich Zwingli
+7. Zen Buddhism
+8. Zulu
+9. zygote
+10. zenith
+11. zealots
+12. Zeno of Citium
+13. zither
+14. Zephyrus
+15. zeitgeist
+16. Zaire
+17. Zorba the Greek
+18. Zoot suit riots
+19. Yevgeny Zamyatin
+20. zombies
+
+OAC 2013
+
+16
+
+Page 7 of 17
+
+FINAL ROUND
+1. This law contributes the first term of the Lorentz force. The constant in this law equals one over four pi
+times the permittivity of free space. An expression for electric field can be calculated by dividing both sides
+of this equation by a test charge. Like Newton's Law of Gravitation, this law gives an inverse-square
+dependence on distance. For 10 points, name this law which gives the force between two stationary
+charges.
+ANSWER: Coulomb's Law
+048-13-81-16101
+
+2. One of these pieces by this composer was, like a serenade bearing the same nickname, dedicated to a
+Salzburg family. Another of these pieces by this composer contains a distinctive five-voice fugato and was
+given its popular nickname by Johann Peter Salomon. The only two minor-key works of this type by this
+composer include the 25th and "the great G minor," which opens E-flat, D, D, E-flat, D, D, E-flat, D, D,
+B-flat. The 40th is the penultimate of what set of works, which includes the Jupiter, by Mozart?
+ANSWER: symphonies by Wolfgang Amadeus Mozart [or Johannes Chrysostomus Wolfgangus
+Theophilus Mozart symphonies; just symphonies needed after mention of "Mozart," prompt on a partial
+answer before that]
+020-13-81-16102
+
+3. This President appointed the Seneca Indian Ely S. Parker as Commissioner of Indian Affairs. In his first
+run for the presidency, he defeated Horatio Seymour, and in his bid for reelection he defeated the editor of
+the New York Tribune, Horace Greeley. His Private Secretary Orville Babcock was implicated when this
+President's Secretary of the Treasury Benjamin Bristow exposed the Whiskey Ring scandal. His
+administration was also rocked by the Credit Mobilier scandal. Name this President who commanded the
+Union army in the Civil War.
+ANSWER: Ulysses S. Grant [or Hiram Ulysses Grant]
+014-13-81-16103
+
+4. Music events in this city include the Earshot Jazz Festival and Bumbershoot. This city's native son
+Joshua Ramus joined Rem Koolhas to design its public library. The namesake of this city ceded the land for
+it in the Treaty of Port Elliott. Suburbs including Everett, Bellevue, and Redmond surround this city. A
+major landmark here was built for the 1962 World’s Fair and provides a view of Mount Rainier from its
+top. Name this city on Puget Sound, the home of the Space Needle in Washington.
+ANSWER: Seattle
+019-13-81-16104
+
+5. This organism can cause violin-string adhesions to the liver in FitzHugh-Curtis syndrome. This organism
+cycles through elementary body and reticular body phases. This organism also causes a form of
+conjunctivitis with inclusion bodies in the newborn children of infected patients. This bacterium, like
+Neisseria, can cause pelvic inflammatory disease and urethritis. Name this causative agent of the most
+common sexually transmitted disease.
+ANSWER: chlamydia trachomatis [or C. trachomatis]
+048-13-81-16105
+
+6. A form of therapy originating in this school of thought was developed by Fritz Perls. The founder of this
+school of thought investigated how a series of stationary images create the illusion of movement in an
+effect called the phi phenomenon. This school of thought holds that the mind follows the organizational
+principle of prägnanz, and its founding members included Wolfgang Köhler and Max Wertheimer
+(VERT-hie-mer). Name this school of psychology named for the German word for “figure.”
+ANSWER: Gestalt psychology
+014-13-81-16106
+OAC 2013
+
+16
+
+Page 8 of 17
+
+7. The entropy change brought about by this process is largely constant across compounds according to
+Trouton’s rule. Namesake tubes used for this process are used to prevent bumping and are made of
+borosilicate glass. PFTE-coated chips are often used as nucleation sites for this process. The temperature
+required for this process is elevated in a common colligative property. This transition occurs after the input
+of the latent heat of fusion. Name this phase transition in which a liquid is transformed into a gas.
+ANSWER: boiling [accept evaporation; accept vaporization]
+048-13-81-16107
+
+8. One newlywed in this play exclaims, “Sweet lord, you play me false,” in a chess game with her husband
+Ferdinand. The deity Setebos and the “foul witch” Sycorax are unseen characters in this play, in which
+Antonio and Sebastian plot against King Alonso of Naples. In this play, the monstrous slave Caliban and
+the spirit Ariel are employed by the usurped magician Prospero, who lives in a hut on the beach. Name this
+Shakespeare play set on an island in the hours after a heavy storm.
+ANSWER: The Tempest
+104-13-81-16108
+
+9. Over one character's shoulder in this painting sit a geranium and a mother-in-law's tongue. This work's
+creator was inspired by a house in Eldon. One of the people in this painting was Byron McKeeby, who
+stands next to the artist's sister Nan. McKeeby holds a three-pronged hay fork in his right hand in this
+painting. Name this painting of two dour-looking farmers in Iowa painted by American artist Grant Wood.
+ANSWER: American Gothic
+023-13-81-16109
+
+10. This modern-day country engaged in an independence war against Spain called the Eighty Years' War.
+It was led by a line of stadtholders from the House of Orange, which was founded by William the Silent.
+The South African Boers were descended from settlers from this country, which also colonized Suriname
+and Indonesia. Anne Frank hid for two years in a house in this country. Name this country that has used
+dikes to protect its cities of Rotterdam and Amsterdam.
+ANSWER: Kingdom of the Netherlands [or Koninkrijk der Nederlanden]
+015-13-81-16110
+
+11. In one song by this recording artist, he hopes that a new person "buys you flowers" and "gives you all
+his hours," which are some of the things the singer "should have done" during the title time period. Another
+hit single by this singer says "open up your gates 'cause I can't wait to see the light." Name this
+Hawaiian-born singer whose album Unorthodox Jukebox includes the singles "When I Was Your Man" and
+"Locked Out of Heaven."
+ANSWER: Bruno Mars [or Peter Gene Hernandez]
+023-13-81-16111
+
+12. Alternating dark and light bands that occur as small wave crests in these objects are called ogives.
+Streams that originate from these objects often have multiple small channels separated by temporary
+islands and are called braided streams. Till deposited by these objects can create moraines. These objects
+form when their ablation is less than the accumulation of snow, which is why global warming is causing
+many of them to shrink. Name these large permanent blocks of ice found on land.
+ANSWER: glaciers
+149-13-81-16112
+
+OAC 2013
+
+16
+
+Page 9 of 17
+
+13. A leader of this country attempted to conspire with Queen Victoria to battle Islam; that leader of this
+country was Tewodros II. The Declaration of Socialism was made by a ruling junta known as the Derg in
+this country in 1974. In the 1896 Battle of Adowa, Menelik II of this nation embarrassed a European
+power. This country became part of Italian East Africa after a 1934 invasion. Name this East African nation
+that Haile Selassie ruled from Addis Ababa.
+ANSWER: Federal Democratic Republic of Ethiopia [or Ityop'iya Federalawi Demokrasiyawi Ripeblik]
+030-13-81-16113
+
+14. During this monarch's reign, William Paxton built a Crystal Palace for the Great Exhibition. The last
+ruler of the House of Hanover, this monarch entered perpetual mourning after the death of Prince Albert of
+Saxe-Coburg Gotha. She led the United Kingdom during the construction of the Suez Canal, the
+controversy over the Corn Laws, the Irish Potato famine, and the Crimean War. Name this longest reigning
+British monarch of all time, a queen who died in 1901.
+ANSWER: Alexandrina Victoria
+015-13-81-16114
+
+15. In an opera based on a work by this man, a soprano sings “Salce!” in an increasingly desperate tone in
+the Willow Song aria. In another opera based on his works, Ford sings È sogno? o realtà” after learning of
+the title character's plan to seduce Ford's wife. Felix Mendelssohn's “Wedding March” is included in a suite
+for incidental music for a play by this man. A character created by him is the protagonist of Verdi's last
+opera, based on scenes from Henry IV and The Merry Wives of Windsor. Name this author whose plays
+were adapted into operas such as Falstaff and Otello.
+ANSWER: William Shakespeare
+121-13-81-16115
+
+16. This man argued for a world of republics in an essay written like a treaty, Perpetual Peace. This man’s
+idea of the unreachable noumenal world inspired later ideas about the “thing in itself” in Schopenhauer’s
+The World as Will and Idea. This man stayed in his home of Konigsberg while arguing that “7 + 5 = 12” is
+a synthetic a priori truth and that any lie to anyone violates moral duty and the categorical imperative.
+Name this German philosopher who wrote Critique of Pure Reason during the Enlightenment.
+ANSWER: Immanuel Kant
+104-13-81-16116
+
+17. The Sirens were changed into their bird-like form after failing to find this goddess, who fought with
+Venus over Adonis. This goddess’ original name was Kore (KO-ray), which simply meant "maiden." In the
+most famous story involving her, she ate six pomegranate seeds and was then forced to spend that many
+months below ground each year. Name this daughter of Demeter, who was abducted by Hades to become
+queen of the underworld.
+ANSWER: Persephone (per-SAY-fo-nee)
+140-13-81-16117
+
+18. A novel set in one of these locations, known as a sharashka, is entitled The First Circle. Captain
+Buynovsky's ability to survive in one of these places is doubted in one novel. That novel is set in one of
+these places whose residents include the elderly Y-81, Alyosha the Baptist, and other "zeks." What
+locations were described as an "Archipelago" in a memoir by Alexander Solzhenitsyn, who was imprisoned
+in one under Stalin?
+ANSWER: gulags
+030-13-81-16118
+
+OAC 2013
+
+16
+
+Page 10 of 17
+
+19. This author created a man who carries on an affair with Hilda Burgoyne, although he is married to
+Winifred, in Alexander’s Bridge. Another of this author’s characters, Emil Bergson, is shot under a white
+mulberry tree along with Marie Shabata by Marie’s husband, Frank. This author wrote a novel narrated by
+Jim Burden, who details the maturation of the title Bohemian girl and her marriage to Anton Cuzak. Name
+this author of O Pioneers! and My Antonia.
+ANSWER: Willa Cather [or Wilella Sibert Cather]
+192-13-81-16119
+
+20. One character in this novel tells the protagonist not to "struggle so like a wild, frantic bird, that is
+rending its own plumage in its desperation." That same protagonist is locked in the "red room," and other
+characters in this novel include Helen Burns and Bertha Mason, the latter of whom burns down Thornfield
+Manor. Its title character ultimately marries Edward Rochester. Identify this Victorian novel by Charlotte
+Bronte.
+ANSWER: Jane Eyre
+189-13-81-16120
+
+OAC 2013
+
+16
+
+Page 11 of 17
+
+Alphabet Round - Letter Z
+1. What species of African equid is known for its black and white stripes?
+2. What landlocked African country is bounded by the Zambezi and Limpopo rivers?
+3. What painter was known as the Spanish Caravaggio for his use of chiaroscuro?
+4. What first Premier of the People's Republic of China served under Mao Zedong?
+5. What dualistic Persian religion believed in two opposing forces: Ahura Mazda and Angra Mainyu?
+6. What Swiss Reformation leader famously debated Martin Luther and attended the Marburg Colloquy?
+7. What school of Mahayana Buddhism emphasizes achieving enlightenment?
+8. Shaka was a leader of what South African people that fought a namesake war with the British Empire in 1879?
+9. By what term is a fertilized egg known?
+10. What imaginary point lies directly above an observer on the celestial sphere?
+11. What radical Jewish sect opposed the polytheism of pagan Rome?
+12. What ancient Greek philosopher founded Stoicism?
+13. What stringed musical instrument has a prominent solo in Johann Strauss II's Tales from the Vienna Woods?
+14. What figure is the Greek god of the west wind?
+15. What German term attributed to Georg Hegel is translated as "spirit of the time?"
+16. What African state was founded by Mobutu Sese Seko and became the Democratic Republic of the Congo in 1997?
+17. (MULTIPLE WORD ANSWER) In what Nikos Kazantzakis novel does the narrator reopen a disused lignite mine on
+Crete?
+18. What World War II Los Angeles riots were named for the article of clothing worn by Latino youths?
+19. What Russian science fiction author wrote the novel We?
+20. What undead creature is featured in Night of the Living Dead and 28 Days Later?
+
+OAC 2013
+
+16
+
+Page 12 of 17
+
+Alphabet Round - Letter Z
+1. What species of African equid is known for its black and white stripes?
+2. What landlocked African country is bounded by the Zambezi and Limpopo rivers?
+3. What painter was known as the Spanish Caravaggio for his use of chiaroscuro?
+4. What first Premier of the People's Republic of China served under Mao Zedong?
+5. What dualistic Persian religion believed in two opposing forces: Ahura Mazda and Angra Mainyu?
+6. What Swiss Reformation leader famously debated Martin Luther and attended the Marburg Colloquy?
+7. What school of Mahayana Buddhism emphasizes achieving enlightenment?
+8. Shaka was a leader of what South African people that fought a namesake war with the British Empire in 1879?
+9. By what term is a fertilized egg known?
+10. What imaginary point lies directly above an observer on the celestial sphere?
+11. What radical Jewish sect opposed the polytheism of pagan Rome?
+12. What ancient Greek philosopher founded Stoicism?
+13. What stringed musical instrument has a prominent solo in Johann Strauss II's Tales from the Vienna Woods?
+14. What figure is the Greek god of the west wind?
+15. What German term attributed to Georg Hegel is translated as "spirit of the time?"
+16. What African state was founded by Mobutu Sese Seko and became the Democratic Republic of the Congo in 1997?
+17. (MULTIPLE WORD ANSWER) In what Nikos Kazantzakis novel does the narrator reopen a disused lignite mine on
+Crete?
+18. What World War II Los Angeles riots were named for the article of clothing worn by Latino youths?
+19. What Russian science fiction author wrote the novel We?
+20. What undead creature is featured in Night of the Living Dead and 28 Days Later?
+
+OAC 2013
+
+16
+
+Page 13 of 17
+
+Alphabet Round - Letter Z
+1. What species of African equid is known for its black and white stripes?
+2. What landlocked African country is bounded by the Zambezi and Limpopo rivers?
+3. What painter was known as the Spanish Caravaggio for his use of chiaroscuro?
+4. What first Premier of the People's Republic of China served under Mao Zedong?
+5. What dualistic Persian religion believed in two opposing forces: Ahura Mazda and Angra Mainyu?
+6. What Swiss Reformation leader famously debated Martin Luther and attended the Marburg Colloquy?
+7. What school of Mahayana Buddhism emphasizes achieving enlightenment?
+8. Shaka was a leader of what South African people that fought a namesake war with the British Empire in 1879?
+9. By what term is a fertilized egg known?
+10. What imaginary point lies directly above an observer on the celestial sphere?
+11. What radical Jewish sect opposed the polytheism of pagan Rome?
+12. What ancient Greek philosopher founded Stoicism?
+13. What stringed musical instrument has a prominent solo in Johann Strauss II's Tales from the Vienna Woods?
+14. What figure is the Greek god of the west wind?
+15. What German term attributed to Georg Hegel is translated as "spirit of the time?"
+16. What African state was founded by Mobutu Sese Seko and became the Democratic Republic of the Congo in 1997?
+17. (MULTIPLE WORD ANSWER) In what Nikos Kazantzakis novel does the narrator reopen a disused lignite mine on
+Crete?
+18. What World War II Los Angeles riots were named for the article of clothing worn by Latino youths?
+19. What Russian science fiction author wrote the novel We?
+20. What undead creature is featured in Night of the Living Dead and 28 Days Later?
+
+OAC 2013
+
+16
+
+Page 14 of 17
+
+Alphabet Round - Letter Z
+1. What species of African equid is known for its black and white stripes?
+2. What landlocked African country is bounded by the Zambezi and Limpopo rivers?
+3. What painter was known as the Spanish Caravaggio for his use of chiaroscuro?
+4. What first Premier of the People's Republic of China served under Mao Zedong?
+5. What dualistic Persian religion believed in two opposing forces: Ahura Mazda and Angra Mainyu?
+6. What Swiss Reformation leader famously debated Martin Luther and attended the Marburg Colloquy?
+7. What school of Mahayana Buddhism emphasizes achieving enlightenment?
+8. Shaka was a leader of what South African people that fought a namesake war with the British Empire in 1879?
+9. By what term is a fertilized egg known?
+10. What imaginary point lies directly above an observer on the celestial sphere?
+11. What radical Jewish sect opposed the polytheism of pagan Rome?
+12. What ancient Greek philosopher founded Stoicism?
+13. What stringed musical instrument has a prominent solo in Johann Strauss II's Tales from the Vienna Woods?
+14. What figure is the Greek god of the west wind?
+15. What German term attributed to Georg Hegel is translated as "spirit of the time?"
+16. What African state was founded by Mobutu Sese Seko and became the Democratic Republic of the Congo in 1997?
+17. (MULTIPLE WORD ANSWER) In what Nikos Kazantzakis novel does the narrator reopen a disused lignite mine on
+Crete?
+18. What World War II Los Angeles riots were named for the article of clothing worn by Latino youths?
+19. What Russian science fiction author wrote the novel We?
+20. What undead creature is featured in Night of the Living Dead and 28 Days Later?
+
+OAC 2013
+
+16
+
+Page 15 of 17
+
+Alphabet Round - Letter Z
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+16
+
+Page 16 of 17
+
+Alphabet Round - Letter Z
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+16
+
+Page 17 of 17
+
+

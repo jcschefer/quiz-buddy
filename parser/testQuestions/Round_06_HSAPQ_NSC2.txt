@@ -1,0 +1,531 @@
+2008-2009
+NSC-Format Set #2
+Round 6
+Related Tossups &
+Bonuses
+
+1. George Dumezil compared this figure to the Ossetic demon Syrdon. This god once impaled an eagle
+after the eagle ate too much of an ox he was eating; that adventure ended with him transforming Idun
+into a nut to rescue her from the giant Thiazi. After this god tricked Hodr, Hel offered to let a dead god
+return if every living thing would mourn, but Thokk, possibly this god in disguise, refused. For 10 points,
+name this god who until Ragnarok is chained to a rock with a snake dripping venom on him, the trickster
+of the Norse pantheon.
+ANSWER: Loki
+Bonus: He hung from Yggdrasil as an offering to himself. For 10 points each:
+[10] Name this one-eyed chief god of the Aesir.
+ANSWER: Odin
+[10] Odin hung from Yggdrasil pierced by Gungnir, one of these objects. Gungnir was said to always hit
+its target when Odin threw it.
+ANSWER: spears
+2. In one meeting held in this city, participants agreed to meet in Geneva to attempt resolutions to
+conflicts in Korea and Indochina. Another meeting in this city ended in Samoan independence, and a
+third was called to amend the Treaty of San Stefano. A fourth meeting in this city was called by Otto von
+Bismarck to set rules on the colonization of Africa. For 10 points, name this German city that after World
+War II was separated into West and East sections.
+ANSWER: Berlin
+Bonus: He met with Attila in 452 and persuaded him not to invade Rome. For 10 points each:
+[10] Name this pope, the namesake of a prose style, who also interceded on behalf of the Romans when
+Geiseric sacked the city in 455.
+ANSWER: Leo I [or St. Leo; or Leo the Great]
+[10] Leo I's namesake Tome declared that Jesus had a divine and human nature, and that the natures
+existed in one person. That Tome was adopted by this 451 ecumenical council.
+ANSWER: Council of Chalcedon
+3. Edward Hoffman's biography of this man was entitled The Right to be Human. He believed in the
+concept of "peak experiences," and rejected determinism in his book Motivation and Human
+Personality. He examined biographies of Jane Addams, Abraham Lincoln, and Eleanor Roosevelt in
+formulating a concept that placed self-actualization at the top of a construct, below which were
+belongingness, food, and shelter. For 10 points, name this author of Toward a Psychology of Being, who
+formulated a namesake hierarchy of needs.
+ANSWER: Abraham Maslow
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 1 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Bonus: To test his theories, he traveled over four thousand miles by raft to the Tuamotu Islands. For 10
+points each:
+[10] This Norwegian ethnographer sailed across the Pacific unaided, proving that trade and cultural
+exchange between Polynesia and South America was possible.
+ANSWER: Thor Heyerdahl
+[10] The raft used by Heyerdahl for the voyage was named for this Incan sun god, who was supposed to
+have left ruins around Lake Titicaca.
+ANSWER: Kon-Tiki
+4. One equation named after Hammett can calculate an alternative to this quantity if the HendersonHasselbalch equation does not apply, and changes in this quantity resulting from temperature can be
+modeled using the Nernst equation. Ion-selective electrodes are used to measure it. Ketosis can lead to
+rapid drops of this quantity in the blood, in which this has a value of about 7.2. This quantity can be
+obtained by taking the negative base-ten logarithm of hydronium ion concentration. For 10 points,
+identify this chemical quantity that measures how acidic or basic a solution is and is equal to 7 for water.
+ANSWER: pH
+Bonus: This concept was first introduced by Rudolf Clausius, and it increases for an isolated system
+according to the Second Law of Thermodynamics. For 10 points each:
+[10] Name this quantity, equal to the amount of thermal energy that is unavailable for useful work, a
+measure of the disorder or randomness of a system.
+ANSWER: entropy
+[10] In this thought experiment, the namesake creature is capable of differentiating fast and slow
+moving particles, and thus, could hypothetically defy the Second law of Thermodynamics.
+ANSWER: Maxwell’s demon
+5. After serving as prime minister of this nation, Gro Harlem Brundtland became the director-general of
+the WHO, and liberal Prime Minister Johan Sverdrup attempted to place more power in the Storting in
+this country in the nineteenth century. The government of this nation oversaw secret negotiations
+between Israel and the PLO in 1993, and its Nasjonal Samling party was led by Vidkun Quisling. For 10
+points, name this Scandinavian country whose capital's name was changed from Christiana to Oslo.
+ANSWER: Norway
+Bonus: One of them put forth the Lex Sempronia Agraria, a land redistribution measure, and another
+attempted to unite the plebs of equites. For 10 points each:
+[10] Give the surname of these Roman politicians known for their attempts at social reform.
+ANSWER: Gracchi [or Gracchus]
+[10] This leader of a 71 BC slave revolt was killed in a battle with Crassus, after which 6,000 of his
+followers were crucified on the Capua to Rome highway.
+ANSWER: Spartacus
+6. John Grisby compared this character to a demonized version of the Norse goddess Freya. A novel
+written from the perspective of this character was written by the author of On Moral Fiction, John
+Gardner. This character is awoken by singing and merriment, and his rampage devastates Heorot. This
+character's destruction is finally ended by the arrival of a Geat who rips his arm off and decapitates him.
+For 10 points, name this demon, who terrorizes King Hrothgar before being defeated by Beowulf.
+ANSWER: Grendel
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 2 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Bonus: In one of his novels, the titular character joins Dutch Schultz's gang. For 10 points each:
+[10] Name this author of Billy Bathgate, who wrote about the trial and execution of the Rosenbergs in
+The Book of Daniel.
+ANSWER: E. L. Doctorow
+[10] This novel by Doctorow is named for a style of music composed by Scott Joplin. It features the piano
+player Coalhouse Walker and the murder of architect Stanford White.
+ANSWER: Ragtime
+7. De Bruijn defined a subset of these entities as “universally bad.” These objects can be represented
+using twos complement notation. Any real number can be converted to a number of this type using a
+function symbolized by square brackets, and the set of these numbers is denoted Z. A Diophantine
+equation restricts the solution space to these numbers, and rational numbers can be expressed as a
+ratio of two of these numbers. For 10 points, name this set of numbers that includes zero, all natural
+numbers, and their negatives.
+ANSWER: integers
+Bonus: According to the Goldbach Conjecture, all even numbers are the sum of two of these numbers.
+For 10 points each:
+[10] Name these numbers, which can be found using the Sieve of Eratosthenes.
+ANSWER: prime numbers [or primes]
+[10] The distribution of the prime numbers is related to the zeros on the critical line of this German
+mathematician's namesake zeta function.
+ANSWER: Bernhard Riemann
+8. Lucan and Zosine are tutored by the pastor Pennhallow in a novel this author claimed to have
+translated from a French work written by Pierre Andrézel. In addition to Angelic Avengers, this author
+discussed how women were classified into guardian angels, prostitutes, and housewives in her essay
+Daguerreotypes. “The Supper at Elsinore” and “The Old Chevalier” are among her Seven Gothic Tales.
+For 10 points, name this author, whose time with Denys Finch Hatton on a Kenyan farm formed the
+basis of her major non-fiction work Out of Africa.
+ANSWER: Isak Dinesen [or Karen Blixen; or Karen Christence Dinesen; or Baroness Blixen-Finecke]
+Bonus: The title characters in this play constantly chant Brecece·cecs? cò·acs? cò·acs? For 10 points
+each:
+[10] Name this play about Dionysus's attempts to bring Euripides from the underworld, which features a
+contest between Euripides and Aeschylus over the title of "Best Tragic Poet."
+ANSWER: The Frogs [or Bátrachoi]
+[10] The Frogs was written by this Greek comic playwright of The Acharnians, The Knights, and The
+Wasps, who also wrote about some women boycotting sex in Lysistrata.
+ANSWER: Aristophanes
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 3 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #2
+Round 6
+Category Quiz
+Bonus Choices
+
+Arts
+Current Events
+Geography
+History
+Literature
+Math Calculation
+Philosophy
+Social Science
+
+Arts
+Current Events
+Geography
+History
+Literature
+Math Calculation
+Philosophy
+Social Science
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 4 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #2
+Round 6
+Category Quiz Tossups
+
+9. In one of his music videos, children play soccer in front of army tanks and a cross burning, and that
+song begs "make it a better place/for you and me /and the whole human race." In addition to "Heal the
+World," this artist released a single that commands "keep on with the force" and was produced by
+Quincy Jones. That song, "Don't Stop 'Till You Get Enough," was released on Off The Wall. Another of his
+songs is about a girl who thinks he is the one, but the kid is not his son, and in another music video, he
+turns into a werewolf. For 10 points, name the singer of "Billie Jean" and "Thriller."
+ANSWER: Michael Joseph Jackson
+10. The Bay of Antongil is located on this country's east coast, and the island of Nosy-Be in this country
+was a stop on the Russian Baltic Fleet's journey to Japan. Prominent ethnic groups in this country
+include the Invincible and Inseparable Multitudes and the Elevated People, or Merina, and the main
+traditional deity of this country is Zanahary. Its large cities include Toliara, Antsirabe, Toamasina, and
+Fianarantsoa. For 10 points, name this island nation with capital at Antananarivo.
+ANSWER: Madagascar [or Malagasy Republic]
+11. One of this author's novels opens with a meeting at the Maypole Inn and includes the raven Grip. An
+unfinished mystery by this author ends abruptly after Datchery meets with an older woman and adds a
+chalk mark behind a door. This author of The Mystery of Edwin Drood wrote a novel about Kit's love for
+Nell Trent, The Old Curiosity Shop. In another of his novels, Fagin and Bill Sikes train a poor orphan to
+steal after that orphan is thrown onto the street for asking for extra porridge. For 10 points, name this
+British author of Oliver Twist, who wrote about Ebenezer Scrooge in A Christmas Carol.
+ANSWER: Charles Dickens
+12. When cobalt is added to this device, it can be described as “salted.” Stanislaw Ulam developed a
+hypothetical method to propel spaceships using this kind of device, one type of which he helped
+develop along with Hungarian scientist Edward Teller. By removing the tamper, this device can be
+modified to emit large amounts of neutrons, which can harm nearby lifeforms but leave buildings
+standing, and famous devices of this type include Trinity, Little Boy, and Fat Man. For 10 points, name
+this device built by the Manhattan Project.
+ANSWER: nuclear bomb [accept nuclear weapon; accept nuke; accept atomic bomb; accept a-bomb]
+13. He wrote that “….society can prevent those who are manifestly unfit from continuing their kind” in
+his support for Virginia’s forced sterilization policy in Buck v. Bell. He also wrote that, “The Fourteenth
+Amendment does not enact Mr. Herbert Spencer’s Social Statics,” in his dissent in Lochner v. New York.
+For 10 points, name this Supreme Court justice who in his opinion in Schenck v. United States
+formulated the “clear and present danger” doctrine, the son of a poet of the same name.
+ANSWER: Oliver Wendell Holmes, Jr. [prompt on "Holmes"]
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 5 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+14. In one of this composer's oratorios, the title warrior sings "How vain is man who boasts in fight"
+before a chorus celebrates his victory with "See, the Conqu'ring hero comes." He adapted poems by
+John Dryden into the choral works Alexander's Feast and Ode for St. Cecilia's Day, and composed
+variations such as The Harmonious Blacksmith. This composer of Israel in Egypt and Judas Maccabeus
+created Zadok the Priest for the coronation of George II. For 10 points, name this 18th century composer
+of Music for the Royal Fireworks, Water Music, and The Messiah.
+ANSWER: Georg Handel
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 6 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #2
+Round 6
+Category Quiz
+Bonuses
+
+Arts: This artist painted a man in blue rowing for a lady in a floral bonnet holding a toddler in pink in her
+The Boating Party. For 15 points, name this female American painter who moved to France to join the
+Impressionist movement.
+ANSWER: Mary Stevenson Cassatt
+Current Events: There has been speculation that she will run for an open Senate seat when Sam
+Brownback retires in 2010. For 15 points, name this governor of Kansas who is President Obama's pick
+to serve as the next secretary of Health and Human Services.
+ANSWER: Kathleen Sebelius [or Kathleen Gilligan]
+Geography: After the 1970 census, it was split it into 11 census areas, and 8 areas within it are
+recognized as meeting standards for incorporation. For 15 points, name this area of Alaska without an
+organized regional government.
+ANSWER: Unorganized Borough
+History: It was supposed to incite a revolt of uitlanders working under the Transvaal Republic, but the
+British failed miserably and surrendered to Piet Cronje. For 15 points, name this raid, one of the indirect
+factors in the start of the Boer War.
+ANSWER: Jameson Raid
+Literature: Young Reverend Clark comes from Westbury to pray for this story's dying title character. For
+15 points, name this Nathaniel Hawthorne short story, whose title character one day places a piece of
+cloth over his face to symbolize secret sin.
+ANSWER: "The Minister's Black Veil"
+Math Calculation: The mean of three positive numbers is twice the median. For 15 points, if two of the
+numbers are 1 and 7, then what is the third number?
+ANSWER: 34
+Philosophy: He explained Epicurean philosophy in the poem On the Nature of Things, or De Rarum
+Natura. For 15 points, name this Roman philosopher-poet.
+ANSWER: Titus Lucretius Carus
+Social Science: It states that the sum of all excess supplies must be equal to the sum of all excess
+demands, or that supply creates its own demand. For 15 points, name this law of markets named for a
+French economist.
+ANSWER: Say's Law
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 7 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #2
+Round 6
+Stretch Phase
+
+15. In the Mexican-American War, the fall of this city directly preceded the attack on Chapultepec, and
+the Mexicans began a twenty eight day siege of this city as Mexico City fell. In another battle here,
+Ignacio Zaragoza led veterans of the Reform War in a successful effort that still failed to prevent the fall
+of Benito Juarez and the arrival of Emperor Maximilian. For 10 points, name this site of an 1862 battle
+against the French, perhaps most famous for occurring on Cinco de Mayo.
+ANSWER: (Battle of) Puebla
+Bonus: Its three central characters each pray to different deities after two are ordered to fight for the
+hand of the third. For 10 points each:
+[10] Name this story about Palomon and Arcite, who duel for the hand of Emily. Arcite prays only for
+victory, and dies after winning, but before he can claim his prize.
+ANSWER: The Knight's Tale
+[10] This British author of The Parlement of Foules and Troilus and Cressida used the Knight's Tale to
+open his Canterbury Tales.
+ANSWER: Geoffrey Chaucer
+[10] This other Chaucer poem was written to commemorate the death of the wife of John of Gaunt. In it,
+a wandering poet finds a sorrowful knight who has lost his "good, fair White."
+ANSWER: The Book of the Duchess
+16. The point where this force intersects the midplane is known as the metacenter, which must lie
+above the center of gravity for an object in a fluid to be in static equilibrium. It arises because fluid
+pressure increases with depth due to the increasing gravitational weight acting on the fluid. The
+magnitude of this force can be calculated from the product of gravity, fluid density, and the volume of
+the submerged object using Archimedes’ principle. For 10 points, name this force that is equal to the
+weight of the fluid an object displaces and allows objects to float on water.
+ANSWER: buoyant force [accept buoyancy]
+Bonus: Many Muslims perform wudu before touching it, and it was revealed to Muhammad by Gabriel.
+For 10 points each:
+[10] Name this holiest book of Islam.
+ANSWER: Koran
+[10] The Koran is divided into these sections. The first is “The Opening” and the longest is “The Cow.”
+ANSWER: Suras
+[10] These writings are not included in the Koran but are oral sayings about the Prophet and his
+teachings. They are verified with chains of authority called isnads.
+ANSWER: Hadiths
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 8 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+17. One of this author's novels is set in Grand Republic, where the title character discovers that he is
+one-thirty-second black. In addition to Kingsblood Royal, this author wrote about a student of Max
+Gottlieb in a novel about a doctor who discovers the X Principle, Arrowsmith. His title characters include
+a womanizing Methodist preacher and a realtor who realizes that he has sacrificed his dreams for
+mindless conformity and boosterism in Zenith. For 10 points, name this American author of Babbitt and
+Main Street.
+ANSWER: Sinclair Lewis
+Bonus: It comes in Becker’s and Duchenne’s varieties, and common symptoms include wasting of the
+limbs and difficulty breathing. For 10 points each:
+[10] Identify this disorder characterized by atrophy of the skeletal muscle.
+ANSWER: muscular dystrophy
+[10] Deficiencies or mutations in this large protein, which is thought to protect against mechanical
+stress, cause different types of muscular dystrophy.
+ANSWER: dystrophin
+[10] This disorder can be a symptom of muscular dystrophy, but also occurs independently. This
+abnormal curvature of the spine can be corrected surgically or using a brace.
+ANSWER: scoliosis
+18. One artist from this country created Collage with Squares Arranged According to the Laws of Chance,
+and another depicted a giant sign floating in the air against a violent sky and above a horde of soldiers in
+The Battle of Issus. Another showed a man in a red cloak speaking the title phrase to Mary Magdalene,
+Noli me tangere, and painted a portrait of Henry VIII. This nation's school of Expressionism featured a
+movement that included Paul Klee called The Bridge. For 10 points, name this home country of Jean Arp,
+Albrecht Altdorfer, Hans Holbein the Younger, and Albrecht Durer.
+ANSWER: Germany
+Bonus: The national hero of this country is Skanderbeg. For 10 points each:
+[10] Name this country, ruled from World War II until 1985 by the Maoist Enver Hoxha.
+ANSWER: Albania
+[10] Hoxha removed Albania from this defense alliance, the Eastern Bloc's answer to NATO. It was
+officially dissolved in 1991.
+ANSWER: Warsaw Pact
+[10] Proclaimed King of Albania in 1928, this man introduced a modern legal system to his country but
+was forced to flee Albania after the 1939 Italian invasion.
+ANSWER: Zog [or Ahmad Zogu]
+19. One book revered by adherents of this religion is the Kebra Nagast, and the oneness with the
+spiritual is expressed with the doctrine of “I and I.” Dietary restrictions observed by some followers of
+this religion include a ban on cigarettes and coffee, and are known as Ital. Other important tenets of this
+religion include a rejection of “Babylon” and connection to Jah. For 10 points, name this religion whose
+adherents often wear dreadlocks and smoke ganja, which celebrates Grounation Day as the day Haile
+Selassie traveled to Jamaica.
+ANSWER: Rastafarianism [prompt on Rasta]
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 9 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Bonus: This composer included Russian liturgical music in his Russian Easter Festival Overture. For 10
+points each:
+[10] Name this composer of Capriccio Espagnol, whose operas include Mozart and Salieri and The
+Golden Cockerel.
+ANSWER: Nikolai Rimsky-Korsakov
+[10] The third act of Rimsky-Korsakov's Tale of Tsar Saltan includes this piece, which uses frantic runs of
+chromatic sixteenth notes to represent the buzzing of an insect.
+ANSWER: "Flight of the Bumblebee"
+[10] Rimsky-Korsakov collaborated on the opera Mlada with this Russian composer of the Polovtsian
+Dances and the tone poem In the Steppes of Central Asia.
+ANSWER: Alexander Borodin
+20. The Pax Nicepohori put this polity under Byzantine control and the remains of this place’s Patron
+Saint were stolen from Alexandria. This city exchanged the sack of Zara for transportation during the
+Fourth Crusade, and its main governing body was the Council of Ten. It was divided between France and
+Austria by the Treaty of Campo Formio. For 10 points, name this Italian city-state, led until the
+eighteenth century by a Doge, which contains a lot of canals.
+ANSWER: Republic of Venice [or Venetia]
+Bonus: They are typically composed of two parallel conducting plates separated by a dielectric. For 10
+points each:
+[10] Name these circuit devices that are capable of storing electrical charge.
+ANSWER: capacitor
+[10] The amount of electricity needed to generate a change in the potential between the two plates of a
+capacitor is known as the capacitance, which is measured in this unit.
+ANSWER: farad
+[10] This constant of proportionality gives the tendency for electric polarization to occur in a dielectric in
+the presence of an electric field.
+ANSWER: permittivity
+21. This poem describes Ruth when "she stood in tears amid the alien corn," and references "the
+viewless wings of Poesy." The speaker feels he "Lethe-wards had sunk" and "my sense, as though of
+hemlock I had drunk" before wishing for a drink of Hippocrene to allow him to "leave the world unseen."
+It begins, "my heart aches, and a drowsy numbness pains." The poet later wonders "was it a vision, or a
+waking dream?" and proclaims "thou wast not born for death, immortal Bird!" For 10 points, name this
+John Keats ode about a songbird.
+ANSWER: "Ode to a Nightingale"
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 10 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Bonus: It saw action at Little Round Top and Missionary Ridge. For 10 points each:
+[10] Name this 1863 Pennsylvania battle which featured Pickett’s Charge.
+ANSWER: Battle of Gettysburg
+[10] The Union forces at Gettysburg were led by this lighthouse builder, who retained control of the
+Army of the Potomac, but was placed under Grant, after failing to pursue Lee after the battle.
+ANSWER: George Gordon Meade
+[10] This leader of the 20th Maine, who would go on to run Bowdoin College, led a bayonet charge
+down Little Round Top at Gettysburg.
+ANSWER: Joshua Lawrence Chamberlain
+22. This class of animals most likely evolved from the Rhipidistians, and other ancestors of this class
+include Acanthostega and Tiktaalik, which was recently discovered in the Arctic. This class, which
+possesses a unique three-chambered heart, includes the caecilians, who are worm-like, and they were
+the first tetrapods to evolve. Since they lack an amniotic egg, they must lay their eggs in water and
+undergo metamorphosis. For 10 points, name this animal class that can live on land and in water, which
+includes frogs.
+ANSWER: Amphibians
+Bonus: In one poem, this poet wrote that "when judgment day comes/ God will find six crumbs" in "little
+Effie's head." For 10 points each:
+[10] Name this American poet who used unusual syntax in poems like "Buffalo Bill's/ defunct" and
+"anyone lived in a pretty how town."
+ANSWER: Edward Estlin Cummings
+[10] Cummings wrote a bizarre play based on this novel, whose subplots include Ophelia's education of
+Topsy and the death of Augustine St. Clare.
+ANSWER: Uncle Tom's Cabin
+[10] This other American author of Black Boy and Native Son wrote a series of novellas entitled Uncle
+Tom’s Children.
+ANSWER: Richard Wright
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 11 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #2
+Round 6
+Tiebreakers + Extras
+
+1. A muscular arm grabs a breast in his Soft Construction with Boiled Beans. This artist's Temptation of
+St. Anthony features a procession of elephants with long, spindly legs, and he painted a tiger leaping out
+of the mouth of a giant fish in midair, springing towards a reclining nude woman with a rifle to her neck.
+His controversial Crucifixion features Christ on a multidimensional cross, and he worked on films like
+L'age d'or and Un chien andalou with Luis Bunuel. For 10 points, name this artist who depicted some
+melting clocks in his The Persistence of Memory.
+ANSWER: Salvador Dali
+2. This disease has been linked to systematic defects in complex I of the mitochondrial inner membrane.
+Physiological signs of this disease include the accumulation of the protein alpha synuclein in deposits
+called Lewy bodies within the substantia nigra. It is characterized by the presence of bradykinesia.
+Treatment for this disease includes a combination of carbidopa and L-dopa, which address decreases in
+the neurotransmitter dopamine. For 10 points, name this disease that results from neural degeneration
+in regions of the brain that control movement.
+ANSWER: Parkinson’s disease [or primary parkinsonism; or paralysis agitans]
+3. Frau Rosalie's budding relationship with Ken Keaton is cut short by cancer in a Thomas Mann work
+titled after a black one of these creatures. The speaker of another poem says, "now my heart is sore"
+after looking at these creatures and hearing the "bell-beat" of their wings. In addition to that poem
+about nine and fifty of these creatures at Coole, a sonnet by Yeats describes Zeus' rape of Leda in the
+form of this creature. For 10 points, name this bird, the actual identity of the ugly duckling in a story by
+Hans Christian Anderson.
+ANSWER: swans
+Extra 20-point bonus:
+His namesake “line” was a string of fortifications designed to protect German retreat on the Western
+Front during World War One. For 10 points each:
+[10] Name this German general, who also served as president of the Weimar Republic from 1925 to
+1934.
+ANSWER: Paul von Hindenburg
+[10] Hindenburg’s greatest military victory was this 1914 battle in which he decimated the Russian
+Second Army. A similarly-named 1410 battle saw the defeat of the Teutonic Knights.
+ANSWER: Second Battle of Tannenberg
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 12 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Extra 30-point bonus:
+It equals the internal energy plus the product of pressure and volume of a system. For 10 points each:
+[10] Name this quantity that represents the thermodynamic potential of a system.
+ANSWER: enthalpy
+[10] A process with positive change in enthalpy, such as ice melting, is known by this term.
+ANSWER: endothermic
+[10] This quantity is defined as enthalpy minus the product of entropy and temperature in Kelvin. It
+describes the amount of energy available to do work.
+ANSWER: Gibbs free energy
+
+2008-2009 NSC-Format Set #2
+
+Round 6
+
+Page 13 of 13
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only. It is
+prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+

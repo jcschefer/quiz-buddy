@@ -1,0 +1,639 @@
+OAC 2013
+Packet 4
+
+CATEGORY ROUND
+American Literature: Families in Literature
+Team A: Name the American playwright who wrote about a bickering husband and wife in the play Who's
+Afraid of Virginia Woolf?.
+ANSWER: Edward Franklin Albee III
+Team B: Albee wrote a stage version of Breakfast at Tiffany's, based on the novella by what other author,
+who himself wrote about the murder of a family in the book In Cold Blood?
+ANSWER: Truman Capote [or Truman Struckfus Persons]
+Tossup: Throughout this play, the noise of a foghorn is heard, which is judged to be “like a banshee.” Its
+characters include Eugene, who died of measles years earlier after being infected by his brother. The only
+secondary character to appear on stage in this play is the Irish summer maid, Cathleen. Another character
+refuses to believe her son Edmund has contracted tuberculosis. Heavily autobiographical, this play features
+the drunken actor James and his morphine-addicted wife Mary. Name this play chronicling a day in the life
+of the Tyrone family, a work of Eugene O’Neill.
+ANSWER: Long Day’s Journey into Night
+Mathematics: Algebra (All questions in this round are 30 seconds)
+Team B: Consider the curve described in parametric coordinates by the two equations x = t over 2 and y
+equals t squared minus 4 t minus 5. Find the equation relating y to x.
+ANSWER: y equals 4 x squared minus 8 x minus 5 [or y = 4x2-8x-5]
+Team A: Find the sum of the squares of the roots of the quadratic x squared minus 3 x minus 10.
+ANSWER: 29
+Tossup: These types of equations are constraints for functions whose maximums are found through the
+simplex method. The ordinary least squares method finds this type of equation that minimizes the distance
+between its y-values and those of a sample. If a set of them is expressed in matrix form, their solutions can
+be found by putting the matrix into reduced row echelon form. Cramer's rule is another method to solve for
+a system of equations of this type. They can be written in the point-slope form, or the slope-intercept form.
+Name these polynomials of degree one.
+ANSWER: linear equation
+
+OAC 2013
+
+4
+
+Page 1 of 17
+
+World History: European Agreements
+Team A: Name the country once part of Yugoslavia that had its period of ethnic cleansing in the 1990s
+ended by the Dayton Accords.
+ANSWER: Bosnia and Herzegovina [or Bosna i Hercegovina]
+Team B: Name the 1998 agreement that set up three "strands" for the relationship between Ireland,
+Northern Ireland, and the UK.
+ANSWER: Good Friday Agreement [or Belfast Agreement]
+Tossup: This city was the site of an agreement signed by Neville Chamberlain that ceded the Sudetenland
+to Germany. The Dachau concentration camp was on this city's outskirts. Adolf Hitler was imprisoned after
+seizing a beer hall in a failed 1923 putsch in this city. In 1972, members of Black September killed several
+Israeli athletes after a failed rescue during the Summer Olympics in this city. Identify this cultural center of
+the German state of Bavaria.
+ANSWER: Munich [or Muenchen]
+Fine Arts: Tone Poems
+Team B: What composer's tone poems include The Swan of Tuonela and Finlandia?
+ANSWER: Jean Sibelius
+Team A: Name the Czech composer whose tone poem or symphonic poem "Ma Vlast" is often performed,
+particularly the section "The Moldau," which is the basis for the Israeli national anthem.
+ANSWER: Bedrich Smetana
+Tossup: A tone poem by this composer was too radical to be performed during his lifetime and is usually
+heard in its arrangement by Nikolai Rimsky-Korsakov. That piece by him depicts a witches' sabbath on St.
+John's Eve. Another of his compositions intersperses a "Promenade" theme with programmatic movements
+including one depicting Baba Yaga’s hut and the grand finale, "The Great Gate of Kiev." Name this
+Russian composer of Night on Bald Mountain and the piano suite Pictures at an Exhibition.
+ANSWER: Modest Mussorgsky
+
+OAC 2013
+
+4
+
+Page 2 of 17
+
+Life Sciences: Diseases
+Team A: This condition is caused by the Epstein-Barr virus and is transmitted through saliva.
+ANSWER: mononucleosis
+Team B: This virus causes the chicken pox.
+ANSWER: varicella zoster virus [or VZW]
+This condition is sometimes treated with azealic acid, and a namesake species of propionobacterium is
+associated with it. A common treatment for this condition often causes angular chelitis of the mouth, and
+this condition is characterized by the formation of comedos. Isotretinoin is a common treatment for severe
+forms of this compound, which also can be treated using benzoyl peroxide. Identify this skin disease which
+causes the formation of pimples.
+ANSWER: acne vulgaris [or cystic acne]
+World Literature: Classical Allusions
+Team B: What French existentialist adopted Aeschylus's Oresteia for his play, The Flies?
+ANSWER: Jean-Paul Sartre
+Team A: What man quoted Horace in a poem about a gas attack, “Dulce et Decorum est?”
+ANSWER: Wilfred Owen
+Tossup: This poet wrote that "today the Roman and his trouble are ashes under Uricon" in one poem, and
+he wrote that "the lad who runs away lives to die another day" in another poem. This poet wrote of a tree
+"hung with bloom along the bough" in his poem beginning, "Loveliest of trees, the cherry now." He also
+wrote a poem in which the laurel "withers quicker than the rose," his "To an Athlete Dying Young."
+Identify this Latin scholar and British poet known for his collection A Shropshire Lad.
+ANSWER: A. E. Housman
+
+OAC 2013
+
+4
+
+Page 3 of 17
+
+US Government/Economics: MODELS
+Team A: What conservative school of economics, led at one point by Ludwig von Mises, distrusts the use
+of economic models?
+ANSWER: the Austrian School
+Team B: What model devised by John Hicks consists of two intersecting curves that plot equilibria in the
+goods and money markets?
+ANSWER: IS-LM model
+Tossup: One model of this activity was undermined by the Leontief Paradox, which criticized its emphasis
+on factor endowments. That Hecksher-Ohlin Model of this activity distinguishes between
+"capital-intensive" and "labor-intensive" goods. A theory explaining the value of this activity was invented
+by David Ricardo using the examples of cloth and wine and is known as "comparative advantage." This
+activity is impeded by protectionist policies, such as tariffs. Name this activity by which countries
+exchange goods with one another.
+ANSWER: international trade [or free trade]
+Physical Sciences: Conservation
+Team B: The number associated with these subatomic particles--made from three quarks, not two like
+mesons--is conserved in the Standard Model.
+ANSWER: baryon
+Team A: The number associated with these elementary particles, which include the electron, muon, tau and
+their neutrinos, is conserved in the Standard Model.
+ANSWER: lepton
+Tossup: Whether photons have this quantity was the subject of the Abraham-Minkowski controversy. The
+change in this quantity is equal to the impulse. It's not velocity, but this property and position cannot be
+known with perfect precision by Heisenberg's principle. Newton's second law says the time derivative of it
+is equal to force. Newton's laws of motion also imply its conservation in a closed system. Name this
+quantity equal to the product of velocity and mass.
+ANSWER: linear momentum
+
+OAC 2013
+
+4
+
+Page 4 of 17
+
+World Geography: BOTANICAL GARDENS
+Team A: The largest collection of plants in the world is located at Kew, in this city, which also houses the
+Domesday Book.
+ANSWER: London
+Team B: Visitors to this nation’s 183-acre botanical garden may not chew gum, which has been illegal here
+since 1994 as one of this nation’s notorious anti-vandalism laws.
+ANSWER: Republic of Singapore
+Tossup: Cultural centers in this city include the botanic gardens at Kirstenbosch and the Newlands cricket
+and rugby stadium. The original northwestern border of this city was the Signal Hill and Lion’s Head
+ridges. A cloud cover known as “the tablecloth” sits outside of this city, which overlooks False Bay. This
+city shares governmental responsibilities with Bloemfontein and Pretoria. Name this legislative capital of
+South Africa, which is near a feature “of Good Hope.”
+ANSWER: Cape Town
+American History: Infrastructure
+Team B: What large dam forms Lake Mead and generates electric power with the Colorado River?
+ANSWER: Hoover Dam
+Team A: The Romans built many of these structure that were used for carrying water across land over long
+distances.
+ANSWER: aqueducts
+Tossup: The Civil War Battle of South Mills was fought near one of these features in the Great Dismal
+Swamp built along two states' border. Several corrupt contractors overcharged for repairs on these
+structures in a "ring" busted by Samuel J. Tilden. Gouverneur Morris chaired a commission for another of
+these structures, which had a Grand Celebration topped with a "Wedding of the Waters.". One of these was
+the brainchild of DeWitt Clinton, and another was returned to its home country by Jimmy Carter. Name
+these structures, including the Erie and Panama, that link two waterways.
+ANSWER: canals
+
+OAC 2013
+
+4
+
+Page 5 of 17
+
+Alphabet Round - Letter R
+1. The Seven Days Battles were an attempt to take what Confederate capital during the Civil War?
+2. What is the term for any chemical reaction in which the oxidation number of a chemical changes?
+3. Lake Contance forms part of the course of what river?
+4. What location of the Bundestag was restored by Sir Norman Foster and "wrapped" by Christo and Jeanne-Claude in 1995?
+5. The shooting down of President Juvenal Habyarimana's airplane was followed by what 1994 event in which approximately
+500,000 Tutsis were murdered.
+6. Old Town Albuquerque's Tingley Beach is located alongside what river that also flows through Las Cruces and El Paso?
+7. What last Western Roman emperor was given a pension after being captured by Odoacer in 476?
+8. What last name is shared by the poet Dante Gabriel, who wrote "The Blessed Damozel," and his sister Christina, who wrote
+"Goblin Market"?
+9. What law in chemistry states that changes in related properties of a liquid are proportional to the number of molecules of
+dissolved solute present for a given quantity of solvent molecules?
+10. What writer of Persian Letters wrote a series of novels about the titular pair of father/son giants in Gargantua and
+Pantagruel?
+11. Patton Oswalt was the voice of Remy in what 2007 Pixar movie in which the title dish is served to the restaurant critic Anton
+Ego?
+12. What Wisconsin congressman was introduced as the Republican vice-presidential nominee aboard the USS Wisconsin in
+August 2012?
+13. What poet of "Richard Cory" wrote about a "child of scorn" who had been "born too late" in his 1910 poem "Miniver
+Cheevy"?
+14. What adjective describes a tax system in which a smaller percentage of income is paid as a taxpayer's income rises?
+15. What dispersion of electromagnetic radiation by particles that have less than 1/10 the wavelength of the radiation results in
+the blue color of the daytime sky?
+16. The human diploid cell vaccine is used to vaccinate against what disease sometimes called hydrophobia?
+17. What African Methodist Episcopal minister was elected to represent Mississippi in the U.S. Senate in 1870?
+18. Chapter 6, verse 23 of what book of the New Testament states that "the wages of sin is death"?
+19. Sergei Rachmaninoff's one "on a Theme of Paganini" is an example of what type of free-form, one movement instrumental
+composition ?
+20. During Cromwell's English Commonwealth, what was the name given to the Long Parliament after the expulsion of 121
+members following Pride's Purge?
+
+OAC 2013
+
+4
+
+Page 6 of 17
+
+Alphabet Round - Letter R ANSWERS
+1. Richmond
+2. redox reaction [or oxidation-reduction reaction]
+3. Rhine River
+4. Reichstag
+5. Rwandan Genocide
+6. Rio Grande
+7. Romulus Augustulus [or Flavius Momyllus Romulus Augustulus
+8. Rossetti
+9. Raoult's Law
+10. Francois Rabelais
+11. Ratatouille
+12. Paul Ryan
+13. Edwin Arlington Robinson
+14. regressive
+15. Rayleigh Scattering [prompt on "scattering"]
+16. rabies
+17. Hiram Revels
+18. Romans
+19. rhapsody
+20. Rump Parliament
+
+OAC 2013
+
+4
+
+Page 7 of 17
+
+FINAL ROUND
+1. One type of these compounds can be used to bring ionic salts into an organic phase and are called the
+"phase transfer" type of them. One mole per second is the namesake SI unit describing the function of these
+species. In hydrogenations, noble metals often serve this purpose. These compounds do not change the
+position of an equilibrium, and they work by lowering the activation energy barrier for a reaction. In
+biology, protein ones are called enzymes. Name these species which speed up chemical reactions.
+ANSWER: catalysts
+190-13-81-04101
+
+2. A leader of this country was arrested while campaigning for the National Anti-Reelection Party. That
+leader of this country was killed during the Ten Tragic Days. After one man from this country attacked
+Columbus, John Pershing was sent into this country to track him down. La Linea is the street gang
+associated with the Juarez drug cartel in this country, which is currently waging a war on drugs. Past
+revolutionaries in this country include Porfirio Diaz and Pancho Villa. Name this country that, along with
+the US and Canada, is part of NAFTA.
+ANSWER: Mexico [or United Mexican States; or Estados Unidos Mexicanos]
+149-13-81-04102
+
+3. In one experiment, Richard King and Charles Sheridan replaced one of these creatures with a puppy that
+was shocked at increasing voltages. In another experiment, one of these creatures was nicknamed John
+Wayne because of sadistic behavior. A 1961 experiment tested how far these creatures would go in obeying
+authority figures. Name these creatures tested in the Milgram Experiment and the Stanford Prison
+Experiment, and who were also conducting the experiments.
+ANSWER: humans [or equivalents such as people]
+023-13-81-04103
+
+4. Least significant digit and most significant digit are two examples of the radix instance in this class of
+algorithms. One algorithm in this class constructs a heap, adds elements to it, maintaining the heap
+property, and then removes them one by one. Many examples of this class of algorithms are
+divide-and-conquer, including one that reorders an input around a pivot. That one is C.A.R. Hoare's "quick"
+example. A commonly taught one compares two adjacent elements and switches them if necessary; that is
+the bubble one. Identify this class of algorithms that puts a list in order.
+ANSWER: sorting algorithms
+066-13-81-04104
+
+5. This ruler granted a charter to the town of Gothenburg and he married Maria Eleonora of Brandenburg.
+This man intervened in a war after the Battle of Wolgast, which saw the defeat of Christian IV of Denmark.
+This ruler and his daughter who succeeded him were both assisted by the chancellor Axel Oxenstierna. This
+leader was killed at the Battle of Lutzen while fighting against the forces of Albrecht von Wallenstein, a
+general for the Holy Roman Empire. Name this Swedish king who fought in the Thirty Years' War.
+ANSWER: Gustavus Adolphus [or Gustav II Adolf; prompt on Gustavus; prompt on Gustav]
+014-13-81-04105
+
+6. A poem by Martial describes an encounter between two members of this profession named Priscus and
+Verus. Thousands of them were educated in the Ludus Magnus, which was built by Domitian. One group
+of them was led by the Gauls Crixus and Oenomaus. Members of this profession known as retiarii carried
+nets with them. A Jean-Leon Gerome painting popularized the notion that a thumbs up signal was used to
+let one of these people live. Name these warriors, such as the rebel Spartacus, who fought animals and each
+other in the Coliseum.
+ANSWER: gladiators
+015-13-81-04106
+OAC 2013
+
+4
+
+Page 8 of 17
+
+7. This author outlined his principles of writing in the essay "The World and the Jug." In a short story by
+this author, a man waits for a movie to end so that he can attempt to win $36.90 in a bingo game. This
+author also created a man who is accused of kidnapping Tod Clifton after adding "concentrated remover" to
+the "Optic White" batch at the Liberty Paints factory. He also created Alonzo Hickman, who fails to avert
+the assassination of the racist and possibly black Adam Sunraider in Juneteenth. Name this African
+American author of Invisible Man.
+ANSWER: Ralph Ellison [or Ralph Waldo Ellison]
+019-13-81-04107
+
+8. The last stanza of this poem begins with a repetition of the word “Forlorn,” which is compared to the
+tolling of a bell. At one point, this poem’s speaker declares he is already with the addressee and exclaims,
+"Tender is the night!” This poem ends with the speaker asking, “Do I wake or sleep?” The speaker of this
+poem states that he feels “as though of hemlock I had drunk” while addressing a “light-winged Dryad of
+the trees.” Name this poem containing the line "Thou wast not born for death, immortal bird," an ode by
+John Keats.
+ANSWER: "Ode to a Nightingale"
+192-13-81-04108
+
+9. This god took the form of a turtle to stop a mountain from sinking into the sand during the churning of
+the milk ocean. In the form of a fish named Matsya, he saved the first man, Manu, from a flood. This god
+rides on the eagle Garuda and rests on the many-headed serpent Shesha. This deity's consort is the goddess
+of luck, Lakshmi. With Shiva and Brahma, this god makes up the Trimurti. Name this Hindu preserver god
+whose avatars include Rama and Krishna.
+ANSWER: Vishnu [or Kurma before "fish" is read]
+080-13-81-04109
+
+10. Artists from this country produced a painted limestone sculpture known as the Seated Scribe. Nobles in
+this country were often buried in mud-brick above-ground tombs called mastaba. Another art form from
+this country is a kind of ceremonial figurine called the ushabti. Two serpopards wrap their necks around
+each other in a ceremonial palette from this country. Ludwig Borchardt discovered a bust of a queen of this
+country that is now in the New Museum of Berlin. This country is also home to a pair of stone temples at
+Abu Simbel. Name this country home to the Sphinx and the Great Pyramid of Giza.
+ANSWER: Ancient Egypt
+080-13-81-04110
+
+11. The founder of this denomination said "to let me be employed for you or laid aside for you" in his
+notable "Covenant Prayer." The Baltimore convention adopted the Twenty-Five Articles of Religion its
+founder wrote. This denomination's calendar includes a time called "Kingdomtide," which precedes Lent. It
+was named for its insistence on studying the Bible in a rigorously structured manner. Name this Protestant
+denomination founded by George Whitefield and John Wellesley.
+ANSWER: Methodism [or Methodists; or other word forms]
+186-13-81-04111
+
+12. This character has to evade some housepainters after distracting a woman with a tightly wrapped silver
+cigarette case. He hears a prostitute reading a section from the Gospel of John about the raising of Lazarus
+and has a hallucination about a policeman beating his landlady. Earlier, he has a dream about being seven
+years old and seeing a man beating a horse. After comparing himself to Napoleon, this character goes to the
+pawnbroker Alyona Ivanovna, then kills her and her sister. Name this protagonist of Crime and
+Punishment.
+ANSWER: Rodion Romanovitch Raskolnikov [or Rodion Romanovitch Raskolnikov; or Rodya]
+019-13-81-04112
+OAC 2013
+
+4
+
+Page 9 of 17
+
+13. This quantity is multiplied by h-bar in the numerator of the Bohr magneton. For its namesake property,
+quarks have a value of positive two-thirds or negative one-third of this constant. It equals Faraday's
+constant divided by Avogadro's number. This constant was first measured in an experiment which allowed
+oil drops to reach terminal velocity, initiated by Millikan. That experiment, which calculated this quantity's
+ratio to electron mass, set it to be approximately one point six times ten to the negative nineteenth
+Coulombs. Name this value symbolized e.
+ANSWER: elementary charge [or charge of a proton; or charge of an electron]
+190-13-81-04113
+
+14. N equitans is the only organism in one phylum of this taxon. Carl Woese first identified and classified
+this group of organisms. Organisms in this taxon have ether, rather than ester bonds, to fatty acids, and their
+fatty acids are branched. They have pseudomurein, rather than peptidoglycan, in their cell walls. Halophiles
+and methanogens are categorized into this taxon, which also contains a group of organisms which can live
+in hot springs. This prokaryotic domain was separated from Bacteria in 1977. Name this group of
+unicellular extremophile organisms.
+ANSWER: Archaea
+190-13-81-04114
+
+15. The speaker of this poem complains, “I mete and dole unequal laws unto a savage race, that hoard, and
+sleep, and feed, and know not me.” Its last stanza begins with the observation, “There lies the port; the
+vessel puffs her sail.” This poem’s speaker describes himself “yearning in desire to follow knowledge like
+a sinking star.” The speaker concludes by affirming that he and his old mariners are “strong in will to
+strive, to seek, to find, and not to yield.” Name this dramatic monologue by Lord Tennyson spoken by the
+hero of the Odyssey.
+ANSWER: “Ulysses”
+014-13-81-04115
+
+16. The influence of Utagawa Hiroshige (hee-row-SHE-gay) on this artist can be seen in his Bridge in the
+Rain and in the background to his portrait of art dealer Pere Tanguy. This artist painted pictures of his
+bedroom and the Yellow House in which he lived in Arles. In one painting, this artist depicted a woman
+pouring coffee at the square table of the five title people, who are lit by a small oil lamp hanging from the
+ceiling. Another painting by this man shows Saint Remy under a swirling evening sky. Name this Dutch
+Post-Impressionist who painted The Potato Eaters and The Starry Night.
+ANSWER: Vincent Willem van Gogh
+023-13-81-04116
+
+17. Neville Island is the largest island within this river by area, though the most populous island within it is
+a gambling mecca that is accessible by the Fort Henry Bridge. This river receives the Big Sandy and the
+Wabash as tributaries. Cairo, Illinois is located near its mouth, and its largest tributary is the Tennessee
+River. It is formed by the confluence of the Monongahela and Allegheny Rivers in Pittsburgh. Name this
+river that flows through Louisville and is the largest tributary by volume of the Mississippi.
+ANSWER: Ohio River
+192-13-81-04117
+
+OAC 2013
+
+4
+
+Page 10 of 17
+
+18. One of these tunes entitled “You'll Find Me at Maxim's” is played in the first movement of
+Shostakovich’s Leningrad Symphony. Audiences traditionally clap to one of these pieces composed by
+Johann Strauss Senior to commemorate a victory by Field Marshall Radetsky. One of these tunes is played
+“....to the Scaffold” in Hector Berlioz’s Symphonie Fantastique. One of these pieces, entitled “The Liberty
+Bell,” was composed by a man known as the “king” of this form. Name this musical form, examples of
+which include the “Washington Post” and “The Stars and Stripes Forever” by John Philip Sousa.
+ANSWER: marches
+030-13-81-04118
+
+19. In his debut game at age twenty in 2003, this man hit a walk-off home run. That year, he also hit a
+two-run homer off Roger Clemens in Game 4 of the World Series, helping the Florida Marlins to an
+eventual series win. He was arrested for drunk driving in 2011; earlier, he moved to first base after being
+traded in 2007 with teammate Dontrelle Willis, but later changed positions again after his team acquired
+Prince Fielder. He edged out Mike Trout for the most recent AL MVP award. Name this Detroit Tigers
+third baseman, who won the Triple Crown in 2012.
+ANSWER: Jose Miguel Cabrera Torres
+052-13-81-04119
+
+20. While at Coldwater II near this location, David Johnston became the first person to report an event here,
+radioing "This is it!" before his death. Reid Blackburn, a photographer for National Geographic, was eight
+miles away from this location when that event occurred. The Toutle River was filled with sediment after
+this peak's north face fell away early in the morning on May 18, 1980. Name this volcanic peak that erupted
+and killed 57 people in the state of Washington.
+ANSWER: Mount Saint Helens
+023-13-81-04120
+
+OAC 2013
+
+4
+
+Page 11 of 17
+
+Alphabet Round - Letter R
+1. The Seven Days Battles were an attempt to take what Confederate capital during the Civil War?
+2. What is the term for any chemical reaction in which the oxidation number of a chemical changes?
+3. Lake Contance forms part of the course of what river?
+4. What location of the Bundestag was restored by Sir Norman Foster and "wrapped" by Christo and Jeanne-Claude in 1995?
+5. The shooting down of President Juvenal Habyarimana's airplane was followed by what 1994 event in which approximately
+500,000 Tutsis were murdered.
+6. Old Town Albuquerque's Tingley Beach is located alongside what river that also flows through Las Cruces and El Paso?
+7. What last Western Roman emperor was given a pension after being captured by Odoacer in 476?
+8. What last name is shared by the poet Dante Gabriel, who wrote "The Blessed Damozel," and his sister Christina, who wrote
+"Goblin Market"?
+9. What law in chemistry states that changes in related properties of a liquid are proportional to the number of molecules of
+dissolved solute present for a given quantity of solvent molecules?
+10. What writer of Persian Letters wrote a series of novels about the titular pair of father/son giants in Gargantua and
+Pantagruel?
+11. Patton Oswalt was the voice of Remy in what 2007 Pixar movie in which the title dish is served to the restaurant critic Anton
+Ego?
+12. What Wisconsin congressman was introduced as the Republican vice-presidential nominee aboard the USS Wisconsin in
+August 2012?
+13. What poet of "Richard Cory" wrote about a "child of scorn" who had been "born too late" in his 1910 poem "Miniver
+Cheevy"?
+14. What adjective describes a tax system in which a smaller percentage of income is paid as a taxpayer's income rises?
+15. What dispersion of electromagnetic radiation by particles that have less than 1/10 the wavelength of the radiation results in
+the blue color of the daytime sky?
+16. The human diploid cell vaccine is used to vaccinate against what disease sometimes called hydrophobia?
+17. What African Methodist Episcopal minister was elected to represent Mississippi in the U.S. Senate in 1870?
+18. Chapter 6, verse 23 of what book of the New Testament states that "the wages of sin is death"?
+19. Sergei Rachmaninoff's one "on a Theme of Paganini" is an example of what type of free-form, one movement instrumental
+composition ?
+20. During Cromwell's English Commonwealth, what was the name given to the Long Parliament after the expulsion of 121
+members following Pride's Purge?
+
+OAC 2013
+
+4
+
+Page 12 of 17
+
+Alphabet Round - Letter R
+1. The Seven Days Battles were an attempt to take what Confederate capital during the Civil War?
+2. What is the term for any chemical reaction in which the oxidation number of a chemical changes?
+3. Lake Contance forms part of the course of what river?
+4. What location of the Bundestag was restored by Sir Norman Foster and "wrapped" by Christo and Jeanne-Claude in 1995?
+5. The shooting down of President Juvenal Habyarimana's airplane was followed by what 1994 event in which approximately
+500,000 Tutsis were murdered.
+6. Old Town Albuquerque's Tingley Beach is located alongside what river that also flows through Las Cruces and El Paso?
+7. What last Western Roman emperor was given a pension after being captured by Odoacer in 476?
+8. What last name is shared by the poet Dante Gabriel, who wrote "The Blessed Damozel," and his sister Christina, who wrote
+"Goblin Market"?
+9. What law in chemistry states that changes in related properties of a liquid are proportional to the number of molecules of
+dissolved solute present for a given quantity of solvent molecules?
+10. What writer of Persian Letters wrote a series of novels about the titular pair of father/son giants in Gargantua and
+Pantagruel?
+11. Patton Oswalt was the voice of Remy in what 2007 Pixar movie in which the title dish is served to the restaurant critic Anton
+Ego?
+12. What Wisconsin congressman was introduced as the Republican vice-presidential nominee aboard the USS Wisconsin in
+August 2012?
+13. What poet of "Richard Cory" wrote about a "child of scorn" who had been "born too late" in his 1910 poem "Miniver
+Cheevy"?
+14. What adjective describes a tax system in which a smaller percentage of income is paid as a taxpayer's income rises?
+15. What dispersion of electromagnetic radiation by particles that have less than 1/10 the wavelength of the radiation results in
+the blue color of the daytime sky?
+16. The human diploid cell vaccine is used to vaccinate against what disease sometimes called hydrophobia?
+17. What African Methodist Episcopal minister was elected to represent Mississippi in the U.S. Senate in 1870?
+18. Chapter 6, verse 23 of what book of the New Testament states that "the wages of sin is death"?
+19. Sergei Rachmaninoff's one "on a Theme of Paganini" is an example of what type of free-form, one movement instrumental
+composition ?
+20. During Cromwell's English Commonwealth, what was the name given to the Long Parliament after the expulsion of 121
+members following Pride's Purge?
+
+OAC 2013
+
+4
+
+Page 13 of 17
+
+Alphabet Round - Letter R
+1. The Seven Days Battles were an attempt to take what Confederate capital during the Civil War?
+2. What is the term for any chemical reaction in which the oxidation number of a chemical changes?
+3. Lake Contance forms part of the course of what river?
+4. What location of the Bundestag was restored by Sir Norman Foster and "wrapped" by Christo and Jeanne-Claude in 1995?
+5. The shooting down of President Juvenal Habyarimana's airplane was followed by what 1994 event in which approximately
+500,000 Tutsis were murdered.
+6. Old Town Albuquerque's Tingley Beach is located alongside what river that also flows through Las Cruces and El Paso?
+7. What last Western Roman emperor was given a pension after being captured by Odoacer in 476?
+8. What last name is shared by the poet Dante Gabriel, who wrote "The Blessed Damozel," and his sister Christina, who wrote
+"Goblin Market"?
+9. What law in chemistry states that changes in related properties of a liquid are proportional to the number of molecules of
+dissolved solute present for a given quantity of solvent molecules?
+10. What writer of Persian Letters wrote a series of novels about the titular pair of father/son giants in Gargantua and
+Pantagruel?
+11. Patton Oswalt was the voice of Remy in what 2007 Pixar movie in which the title dish is served to the restaurant critic Anton
+Ego?
+12. What Wisconsin congressman was introduced as the Republican vice-presidential nominee aboard the USS Wisconsin in
+August 2012?
+13. What poet of "Richard Cory" wrote about a "child of scorn" who had been "born too late" in his 1910 poem "Miniver
+Cheevy"?
+14. What adjective describes a tax system in which a smaller percentage of income is paid as a taxpayer's income rises?
+15. What dispersion of electromagnetic radiation by particles that have less than 1/10 the wavelength of the radiation results in
+the blue color of the daytime sky?
+16. The human diploid cell vaccine is used to vaccinate against what disease sometimes called hydrophobia?
+17. What African Methodist Episcopal minister was elected to represent Mississippi in the U.S. Senate in 1870?
+18. Chapter 6, verse 23 of what book of the New Testament states that "the wages of sin is death"?
+19. Sergei Rachmaninoff's one "on a Theme of Paganini" is an example of what type of free-form, one movement instrumental
+composition ?
+20. During Cromwell's English Commonwealth, what was the name given to the Long Parliament after the expulsion of 121
+members following Pride's Purge?
+
+OAC 2013
+
+4
+
+Page 14 of 17
+
+Alphabet Round - Letter R
+1. The Seven Days Battles were an attempt to take what Confederate capital during the Civil War?
+2. What is the term for any chemical reaction in which the oxidation number of a chemical changes?
+3. Lake Contance forms part of the course of what river?
+4. What location of the Bundestag was restored by Sir Norman Foster and "wrapped" by Christo and Jeanne-Claude in 1995?
+5. The shooting down of President Juvenal Habyarimana's airplane was followed by what 1994 event in which approximately
+500,000 Tutsis were murdered.
+6. Old Town Albuquerque's Tingley Beach is located alongside what river that also flows through Las Cruces and El Paso?
+7. What last Western Roman emperor was given a pension after being captured by Odoacer in 476?
+8. What last name is shared by the poet Dante Gabriel, who wrote "The Blessed Damozel," and his sister Christina, who wrote
+"Goblin Market"?
+9. What law in chemistry states that changes in related properties of a liquid are proportional to the number of molecules of
+dissolved solute present for a given quantity of solvent molecules?
+10. What writer of Persian Letters wrote a series of novels about the titular pair of father/son giants in Gargantua and
+Pantagruel?
+11. Patton Oswalt was the voice of Remy in what 2007 Pixar movie in which the title dish is served to the restaurant critic Anton
+Ego?
+12. What Wisconsin congressman was introduced as the Republican vice-presidential nominee aboard the USS Wisconsin in
+August 2012?
+13. What poet of "Richard Cory" wrote about a "child of scorn" who had been "born too late" in his 1910 poem "Miniver
+Cheevy"?
+14. What adjective describes a tax system in which a smaller percentage of income is paid as a taxpayer's income rises?
+15. What dispersion of electromagnetic radiation by particles that have less than 1/10 the wavelength of the radiation results in
+the blue color of the daytime sky?
+16. The human diploid cell vaccine is used to vaccinate against what disease sometimes called hydrophobia?
+17. What African Methodist Episcopal minister was elected to represent Mississippi in the U.S. Senate in 1870?
+18. Chapter 6, verse 23 of what book of the New Testament states that "the wages of sin is death"?
+19. Sergei Rachmaninoff's one "on a Theme of Paganini" is an example of what type of free-form, one movement instrumental
+composition ?
+20. During Cromwell's English Commonwealth, what was the name given to the Long Parliament after the expulsion of 121
+members following Pride's Purge?
+
+OAC 2013
+
+4
+
+Page 15 of 17
+
+Alphabet Round - Letter R
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+4
+
+Page 16 of 17
+
+Alphabet Round - Letter R
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+4
+
+Page 17 of 17
+
+

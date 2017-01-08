@@ -1,0 +1,451 @@
+BHSAT XIX
+
+Packet 12
+
+Tossups:
+1. This relation is only valid if the interacting entities are homogeneously distributed in the medium and do
+not scatter the incoming radiation, which must come in via parallel and preferably monochromatic rays. It
+describes the adsorption of light as it relates to the properties of the media in showing that the
+transmissivity of light depends logarithmically on the product of the adsorption coefficient of the substance
+and the path length of the light. FTP, expressing what equation in terms of absorbance yields an equation
+that shows that absorbance is proportional to concentration, where concentration is the adsorption
+coefficient divided by the molar absorptivity?
+ANSWER: Beer-Lambert-Bouguer Law
+2. The White Tower is exemplary of these peoples’ architecture. Kind David I was instrumental in
+introducing the culture of these people into Scotland. A group of these peoples were instrumental in
+founding Kievan Rus, under the name of Varangians. Roger II ruled Sicily as one of these people, after his
+uncle Robert Guiscard had conquered it from the Saracens. But perhaps the most famous conquest of these
+peoples was chronicled in the Bayeux Tapestry. FTP, identify these people from a namesake region of
+northern France, who conquered England under the leadership of William the Conqueror.
+ANSWER: Normans
+3. In one play by this author, Morose marries the titular “silent woman” only to discover that she is in fact a
+nagging shrew and not even actually a woman. In another play. Littlewit tries to outwit the Puritan Zeal-ofthe-Land Busy to try and steal his wife Dame Purecraft at the title celebration in Smithfield. Besides those
+plays, Epicoene and Bartholomew Fair, he wrote one in which the titular Venetian gentleman fakes being
+on his deathbed to dupe characters such as Corbaccio and Corvino into competing to become his heir, and
+one in which Jeremy pretends to be Captain Face, who can turn base metal into gold. FTP, who is English
+Renaissance playwright of Volpone and The Alchemist?
+ANSWER: Ben Jonson
+4. The beginnings of this act were introduced by its namesake formulator during a speech at Harvard
+University, and the first nations benefitted by this program were Greece and Turkey. Although US foreign
+officials tried to extend the benefits from this program to the Soviet Bloc, Joseph Stalin rejected the offer,
+dismissing the supposed generosity of the US government as a surreptitious method of destabilizing his
+regime. For ten points, name this “plan” to facilitate the economic recovery of post-World War II Europe,
+the brainchild of Harry Truman’s Secretary of State.
+ANSWER: Marshall Plan
+5. This man was a star for the Iowa Barnstormers and the Amsterdam Admirals but before that he played
+for the University of Northern Iowa. He met his wife and offered to adopt her Down’s Syndrome baby
+while stocking shelves in a grocery store for $5.50 an hour. Once he got to the NFL he served as the backup
+to Trent Green, Eli Manning, and Matt Leinart, but after getting the chance to start, he racked up over 4,000
+passing yards, 41 touchdown passes, jump-started an offense known as The Greatest Show on Turf” and
+led the St. Louis Rams to a Super Bowl Victory. Nine years later, he led the Arizona Cardinals to Super
+Bowl where they lost to the Steelers. FTP, name this recently retired quarterback.
+ANSWER: Kurt Warner
+6. Opening with a seemingly harmless meeting between the title figure and his naïve, overly emotional
+neighbor, this novel describes how the sister of the neighbor’s fiancée quickly falls in love with the title
+character, who brusquely rejects her advances. The protagonist then thoughtlessly flirts with his neighbor’s
+fiancée, Olga Larina, which prompts a challenge to a duel by the neighbor, Alexander Lensky. For ten
+points, the titular aristocratic dandy dallies with Tatyanaand later murders Lensky in which influential
+novel of the Russian Romantic movement written by Alexander Pushkin?
+ANSWER: Eugene Onegin
+7. These are often conjugated to the surfaces of nanoparticles for targeted drug delivery. Complementary
+Determining Regions are central to their binding power, which can be consolidated through production of
+scFv’s, and they consist of a tetramer of light and heavy chains. They can use their Fc region to activate
+
+1
+
+BHSAT XIX
+
+Packet 12
+
+opsonization or the Membrane Attack Center through the complement system, and they rely upon VDJ
+recombination to produce a virtually unlimited variety of binding sites. This specificity makes them useful
+in tests like the Western blot. FTP, name these proteins of the immune system, the product of B cells.
+ANSWER: Antibodies or Immunoglobulins
+8. The modern day name of this river comes from Greek, but in the countries where it actually flows
+through, it has been called “great river” or simply “the river”. From 8000 BC to 1000 BC, this river had a
+third tributary, named Yellow, that followed through eastern Chad. The two sources for this river are
+Rwanda and Ethiopia, and these two tributaries meet at Khartoum. Following construction of the Aswan
+High Dam in 1970, this river has ceased to be used for irrigation, but it is still an important source of
+transportation. FTP, name this longest river in the world, which flows by the Pyramids and the Sphnix.
+ANSWER: Nile River
+9. One painting of this subject is located in the refectory of Sant’Apollonia and was painted by Andrea del
+Castagno. That painting depicts one of the subjects in an isolated position from the others. Another
+painting of this event does not depict the figures occupying the middle of the canvas, as is usual. That
+work is also noted for its general mannerist style and the supernatural figure that surrounds the central
+figure with light on the lefthand side. Veronese’s Feast in the House of Levi was actually a depiction of
+this event, but he was force to change the title. The most famous painting of this subject features a
+vanishing point in the exact center of the painting through three windows behind the thirteen figures. FTP,
+identify the shared name of these paintings by Castagno, Tintoretto, and Leonardo da Vinci, which depict
+the last meal of Christ before his Crucifixion.
+ANSWER: Last Suppers
+10. Although he pleaded for toleration from the Catholic Church, this man was not hesitant to use violence,
+executing the heretic Michael Servetus for his views. Even more than Luther, he shaped the beliefs of the
+Puritans, which led Weber to hold him responsible for the development of Capitalism. After his death, this
+man’s Huguenot community in Geneva was led by Zwingli. This leader of the Protestant Reformation in
+France was most famous for his Institutes of the Christian Religion. For ten points, name this second most
+important Protestant theologian who believed in predestination.
+ANSWER: John Calvin
+11. This dynasty famously if briefly ruled the city founded according to legend by Perseus, which city
+would later give its name to the period of post-Minoan, pre-Dark Age Ancient Greek history. Its less
+notable members included Hippodamia and Thyestes, respectively mother and brother of this dynasty's
+namesake. Hippodamia's name alludes to the second, non-cannibalized death of the peninsula-naming
+father of this dynasty's namesake. In Frank Herbert's Dune, the House, often opposed to House Harkonnen,
+that is led by Leto and Paul is said to be descended from this cursed dynasty. That fictional house is
+Atreides. FTP, name this house, whose members included Tantalus, Pelops, Menelaus, Agamemnon, and
+its namesake.
+ANSWER: House of Atreus (prompt on Atreus; accept Atreides before mention)
+12. This hormone's release is limited by atrial natriuretic peptide, while its action can be opposed by
+compounds like spironolactone and amphenone. Its overproduction is known as Conn's syndrome, while its
+underproduction is associated with Addison's disease. It acts on the kidneys as part of the renin-angiotensin
+system, while its release from the zona glomerulosa to act on the collecting ducts and distal tubule results in
+higher blood pressure and increased excretion of potassium ions. FTP, name the mineralocorticoid
+produced by the adrenal glands to promote increased sodium ion and water reabsorption.
+ANSWER: aldosterone
+13. He is based on a deity from the Rig Veda associated with Varuna, as well a Zoroastrian deity who
+presided over contracts. His red cap signified these Eastern origins, and although he was worshipped
+underground, he was combined with the sun-god Helios and called “Sol Invictus”. His cult was popular in
+the military, and initiates had to pass through seven ranks complete with trials before they became full
+worshippers. This god was depicted with the universe lining his cape, and was said to have been born from
+
+2
+
+BHSAT XIX
+
+Packet 12
+
+solid stone. For ten points, name this central deity of a Roman mystery cult with a strong influence on
+Christianity, who was born on December 25 and was frequently depicted sacrificing a bull on an altar.
+ANSWER: Mithras
+14. This relation, which was formulated by analyzing the spectra of galaxies, is currently believed to be
+caused by dark energy and is a variation of Doppler shift in the context of special relativity. Fainter, older
+galaxies were noted to have their spectrum shifted further to lower wavelengths, a result which supported
+the predictions of the Friedmann equations and indicated that other galaxies were moving away from our
+galaxy. A more interesting observation showed that not only were galaxies in all regions of the sky moving
+away from the Milky Way, but they were also moving away from each other. FTP, what is this law which
+explains the expansion of the universe which gets its name from its famous astronomer formulator and a
+namesake constant and space telescope?
+Answer: Hubble’s Law
+15. Late in life, this composer revised his second symphony so that its final chord contained 11 of the 12
+notes of the chromatic scale. The spontaneous singing of the hymn "In the Sweet Bye and Bye" in response
+to the sinking of the Lusitania inspired his From Hanover Square North. His fourth symphony features a
+"Comedy" movement based on Hawthorne's "The Celestial Railroad." The second movement of another
+piece, based on the composer's earlier Country Band March, is "Putnam's Camp," and that piece's first
+movement depicts Saint-Gaudens' monument to Colonel Robert Shaw. In another piece a string quartet and
+woodwind quartet accompany the inquisitive solo trumpet. For 10 points, identify this composer of Three
+Places in New England and The Unanswered Question.
+ANSWER: Charles Ives
+16. A lead up to this event was the so-called humiliation of Olmutz. Karl Blind was a leading figure in the
+push for this to occur. World War I was officially ended in the same location in which this event formally
+occurred. An earlier attempt to accomplish this by the Frankfurt parliament would have been a
+Kleindeutsch solution, was thwarted by Frederick William IV. The final phase of this event began when
+the Ems dispatch was doctored by a certain chancellor and then sent to Napoleon III. Earlier, that same
+chancellor had provoked the Seven Weeks war with Austria over the territories of Schleswig and Holstein.
+Using techniques like Realpolitik and the “Blood and Iron” speech, Otto Von Bismark managed to, FTP,
+accomplish what event by 1871?
+ANSWER: Unification of Germany
+17. The Wall Street Journal recently reported on this man’s new novel, a book it compared to the Iliad. As
+a child, he became blind in one eye following a fishing accident; this reportedly led him to focus his field
+observations on insects instead of birds or mammals because of his ability to observe them. He won a
+Pulitzer in 1979 for the book On Human Nature and a second Pulitzer in 1991 for The Ants, but he is still
+best known for a controversial book, Sociobiology, which compared human societies to those of other
+animals. FTP, name this evolutionary biologist, a proponent of Biophilia.
+ANSWER: E.O. Wilson
+18. The narrator of this novel believes the place where he lives runs a fog machine and calls society’s
+means of keeping people in line “The Combine”. And later reveals he is not really deaf by voting to watch
+the World Series in a group meeting. One character in this novel has a neurotic obsession with cleanliness,
+George Sorenson. And other characters include the articulate, closeted homosexual, Harding, and the
+stuttering, mother-dominated Billy Bibbit. Chief Bromden narrates the tale of patients of the psychiatric
+ward in, FTP, what novel in which con man Randle McMurphy fights the tyrannical rule of Nurse Ratched
+by Ken Kesey?
+ANSWER: One Flew Over the Cuckoo’s Nest
+19. This conflict lasted over two hundred years and is described in Macchiavelli's Discourses, although
+some recent scholarship suggests it might never have happened and simply been an invented projection by
+later writers of the problems of their own time. It stemmed from the unequal class-based distribution of
+political, religious, and military power and saw numerous attempts by the disenfranchised to correct those
+imbalances, frequently through the creation of new offices. This conflict was punctuated by secessions in
+
+3
+
+BHSAT XIX
+
+Packet 12
+
+which the populous lower class left the city and refuse to engage in its wars, for example with the Volsci,
+Aequi, and Latins. The creation of tribunes, whose bodies were sacrosanct and some of whom had military
+imperium, the opening of the consulate to the lower class, and the granting of full binding legislative
+authority to the lower class's assembly through the Lex Hortensia were instrumental in defusing this
+conflict. FTP, name this competition between Ancient Roman socio-political castes.
+ANSWER: Struggle (or Conflict) of the Orders or Struggle/Conflict between the Plebeians
+and Patricians or equivalents including the words Plebeian and Patrician
+20. A pair of historical novels by this author follows first the titular colonel of the English army in the time
+of Queen Anne and later his two grandsons George and Henry Warrington, who take opposite sides in the
+American Revolution, The History of Henry Esmond and The Virginians. And he wrote about a picaresque
+about an Irishman named Redmond Barry, who tries to wile his way into the English Aristocracy in The
+Luck of Barry Lyndon. But his most popular work is a “Novel Without A Hero”, whose protagonist include
+the virtuous Amanda Sedley and the manipulative Becky Sharp. FTP, this is what English novelist of
+Vanity Fair?
+ANSWER: William Thackeray
+21. A symbol in this novel is that of a blossoming pear tree, which represents the beauty and harmony of
+nature. The frame narrative of the novel sees the protagonist tell her tale to Phoeby Watson after returning
+from Eatonville. One character in this novel became the mayor and was married to the protagonist before
+his dictatorial nature and eventual death causes her to fall in love with a man she plays checkers with,
+whose real name is Vergible Woods. However, the latter character ends up succumbing to a bite from a
+rabid dog he defended her from during a hurricane in the Everglades. FTP, Logan Killicks, Jody Starks, and
+Tea Cake are the three husbands of Janie Mae Crawford in what novel by Zora Neale Hurston?
+ANSWER: Their Eyes Were Watching God
+
+Bonuses:
+1. For e to the x, this is equal to 1 plus x plus x squared over 2 plus x cubed over 6, etc, etc. FTPE:
+[10] Identify these polynomials which give an approximation for a differentiable function. When they are
+centered around x = 0, they are sometimes named for McClaurin.
+ANSWER: Taylor series
+[10] Proving Taylor’s theorem requires this other theorem, which states that integration and differentiation
+are opposites
+ANSWER: fundamental theorem of calculus
+[10] This type of integration is more general than Riemann integration, and only requires a definition of its
+namesake measure in order to exist.
+ANSWER: Lesbesgue integration
+2. This novel centers on the life of Tomas, a successful surgeon who keeps several mistresses, and his
+faithful yet unhappy wife, Tereza, as they navigate through various philosophical dilemmas and the dangers
+of living in a Communist regime. FTPE:
+[10] Identify this novel.
+ANSWER: The Unbearable Lightness of Being
+[10] Name the author of The Unbearable Lightness of Being, a notable Communist dissident who also has
+written The Joke and The Book of Laughter and Forgetting.
+ANSWER: Milan Kundera
+[10] Milan Kundera hails from this country, whose other authors include Karel Capek and Vaclav Havel.
+ANSWER: Czech Republic (accept Czechoslovakia)
+3. Identify the following terms related to chords in tonal music, for 10 points each.
+[10] This is a three-note chord consisting of two stacked thirds. Depending on whether the thirds are major
+or minor, it may be major, minor, augmented, or diminished.
+ANSWER: triad
+
+4
+
+BHSAT XIX
+
+Packet 12
+
+[10] This is the term for a chord built on the fifth scale degree. A half cadence ends on this type of chord,
+while an authentic cadence goes from one to a tonic chord.
+ANSWER: dominant
+[10] Dominant chords may be preceded by this type of chord named for the characteristic interval between
+two of its notes. Subtypes include the German, Italian, and French varieties.
+ANSWER: augmented sixth chords
+4. Stuff about the US home front during World War II, FTPE:
+[10] This fictional, quasi-masculine figure famously portrayed by Norman Rockwell on the cover of the
+Saturday Evening Post was designed to encourage female participation in the war effort.
+ANSWER: Rosie the Riveter
+[10] This nationalist cartoon created by Walt Disney portrayed Donald Duck as a German factory worker
+egged on by Hirohito, Goebbels, and Goering figures to endlessly produce artillery shells in deplorable
+conditions. Donald realizes it’s all a dream, however, and wakes up to the sweet sight of the American flag
+in his room.
+ANSWER: Der Fuhrer’s Face
+[10] This Supreme Court decision upheld the legality of Executive Order 9066, which enacted the forced
+internment of Japanese Americans.
+ANSWER: Korematsu v. United States
+5. Answer these questions about the boundary science between physics and chemistry, FTPE:
+[10] This a modification of classical physics where microscopic systems are explained by a series of
+postulates which restrict particles to certain discrete states.
+Answer: quantization
+[10] Quantization explains this phenomenon in which the transition of a particular discrete energy level of
+an atom to another lower energy state produces a photon of a particular energy and wavelength. This
+phenomenon generates namesake lines.
+Answer: atomic spectra
+[10] Quantum mechanics also explains this effect proposed by Einstein where an absorption of a photon of
+a frequency higher than the threshold frequency is able to release an electron from a metallic surface.
+Answer: photoelectric effect
+6. Answer these questions about cellular junctions FTPE:
+[10] These cell wall-transcending structures are found between plant and algal cells. Along with
+desmotubules, they allow for the transport of molecules between adjacent cells.
+ANSWER: plasmodesmata
+[10] The animal cell equivalent to plasmodesmata, these consist of two connexons and also allow for the
+free transport of molecules between adjacent cells.
+ANSWER: gap junction
+[10] Gap junctions are one of three membrane junctions found at these double membrane entities found
+between cardiac muscle cells. They allow for the synchronous contraction of the heart.
+ANSWER: intercalated discs
+7. Identify some emperors from Chinese history FTPE:
+[10] This man unified China and burned a great number of Confucian books. In 1974 some farmers near
+Xi’an discovered his Terracotta army.
+ANSWER: Qin Shi Huang Di
+[10] This Qing emperor doubled the size of China by invading Tibet, Taiwan and Outer Mongolia. He ruled
+for 61 years; his grandson Qianlong was in power for 64.
+ANSWER: Kangxi
+[10] This last Qing emperor was forced to undergo self-criticisms by the Communists. The Japanese
+convinced him to become the puppet emperor of Manchuko during WWII, and Bertolucci’s The Last
+Emperor is about him.
+ANSWER: Puyi
+8. Identify some Indian authors, FTPE:
+
+5
+
+BHSAT XIX
+
+Packet 12
+
+[10] This Indian-American author won the Pulitzer Prize in 2000 for a collection that includes such stories
+as “This Blessed House”, “A Temporary Matter”, and the titular story “The Interpreter of Maladies”.
+ANSWER: Jhumpa Lahiri
+[10] This Indian poet wrote the lyrics to the national anthems of Bangladesh and India, but is more famous
+for his poetry collection Gitanjali and for being the first Non-European to win the Nobel Prize for
+Literature.
+ANSWER: Rabindrath Tagore
+[10] This literary family has produced two of the most famous living Indian authors. The mother, Anita,
+wrote Fire on the Mountain and In Custody, and the daughter Kiran, wrote The Inheritance of Loss.
+ANSWER: Desai(s)
+9. Name some military leaders of the ancient Near East FTPE:
+[10] This man inherited the Macedonian empire of Phillip II and named a number of cities after himself. He
+also sacked Thebes and was famous for solving intractable problems, like the Gordian knot, with a sword.
+ANSWER: Alexander the Great
+[10] Alexander defeated this Persian king, who fled the battlefields at Gaugamela and Issus. He was killed
+by his satrap Bessus and his guard, Nabarzanes.
+ANSWER: Darius III
+[10] A man by this name founded a kingdom in Egypt after Alexander’s death. Many rulers sharing this
+name ruled Egypt for centuries afterwards.
+ANSWER: Ptolemy
+10. Identify characters and motifs from James Joyce’s Ulysses FTPE:
+[5, 5] The first letter of Ulysses, “S,” stands for Stephen. The first letter of the second and third major units
+are “M” and “P,” respectively. For five points per part, name the characters “M” and “P” stand for.
+ANSWER: Molly Bloom and Leopold Bloom (accept either underlined part, as well as “Poldy”)
+[10] In the Cyclops chapter this man is an ultranationalist sports enthusiast. He throws a bread tin at Bloom,
+in the manner of Polyphemus.
+ANSWER: The Citizen
+[10] This man, barely a friend to Stephen, describes his name as “two dactyls.” The work opens by
+describing him as “stately, plump.” He later locks Stephen out of the Martello Tower for the day.
+ANSWER: Buck Mulligan (Accept either or both)
+11. This work chronicles the lives of Charles Ryder, a student at Oxford University, his friend Sebastian
+Flyte, a fellow student at Oxford, and Charles’ lover Julia, Sebastian’s younger sister, as they eventually
+fall into depression and melancholy. FTPE:
+[10] Name this novel satirizing both Catholicism and the fall of the British nobility.
+ANSWER: Brideshead Revisited
+[10] Name the author of Brideshead Revisited, a social commentator whose vivid prose and biting humor
+manifest itself in such works as the Sword of Honor trilogy, Decline and Fall, and The Loved One.
+ANSWER: Evelyn Waugh
+[10] This notable English author frequently clashed with Waugh, claiming that Waugh was "about as good
+a novelist as one can be while holding untenable opinions.” His essays include “Politics and the English
+Literature” and “Shooting an Elephant”.
+ANSWER: George Orwell
+12. Answer some questions about the most populous muslim country in the world, FTPE:
+[10] Name this country, which has its capital at Jakarta.
+ANSWER: Indonesia
+[10] Indonesia adopted a neutral stance during the Cold War under this man, its first President. He also
+helped the nation achieve its independence from the Netherlands.
+ANSWER: Sukarno
+[10] Sukarno was overthrown by this general, who then struck a pro-American stance. He lost popularity
+after mishandling the 1997 Asian financial crisis.
+ANSWER: Suharto
+
+6
+
+BHSAT XIX
+
+Packet 12
+
+13. Name some important political figures from the Enlightenment, FTPE:
+[10] This Russian monarch was one of the foremost proponents of the doctrine of “enlightened
+absolutism,” although she later became much more conservative later in her lifetime as she continued to
+enforce such autocratic measures as military conscription for serfs.
+ANSWER: Catherine II of Russia (accept Catherine the Great)
+[10] This Holy Roman Emperor was also an “enlightened despot,” most notably making large strides
+towards adopting religious toleration and attempting to modernize the Catholic Church. He is known for his
+quote, “Everything for the people, nothing by the people.”
+ANSWER: Joseph II of Austria
+[10] This Elector of Brandenburg formed a sometimes stormy relationship with Voltaire, initiating some
+reforms towards religious toleration and patronizing the arts, but made sure that he kept absolute control
+over his land.
+ANSWER: Frederick II of Prussia (accept Frederick the Great)
+14. For ten points each, name these deities associated with smithing or the forge:
+[10] This is the Roman god of fire and smithing, who forged Jupiter’s lightning bolts.
+ANSWER: Vulcan or Mulciber
+[10] This smith from the Kalevala and creator of the Sampo is the brother of Vainamoinen.
+ANSWER: Ilmarinen
+[10] This deity from Haitian Voodoo is based on Yoruba deity of the same name. He presides over
+smithing, fire, politics, and warfare.
+ANSWER: Ogoun
+15. Answer some questions about the most inspirational songs of ALL TIME.
+[10] This song by Eminem won the 2002 Oscar for Best Original Song and loosely chronicles a young
+rapper’s rise to greatness. It asks listeners to act as though they had “One shot, one opportunity, to seize
+everything they ever wanted”
+ANSWER: Lose Yourself
+[10] Even more inspirational (if possible) is this song from Rocky III, that discusses the “thrill of the fight”
+felt by “a man and his will to survive.”
+ANSWER: The Eye of the Tiger
+[10] Although the band admits to digitally speeding up their music in the studio, that doesn’t make this
+Dragonforce song featured on Guitar Hero III any less epic. It takes place “On a Cold Winter Morning” and
+repeatedly exhorts the listener to “carry on” through the titular substances.
+ANSWER: Through the Fire and the Flames
+16. Name the following monastic orders for ten points each:
+[10] Founded by St. Ignatius of Loyola during the Counter-Reformation, this missionary order spread
+Christianity to China and Japan through members such as Matteo Ricci and St. Francis Xavier.
+ANSWER: Society of Jesus or Jesuit Order
+[10] Named after its original abbey of Cîteaux, this order was founded in the 12 th century as a reaction to
+perceived laxity in Cluniac monasteries. Its most famous member was St. Bernard of Clairvaux.
+ANSWER: Cistercian Order or White Monks
+[10] Founded in 1209, this monastic order is named after a Saint from Assisi famous for preaching to the
+birds.
+ANSWER: Franciscan Order
+17. Answer some questions about authors who were inspired by the trial of Sacco and Vanzetti, FTPE:
+[10] This Southern author wrote about Sacco and Vanzetti in her The Never Ending Wrong. But she is more
+famous for writing Pale Horse, Pale Rider and Ship of Fools.
+ANSWER: Katherine Anne Porter
+[10] This American playwright dramatized the Sacco and Vanzetti case in his verse drama in Winterset. He
+is not to be confused with the author of Winesburg, Ohio, who has a different first name.
+ANSWER: Maxwell Anderson
+[10] Though this American writer did not write a fiction work about the Sacco and Vanzetti trial, he
+campaigned publicly for them. His novels include Sister Carrie and An American Tragedy.
+
+7
+
+BHSAT XIX
+
+Packet 12
+
+ANSWER: Theodore Dreiser
+18. FTPE, answer this set of related physics questions.
+[10] This subatomic particle has an electric charge of -1.602 x 10^-19 coulomb and an intrinsic angular
+momentum of ½.
+ANSWER: electron
+[10] This experiment measured the charge of an electron using droplets of oil suspended between two metal
+electrodes. The oil droplets were kept steady by the canceling out of gravitational and electrical field
+forces.
+ANSWER: Millikan oil drop experiment
+[10] This doubly eponymous experiment showed that electrons and atoms have intrinsic quantized angular
+momentum and demonstrated that measurements of quantum mechanical systems can affect their
+properties.
+ANSWER: Stern-Gerlach experiment
+19. Identify the following classic works written by economists, for 10 points each.
+[10] The notion of the invisible hand, a metaphor for the self-regulation of the market, was introduced in
+this 1776 book by Adam Smith.
+ANSWER: The Wealth of Nations
+[10] "The Propensity to Consume" and "The Inducement to Invest" are two sections of this book by John
+Maynard Keynes, which in part inspired the New Deal.
+ANSWER: The General Theory of Employment, Interest, and Money
+[10] Friedrich von Hayek wrote this exposition of a libertarian political philosophy, arguing that central
+planning inevitably leads to the title condition.
+ANSWER: The Road to Serfdom
+20. One of this man's paintings is entitled Full Fathom Five, and he was married to the artist Lee Krasner.
+For 10 points each:
+[10] Identify this painter nicknamed "Jack the Dripper," known for entire canvases composed of paint
+drippings.
+ANSWER: Jackson Pollock
+[10] Jackson Pollock is associated with this movement, often associated with action painting, whose name
+was first applied to American painters by Robert Coates. It was supported by the critic Clement Greenberg.
+ANSWER: abstract expresionism
+[10] Another painter sometimes associated with abstract expressionism was this Latvian-born American
+painter, known for Color Field paintings, including Four Red and No. 6 (Violet, Green, and Red)
+ANSWER: Mark Rothko
+21. From the given clues, identify the following rivers FTPE:
+[10] Also known as the “Golden Sand River,” this longest river of Asia flows from the Kunlun Mountains
+in Qinghai province to the East China Sea. Chongming Island is found at its mouth.
+ANSWER: Yangtze River or Chang Jiang
+[10] This river forms part of the eastern border between Russia and China. Formed from the confluence of
+the Shilka and Argun Rivers, it travels for more than a thousand miles before emptying in the Tartar Strait.
+ANSWER: Amur River
+[10] This river of southern China rises in Yunnan province before flowing past the cities of Guangzhou and
+Hong Kong.
+ANSWER: West River or Xi Jiang
+
+8
+
+

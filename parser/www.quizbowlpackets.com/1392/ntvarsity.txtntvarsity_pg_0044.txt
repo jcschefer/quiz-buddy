@@ -1,0 +1,58 @@
+NewTrier Varsity 2006  Round 5, Page 5 
+
+
+Bonus 8: Fine Arts (Visual Art) 
+Given a description of a Northern European artist, name him. 
+A: This painter of "Girl With a Pearl Earing" spent much of his life in Delft. 
+B: This father of a painter with thesame name painted "The Tower of Babel." 
+C: This Flemish painter developed oil painting, and painted such works as "The Arnolfini Portrait." 
+D: This 20th centurypainter is known forhis mathematical related works, including "Drawing Hands." 
+Answers: A: Jan VermeerB: PieterBrueghel the Elder (prompt on Brueghel) C: Jan Van Eyck D: 
+M(aurits) C(ornelis) Escher 
+
+Tossup 9: Math (Calculus) - Computational (30 Seconds) 
+Calculate the limit, as h approaches zero, of three to the powerof the quantity three plus h, close 
+quantity, minus 27, al divided by h. Because this limitis of the form zero over zero, you can evaluate
+it using l'Hopital's rule, or alternatively, by recognizing thatit is the limit definition of a derivative.
+Answer: 27 ln 3 (27 times the natural log of 3) 
+
+Bonus 9: Science (Earth Science)
+Identify these terms related to glaciers. 
+A: There are two main categories of glaciers, the continental type, and this type found near
+mountains. 
+B: As a glacier moves, it leaves behind this, a name for glacial sediment. 
+C: From the Welsh for "valey," this three leter word refers to a curved region with a lip formed by 
+glaciermovement. 
+D: Glaciers can also form curved hils, caled this from the Gaelic for "hil crest."
+Answers: A: Alpine glacier B: Moraine C: Cwm (pron. coom) D: Drumlin 
+
+Tossup 10: Literature (Mythology)
+It is sometimes lent to Athena, and in rare cases to Apolo. In theIliad, Apolo uses it to push the 
+Achaeans back to their ships prior to revivingthe woundedHector. In some stories it is made from 
+the flayed skin of various defeated enemies, both of Athena and of Zeus. This awful to behold item is 
+sometimes described as adorned with golden tassels and a likeness of a gorgon in the center of it. 
+Identify this protective item, which, as a shield,features into an epithet of Zeus in the Iliad, and 
+according to Homer was forged for him byHephaestus. 
+Answer: Aegis 
+
+Bonus 10: Miscelaneous (Other) 
+Identify the folowing webcomics.
+A: This is arguably the most famous webcomic, featuring dialoguerife with vulgarities, cracks about 
+the video game industry, and characters Gabe andTycho. 
+B: This is another very popular webcomic,produced by Fred "Piro" Galagher, who draws it inthe 
+style of aJapanese manga. 
+C: Writen by Scot Kurtz, this comic is about a magazine publishing company,and features 
+characters Brent,Jade, Cole,Francis and Skul the Trol. 
+D: It is a gaming related webcomic andanimated series writen byTim Buckley, known online as 
+Absath. It is named foran unpopular computerkeyboard shortcut. 
+Answers: A: Penny Arcade B: Megatokyo C:PvP or Player vs. Player D:Ctrl+Alt+Del ("Control 
+Alt Delete") 
+
+
+HALFTIME 
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

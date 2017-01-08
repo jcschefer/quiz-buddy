@@ -1,0 +1,451 @@
+TOSSUPS - ROUND 2 (CWRU 3)
+
+DENNIS HASKINS OPEN 2003 -- UTe
+
+1.
+He formulated many of his ideas in a group called Hedge' s Club, but that group would later be referred to by a
+more famous name. His resignation from the church stemmed from his inability to administer the Lord's Supper. His
+first major work wasn't well-received, but it won him a group of followers including Bronson Alcott and Margaret Fuller,
+who would later edit Th e Dial. FTP, name this man, author of The Divinity School Address and Nature, who along with
+Thoreau was a leader of the Transcendental movement.
+Answer:
+Ralph Waldo Emerson
+
+2.
+Four deer, representing the four winds run across it eating its buds. It provides access to Asgard, Jotunheim, and
+Niflheim, and three wells lie at its base. Its inhabitants include Ratatosk, and Vidofnir. For ten points, identify this giant
+ash tree, which links worlds together and serves as an axis mundi in Norse mythology.
+Answer:
+Y ggdrasil
+3.
+He once described his nation's oil executives as living in "luxury chalets where they perform orgies, drinking
+whisky". He courted controversy in foreign policy, too, making high-profile visits to Cuba and Iraq, while allegedly
+flirting with leftist rebels in Colombia and making a huge territorial claim on Guyana. For ten points, identify this leader
+who suffered hard times during a strike in Venezuela.
+Answer:
+Hugo Chavez
+4.
+This law breaks down at low temperatures or when electrons gain enough energy to liberate more electrons,
+causing a spark. A\l'l empirical observation rather than a physical explanation, it can be modified for AC circuits by taking
+the root mean square of the emf and the current. FTP identify this law that relates voltage to current in a circuit.
+Answer:
+Ohm's Law
+5.
+The first two rules are the same. The narrator buys furniture that describes him as a person and attends disease
+support groups. Following Bob' s death, Jack realizes he is soap-maker Tyler, but can't stop the bombing of credit-card
+company buildings by Project Mayhem. FTP, name this movie titled after the 8-ruled organization where men relieve
+stress by beating each other up.
+Answer:
+Fight Club (accept Project Mayhem before "narrator" in the 2nd sentence)
+6.
+The fifteenth child of a rector, he was saved from a fire at the age of six and would later describe himself as a
+child of providence. Following his ordination, he spent two years in Georgia. He would go on to form a religious sect
+characterized by personal salvation by faith and open-air religious meetings. FTP, identify this Scottish founder of
+Methodism.
+Answer:
+John Wesley
+7.
+The strength of this orthomyxovirus varies because new strains are frequently created by genome rearrangement.
+Symptoms of infection include fever and myalgia, but particularly acute upper respiratory problems. FTP, identify this
+disease which killed mill ions in a 1918 pandemic.
+Answer:
+Influenza (accept the Flu, the Flux, or the Grippe)
+8.
+When the youngest sister, Lydia, runs off with Mr. Wickham, the family is certain of its social demise. Jane has
+been lovelorn for Mr. Bingley, and Lizzie is struggling to come to terms with her affection for the lord ofPemberly.
+However, the gallant and proud Mr. Darcy saves the day, and everyone ends up living happily ever after. FTP, name this
+novel by Jane Austen about the Bennett family .
+Answer:
+Pride and Prejudice
+9.
+In C, an array is really just one of these with memory already allocated for a certain number of elements. They
+technically don't exist in Java, but Java references are essentially equivalent. In C it's possible to do arithmetic on these
+variables types and access sequential parts of memory. For ten points, name this variable type which directly refers to an
+address in memory, denoted in C and C++ by an * [asterisk].
+Answer:
+pointer
+
+10.
+It declared that "the labor of a human being is not a commodity or article of commerce," and restricted the use of
+the injunction against labor, and it legalized peaceful strikes, picketing, and boycotts. It j..s also prohibited exclusive sales
+contracts, local price cutting to freeze out competitors and rebates. FTP, identify this act named for its sponsor, which
+banned interlocking directorates upon its passage in 1914.
+Answer:
+Clayton Act or Clayton Antitrust Act
+11.
+His good friend Thomas Mann was instrumental in his Nobel Prize nomination. He drew on his personal
+experiences in works like Beneath the Wheel and Demian, both of which are considered bildungsromans. Many of his
+works deal with the leading of contemplative, spiritual lives, including Narcissus and Goldmund and The Glass Bead
+Game. His most famous work deals with an ascetic who, with his friend Govinda, set out for enlightenment. FTP, name
+this novelist, author of Siddhartha.
+Answer:
+Herman Hesse
+12.
+Occurring naturally in several different ores including chalcocite, bornite, and chalcopyrite, this element is
+oxidized to produce malachite and azurite. Much stronger materials were formed from it by adding 10% tin and later 42%
+ZinC. For 10 points what is this central component of bronze and brass?
+Answer:
+copper
+13.
+Dividing the mind into three parts, like his older colleague Sigmund Freud, he believed the mind consisted of the
+ego, the conscious mind, and two unconscious minds. One, the personal unconsciousness holds those memories and
+thoughts which are not actively in conscious, but could easily be recalled. However, his most distinct mark upon
+psychology is due to the other unconscious he postulated, which contains archetypes. FTP who was this psychologist who
+developed the idea of a collective unconscious?
+Answer:
+Carl Jung
+14.
+First exhibited at the Armory Show in 1913, it was reviled as "an explosion in a shingle factory". With the works
+of Matisse and Picasso, this painting represented the essence of modern art. FTP name this painting by Duchamp, which
+depicts the image of a figure in overlapping stages of movement.
+Answer:
+Nude Descending a Staircase (no. 2)
+15.
+Occurring over 150 years after the War of the Spanish Succession, it broke out on the pretext of the Spanish
+succession, even though the German prince had voluntarily withdrawn his candidacy before the war began. But a message
+called the Ems dispatch outraged the French enough to fight anyway, with the predictable result being total disaster for
+France. FTP what was this 1870 war which resulted in the loss of Alsace-Lorraine to Germany?
+Answer:
+Franco-Prussian War
+16.
+His reputation in the history of biology rests largely on his book, Micrographia, in which he used a compound
+microscope and illumination system to view insects, sponges, and bird feathers. In Micrographia, this scientist also
+became the first scholar to use the word "cell" to describe a unit of life. For ten points, identify this British scientist who
+may be better known for his namesake law governing the elasticity of springs.
+Answer:
+Robert Hooke
+17.
+Rats, rotting carcasses, and even accidental worker deaths were incorporated into the sausages of Duraham and
+Brown, the two companies who controlled Chicago's stockyards. These are revealed through the experiences of Jurgis
+Rudkis, a worker in the meat-packing industry at the turn of the century in this book. FTP what is this Upton SInclair
+novel which sparked public outcry and helped pass the Pure Food, Drug, and Cosmetic Act?
+The Jungle
+Answer:
+18.
+As described in the book Zlata's Diary, this city was torn apart by war only seven years after it hosted the Winter
+Olympics. The Assassination of Archduke Franz Ferdinand in this city on June 28, 1914 is generally accepted as the
+trigger that set off World War I. For 10 points, name this current capital of Bosnia and Herzegovina.
+Answer:
+Sarajevo
+
+19.
+Its repeal was accompanied by the passage of the Declaratory Act, which asserted the right of acts such as this. It
+passed due to the wishes of Chancellor of the Exchequer George Grenville, who hoped to recover revenue spent on
+colonial defense. It resulted in the calling of a namesake meeting where a petition to King George III was drafted, and
+was effectively nullified by colonists' refusal to observe its authority over legal papers and other documents. FTP, name
+this first attempt by Parliament to directly tax American colonists.
+Answer:
+Stamp Act
+20.
+Kate Hudson is on the March 2003 cover and Sandra Bullock, the February 2003 cover girl, was recently named
+their 2003 "Fun Fearless Female." Regular features include "Man Without His Shirt," "Bedside Astrologer," and "Dating
+Diary." FTP, name this Hearst magazine, best known for its quizzes and dating advice, that shares its name with a
+cocktail.
+Answer: Cosmopolitan (accept "Cosmo" before the cocktail portion)
+21.
+This activity occurs about 15,000 times a day, which averages to 15 times a minute despite the fact two times a
+minute is more than sufficient. It increases in times of anxiety - which explains Bob Dole's increased rate during the
+1996 Presidential debates -- but imminent danger reduces it. The more you think, the more you do it. FTP name this
+process which serves to clean and lubricate the eye.
+Answer:
+blinking
+22.
+Founded in France in 1973, this organization claims over 55,000 members in 84 countries. The basis of
+this group is laid down in the book written by its founder, "The Message Given by Extraterrestrials". Its central tenet
+holds that the human race was created as clones of an advanced alien civilization. For 10 points what is this group who
+has made headlines recently due to its connections with Clonaid?
+Answer:
+The Raelians
+23.
+A stockade 53 feet in diameter encircled a storehouse approximately 14 square feet. The original garrison of300
+was reinforced approximately one month before 600 French and Indian troops attacked the fort. After the battle of July
+3rd, terms, which allowed the garrison to leave with all honors of war, were negotiated and the site was abandoned. FTP,
+name this hastily constructed fort, built by George Washington in June 1754.
+Answer:
+Fort Necessity
+
+BONI - ROUND 2 (CWRU 3)
+
+DENNIS HASKINS OPEN 2003 -- UTC
+
+1.
+FTPE, answer these questions about the midnight judges.
+(10) This 1803 case, based on the midnight judges, established the right of judiciaI review of the Supreme Court.
+Answer:
+Marbury v. Madison
+(10) The midnight judges were appointed by this president in the waning hours of his time in office in March 180l.
+Answer:
+John Adams
+(10) This midnight judge was appointed Chief Justice and served until his 1835 death.
+Answer:
+John Marshall
+2.
+"You can't fight in here! This is the war room!" Well, actually, it's not, but identify the following from "Dr.
+Strangelove or: How I Learned to Stop Worrying and Love the Bomb" FTSNOP.
+5: The film's director, also known for "A Clockwork Orange" and "Eyes Wide Shut."
+Answer: Stanley Kubrick
+10: Shooting was actually delayed because this actor's preceding project was running over. Then again, you can't really
+shoot a film without Mandrake, Dr. Strangelove or the President.
+Answer: Peter Sellers
+15: Although he's best known for his award-winning portrayal of Patton, his character, Gen. Buck Turgidson, wouldn't
+judge that until all the facts are in.
+Answer: George C. Scott
+3.
+Identify these Shakespearean cross-dressers, FTPE.
+1. Perhaps the most famous to don a man's clothing is this heroine of Twelfth Night, a woman in search of her long-lost
+twin.
+Answer:
+Viola
+2. The daughter of Shylock, this woman only wants to be with her lover, Lorenzo.
+Answer:
+Jessica
+3. One of the few instances of a man dressing up as a woman occurs when this fat knight does so in The Merry Wives of
+Windsor.
+Answer:
+Sir John Falstaff
+4.
+Identify the following quantities from electromagnetism FTPE.
+(a) This value, equal to the time rate of change of charge, is measured in Coulomb's per second in the SI system of units.
+current (prompt on Ampere)
+Answer:
+(b) This quantity is the measure of the ability of two plates separated by either a vacuum or a dielectric to store charge,
+and is measured in farads.
+Answer:
+capacitance
+(c) Equal to the line integral of the magnetic field with respect to area, this quantity is measured in weber.
+Answer:
+magnetic flux (prompt on flux)
+5.
+Given a list of operas identify the Italian who composed them FTPE.
+(10) II Trovatore, La Traviata, and Rigoletto
+Answer:
+Guiseppe Verdi
+(10) Tasca, Turandot, La Boheme
+Answer:
+Giacomo Puccini
+(10) Lucrezia Borgia, Don Pasquale, and Lucia di Lammermoor
+Answer:
+Gaetano Donizetti
+
+6.
+So much effort went into fighting footstools? FTPE name these battles which checked Ottoman power in Europe:
+A. The Polish warrior-king John Sobieski led the Christian armies that defeated the Ottomans in the siege of this Eastern
+European capital on the Danube. This 1683 battle marked the farthest Turkish advance into Europe.
+Answer:
+(Battle or Siege of) Vienna
+B. Don John commanded the Christian fleet that defeated the Ottomans in this epic 1571 naval battle that took place in
+Greek waters.
+Answer:
+(Battle of) Lepanto
+C. The Knights of St. John successfully defended this rocky island from Ottoman capture in 1565, their first major
+military setback.
+Answer:
+(Battle or (Great) Siege of) Malta
+7.
+Given the work of a philosopher name them FTPE.
+Two Treatises on Government
+Answer:
+John Locke
+Beyond Good and Evil
+Answer:
+Friedrich Nietsche
+The Leviathan
+John Hobbes
+Answer:
+8.
+Mammals don't lay eggs, except for three species. Answer these questions about them, 10 points each.
+A. The order in which these species are placed.
+Answer:
+Monotreme
+B. The male of this species has poisonous spines in it's hind legs. Both sexes share it's namesake feature.
+Answer:
+Duck-billed plata pus
+C. Resembling a porcupine, it uses it's sticky tongue to eat ants and termites.
+Answer:
+Echidna OR Spiny anteater
+9.
+For 10 points each answer these questions about dystopian literature.
+A) In this novel Equality 7-2521 and Liberty 5-3000 excape from a ridged society.
+Anthem
+Answer:
+B) Even though the revolution was supposed to benefit all, in short order some, like Napoleon, became more equal.
+Answer:
+Animal Farm
+C) In this Ray Bradbury work, Guy Montag was a fireman who fled the city after reading books instead of burning them.
+Fahrenheit 451
+Answer:
+10.
+IRON CHEF! (shout Japanese like) Oh wait, this bonus isn't about the show, but rather about dishes you mayor
+may not have seen on it. Given a description a dish, name it for 10 points each.
+A. This non-pasta containing Italian dish is made of rice, cooked with broth and flavored with grated cheese and other
+ingredients.
+risotto
+Answer:
+B. This is a paste or dip made of chickpeas mashed with oil, garlic, lemon juice, and tahini, usually eaten with pita bread.
+hummus
+Answer:
+C.
+This North African grain resembles rice, but it really is composed of a bunch of grains of which semolina is the
+main ingredient. It's usually served with vegetables and meat.
+Answer:
+couscous
+11.
+FTPE answer the following about a particular town:
+(10) Founded in 1877, this Arizona town has survived two large fires and underground flooding that destroyed its major
+industry, silver mines. Its name comes from what its founder, Ed Schieffelin, was told he would find in the desert.
+Tombstone
+Answer:
+(10) Owner of Tombstone's Oriental Saloon gambling establishment, this lawman was also well known for his exploits in
+Wichita and Dodge City. His brother Virgil was actually the town marshall at the time of the gunfight at the OK Corral.
+Answer:
+Wyatt Earp
+(10) Educated as a dentist, this close friend of Wyatt Earp abandoned his medical studies when he was told that he had
+only four years to live.
+Answer:
+John "Doc" Holliday
+
+12.
+Identify the ancient comedies from a description, FTPE.
+The story revolves around an old man named Strepsiades. Deeply in debt because of his son's gambling and desperate to
+preserve his fortune, he enrolls in Socrates' Thinking Shop in order to learn how to confute his creditors with logic.
+Answer:
+The Clouds
+Dionysus becomes annoyed at the absence of a major dramatist on the stage and resolves to bring Euripides back from the
+dead. He pleads with Pluto to allow Euripides to return with him to Athens. However, there are three tragic poets stuck in
+Hades, and Aeschylus is not convinced that the upstart Euripides is the best choice to return.
+Answer:
+The Frogs
+For 10 more points, name the author of The Clouds and The Frogs
+Answer:
+Aristophanes
+13.
+FTPE, given a constellation's alpha star, identify the constellation.
+(10) Agena
+Scorpio or the Scorpion
+Answer:
+(10) Aldebaran
+Answer:
+Taurus
+(10) Deneb
+Answer:
+Cygnus
+14.
+Identify the Hindu deities from clues, FTPE.
+This remover of obstacles and god of wealth has the head of an elephant
+Answer:
+Ganesha
+God of service and loyalty, this monkey god plays a key role in the Ramayana.
+Answer:
+Hanuman
+Fierce form of Shakti, she is the goddess of blood and destruction
+Answer:
+Kali (see Indiana Jones and the Temple of Doom)
+15.
+FTSNOP, identify the following artists associated with Pennsylvania.
+(5) This pop artist painter of Marilyn Monroe and Mao Zedong has a museum dedicated to him in Pittsburgh.
+Answer:
+Andy Warhol
+(10) This Impressionist was born in Pittsburgh, but later settled in France. She is best known for her paintings of children
+and women, such as The Toilet and The Bath.
+Answer:
+Mary Cassatt
+(15) This artist is best known for rowing themed paintings such as Max Schmitt in a Single Scull, and for the painting of
+The Gross Clinic.
+Answer:
+Thomas Eakins
+16.
+To be able to understand and appreciate great literature, you've got to know the lingo. Identify the following
+literary terms for the stated number of points.
+l. 5 points: The technique a writer uses to include hints about future events in a story.
+Answer: Foreshadowing
+2. 10 points: "Absence makes the heart grow fonder" is an example of this type of witty, paradoxical saying.
+Answer: Epigram
+3. 15 points: French for "novel with a key," this term is defined as a novel based on actual people and places but which is
+written as fiction instead of fact.
+Answer: Roman a Clef [roh-mahn uh KLA Y, but accept phonetically plausible attempts]
+17.
+G'day mate. Australia's the topic. 10 points per part is the prize. Name the capital:
+A. In the Australian Capital Territory, it's the capital of Australia.
+Canberra
+Answer:
+B. The capital of New South Wales, it's the largest city in Australia.
+Answer:
+Sydney
+C. On the Indian Ocean, this west coast city is the capital of Western Australia.
+Perth
+Answer:
+
+18.
+Identify the human digestive enzymes from a description FTPE.
+This enzyme breaks down starch and is released in saliva.
+amylase
+Answer:
+Secreted by the pancreas, it transforms fats to glycerol and fatty acids
+Answer:
+lipase
+Released by the stomach, it is instrumental in the protein to peptide transformation
+pepsin
+Answer:
+19.
+
+Give the sum of each of the following series, 5-10-20-30:
+1. The integers from 1 to 50, inclusive
+Answer:
+1275.
+2. The multiples of 3 from 3 to 99, inclusive
+Answer:
+1683.
+3. The integers from 1 to 100, inclusive
+5050.
+Answer:
+4. The multiples of 5 from 5 to 255, inclusive
+Answer:
+6630.
+
+20.
+Identify the following terminology form the Cold War FTPE.
+(10) This is an alternative term for the Cold War, used by Kennan and others towards the end of it.
+Answer:
+The Long Peace
+(10) This is another term coined by George Kennan about the proper way to deal with Soviet Aggression, rather than
+attack or do nothing.
+Answer:
+Containment
+(10) Taking place in the 70's and again in the 80's, this French word is the term meaning an easing oftensions.
+Detente
+Answer:
+21. For all those aspiring optometrists out there, this bonus is for you. FTPE identify each part of the eye given a
+description.
+(10) It contracts or relaxes involuntarily to control the amount of light that the eye admits.
+Pupil
+Answer:
+(10) A tough five layered membrane through which light is admitted to the interior of the eye, this structure is affected in
+those with astigmatism.
+Cornea
+Answer:
+(10tUsed in spy films as a high-tech identifier, this structure is a highly organized layer of nerve cells which act as light
+receptors.
+Retina
+Answer:
+22.
+Answer the following mythology bonus, three parts FTPE:
+A. Also known as Liber, who was the Roman god of wine?
+Bacchus
+Answer:
+B. What princess did Bacchus meet on Naxos and marry?
+Ariadne
+Answer:
+C. Who was Bacchus' tutor, an old befuddled but dearly beloved satyr?
+Silenus
+Answer:
+23.
+
+For 10 points each, name the following cities in Germany:
+A. With a population of over 3.5 million, this city is the most populous in Germany .
+Answer: Berlin
+B. This capital of Bavaria features Germany's most successful professional soccer team.
+Answer: Munich or Munchen
+C. The European Central Bank is located in this city, considered the financial capital of Europe.
+Answer: Frankfurt a.M. or Frankfurt am Main
+
+

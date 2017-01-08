@@ -1,0 +1,47 @@
+NewTrier Varsity 2006  Round 7, Page 10 
+
+
+Tossup 19: Fine Arts (Visual Art) 
+Born in Idaho in 1867, his firstmajor project, a sculpture of Robert E. Lee in Stone Mountain, 
+Georgia, was aborted after his relations soured with the commisioners. This project, however, 
+helped him develop certain important techniques, like the useof a large lantern to project a sketch 
+onto the rock face on which he worked. His mostfamous project was thought up by Doane 
+Robinson, and he died before finishing it, leaving his son Lincoln to direct the rest of its sculpting. 
+Name this sculptor most famous for large-scale public memorials, especialy Mount Rushmore. 
+Answer: Gutzon Borglum
+
+Bonus 19: Math (Calculus) 
+Find the first four non-zero terms of the Taylor expansions of the folowing functions. Evaluate al 
+factorials. 
+A: The hyperbolic cosineof x. 
+B: The cosine of x. 
+C: The sine of x. 
+D: E tothe x. 
+Answers: A: 1 + x^2 / 2 + x^4 / 24 + x^6 / 720 B: 1 - x^2 / 2 + x^4 / 24 - x^6 / 720 C:x - x^3 / 6 + 
+x^5 / 120 - x^7 /5040 D: 1 + x /1 + x^2 / 2 + x^3 / 6 
+
+Tossup 20: Social Studies (Other) 
+Hamilton's rule states that you're more likely to exhibit ittoward peopleyou're closely related to, 
+because everyone justwants to propagate their own genes anyway. Coined byAuguste Comte, 
+founder of positivism, psychological egoism states that while some behavior might have this quality, 
+people never are motivated by it. The dilemma behind the tragedyof the commons, name this 
+concept of ethics, from the French for "other people," the practiceof placing others before one's self. 
+Answer: Altruism 
+
+Bonus 20: Science (Chemistry) 
+Answerthese questions about the laws of thermodynamics. 
+A: The first law states that a system's internal energy is equal to its heatminus the amount of this, 
+that it performs on other systems. 
+B: The second law states that thisquantity wil tend to increase. 
+C: The third law of thermodynamics was developed by this chemist, who also created an equation 
+relating to electrode potentials. 
+D: This lawof thermodynamics states thatthermal equilibrium is transitive. 
+Answers: A: Work B: Entropy (prompt on disorder) C: Walther Nernst D: Zeroth law of 
+thermodynamics
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

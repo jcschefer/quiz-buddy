@@ -1,0 +1,502 @@
+2008-2009
+NSC-Format Set #1
+Round 1
+Related Tossups &
+Bonuses
+
+1. This war opened with the Wellington Declaration, and its first engagement saw a victory by Prince
+Rupert of Bavaria. The first pitched battle at Edgehill and early losses for one side prompted the passage
+of the Self-Denying Ordinance, which formed the New Model Army, a force that would be victorious at
+Marston Moor and Naseby. For 10 points name this war in which Parliamentary forces led by Oliver
+Cromwell defeated Royalists under Charles I.
+ANSWER: English Civil War
+It was caused by an oomycete that led to a disease known as “late blight.” For 10 points each:
+[10] Name this 1840’s event that left almost a million dead and led more to emigrate from a British
+Island.
+ANSWER: Irish Potato Famine [or Great Famine or Great Hunger]
+[10] Prime Minister Robert Peel used the Irish Potato Famine as justification for repealing these import
+tariffs which were meant to support domestic growing of produce.
+ANSWER: Corn Laws
+2. A bearded man wearing a leopard skin presents a basket to the titular queen in this artist’s Cleopatra
+and the Peasant, and a black man in a red turban stands in back of a woman standing on some rubble in
+his Greece Expiring on the Ruins of Missolonghi. A man reclines on a red bed in the middle of a massacre
+in his Death of Sardanapalus, and in another painting, a boy with two pistols flanks the title figure, who
+is raising the French flag. For 10 points, name this painter of Liberty Leading the People.
+ANSWER: Eugène Delacroix
+Name these Jacques-Louis David paintings, for 10 points each.
+[10] The arches in the background divide this painting into three parts as a man hands swords to his
+three sons, and a bunch of women cry in the corner.
+ANSWER: The Oath of the Horatii
+[10] Several men sob as the titular Greek philosopher reaches for a cup of hemlock in this painting.
+ANSWER: The Death of Socrates
+3. Cardiolipin in the membranes that bind these organelles can cause Barth syndrome, while a protein
+that manages a positive feedback loop with IP3, cytochrome c, is located in their inner membranes.
+Kearnes-Sayre syndrome arises due to five thousand base pair deletions in their maternally inherited
+DNA, the presence of which suggests the endosymbiontic theory. Filled by cristae and the matrix, for 10
+points, identify these organelles, home to the electron transport chain.
+ANSWER: mitochondria [or mitochondrion]
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 1 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+The shell variety of achieving this improves on algorithms like the bubble and insertion type, but divide
+and conquer algorithms like quick are fastest. For 10 points each:
+[10] Name this basic problem of computer science that involves reordering a collection.
+ANSWER: sorting
+[10] Like quicksort, this sorting algorithm takes “Big O of n log n” time. It works by splitting the elements
+up into subsets and putting them back together with the title action.
+ANSWER: merge sort
+4. While serving as Railroad Commissioner, he lost his first major election on a pro-Ku Klux Klan, antiStandard Oil platform, finishing behind Hewitt Bouanchaud and Henry Fuqua. In 1922, he argued a case
+in front of the Supreme Court involving Cumberland Telephone & Telegraph Company. This man’s son
+Russell and brother Earl continued his family’s political dominance into the 1980s, fifty years after this
+proponent of the Share the Wealth program was killed by Carl Weiss. For 10 points, name this “Kingfish”
+who ruled as an autocrat in 1930s Louisiana.
+ANSWER: Huey Pierce Long
+Seth Warner was a member of this group, which was victorious at the Battle of Bennington in 1777 over
+the British. For 10 points each:
+[10] Name this group centered in Vermont that was formed by Ethan Allen.
+ANSWER: Green Mountain Boys
+[10] This fort in New York was captured by the Green Mountain Boys in 1775; two years later, it was
+abandoned by Arthur St. Clair.
+ANSWER: Fort Ticonderoga
+5. The BEA currently uses the more accurate “chain weighting” method to calculate this quantity, and
+Okun’s law relates the gap in this quantity to unemployment. Purchasing power parity is usually taken
+into account when comparing it between two nations. Its namesake deflator is the ratio between the
+nominal and real forms of this quantity, which does not include payments made to foreign nations. For
+10 points, identify this quantity which is equal to the value of the sum of all goods and services
+produced in a country.
+ANSWER: GDP [or gross domestic product; do not accept "gross national product” or "GNP"]
+With the exception of Giffen and Veblen goods, this curve is downward sloping. For 10 points each:
+[10] Name this curve plotting a certain economic variable against price.
+ANSWER: demand curve
+[10] Often measured as the slope of a demand curve, this economic quantity is defined as the change in
+demand over the change in price.
+ANSWER: price elasticity of demand
+6. An apocryphal section of this book sees the title character place a circle of ash around a temple to
+priests for eating the sacrifices to Bel. This book tells of a dream in which a metallic statue has faulty
+feet, leading to the expression “feet of clay.” This book features three men named Shadrach, Meshach,
+and Abednego, who do not burn when cast into a furnace. The words “mene, mene, tekel, upharsin”
+inscribe themselves on the wall during Belshazzar’s feast in this book. For 10 points, name this book of
+the Bible, whose title character braves a lions’ den.
+ANSWER: Book of Daniel
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 2 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+She agreed to marry anyone who would beat her in a race, despite her love for Meleager. For 10 points
+each:
+[10] Identify this huntress who wounded the Calydonian Boar.
+ANSWER: Atalanta
+[10] In some accounts, Atalanta traveled with Jason as one of these hunters for the Golden Fleece,
+named for the ship they took.
+ANSWER: Argonauts
+7. Sanderson defined it as the ratio of atomic number to atomic volume, divided by the expected ratio
+as extrapolated from noble gas data. Another measure of it is based on the square root of differences in
+ionic resonance energy between two elements, while Mulliken defines it as the average of first
+ionization energy and electron affinity. For 10 points, name this tendency of an atom to attract electrons
+of other atoms to itself, for which fluorine has a value of 4.0 according to the Pauling scale.
+ANSWER: electronegativity
+Blastocysts contain the controversial “embryonic” ones. For 10 points each:
+[10] Name these undifferentiated cells that come in “totipotent” and “pluripotent” varities.
+ANSWER: stem cells
+[10] Some members of this phylum can regenerate from totipotent stem cells. This phylum includes the
+sponges which possess skeletal elements known as spicules.
+ANSWER: poriferans
+8. The protagonist of this novel meets characters like Sappho Sholtz and Madame Stahl, who never
+leaves her bed in fear of showing her legs. One character in this novel is injured when his horse FrouFrou trips while racing Gladiator. The protagonist of this novel has a son named Seryozha and a brother
+named Stepan Oblansky. A subplot in this novel concerns the sister of the title character, Kitty, who
+marries Konstantin Levin. For 10 points, name this novel about a woman who shacks up with Count
+Vronsky and throws herself in front of a train, written by Leo Tolstoy.
+ANSWER: Anna Karenina
+One poem by this man concerns a seaman who returns home to find his wife married to Philip, and
+another was inspired by the death of Arthur Hallam. For 10 points each:
+[10] Name this English poet of "Enoch Arden" and "In Memoriam," in addition to a ten-book collection
+based on Arthurian legend.
+ANSWER: Lord Tennyson [or Alfred Tennyson; or 1st Baron Tennyson]
+[10] This poem by Lord Tennyson memorializes the titular group of "six hundred," who rode into the
+"valley of death” during the Crimean War.
+ANSWER: “The Charge of the Light Brigade”
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 3 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #1
+Round 1
+Category Quiz
+Bonus Choices
+
+Arts
+Current Events
+Geography
+History
+Literature
+Math Calculation
+Mythology
+Social Science
+
+Arts
+Current Events
+Geography
+History
+Literature
+Math Calculation
+Mythology
+Social Science
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 4 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #1
+Round 1
+Category Quiz Tossups
+
+9. One song by this person describes seeing Samuel L. Jackson and ordering Singaporean lobster, and
+several others, including "56 Bars," are produced by DJ Toomp. A song by this artist is the subject of a
+Weird Al Yankovic parody that includes the lyrics "You like Top Ramen, need Top Ramen / Got a
+cupboard full of 'em." One song by this man includes Rihanna singing "Cause I'm a paper chaser," and
+samples O-Zone's "Dragostea Din Tei." For 10 points, name this rapper whose album Paper Trail contains
+the songs "Whatever You Like" and "Live Your Life."
+ANSWER: T.I. [or Clifford Joseph Harris Jr.]
+10. The tributaries of this state’s namesake river include the Big Blue and Smoky Hill. The Flint Hills are
+located in the east-central portion of this state. This state is home of Horse Thief Canyon and the
+Gypsum Hills, which are located near Medicine Lodge. This state's highest peak is Mount Sunflower, and
+the city of Lawrence lost out on being its capital by two thousand, seven hundred votes. The home of
+the geographic center of the contiguous fifty states, for 10 points, name this state, whose cities include
+Overland Park, Wichita and Topeka.
+ANSWER: Kansas
+11. The Lorentz equation describes the force exerted on a mobile one. The density of this at surfaces is
+represented by sigma and is equal to the Laplacian of the electric field. It is denoted by the letter Z, and
+Gauss's law states the electric flux through a closed surface is proportional to this quantity enclosed by
+that surface. Robert Millikan's oil drop experiment measured, for 10 points, what quantity whose time
+derivative is current, and whose value for electrons is negative one.
+ANSWER: charge [accept charge carriers or particles possessing charge or equivalents]
+12. One opposition leader in this country labeled himself “the convivial cannibal,” and a president of this
+country, Edward Roye, was put into prison after seeking a British loan to finance its government. Its
+politics were long dominated by the True Whig Party, which was overthrown by Samuel Doe in 1980,
+leading to decades of civil war that culminated in the war crimes of Charles Taylor. For 10 points, name
+this country, which was founded by the American Colonization Society as a haven for freed slaves who
+wished to return to Africa.
+ANSWER: Republic of Liberia
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 5 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+13. He wrote about the furniture dealer Gregory Solomon, who deals with his policeman brother Victor
+Franz in The Price, and he created Holga, the fiancée of Quentin, who has flashbacks about his wives
+Louise and Maggie in After the Fall. In one of his plays, Steve Deever is blamed for the production of
+faulty airplane parts in World War Two that lead to Joe Keller’s son’s suicide, while in another Tituba
+leads to Abigail Williams’s role in the Salem witch trials. The creator of Biff, an athlete whose father
+Willy Loman kills himself, for 10 points, name this author of All My Sons, The Crucible, and Death of a
+Salesman.
+ANSWER: Arthur Miller
+14. His experimental films included a five-hour shot of a man sleeping, and a static eight-hour depiction
+of the Empire State Building. This artist depicted current events in his Red Race Riot and put lipstick on
+the title figure in his Mao #91. He was shot by Valerie Solanas, though this painter recovered and
+continued to make works in silk-screen. For 10 points, name this artist who depicted an item labeled
+“condensed tomato” in his depiction of thirty-two Campbell’s soup cans, a major member of the Pop Art
+movement.
+ANSWER: Andy Warhol [or Andrew Warhola]
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 6 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #1
+Round 1
+Category Quiz
+Bonuses
+
+Arts
+This man's opera Treemonisha had its world premiere in 1972, despite its composition in 1910. For 15
+points, name this ragtime pianist whose compositions include Maple Leaf Rag and The Entertainer.
+ANSWER: Scott Joplin
+Current Events
+An ad paid for by MoveOn.org in the New York Times accused this man of "Cooking the Books for the
+White House." For 15 points, name this head of the U.S. Central Command who previously served as
+commander of the Multi-National Forces in Iraq.
+ANSWER: General David Petraeus
+Geography
+This province contains its nation’s oldest national park, Banff. For 15 points, name this Canadian
+province that shares Lake Athabasca with Saskatchewan, home to the cities of Calgary and Edmonton.
+ANSWER: Alberta
+History
+He ran against Anthony Eden in 1955 but was unable to overcome Britain’s growing Conservative
+majority. For 15 points, name this Labour politician who overcame Winston Churchill to become prime
+minister for six years in a surprise 1945 election.
+ANSWER: Clement Attlee
+Literature
+In one poem, this author instructs “journey on the highway across America in tears / to the door of my
+cottage in the Western night.” Another poem by this man was written to mourn his mother's death. For
+15 points, name this Beat poet of "Howl" and "Kaddish."
+ANSWER: Allen Ginsberg
+Math Calculation
+Passner has $12.30 in pennies, nickels, dimes, and quarters, and an equal number of each coin. How
+many total coins does he have?
+ANSWER: 120 [($12.30 / 0.41) * 4]
+Mythology
+Shortly before the Battle of Stamford Bridge, a Viking soldier dreamt of seeing one of these creatures.
+For 15 points, name these helmet-wearing women whose job it is to bring the souls of dead heroes to
+Valhalla.
+ANSWER: Valkyries
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 7 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Social Science
+It came into question with the stagflation of the 1970s. For 15 points, name this eponymous curve from
+economics that shows the relationship between unemployment and inflation
+ANSWER: Phillips curve
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 8 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #1
+Round 1
+Stretch Phase
+
+15. He used Freiedrich von Holstein to spy on Harry von Armin, who was removed after a stock exchange
+scandal surfaced. He failed to sign a treaty at Schonbrunn that would have obligated his country to help
+Austria regain Lombardy, and survived an assassination attempt by a Catholic named Edward Kullmann.
+For 10 points, name this author of the Ems Telegram and practitioner of Realpolitik, a German
+statesman known as the “Iron Chancellor”.
+ANSWER: Otto von Bismarck
+One of his operas is about the Parisian barge owner Michele, while another is about a nun who dies
+after hearing her child is dead. For 10 points each:
+[10] Name this composer of Il trittico, which consists of Il Tabarro, Suor Angelica, and Gianni Schicchi. He
+also composed the music for The Girl of the Golden West.
+ANSWER: Giacomo Puccini
+[10] The title character of this Puccini opera sings “Vissi d’arte.” She loves the painter Mario Cavaradossi
+but is manipulated by the evil chief of police Baron Scarpia.
+ANSWER: Tosca
+[10] The title character of this Puccini opera, Cio-Cio San, sings “Un bel di vedremo” while she pines
+away for her husband Pinkerton, who returns to Nagasaki with an American wife.
+ANSWER: Madama Butterfly [or Madame Butterfly]
+16. In one of his novels the villainous James Carker brings about the downfall of the title shipping
+magnate. One of his title characters has an uncle named Ralph who commits suicide after discovering
+his son Smike, and in another novel the dwarf Quilp repossesses the title store despite the protestations
+of Little Nell. For 10 points, name this author of Dombey and Son, Nicholas Nickleby, and The Old
+Curiosity Shop, as well as Great Expectations and Oliver Twist.
+ANSWER: Charles Dickens
+Name these figures who returned from the dead, for 10 points each.
+[10] This son of Zeus and Leda was killed in battle, but his twin brother Pollux shared the gift of
+immortality with him.
+ANSWER: Castor
+[10] This beautiful god was killed by a dart of mistletoe. Loki in disguise as Thokk prevented him from
+returning from Hel, but he will come back to life and rule the post-Ragnarok world.
+ANSWER: Balder
+[10] This Aztec god descended into Mictlan, died and created human beings by mixing his blood with his
+bones.
+ANSWER: Quetzalcoatl
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 9 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+17. Even with hlyA deactivated, hemolytic F4+ strains of one variety cause septicemia. One variety uses
+fimbrial adhesins to bind to human cells, while a related kind causes fever and uses intimin instead of
+fimbriae. Its entero-hemorrhagic variety produces Shiga toxins and is commonly associated with urinary
+tract infections and food poisoning, though most strains are commensalists that facilitate digestion and
+produce small amounts of vitamins B12 and K. Conjugation was first observed in, for 10 points, this
+bacterium that lives in the lower intestine.
+ANSWER: E. coli [or Escheria coli]
+A work detailing the murder of Solomon P. Sharp by Jeroboam O. Beauchamp in Kentucky takes its title
+from a line in this poem. For 10 points each:
+[10] Name this 1650 poem that begins "Had we but world enough and time."
+ANSWER: "To His Coy Mistress"
+[10] The novel World Enough and Time was written by this man, whose best known work chronicles the
+rise and fall of the politician Willie Stark, who was based on Huey Long.
+ANSWER: Robert Penn Warren
+[10] "To His Coy Mistress" is a poem by this Metaphysical poet, who also wrote "An Horatian Ode Upon
+Cromwell's Return from Ireland."
+ANSWER: Andrew Marvell
+18. He used both the octatonic mode and third-related triads in his Sadko and his Antar Symphony. He
+completed and re-orchestrated the “Persian Dances” from Khovanschina by Mussorgsky, and in one
+work an Alborada is played one time with a violin solo and another time with a clarinet solo. One work
+of his was reduced for piano by Rachmaninoff and begins with a descending chromatic scale played by
+the solo violin, representing an insect. For 10 points, name this composer of Cappriccio Espagnole and
+The Tale of Tsar Saltan, which features The Flight of the Bumblebee.
+ANSWER: Nikolai Rimsky-Korsakov
+Name these items you might use in chemistry lab, for 10 points each.
+[10] A cylinder with a round bottom and a lip at the top, these glass objects are often used to store small
+volumes of reagent and can be stored on their namesake “racks”.
+ANSWER: test tubes
+[10] Often used to boil solutions, this type of flask has a rounded bottom and thick walls.
+ANSWER: Florence flask
+[10] This ubiquitous device consists of a metal tube, at the end of which often appears a smokeless
+flame.
+ANSWER: Bunsen burner
+19. This author lamented that no one could recite the Lord’s Prayer at the beginning of a work that also
+includes the section “Christian Questions with their Answers.” This author of the Small Catechism wrote
+that “A Christian is a free lord” and a “dutiful servant” at the beginning of his On the Freedom of a
+Christian. His deputy wrote the Augsburg Confession, the primary confession of the faith named for him,
+which in the U.S. has Wisconsin and Missouri synods. For 10 points, name this friend of Philip
+Melanchthon and author of the Ninety-Five Theses.
+ANSWER: Martin Luther
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 10 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+He fights Samson Carrasco, who is disguised as The Knight of Mirrors and The Knight of the White Moon.
+For 10 points each:
+[10] Name this title character of a satirical novel by Miguel de Cervantes.
+ANSWER: Don Quixote [or El ingenioso hidalgo Don Quixote de la Mancha]
+[10] This man briefly receives his promised governorship of an island in exchange for serving as Don
+Quixote’s squire.
+ANSWER: Sancho Panza
+[10] Throughout their travels, Don Quixote and Sancho Panza are accompanied by Dapple the donkey
+and this broken-down horse ridden by Don Quixote.
+ANSWER: Rocinante
+20. Clive R. Neal found that this object’s mostly dense core allows quakes on it to propagate for over ten
+minutes. This body’s gravitational field is home to “mascon” anomalies that correspond to the large
+basins on its surface, which include the Aitken basin at this body’s south pole. The “fission,” “coformation,” and “capture” hypotheses claim to explain this body’s formation, but fail to explain the high
+angular momentum of its system like the “Giant Impact” hypothesis does. For 10 points, name this body,
+home to the Tycho crater and many maria, that orbits the Earth.
+ANSWER: the moon [accept Luna]
+His children with his mistress Vannozza dei Cattanei include Cesare and Lucrezia, and he may have taken
+part in the Banquet of Chestnuts. For 10 points each:
+[10] Name this corrupt pope, whose reign saw Girolamo Savonarola perpetrate the Bonfire of the
+Vanities.
+ANSWER: Alexander VI [or Rodrigo Borgia; or Roderic Llancol]
+[10] Pope Alexander VI signed this 1494 treaty, building upon the papal bulls Aeterni regis and Inter
+caetera, which created a Line of Demarcation between Spain and Portugal.
+ANSWER: Treaty of Tordesillas
+[10] Pope Alexander VI, in addition to Cesare, Lucrezia, and Pope Callixtus III, were members of this
+noble family.
+ANSWER: House of Borgia
+21. During World War II, Henry Stimson kept this city from being the target of bombings, and it was
+modeled on Changan. It was created due to the instability of Nagaoka, and the departure of the Ouchi
+clan from it marked the end of the Onin War. Oda Nobunaga set fire to its monastery complex, and its
+importance declined with the rise of the Tokugawa Shogunate. Founded by Tammu, for 10 points, name
+this city, the center of the Heian period and former capital of imperial Japan which was the site of the
+1998 global warming accords.
+ANSWER: Kyoto
+Unlike plants, they are heterotrophic and have a cell wall made of chitin. For 10 points each:
+[10] Name this kingdom, members of which include mushrooms, mildews, and yeasts.
+ANSWER: Fungi
+[10] This term denotes the fungal body; it is a mesh of tiny filaments called hyphae.
+ANSWER: mycelium
+[10] Crustose, foliose and fruticose are forms of this symbiotic association that usually involves a fungus
+and a photosynthetic organism, such as an alga.
+ANSWER: lichen
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 11 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+22. One author from this country wrote about his travels with his donkey in Platero and I, and another
+wrote about the imprisoned Polish heir Sigusmundo in Life is a Dream. Another playwright from this
+country has almost five hundred extant plays including The Sheep Well. Home to the group known as the
+Generation of ‘98, this country was the birthplace of the author of the plays Yerma and Blood Wedding.
+For 10 points, name this country whose authors have included Juan Jimenez, Calderon de la Barca, Lope
+de Vega, and Federico Garcia Lorca.
+ANSWER: Spain
+This man lost to Aulus Hirtius at the Battle of Mutina and after being appointed Master of the Horse,
+gave the eulogy of Julius Caesar, for 10 points each:
+[10] Name this member of the Second Triumvirate who lost the Battle of Actium to Agrippa.
+ANSWER: Mark Antony [or Marcus Antonius]
+[10] The daughter of Ptolemy XII, this Egyptian served as consort to Mark Antony as well as Julius
+Caesar, and supposedly poisoned herself.
+ANSWER: Cleopatra VII Philopator
+[10] The daughter of Cleopatra and Mark Antony married this Numidian king who established his capital
+at modern day Cherchell and sent the first expedition to the Canary Islands.
+ANSWER: Juba II of Mauretania [or Juba II of Numidia]
+
+2008-2009 NSC-Format Set #1
+
+Round 1
+
+Page 12 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+

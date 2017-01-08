@@ -1,0 +1,884 @@
+Harvard Fall Tournament X 
+Edited by ​
+Raynor Kuang and Robert Chu 
+Questions by ​
+Raynor Kuang, Robert Chu, Jason Park, Sriram Pendyala, Roger Jin, Erik Owen, Harrison 
+Li, Mark Arildsen, Vimal Konduri, Adam Frim, and Jonah Philion 
+And with thanks to​
+ Will Holub­Moorman, MIT Quiz Bowl, and various playtesters 
+ 
+Round 4 
+ 
+Tossups 
+ 
+1. ​
+In one song from this work, a character sings “Trapped! Tricked! Hoodwinked! Ambushed!” in referring 
+to marriage; that number, “It’s a Scandal! It’s a Outrage!” is sung by the Persian salesman Ali Hakim. After 
+one character takes a sleeping potion, a (*) ​
+“dream ballet” sequence ends the first act of this musical. This musical 
+opens with the number “Oh What a Beautiful Morning,” in which Curley McLain sings, “The corn is as high as an 
+elephant’s eye.” During a box social in this musical, conflict arises between the local cowboys and farmers. For 10 
+points, name this Rodgers and Hammerstein musical set in the namesake Midwestern state. 
+ANSWER: ​
+Oklahoma! 
+ 
+2. ​
+The covering variety of this property is always less than or equal to the large inductive variety. This 
+quantity for a smooth manifold is the number of independent variables needed to parametrize it, and for a 
+vector space this quantity is the (*) ​
+cardinality of the largest linearly independent subset. A surface is a manifold 
+with two for this value. For the boundary of the Mandelbrot Set, the “fractal” version of this quantity is 2, while for 
+a tesseract this quantity is equal to 4. For a Cartesian space it is the number of coordinates needed to specify a point. 
+For 10 points, give this measure which is 2 for polygons and 3 for solids. 
+ANSWER:​
+ ​
+dimension​
+ (accept more specific variants) 
+ 
+3. ​
+The Greek ship ​
+Doula F ​
+is beached on the free trade island of Kish in this body of water, while the Hara 
+mangrove forests can be found on this body of water’s island of Qeshm. The world’s largest airport by land 
+area is located at Dammam on this body of water, which is also the home of the (*)​
+ Fifth Fleet of the United 
+States Navy, and the Musandam Governorate exclave grants access to this body of water to Oman. The Shatt 
+al­Arab connects the Tigris and Euphrates to this body of water. For 10 points, name this body of water separated 
+from the Arabian Sea by the Strait of Hormuz. 
+ANSWER: ​
+Persian Gulf​
+ (accept ​
+Arabian Gulf​
+; accept ​
+Gulf​
+ of ​
+Iran​
+) 
+ 
+4. ​
+The 2012 piece ​
+Recomposed by Max Richter​
+ is based on this set of works. The second movement of one of 
+these works depicts a sleeping man named Capraro. Another movement from these works depicts a 
+drunkard, while the second of these works ends with a (*)​
+ “thunderstorm” of thirty­second notes. Each 
+movement of these works accompanies a sonnet thought to have been written by their composer. These works form 
+the first four pieces of its composer’s ​
+The Contest Between Harmony and Invention​
+. For 10 points, name this set of 
+violin concertos by Antonio Vivaldi, the first of which is “Spring.”  
+ANSWER: ​
+The ​
+Four Seasons​
+ (or ​
+Le ​
+quattro stagioni​
+; prompt on “​
+The Contest Between Harmony and Invention​
+” 
+before mention; prompt on “Vivaldi violin concertos” before mention) 
+ 
+ 
+ 
+ 
+ 
+
+5. ​
+This man wrote a short story about a hide­and­seek game in the dark where Peter Morton accidentally 
+terrifies his twin brother to death. This author wrote a novel in which a dachshund hound is poisoned in a 
+failed assassination attempt against the protagonist, a (*) ​
+vacuum salesman­turned­spy. This author created 
+Henry Wormold in ​
+Our Man in Havana​
+, and in another of his novels, the girl Coral tries to protect the protagonist, 
+who is nevertheless betrayed by the mestizo to the Church­hating Lieutenant. For 10 points, name this British author 
+who created the whisky priest in ​
+The Power and the Glory​
+. 
+ANSWER: (Henry) Graham ​
+Greene  
+ 
+6. ​
+This man instituted a group of taxes known as the “Three Graces.” This ruler consolidated power in Italy 
+by signing the Peace of Cateau Cambrésis with Francis II. In response to the Beeldenstorm, a deputy of this 
+monarch created the Council of Troubles. This king appointed the (*)​
+ Duke of Alba as Governor of the 
+Netherlands, and he built the Escorial. This ruler was briefly married to “Bloody” Mary, and he ordered an invasion 
+that was stopped with the help of the “Protestant Wind.” For 10 points, name this Habsburg monarch who 
+unsuccessfully tried to subdue England with the Spanish Armada. 
+ANSWER: ​
+Philip II​
+ ​
+of Spain (accept ​
+Philip I of Portugal​
+; accept ​
+Philip the Prudent​
+; accept ​
+Felipe​
+ and ​
+Filipe​
+ in 
+place of “Philip;” prompt on just “Philip”) 
+ 
+7. ​
+This figure is informed a certain period will last “seventy sevens.” This figure confronts priests claiming 
+that a bronze idol has been eating food at night, and he receives different answers after asking two old men 
+under what tree they met. This figure was involved in episodes with (*) ​
+Susanna as well as Bel and the Dragon. 
+This man’s friends survive being thrown into a fiery furnace, and this prophet interprets writing on a wall at 
+Belshazzar’s Feast. This prophet foretold the fall of Babylon from the dreams of Nebuchadnezzar. For 10 points, 
+name this Biblical prophet whose namesake book describes him surviving being cast into a lion’s den. 
+ANSWER: ​
+Daniel 
+ 
+8. ​
+This empire was the largest civilization to use an economic model known as the “vertical archipelago.” This 
+civilization was divided into four states known as ​
+suyus​
+, and it created many of its largest projects using a 
+form of compulsory service called ​
+mit’a.​
+ This civilization built the sites at Moray and Tipón, (*) ​
+and 
+messengers of this empire used knotted ropes called ​
+quipus​
+. After losing the Battle of Cajamarca, an emperor of this 
+civilization filled a room with gold as a ransom. For 10 points, name this empire ruled by Atahualpa, conquered by 
+Francisco Pizarro, and responsible for building Machu Picchu. 
+ANSWER: ​
+Inca​
+n Empire 
+ 
+9. ​
+In quantum mechanics, the square of the operator corresponding to this quantity commutes with the 
+Hamiltonian if the potential is central. Kepler’s Second Law arises from the fact that areal velocity is equal to 
+this quantity divided by twice the mass of the orbiting body, and the (*) ​
+orbital form of this quantity is quantized 
+in units of the reduced Planck’s constant. Noether’s Theorem applied to rotational invariance yields the conservation 
+of this quantity, and its intrinsic form is called spin. This quantity is equal to the moment of inertia times the angular 
+velocity. For 10 points, name this physical quantity, the rotational counterpart of momentum. 
+ANSWER: ​
+angular momentum​
+ (accept ​
+spin​
+ until “Kepler”; prompt on “momentum”; do not accept or prompt on 
+“linear momentum”) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10. ​
+This scientist coined the term “biochemical theology” to describe research on subjects like the molecular 
+basis of prayer. Hoagland and Zamecnik’s discovery of tRNA confirmed this man’s adaptor hypothesis. This 
+man explained the degeneracy of the genetic code by proposing the wobble hypothesis, and he first stated the 
+(*) ​
+central dogma of molecular biology. This man is usually paired with the author of ​
+The Double Helix​
+, and he was 
+the alphabetically first by surname of those who won a Nobel prize partially using the x­ray crystallography of 
+Rosalind Franklin. For 10 points, name this scientist who co­discovered the structure of DNA with James D. 
+Watson. 
+ANSWER: Francis (Harry Compton) ​
+Crick 
+ 
+11. ​
+During this event, one group was aided by the mysterious man Orban. Vlad the Impaler’s brother Radu 
+the Handsome was at this event, as was Giovanni Giustianini. Prior to this event a massive chain was strung 
+across the Golden Horn​
+. ​
+The “Marble Emperor” was legendarily rescued from this event, though more likely 
+(*)​
+ Constantine Palaiologos died during it. Giant cannons were built for this event, and it was followed by three days 
+of looting. After this event, Mehmet II ordered the Hagia Sophia converted into a mosque. For 10 points, name this 
+event in which the Ottoman Empire seized the Byzantine capital.  
+ANSWER: ​
+siege​
+ of ​
+Constantinople​
+ (accept synonyms for ​
+siege​
+ like ​
+battle​
+; also accept ​
+fall​
+, ​
+sack​
+, and other 
+synonyms; do not accept “Byzantium” or “Istanbul” for ​
+Constantinople​
+) 
+ 
+12. ​
+Karl Coryat devised a “score” related to this show. This was the first show created by Merv Griffin, and 
+its announcer is Johnny Gilbert, while recurring sections on this show include things like “Potpourri” and 
+“Potent Potables.” The unconventional (*) ​
+“Forrest Bounce” is used on this show, and returning winners on this 
+show compete on the Tournament of Champions. Previous competitors on this show include Brad Rutter, Julia 
+Collins, David Madden, Arthur Chu, and an artificial intelligence developed by IBM named Watson. For 10 points, 
+name this quiz show on which answers are phrased in the form of a question. 
+ANSWER: (What is) ​
+Jeopardy!​
+ (​
+Ed’s note: Exclamation not necessary​
+) 
+ 
+13. ​
+One painting from this movement shows three nude models standing next to a ​
+different​
+ work in this style. 
+In addition to ​
+The Models​
+, another work in this style depicts a man holding a top hat and a white flower in 
+front of a swirling multicolored background. In addition to that portrait of (*)​
+ Felix Feneon by Paul Signac, a 
+work in this style contains a thin blue­red border and a team of four rowers in the distance. That work in this style 
+depicts a man lying on his back smoking a pipe and a woman holding monkey on a leash. For 10 points, name this 
+style most famously used by George Seurat in ​
+A Sunday Afternoon on the Isle of La Grande Jatte​
+. 
+ANSWER: ​
+pointillism​
+ (prompt on “Neo­Impressionism”) 
+ 
+14. ​
+These characters include one who was so beautiful she blinded her mother at birth, and these characters 
+are aggressively sterilized by the Widow. The midwife Mary Pereira switches the nametags of two of these 
+characters as infants. These characters include (*) ​
+Parvati­the­witch, who briefly marries another of these 
+characters with a supernatural sense of smell. The strong­kneed Shiva and the large­nosed Saleem Sinai are the most 
+powerful of these characters. For 10 points, name this group of people who gain supernatural powers from being 
+born in the hour of India’s independence and title a novel by Salman Rushdie. 
+ANSWER: the ​
+Midnight​
+’s ​
+Children​
+ (accept on any description of the Midnight’s Children similar to “​
+those born 
+near India’s independence​
+”; anti­prompt [ask for less specific] on specific names like Saleem Sinai, Shiva, and 
+Parvati­the­witch; prompt on “Indians,” I guess; prompt on “characters from Midnight’s Children”­­players need to 
+specify they are referring to the group of children in particular) 
+ 
+ 
+ 
+
+15. ​
+One god associated with this domain had a beard made of lapis lazuli and was the son of the wind god 
+Enlil. In addition to Sin, a goddess associated with this domain was Coyolxauhqui [“​
+ko­hol­shahw­ke”​
+], who 
+was decapitated by Huitzilopochtli [“wee­tsee­loh­pohch­tlee”] after she led an attack on his mother 
+Coatlicue. Chinese mythology believes that a (*) ​
+Jade Rabbit lives here with the goddess Chang'e, who fled here 
+after consuming the Elixir of Immortality. Endymion had a relationship with a Greek Titan who personified this 
+entity. For 10 points, the Greek Selene and the Roman Luna both represented which celestial object? 
+ANSWER: the ​
+moon 
+ 
+16. ​
+One nonfiction book by this thinker describes stealing a ribbon and framing a servant for the crime. This 
+man claimed that the founder of civil society was the first man “who, having fenced in a piece of land, said 
+'This is mine.’” In contrast to Thomas Hobbes, this man coined the term (*) ​
+“noble savage” to argue that man is 
+naturally good in the state of nature, and he claimed that “Man is born free, and everywhere he is in chains.” For 10 
+points, name this Enlightenment philosopher who wrote books such as the ​
+Confessions​
+, ​
+Discourse on Inequality​
+, 
+and ​
+The Social Contract​
+. 
+ANSWER: Jean­Jacques ​
+Rousseau 
+ 
+17. ​
+A compound containing cadmium, tellurium, and this element is a semiconductor that converts 
+high­energy photons into electrons. The iodomethyl compound of this element is used in the Simmons­Smith 
+reaction, and its amalgam is used in the Clemmensen reduction. This element’s chief ore is a 
+sulfur­containing mineral called (*) ​
+sphalerite. A single atom of oxygen combines with this element to form its 
+oxide, which is used as a white pigment. This element serves as a sacrificial anode when it is used to galvanize 
+rust­prone materials such as iron or steel. For 10 points, name this transition metal that is mixed with copper to form 
+brass and has symbol Zn. 
+ANSWER: ​
+zinc​
+ (prompt on “Zn”) 
+ 
+18. ​
+This organization built a giant industrial complex known as the Rouge. This company was the defendant 
+in a state Supreme Court case stating that businesses must maximize the earnings of shareholders, and 
+security forces of this company clashed with protesters in the Battle of the (*) ​
+Overpass. This company’s 
+founder’s newspaper published the article“The International Jew,” and products of this company included the Edsel 
+and one available in any color “as long as it’s black.” This company introduced the 40­hour work week and the 
+assembly line. For 10 points, name this American car manufacturer that produced the Model T. 
+ANSWER: ​
+Ford​
+ Motor Company 
+ 
+19. ​
+After listening to the whistling of George Washington, the protagonist of this novel manages to keep 
+himself from saying the word “but.” Characters the protagonist of this novel meets include Alec Bings, the 
+conductor Chroma, and the genie “Dynne.” After venturing to the Castle in the (*) ​
+Air, the main characters of 
+this novel flee demons before being rescued by the armies of Wisdom. The main character of this novel meets the 
+Humbug and the “watchdog” Tock, with whom he rescues the princesses Rhyme and Reason. For 10 points, name 
+this children’s novel by Norton Juster in which a magic device transports Milo to a kingdom full of puns and 
+wordplay. 
+ANSWER: ​
+The ​
+Phantom Tollbooth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+20. ​
+This character dreams of a plague that spreads through Europe making men believe they are “so 
+intellectual and so in possession of the truth,” and in another dream beats a woman who only laughs. This 
+character discusses the raising of Lazarus with a woman who carries a yellow card. (*) ​
+Svidrigailov is rejected 
+by this character’s sister Dunya, and the prostitute Sonya redeems this character by the end of the novel he appears 
+in. This character writes an article about “great men,” which spurs him to kill the old pawnbroker Alyona Ivanovna. 
+For 10 points, name this protagonist of Dostoyevsky’s ​
+Crime and Punishment.​
+ 
+ANSWER: ​
+Rodion​
+ Romanovich ​
+Raskolnikov​
+ (accept either underlined name) 
+ 
+21. ​
+The NPA motif is responsible for the selectivity of some major intrinsic proteins for this molecule, and the 
+Kok cycle describes how a certain manganese­containing enzyme oxidizes this molecule; that enzyme is 
+photosystem II. Vasopressin enhances the reabsorption of this molecule in the collecting ducts of the ​
+(*) 
+kidney. Catalase can produce this molecule from hydrogen peroxide, and the sodium­potassium pump uses this 
+molecule to catalyze the hydrolysis of ATP into ADP. For 10 points, name this molecule that makes up 70% of the 
+total volume of a typical cell, as well as 60% of the human body. 
+ANSWER: ​
+water​
+ (or ​
+hydrogen dioxide​
+ or ​
+H​
+O​
+) 
+2​
+ 
+ 
+ 
+ 
+
+Bonuses 
+ 
+1. A motion of no confidence is an example of the disapproval type of this action. For 10 points each: 
+[10] Name this action in which actors cast ballots to make decisions, such as electing candidates. 
+ANSWER: ​
+voting​
+ (accept word forms) 
+[10] This voting system is an example of a plurality voting system. In it, the candidate with the most votes wins 
+outright. 
+ANSWER: ​
+first­past­the­post​
+ (prompt on “winner takes all”) 
+[10] Arrow’s impossibility theorem states that no voting system can satisfactorily meet all of a given set of fairness 
+criteria, among which is an “efficiency” named for this man. This man also names an inequality index. 
+ANSWER: Vilfredo ​
+Pareto 
+ 
+2. This man is memorialized in a bronze statue with a sign reading “come and take.” For 10 points each: 
+[10] Name this king who led a relatively tiny army against Xerxes I’s Persian army in the Battle of Thermopylae. 
+ANSWER: ​
+Leonidas​
+ I 
+[10] There were famously this many Spartans at Thermopylae. The sparsity of Spartans was caused by the ongoing 
+religious festival of ​
+Carneia​
+, though Leonidas did have various soldiers from other Greek cities. 
+ANSWER: ​
+300 
+[10] Simultaneous with Leonidas’s battle on land, Themistocles was fighting this Queen of Halicarnassus and Naval 
+Commander for Xerxes. This woman also led ships at the Battle of Salamis. 
+ANSWER: ​
+Artemisia​
+ I of Caria   
+ 
+3. ​
+As they are also leptons, these particles have electron, mu, and tau flavors. For 10 points each: 
+[10] Name these uncharged, extremely small, and notoriously hard to detect particles. The 2015 Nobel Prize in 
+Physics was awarded for discovering these particles have mass, though not much. 
+ANSWER: ​
+neutrino​
+s 
+[10] Neutrinos are so hard to detect in part because they are not affected by this fundamental force. This 
+fundamental force is extremely powerful but only applies on extremely small scales, and it’s responsible for 
+“holding” the nucleus together. 
+ANSWER: ​
+strong​
+ interaction (or ​
+strong​
+ nuclear force) 
+[10] An early method for detecting neutrinos was the usage of these structures filled with superheated liquid. The 
+creation of these instruments was apocryphally inspired by beer. 
+ANSWER: ​
+bubble chamber​
+ (prompt on just “chamber”) 
+ 
+4. This man was the former Mayor of Burlington. For 10 points each: 
+[10] Name this Vermont Senator and candidate for the Democratic presidential nomination. He calls himself a 
+“democratic socialist,” but had been an Independent prior to caucusing as a Democrat. 
+ANSWER: Bernard “Bernie” ​
+Sanders 
+[10] This former CEO of HP and previous candidate for the Republican presidential nomination ran in 2010 for one 
+of California’s Senate seats and, in an open­mic gaffe, criticized the haircut of the Democratic opposition, Barbara 
+Boxer. 
+ANSWER: Carly ​
+Fiorina 
+[10] Though he introduced George Bush at the 2004 Republican National Convention, this pro­choice moderate 
+Republican presidential candidate and former governor of New York has fallen out of the running to win the 
+nomination. 
+ANSWER: George (Elmer) ​
+Pataki 
+ 
+ 
+
+ 
+[NOTE TO MODERATOR: do not read alternate answerline for second part unless already given]  
+5. Among this composer’s comprehensive set of vocal works is the song cycle ​
+Winterreise​
+. For 10 points each: 
+[10] Name this composer, whose eighth symphony has only two complete movements, earning it the nickname 
+“Unfinished.” 
+ANSWER: Franz ​
+Schubert 
+[10] This Schubert chamber work notably features a double bass in place of a second violin. A rising sextuplet motif 
+throughout the piece may be intended to portray leaping. 
+ANSWER: “​
+Trout Quintet​
+” (accept Schubert’s ​
+piano quintet​
+ in ​
+A​
+ major; prompt on “piano quintet”) 
+[10] The Trout Quintet is in this key. Other works in this major key include Mendelssohn’s “Italian” symphony and 
+Beethoven’s seventh symphony. 
+ANSWER: ​
+A​
+ major  
+ 
+6. Name these people who were just ​
+nearly ​
+brought back to life, for 10 points each: 
+[10] This man himself didn't come back to life, but he nearly brought his wife Eurydice back to life. If only he hadn't 
+looked back! 
+ANSWER: ​
+Orpheus 
+[10] Odysseus ventured into the underworld to temporarily revive and consult with this prophet and seer. During his 
+life, this man had been temporarily turned into a woman. 
+ANSWER: ​
+Tiresias 
+[10] This man's wife Laodamia committed suicide after seeing this first Greek casualty in the Trojan War return 
+from the Underworld for three hours. 
+ANSWER: ​
+Protesilaus 
+ 
+7. This mathematician developed the proof by infinite descent. For 10 points each: 
+[10] Name this mathematician whose “little theorem” states that ​
+a​
+ to the power of a prime​
+ p​
+ is congruent to ​
+a​
+ mod ​
+p​
+.  
+ANSWER: Pierre de ​
+Fermat 
+[10] The Fermat primality test uses the little theorem to determine whether a number is prime. However, these 
+special composite numbers named for an American mathematician also pass the Fermat test for every co­prime base 
+a. 
+ANSWER: ​
+Carmichael​
+ numbers 
+[10] Fermat is probably most famous, though, for a theorem described by this adjective that states that ​
+a ​
+to the ​
+n ​
+plus 
+b ​
+to the ​
+n ​
+equals ​
+c ​
+to the ​
+n ​
+is impossible for ​
+n ​
+greater than two. Andrew Wiles was knighted for proving that 
+theorem. 
+ANSWER: Fermat’s ​
+Last​
+ Theorem 
+ 
+8. One document discussing this action defended a certain practice as “the greatest material interest of the world.” 
+For 10 points each: 
+[10] Name this action. The sale of government bonds after one instance of this action eventually resulted in the 
+Supreme Court case ​
+Texas v. White​
+, which declared this action unconstitutional. 
+ANSWER: ​
+secession​
+ (accept word forms; accept equivalents like ​
+leaving the Union​
+; the practice mentioned in the 
+lead­in is slavery) 
+[10] South Carolina’s secession was soon followed by the bombardment of this fort in Charleston Bay, thus 
+commencing hostilities between the North and the South.  
+ANSWER: Fort ​
+Sumter 
+[10] This state’s ordinance of secession was signed by Confederate vice president Alexander Stephens. After the 
+war, a gigantic relief depicting leaders of the Confederacy was created at Stone Mountain in this state. 
+ANSWER: ​
+Georgia 
+
+ 
+9. This show is frequently cited by doctors as the most realistic medical show on television. For 10 points each: 
+[10] Name this comedy series about the medical interns J.D., Turk, and Elliot. This show is named for the plain 
+garments worn by operating room personnel. 
+ANSWER: ​
+Scrubs 
+[10] On the other hand, this NBC medical drama loved to play up the trauma and gore. George Clooney had a 
+starring role on this show that ran for 15 seasons. 
+ANSWER: ​
+ER 
+[10] This show set at St. Eligius hospital is probably best known for its ending, in which the entire show is revealed 
+to be set in the imagination of a boy playing with a snow globe. 
+ANSWER: ​
+St. Elsewhere 
+ 
+10. This military ruler was forced to commit suicide during the Honnō­ji Incident. For 10 points each: 
+[10] Name this Japanese ruler. He is considered the first of the three great unifiers of Japan, in turn followed by 
+Toyetomi Hideyoshi and Tokugawa Ieyasu. 
+ANSWER: ​
+Oda​
+ Nobunaga (accept names in either order; prompt on “Nobunaga”) 
+[10] In 1573, Oda captured Tokyo and deposed the last member of the Ashikaga family to hold this title. Three 
+decades later, this military title would be bestowed upon Tokugawa Ieyasu, effectively making him ruler of Japan. 
+ANSWER: ​
+shogun 
+[10] Tokugawa crushed the Western army of Ishida Mitsunari in this decisive 1600 battle, which is widely 
+considered to mark the beginning of Tokugawa’s rule over all of Japan. 
+ANSWER: Battle of ​
+Sekigahara 
+ 
+11. ​
+One of this director’s films concerns an aging professor who takes a road trip to receive a Doctor Jubilaris 
+degree. For 10 points each: 
+[10] Name this Swedish director of ​
+Wild Strawberries​
+ and ​
+The Seventh Seal​
+. 
+ANSWER: Ernst Ingmar ​
+Bergman 
+[10] In ​
+The Seventh Seal​
+, the knight Antonius Block engages in this activity with Death. Death defeats Block in this 
+board game by checkmating his king.  
+ANSWER: ​
+chess 
+[10] This other Bergman film focuses on the relationship between the nurse Alma and the actress Elisabet Vogler, 
+who refuses to speak after a performance of ​
+Elektra​
+. 
+ANSWER: ​
+Persona 
+ 
+12. These organelles are often coated by SNAREs, and specialized ones include lysosomes, peroxisomes, and 
+vacuoles. For 10 points each: 
+[10] Name these spherical organelles. They transport membrane­enclosed cargo in the cell and bud off from the 
+endoplasmic reticulum or the Golgi apparatus. 
+ANSWER: ​
+vesicles 
+[10] This protein’s triskelion structure forms cage­like lattices that coat newly formed vesicles. Recent studies also 
+indicate that this protein helps to stabilize the kinetochore during mitosis. 
+ANSWER: ​
+clathrin 
+[10] Clathrin mediates this process that results in the engulfing of extracellular particles and macromolecules. 
+Variants of this process include pinocytosis and phagocytosis. 
+ANSWER: ​
+endocytosis 
+ 
+ 
+ 
+
+ 
+13. This event occurs even though one character has “sought her own salvation.” For 10 points each: 
+[10] Name this scene that opens Act 5 of the play in which it occurs. The “Alas, poor Yorick” scene occurs during 
+this event. 
+ANSWER: ​
+Ophelia’s funeral​
+ (accept any answer about ​
+Ophelia​
+ being ​
+buried​
+) 
+[10] This man calls Yorick a fellow of “infinite jest” and then acts really crazy while kneeling in Ophelia’s grave. 
+Other signs of his craziness including threatening his mother Gertrude and delivering the “to be or not to be” 
+soliloquy. 
+ANSWER: Prince ​
+Hamlet 
+[10] Much of Hamlet’s madness stems from his indecision over whether or not to kill this character, who had 
+(presumptively) killed Hamlet’s father before the play began. 
+ANSWER: ​
+Claudius 
+ 
+14. Algerian journalist Kamel Daoud’s 2015 novel ​
+The Meursault Investigation​
+ is narrated by the brother of the 
+Arab who is killed in this novel. For 10 points each: 
+[10] Name this novel that opens, “Mother died today. Or maybe yesterday; I can’t be sure.” 
+ANSWER: ​
+The ​
+Stranger​
+ ​
+(accept ​
+L’​
+etranger​
+) 
+[10] This French­Algerian absurdist and existentialist wrote ​
+The Stranger​
+, as well as ​
+The Plague​
+ and ​
+The Fall​
+. 
+ANSWER: Albert ​
+Camus 
+[10] Facing execution for shooting the Arab, Meursault’s last wish and the closing line of the novel is this one. A 
+general description is acceptable. 
+ANSWER: “on the day of my execution there should be a huge ​
+crowd​
+ of spectators who greet me with cries of 
+hate” (be lenient; accept anything mentioning the desire for a crowd or many spectators) 
+ 
+15. The strength of the “oxy” type of these compounds can be approximated using the Pauling­Ricci rules. For 10 
+points each: 
+[10] Name these compounds that generally have low pH values. They include “hydrochloric” and “acetic” examples, 
+and litmus paper turns red when it contacts these compounds. 
+ANSWER: ​
+acid​
+s 
+[10] Magic acid is an extremely strong acid that consists of a mixture of fluorosulfuric acid and the pentafluoride of 
+this element. The trioxide of this element is commonly used as a synergist in flame retardants. 
+ANSWER: ​
+antimony​
+ (prompt on “Sb”) 
+[10] Antimony pentafluoride acts as an electron acceptor in magic acid, meaning antimony pentafluoride itself can 
+be considered an acid in the acid­base classification scheme named for this American scientist. This man introduced 
+the dot diagram. 
+ANSWER: Gilbert Newton ​
+Lewis​
+ (accept ​
+Lewis​
+ acids) 
+ 
+16. This practice is usually preceded by a ritual washing known as ​
+wudu​
+. For 10 points each: 
+[10] Name this pillar of Islam also called ​
+salat.​
+ People are required to perform this action with ​
+qibla ​
+in mind. 
+ANSWER: ​
+prayer​
+ (accept word forms) 
+[10] The call to prayer, or ​
+adhan​
+, is usually delivered from one of these tall spires that form part of a mosque. 
+ANSWER: ​
+minaret​
+s 
+[10] The aforementioned ​
+wudu​
+ is one example of an action that falls under this category in Islamic jurisprudence. 
+Unlike ​
+halal​
+, this Arabic word denotes duties that are obligatory, and is thus the polar opposite of ​
+haram​
+. 
+ANSWER: ​
+fard​
+ (or ​
+faridah​
+; or ​
+wajib)​
+ 
+ 
+ 
+ 
+
+ 
+17. This sculpture was only cast in bronze after its creator’s death. For 10 points each: 
+[10] Name this sculpture, the most well­known work of Umberto Boccioni. It depicts a featureless man in the midst 
+of a large stride. 
+ANSWER: ​
+Unique Forms of Continuity in Space​
+ (accept ​
+Forme Uniche della Continuità nello Spazio)​
+ 
+[10] Boccioni’s ​
+Unique Forms of Continuity in Space ​
+is a classic work of this Italian art movement. Its artistic 
+principles focused on depicting action and continuous movement. 
+ANSWER: ​
+Futurism​
+ (accept ​
+Futurismo​
+) 
+[10] In the ​
+Manifesto of Futurism​
+, Filippo Tommaso Marinetti claimed that a racecar was more beautiful than the 
+headless sculpture of this goddess. That winged sculpture of this goddess of victory was found at Samothrace and is 
+housed in the Louvre. 
+ANSWER: ​
+Nike​
+ (accept the Winged ​
+Nike​
+ of Samothrace) 
+ 
+18. As secretary to Cardinal Mazarin, this man accused Nicolas Fouquet of embezzling funds that had in fact been 
+appropriated by the Cardinal himself. For 10 points each: 
+[10] Name this 17th­century French finance minister. He promoted a heavily mercantilist policy, including the 
+founding of the French East India Company. 
+ANSWER: Jean­Baptiste ​
+Colbert​
+ [“col­BARE”]  
+[10] Colbert was finance minister under this “Sun King,” who famously stated, “I am the state.” 
+ANSWER: ​
+Louis XIV​
+ (accept ​
+Louis the Great​
+; accept ​
+Louis le Grand​
+; prompt on “Louis”) 
+[10] Colbert established a government factory to produce these objects. A hall named for these objects is the largest 
+room at the Palace of Versailles. 
+ANSWER: ​
+mirror​
+s (accept ​
+miroir​
+s​
+; accept ​
+glace​
+s​
+; accept Hall of ​
+Mirror​
+s) 
+ 
+19. The second part of this novel is narrated by Quentin Compson during his time at Harvard. For 10 points each: 
+[10] Name this complex novel by William Faulkner centering on the Compson family. Spoiler: Quentin kills himself 
+by leaping off of Anderson Bridge, while nowadays Harvard students jump off of the nearby Weeks Bridge for fun. 
+ANSWER: ​
+The ​
+Sound and the Fury​
+ (do not accept “The Sound and Fury”) 
+[10] This transcendentalist attended Harvard College and Harvard Divinity School, and delivered his essay “The 
+American Scholar” at the local Phi Beta Kappa Society. This philosopher and writer described a “transparent 
+eyeball” in his essay ​
+Nature​
+. 
+ANSWER: Ralph Waldo ​
+Emerson 
+[10] This author created Eugene Gant, who departs for Harvard College at the end of this man’s novel ​
+Look 
+Homeward, Angel​
+. The rest of Eugene’s life post­Harvard is detailed in his other novel ​
+Of Time and the River​
+. 
+ANSWER: Thomas (Tom) ​
+Wolfe​
+ (accept either first name; if players seem confused, explain there is a later writer 
+also named “Thomas (Tom) Wolfe”) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+20. After sexually harassing a goddess, this character is sentenced to live a thousand lives, each one ending with a 
+romantic failure. For 10 points each: 
+[10] Name this gluttonous character who is half­man, half­farmyard animal. Unlike his more powerful companion, 
+he is only capable of 36 transformations, and he fights enemies with a nine­toothed rake. 
+ANSWER: ​
+Zhu​
+ ​
+Bajie​
+ [“tzu bah­jeh”] (accept either underlined part; also accept either underlined part of ​
+Zhu 
+Wuneng​
+; accept ​
+Pigsy​
+ or ​
+Pig​
+) 
+[10] Zhu Bajie accompanies the monkey king Sun Wukong [“swun OO­kung”] as they protect the Buddhist monk 
+Xuanzang [“shwen­tsang”] on his pilgrimage in this book, one of the Four Great Classics of Chinese literature. 
+ANSWER: ​
+Journey to the West​
+ (accept ​
+Xi you ji ​
+[“see yo gee”]; accept ​
+Monkey​
+) 
+[10] Sun Wukong’s other sidekick, Sha Wujing [“shah woo­jeeng”], originally lived as a man­eating monster in one 
+of these locations. Historically, China has been frequently devastated by the flooding of one of these bodies of water 
+named for its high silt content. 
+ANSWER: ​
+river​
+s (accept Yellow ​
+River​
+ or Huang ​
+He​
+) 
+ 
+21. ​
+A secret discovered in this book is located in “the end of Africa.” For 10 points each: 
+[10] Name this book narrated by Adso of Melk. It’s discovered that Jorge of Burgos really, really dislikes comedy in 
+this book. 
+ANSWER: ​
+The ​
+Name of the Rose 
+[10] ​
+The Name of the Rose​
+ is a book by this Italian who considered lots of lists in his 2009 ​
+The Infinity of Lists​
+. 
+ANSWER: Umberto ​
+Eco 
+[10] Eco also wrote a novel titled after one of these swinging devices created by Léon Foucault to show the Earth’s 
+rotation. A Poe short story is titled after a “pit” and one of these devices. 
+ANSWER: ​
+pendulum 
+ 
+
+ 
+
+

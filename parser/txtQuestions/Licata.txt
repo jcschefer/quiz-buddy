@@ -1,0 +1,404 @@
+TOSSUPS - ROUND 3
+DENNIS HASKINS OPEN HS QUIZBOWL 2001 - UTe
+Questions mostly by Lauren Licata of Bryn Mawr University
+
+1.
+This song first appeared on the 1976 album Agents of Fortune. The song was heard in the original film
+of Halloween, as well as on the desert floor in Bill & Ted's Bogus Journey. On a Saturday Night Live sketch,
+this song constantly needed "more cowbell." FTP, what is this seemingly spooky but often joked-about song by
+Blue Oyster Cult?
+Answer: (Don't Fear) The Reaper
+2.
+A cactus growing out of a rock with an eagle perched on top was the omen that the priests of this Latin
+American nation waited to see before building the foundations of their empire. The people spoke Nahuatl and
+were a combination of the Toltec, Chichimec, and Mexica people. FTP name this group which ruled most of
+Mexico from 1427-152 and had its capital at Tenochtitlan, present day Mexico City.
+Answer:
+Aztec
+3.
+If you are recording the change in the light radiated by the galaxy, its "Red Shift," you are relying on
+this principle, Similarly, if you are standing on a street corner and you hear a very high pitched siren
+approaching, you'll note that the closer it gets the louder it sounds until it passes and the sound not only fades
+away in volume, but also goes down in pitch. FTP name this effect, first outlined in 1862 by the Austrian
+physicist for whom it is named.
+Answer:
+Doppler effect
+4.
+He is expelled by the founder of a historically black college when he reveals how African-Americans are
+treated in the South. The Communist Party of New York tries to use him as a token, but, after a surreal riot in
+Harlem, he realizes his loss of social identity. FTP, name this titular character of a 1952 Ralph Ellison novel.
+Answer: Invisible Man
+
+5.
+
+Apprentice to Andrea de Verrochio, his early talent was evident in an angel he painted in Verrochio's
+"Baptism of Christ." His own "Virgin on the Rocks" was one of the premiere paintings of the High Renaissance
+in Italy, though today it hangs with his other most famous work, a female portrait, in the Louvre. FTP name
+this Florentine born master and painter of the Last Supper.
+Answer:
+Leonardo da Vinci
+6.
+It was originally called Oak. It is similar in syntax to C++, but only supports single inheritance, although
+it enhances this with the notion of interfaces. It can be compiled to machine code using compilers like GCl, but
+is more commonly distributed as bytecode, which is run in a virtual machine. FTP, name this computer
+programming language developed by Sun Microsystems, with components called beans and program types
+called servlets, maillets and applets.
+Answer: Java (Do not accept lavascript, a totally different language developed by Netscape
+Communications)
+7.
+A colorless liquid with a burning taste, it is an excellent solvent. It dissolves iodine, sulfur, phosphorus,
+gums, waxes, and other organic compounds. Use of this chemical has been restricted since 1978 because it is
+potentially carcinogenic in extended use. FTP name this hydrocarbon with a formula of C6H6 and a
+characteristic structure of a hexagon with a ring in its interior.
+Answer:
+Benzene
+8.
+His wife became a best selling author, and his autobiography won the 1954 Pulitzer prize. He moved to
+Europe in 1935 after the murder of his firstborn, and praised the German air force as the best in Europe. In
+1933 he made aerial surveys of over 48,000 km for transatlantic air routes and landing fields. For ten points,
+name this man who made history in his single engine monoplane, The Spirit ofSt. Louis.
+Answer: Charles Augustus Lindbergh
+
+9.
+The title refers to Dorlcote, a town where Philip Wakem desires the woman who, against the advice of
+her cousin Lucy Deane, runs off with Stephen Guest. FTP, name this novel that follows the lives of Tom and
+Maggie Tulliver, written by George Eliot.
+Answer: The Mill on the Floss
+10.
+From the Persian for "beggar", these sects have Sufism as their basis. They do not take vows like their
+Western counterparts, but groups are known by their practices, such as howling. FTP, name this monks of
+Islam, whose name has become the word for a spinning, destructive wind.
+Answer: Dervish or Whirling Dervishes
+11.
+His surviving works include "The Sandreckoner," "On Plane Equilibrium," and "Quadrature of the
+Parabola." His contributions to weaponry include something called the burning mirrors and an early catapult.
+Such feats make up for the shame of running down the street naked after one of his greatest realizations. FTP
+name this Greek genius who solved the golden crown mystery and first established the existence of buoyancy.
+Answer: Archimedes
+12.
+It started as a terrorist campaign against Christian missionaries in northeastern China, and the final result
+was a harsh treaty where China was forced to pay $333 million in indemnities to the Western Powers. It
+featured a general uprising in Beijing against the foreign legates and was organized by the Society of the
+Righteous and Harmonious Fists. For ten points name this 1900 Chinese national uprising.
+Answer: Boxer Rebellion
+13.
+Just over 2300 years ago, it controlled an empire of approximately three million square miles. Today
+that is reduced to just under ten thousand square miles. Back then, it was the center of cultural interaction
+among Persians, Romans, Hindus, and Egyptians. Now it is a secondary center of cultural conflict among
+Albanians, Serbs, and Greeks. Back then its official language was Greek; today seventy percent of its
+inhabitants speak a Slavic language. In other words, about the only thing left of this historic empire centered in
+southeastern Europe is its name. FTP name this homeland of Alexander the Great.
+Answer:
+Macedonia
+14.
+Its newest student is the irresistibly beautiful Cheryl Blossom. Ms. Grundy is a teacher, and Mr.
+Weatherbee is its principal. FTP, name this fictional high school whose students include Reggie, Betty,
+Veronica, Jughead, and Archie.
+Answer: Riverdale High School
+15.
+A frame story, it takes place in a delightful villa in Fiesole, near Florence, which is occupied by seven
+women and three men. Every day, each person tells a story relating to a given theme, like "tragic love stories"
+and "human vices". FTP, name this collection of 100 stories, written between 1349 and 1353 by Giovanni
+Boccaccio.
+Answer: The Decameron
+16.
+Founded in Ripon, WI, it began as a reaction to the Kansas-Nebraska act, and drew its membership from
+former Whigs, Know-Nothings, and Free Soilers. Its first presidential candidate was John C. Fremont in 1856,
+and by 1858 it had taken control of the House of Representatives. FTP, name this political party whose
+leadership currently includes Trent Lott, Dick Armey, and George W. Bush.
+Answer: Republican Party
+17.
+After receiving a degree in Physics and Mathematics from Rostov University, he served in the army
+until he was arrested for referring to Stalin as "the boss." He served eight years in prison and became a teacher
+after his release. His nonfiction works, such as The Gulag Archipelago, investigate the inner workings of the
+Soviet Union. FTP, name this Nobel laureate and author of Cancer Ward and The First Circle.
+Answer: Aleksandr Solzhenitsyn
+
+18.
+First identified in 1869 by Friedrich Miescher it was dyed successfully by Robert Feulgen in 1914.
+Biologist P .A. Levene correctly deduced the four basic elements that make up its structure and Erwin Chargaff
+recorded that these elements occur in equal proportions. But it was Rosalind Franklin's x-ray diffraction picture
+of this molecule that led Watson and Crick to understand, FTP, this molecule which contained the key to
+heredity's structure.
+Answer:
+DNA or Deoxyribonucleic acid
+19.
+While it features memorable supporting characters like Luther Billis and Bloody Mary, It focuses on two
+sets oflovers. The first is a Midwestern farm girl who falls for a married French painter many years her senior.
+The second set involves a young Marine and a native girl. A new televised production of it features Hary
+Connick, Jr., and Glenn Close. FTP name this musical, based on a book by James Michener and written by
+Rodgers and Hamrnerstein.
+South Pacific
+Answer:
+20.
+His father was Zeus but his mother was a mortal, Princess Alcmena. Too strong and impatient for
+typical noble life, he was sent to rid the countryside of Thebes from lions and wolves. Impressed, the King of
+Thebes gave him his daughter for marriage, but Hera bewitched him so he accidentally killed his own children.
+FTP name this famous Greek hero who performed 10 labors for his cousin Eurystheus.
+Heracles or Hercules
+Answer:
+21.
+The first legally established one was created in Rome in 1555 by Pope Paul IV, and others were set up in
+Europe for the next centuries. They were surrounded by walls and locked at night, and the inhabitants were
+sometimes forced to wear insignia outside them. Adolf Hitler reestablished these Jewish sectors in Nazi
+controlled Europe. FTP name this term that's come to mean a crowded inner city area inhabited by minorities.
+Answer: ghetto
+22.
+The Roman goddess Justinia, the Slavic god Rugiviet, and the fearsome Indian goddess Kali are all
+depicted holding one. Hautec1aire was carried by Oliver, Sigfried possessed both Gram and Balmung, Durandel
+was owned by Roland, Arondight belonged to Sir Lancelot. FTP, these are all mythical examples of what item,
+of which Arthur's Excalibur is also an example?
+Answer: swords
+23.
+Built according to a design by Joshua Humphreys, it was put to sea under Capt. Samuel Nicholson in
+1798. Its original figurehead, a depiction of Hercules, was lost in the Barbary Wars and replaced with an
+unpopular likeness of Andrew Jackson. It hosted the signing of the U.S.-Tripoli peace treaty, but is most
+famous for an 1812 battle with the HMS Guerriere, in which a British cannonball bounced off its hull. FTP,
+what ship thus gained the nickname "Old Ironsides?"
+Answer: USS Constitution (accept: Old Ironsides before it is mentioned in the question)
+
+BONI - ROUND 3
+
+DENNIS HASKINS OPEN HS QUIZBOWL 2001 - UTC
+
+1.
+Does anyone watch the NBA before playoff time? If not, you'll probably miss two of these three teams
+struggling for the last playoff spot in the Western Conference with records that would easily get them in if they
+were in the East. Name the NBA teams from clues FTPE; either city or team nickname will suffice.
+a) They were slapped with serious sanctions including the loss of Joe Smith by the Commissioner's office for
+violating the salary cap, no surprise considering what they're committed to paying Kevin Garnett.
+Answer: Minnesota Timberwolves
+b) Rising stars Steve Francis and Cuttino Mobley have gotten a boost as treatment seems to have removed the
+health risk from a blood clot in Hakeem Olajuwon's leg.
+Answer: Houston Rockets
+c) The offseason addition of Patrick Ewing hasn't helped, so this team is considering ditching Ewing and
+trading Yin Baker during the offseason to free up cap room for a rebuilding effort.
+Answer: Seattle Sonics or Supersonics
+2.
+ID the following treaties, FTPE:
+Signed in 1850 by the US and Britain, each country agreed not to dominate or colonize the territories of Central
+America.
+Answer: Clayton-Bulwer treaty
+Not dominating Central America is really noble and all, but 51 years after Clayton-Bulwer was signed, it was
+getting in the way of American control of the proposed Panama canal. Hence, this 1901 treate between the U.S.
+and Britain.
+Answer: Hay-Paunceforte treaty
+You may have noticed that neither the U.S. nor Britain had control of Panama at the time the Hay-Paunceforte
+treaty was signed; the country controlling the land was Colombia, which was not so sanguine about giving the
+U.S. control of the canal area. One quick U.S.-instigated revolution later, America was able to negotiate this
+treaty with the new - and unsurprisingly America-friendly - nation of Panama.
+Answer: Hay-Bunau-Varilla treaty.
+3.
+FTPE, given a description of a game starring everyone's favorite pudgy plumber, name that game.
+This game, for four players, is essentially an elaborate version of Sorry! Complete with Mini-Games that earn
+points.
+Answer: Mario Party (or Mario Party 2, but roll your eyes while accepting that answer ©).
+Not counting auto racing, Mario stars in games involving what two sports, F5PE?
+Answer: Golf and Tennis
+Edwin Abbott would have a field day with this latest adventure game entree in the Mario franchise. Name it.
+Answer: Paper Mario
+(Author's note: Edwin Abbott wrote a book - which one author of this packet really likes, and the other thinks
+is highly overrated - called Flatland, about a two-dimensional world visited by a three-dimensional being.)
+4.
+FTPE name the following functional groups.
+A) N02
+Answer:
+Nitrate
+B) N03
+Answer:
+Nitrite
+C) P04
+Answer:
+Phosphate
+D) C2 H3 02
+Answer:
+Acetate
+E) C03
+Answer:
+Carbonate
+F) SH
+Answer:
+Thiol
+
+5. FTP each, name these British authors from clues.
+This hunchbacked satiric poet wrote "An Essay on Man" and "An Essay on Criticism."
+Answer: Alexander Pope
+The husband of the author of "Sonnets from the Portuguese," he also wrote poetry, such as "My Last Duchess."
+Answer: Robert Browning
+Much of his poetry was inspired by the Irish patriot Maud Gonne, but may be better known for helping to found
+the Abbey Theater.
+Answer: William Butler Yeats
+6.
+30-20-10 name the musical work.
+30) It consists of four movements, three of which are solely orchestral; the fourth and final movement takes its
+vocal text from a poem by Schiller.
+20) The composer's Opus 125, it was completed in 1824 though its German composer never heard its
+performance.
+10) Its choral finale has been heard in "Sister Act II," "A Clockwork Orange," and most recently bastardized in
+the "Starz" commercials.
+Answer: Beethoven's Symphony No.9 (prompt on the "Choral" symphony since it is part of the clues)
+7.
+Properly speaking, Canada has only ten provinces, with the remainder of its land in three territories.
+FTPE, given a territory, name its capital:
+Yukon
+Answer: Whitehorse
+Northwest Territory
+Answer: Yellowknife
+Nunavut
+Answer: Iqaluit [ik-AHL-oo-it]
+8.
+Why history majors are seldom shocked by the news, chapter 1. Answer the following FTSNOP:
+For ten points, a 1923 scandal involving bribery in the Veterans Bureau, headed by Charles R. Forbes of Ohio,
+was the first to break in what president's administration?
+Answer: Warren G. Harding
+For five points per answer, name the two naval oil reserves where drilling rights were leased to private
+companies owned by Edward Doheny and Harry Sinclair.
+Answer: Elk Hills, CA and Teapot Dome, WI
+FTP, who was Harding's Secretary of the Interior convicted of accepting bribes in the Teapot Dome scandal?
+Answer: Albert B. Fall
+9.
+FTPE, given a description of a work that won the Pulitzer Prize, name it.
+This Jane Smiley novel is an adaptation of King Lear that focuses on three sisters trying to come to terms with
+their abusive father's death.
+Answer: A Thousand Acres
+The title character is killed by her mother, Sethe, in this Toni Morrison novel.
+Answer: Beloved
+The title of this Frank McCourt memoir refers to his mother, and it tells of his formative years in Ireland.
+Answer: Angela's Ashes
+10.
+FTPE, I'll name two moons. You tell me which planet they both circle.
+Ariel and Umbriel.
+Answer: Uranus
+Triton and Galatea.
+Answer: Neptune
+Calypso and Hyperion.
+Answer: Saturn
+
+11.
+FTSNOP answer the following about European history.
+10) name the war started when Philip of Anjou, grandson of Louis XIV, was set to take the throne in 1700.
+The thirteen year battle was between the Grand Alliance (England, the Netherlands, Denmark, Austria and later
+Portugal) and another coalition of nations (France, Spain, and parts of Italy and Germany).
+Answer: War of the Spanish Succession
+5) what collective treaty resolved this war?
+Answer: Peace of Utrecht
+15) Stemming from dissatisfaction over the Peace of Utrecht, it was a trade war between Spain and Britain.
+The latter had resorted to smuggling and in 1731 the namesake of this war was maimed on his captured ship, the
+Rebecca.
+Answer: The War of Jenkin's Ear
+12.
+Give the authors of these plays about women FTP each.
+The Miss Firecracker Contest and Crimes of the Heart are two of her comedic looks at Southern women.
+Answer: Beth Henley
+Mrs. Warren's Profession is about a former prostitute who now owns a series of European brothels - much to
+the dismay of her highly educated daughter.
+Answer: George Bernard Shaw
+"for colored girls who have considered suicide/when the rainbow is enuf," featuring a cast of seven women in
+different colored clothing, is one of this playwright's "choreopoems."
+Answer: Ntozake Shange
+13.
+FTPE from a brief description identify the scientist who contributed to evolutionary theory.
+A) A French zoologist who studied the fossil record and concluded that simpler lifeforms gave way to more
+complex one. Though his general idea behind the progression, inheritance of acquired characteristics, was on
+target his ideas on the giraffe were patently absurd.
+Answer:
+Jean Baptiste Lamarck
+B) An English naturalist, he had a great deal of similarity with Darwin. His ideas incorporated those of
+Malthus and Lyell as well as observations made on the Malay Archipelago. Darwin received this "noble and
+generous" man's 20 page manuscript as an impetus to write his own "The Origin of the Species."
+Answer:
+Alfred Russell Wallace
+C) An 18th century geologist, he proposed that the earth had been created through a slow and gradual process
+of erosion. His theory, known as "uniformitarianism," implied an "old earth."
+Answer:
+James Hutton
+14.
+Identify these ancient historians FTP each.
+His record of the wars between the Greeks and Persians earned him the title, "Father of History."
+Answer: Herodotus
+His History from the Founding of the City is a long narrative of Rome history up to 9 B.C.
+Answer: Livy
+He wrote about Sparta's 27-year war with Athens in History of the Peioponnesian War.
+Answer: Thucydides
+15.
+FTP each, give the area of the triangles described .. (READER: allow 15 seconds per part before
+calling time)
+A right triangle with legs of lengths 6 and 8 meters
+Answer: 24 m2
+A triangle with sides length 5, 12, and 13 meters
+Answer: 30 m2
+An equilateral triangle with side length 6 meters
+Answer: (the quantity 9 times the square root of 3) divided by 2 m2
+
+16.
+Name these figures in the Russian Revolution of 1917 FTP each.
+This Romanov tsar abdicated in 1917.
+Answer: Nicholas II
+In October 1917, he became leader of the new Soviet Union as head ofthe Bolsheviks.
+Answer: Vladimir Lenin
+A leader of the Bolsheviks, he negotiated the treaty ofBrest-Litovsk. He served as foreign minister and
+commissar of war before being exiled by Stalin in 1927.
+Answer: Lev (or Leon) Trotsky
+17. FTP each, answer the following questions relating to physics terms.
+This quantity is the rate at which work is done.
+Answer: power
+This is equivalent to 746 watts in electricity or 2545 BTU in terms of heat, and is slightly smaller in the metric
+system than in the English system.
+Answer: one horsepower
+This Scottish inventor and engineer set the value of one horsepower, but is better known for his refinements of
+the steam engine.
+Answer: James Watt (N.B. He greatly improved steam engines, but they were invented by Savery and
+Newcomen)
+18.
+When the German invaders conquered the western Roman Empire in the 5th century, they destroyed the
+professional Roman army and substituted their own armies, made up of warriors who served their chieftains for
+honor and booty. Answer the following related questions for ten points each.
+What was the political/military system descending from the German invader's armies, which consisted of land
+grants in return for military service and fealty?
+Answer: Feudalism
+What was the name of the person who pledged fealty to a lord in return for land?
+Answer: Vassal
+What was the grant of land a vassal received from a lord called?
+Answer: Fief
+19.
+Answer these related philosophy questions FTP each.
+This philosopher, brother of a famous author, wrote The Principles ofPsychology and The Will to Believe.
+Answer: William James
+James was one of the early advocates of this philosophical movement, which advocates a close connection
+between theory and action and was founded by Charles Sanders Peirce (pronounced "purse").
+Answer: pragmatism
+One of James' essays attempts to refute this idea, popular after the Newtonian revolution in physics, in which
+the state of the universe at a given moment will necessarily lead a single, unique and potentially identifiable
+future.
+Answer: determinism
+20.
+FTP each, answer these related art questions.
+This Spaniard, active in the early 19th century, created canvases like The Allegory of the City of Madrid and The
+Duchess ofAlba.
+Answer: Francisco Jose de Goya y Lucientes
+Goya painted a famous contrasting clothed and nude versions of this reclining figure.
+Answer: Maja
+The Madness of Fear and other pieces in Goya's Disasters of War series were created using this technique.
+Answer: engraving
+
+21.
+FTP each, answer these related questions on the border between psychology and physiology.
+Physical or psychological in origin, this is the dependence on an activity or substance.
+Answer: addiction
+The new drug gamma-vinyl GABA blocks high levels of this brain chemical, associated with pleasure, and may
+help cure drug addictions.
+Answer: dopamine
+Attempting to get off a physical addiction isn't always easy. This shaking, caused by alcohol withdrawal, can
+lead to hallucinations and even death.
+Answer: delirium tremens or DT's
+22.
+For the stated number of points, name the recently appointed cabinet members from the department
+headed.
+5 points. Department of Defense
+Answer: Donald Rumsfeld
+10 points. Department of the Interior
+Answer: Gale Norton
+15 points. Department of Housing and Urban Development
+Answer: Mel Martinez
+
+

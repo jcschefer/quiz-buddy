@@ -1,0 +1,401 @@
+VHSL Regular Season
+Round 11
+First Period, Fifteen Tossups
+1. Horsts and Grabens are regions formed by the action of these, and slow constant movement at these
+formations is called creep. Their line of action is their trace and fundamental ones penetrate the entire
+lithosphere. Movement in the horizontal plane occurs in strike-slip ones and a notable intraplate example is
+New Madrid (Mad-rid). Transform ones occur at plate boundaries. For 10 points, name these fractures in the
+Earth's crust that are often associated with earthquakes, like the San Andreas.
+ANSWER: fault
+001-09-1-11101
+
+2. Eddi Amsel runs a scarecrow factory while Walter Matern is assailed by a radio program in this author's
+Dog Years, and Pilenz narrates a novel in which "The Great Mahlke" steals an Iron Cross, his Cat and
+Mouse. This author wrote a novel in which the protagonist leads "The Dusters" and loses his virginity to
+Maria Truczinski. The protagonist of that novel by this author is accused of killing Sister Dorothea, can
+shatter glass with his shriek, and decides to stop growing at age three, Oscar Matzareth. For 10 points, name
+this German author of The Tin Drum.
+ANSWER: Günter Wilhelm Grass [accept Dog Years before "this author" is read]
+029-09-1-11102
+
+3. In this war, Steven van Rensselaer led the losing side at the battle of Queenston Heights. An indecisive
+battle in this war ended with Winfield Scott wounded near Lundy’s Lane. Oliver Hazzard Perry was a
+commander in this war. This war included a victory for Jean Lafitte and Andrew Jackson in New Orleans
+after this war’s treaty was signed. Fought over impressment and resolved by the Treaty of Ghent, for 10
+points, name this war that saw the White House burned and the bombing of Fort McHenry, which began in
+its namesake year.
+ANSWER: War of 1812
+027-09-1-11103
+
+4. This man painted a self portrait in which he rests on a tree wearing a blood-stained shirt, The Wounded
+Man. This artist created a painting in which many people, including a nude prostitute, crowd around a man
+painting a landscape, as well as a painting in which the central focus is female genitalia. In addition to The
+Artist's Studio and The Origin of the World, this artist created a now destroyed painting depicting hard
+manual labor, and another showing a funeral procession. For 10 points, name this French Realist painter of
+The Stone Breakers and A Burial at Ornans.
+ANSWER: Jean Désiré Gustave Courbet
+035-09-1-11104
+
+5. This event resulted in Norway being kept by Sweden and Kraków (CRACK-cove) being established as a
+free city. This meeting condemned the slave trade, but did not outlaw it like one attendee had hoped. This
+meeting was interrupted by the Hundred Days. Great Britain was represented by Castlereagh at this meeting,
+which was also attended by Alexander I of Russia and Klemens von Metternich. For 10 points, name this
+meeting that led to the Concert of Europe after the Napoleonic Wars, which took place in the Austrian
+capital.
+ANSWER: Congress of Vienna [or equivalents]
+023-09-1-11105
+
+VHSL Regular Season Round 11 Page 1 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. Placing a register between this structure and the controller creates the “registered” or “buffered” form of
+it. Attempting to read data not currently stored in this triggers a page fault. Flip-flops are used to implement
+the static type of it, while capacitors are used in the dynamic type. Its main benefit is that reading or writing
+to any spot is done in constant time. For 10 points, identify this type of volatile memory, used in modern
+computers as the main storage for running programs.
+ANSWER: RAM [or Random Access Memory; prompt on partial answer]
+001-09-1-11106
+
+7. "Please Master" and "September on Jessore Road" are among the poems collected in this poet's The Fall
+of America. Another of his collections is named for a poem named after a Jewish prayer for the dead,
+"Kaddish," while another work includes a poem in which Walt Whitman pokes among the meats in the title
+location, "A Supermarket in California," and one which begins "I saw the best minds of my generation
+destroyed by madness." For 10 points, name this Beat poet who wrote "Howl."
+ANSWER: Allen Ginsberg
+024-09-1-11107
+
+8. Amontons' laws govern this phenomenon. Relations for the dry form of this phenomenon were first
+explained by Coulomb. This phenomenon results in the change of kinetic energy into heat. The magnitude of
+this force equals the magnitude of the normal force times this force's namesake coefficient, which is
+symbolized mu and comes in static and kinetic varieties. For 10 points, name this force that opposes the
+motion of an object, caused by two surfaces rubbing together.
+ANSWER: friction
+028-09-1-11108
+
+9. This man's general, Gaius Suetonius Paulinus, defeated the revolt of Boudicca in Britain. This emperor
+had his tutor, Seneca the Younger, executed for his role in the Pisonian Conspiracy. Late in his rule, this
+man faced the revolt of Galba, who succeeded this ruler to start the Year of the Four Emperors. This man
+supposedly murdered his wives Octavia and Poppaea, as well as his mother. For 10 points, name this son of
+Agrippina the Younger and successor to Claudius, a Roman emperor who didn't actually play any instrument
+while Rome burned.
+ANSWER: Nero Claudius Caesar Augustus Germanicus [or Lucius Domitius Ahenobarbus]
+035-09-1-11109
+
+10. Jig and "The American" drink Anis del Toro in a Madrid train station in this author's "Hills Like White
+Elephants," which appears in the collection Men Without Women along with some Nick Adams stories, such
+as "The Killers." In one of this author's novels, the narrator walks home in the rain after Catherine Morland
+delivers a stillborn baby. This man wrote about Michael Campbell's engagement to Lady Brett Ashley in
+Pamplona in a work narrated by Jake Barnes, and in another work, Manolin is apprenticed to a fisherman
+who idolizes Joe DiMaggio, Santiago. For 10 points, name this author of A Farewell to Arms, The Sun Also
+Rises, and The Old Man and the Sea.
+ANSWER: Ernest Miller Hemingway [accept "Hills Like White Elephants" before "this author" is read]
+027-09-1-11110
+
+11. The Reuleaux triangle is formed from the intersection of three of these objects. It is given by the
+parametric functions x equals a cosine t and y equals a sine t, and in polar coordinates it is given by the
+equation r equals a. It can be formed by the intersection of a cone and a plane parallel to the base of the
+cone. For 10 points, give this two-dimensional geometric object with area proportional to the square of its
+radius.
+ANSWER: circle
+003-09-1-11111
+
+VHSL Regular Season Round 11 Page 2 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+12. This event was preceded by the murder of the captain Ramon Ferrar. Josiah Gibbs used his knowledge of
+Mende numbers to find James Covey for this trial. Joseph Story ruled in favor of the arguments of Roger
+Baldwin in this case, and the defense was also supported in this trial by John Quincy Adams. The defendants
+in this case included Cinque, and this case involved the abduction of the defendants from Sierra Leone. For
+10 points, name this case that ruled in favor of slaves who mutinied on the namesake Cuban schooner in
+1839.
+ANSWER: Amistad case [or United States v. Libellants and Claimants of the Schooner Amistad]
+023-09-1-11112
+
+13. ?In one of his novels, Manuela Sanchez is courted by a man who is between 107 and 232 years old. In
+another of his works, Bayardo San Roman discovers that his wife Angela Vicario was not a virgin, leading
+to her twin brothers attacking the Arabic Santiago Nasar. This author of The Autumn of the Patriarch opened
+one novel with a colonel before a firing squad thinking about ice. This author created the gypsy Melquiades,
+who writes about the family of Ursula Iguaran Buendia, including her son Aureliano, residents of Buendia.
+For 10 points, name this author of Chronicle of a Death Foretold and One Hundred Years of Solitude.
+ANSWER: Gabriel Jose Garcia Marquez
+027-09-1-11113
+
+14. As a member of the House of Representatives, this man was appointed to the Warren Commission. This
+man's presidency dealt with the Cambodian seizure of the Mayaguez. This man served as house minority
+leader from 1965 to 1973. This president was shot at by Squeaky Fromme. This man retained Henry
+Kissinger in his cabinet from his predecessor. This man pardoned Vietnam War draft dodgers. For 10 points,
+name this successor of Spiro Agnew, who eventually pardoned his presidential predecessor, Richard Nixon.
+ANSWER: Gerald Rudolph Ford, Jr. [or Leslie Lynch King, Jr.; accept Thomas Hale Boggs, Sr. before
+"presidency" is read]
+027-09-1-11114
+
+15. One section of this work was written to fit the meter of the poem "I vow to thee, my country." Another
+movement in this work has an often copied 5/4 ostinato. This piece was completed by Colin Matthews after
+the death of its composer with a movement subtitled the Renewer. The other movements of this piece
+include "the Mystic," "the Bringer of Jollity," "the Winged Messenger," "the Magician," "the Bringer of
+Peace," and "the Bringer of War." For 10 points name this orchesteral suite about Mars, Neptune, and
+Jupiter, a work of Gustav Holst.
+ANSWER: The Planets
+015-09-1-11115
+
+VHSL Regular Season Round 11 Page 3 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 11
+Directed Round
+1A. Although the French word for yes is oui, this word is used instead when answering positively to a
+negative question. What is this word that, with an accent, signifies a simple yes in Spanish?
+ANSWER: si
+1B. Identify the literary term referring to the fatal flaw or error, often hubris (HUGH-briss), that causes the
+downfall of the hero in Greek tragedies.
+ANSWER: hamartia
+2A. The only film this director made without producer Jerry Bruckheimer was 2005's The Island. Name this
+director of Bad Boys, Pearl Harbor, and both Transformers movies.
+ANSWER: Michael Benjamin Bay
+2B. After bribing subjects to perform a boring task, Leon Festinger theorized what phenomenon, which
+occurs due to an inconsistency among one’s beliefs?
+ANSWER: cognitive dissonance
+3A. Combining the Schwarzschild radius and the Stefan-Boltzmann law helped theorize this thermal
+radiation. Give this term for the “evaporation” of black holes.
+ANSWER: Hawking radiation
+3B. Former president Clinton visited what country in August 2009, successfully negotiating the release of
+two American journalists?
+ANSWER: North Korea[or DPRK; or Democratic People's Republic of Korea; or Chos?n Minjuju?i
+Inmin Konghwaguk; prompt on Korea; do not accept or prompt on "Republic of Korea"]
+4A. This is a 10-second calculation question. An angle has a cosine of 2/7. Find the secant of that angle.
+ANSWER: 7/2
+4B.[10[ This is a 10-second calculation question. If eight widgets cost one dollar, how much will twenty
+widgets cost?
+ANSWER: $2.50
+5A. Give the term for the process by which a mass of ice quickly detaches from glaciers or icebergs.
+ANSWER: ice calving
+5B. What early Renaissance artist, nicknamed for his poor hygiene, painted The Expulsion of Adam and Eve
+and The Tribute Money for the Brancacci Chapel?
+ANSWER: Masaccio [or Tommaso Cassai]
+
+VHSL Regular Season Round 11 Page 4 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6A. This is a 20-second calculation question. Using the formula C = (5F - 160)/9, find the Celsius
+temperature that corresponds to 23 degrees Fahrenheit.
+ANSWER: -5 degrees Celsius
+6B. This is a 20-second calculation question. If each page of a typed manuscript takes one and a half minutes
+to perform, how many pages can be performed in thirty minutes?
+ANSWER: 20
+7A. Name the arm of the Baltic Sea that separates Sweden’s east coast from Finland’s west coast.
+ANSWER: Gulf of Bothnia
+7B. Name the Swedish chemist who first theorized the greenhouse effect, introduced the concept of
+activation energy, and formulated an eponymous equation relating temperature and reaction rate.
+ANSWER: Svante August Arrhenius
+8A. In September 2009, Sanofi-Aventis SA beat its estimated schedule when it delivered the first batch of
+what medical substance, designed to combat the spread of the H1N1 virus?
+ANSWER: swine flu vaccine [or obvious equivalents]
+8B. What pinecone-shaped gland of the endocrine system inhibits sexual maturation and secretes melatonin?
+ANSWER: pineal gland
+9A. This is a 30-second calculation question. Two urns each have a hundred balls in them: the first has fifty
+red and fifty green balls, while the second has a hundred green balls. One of the urns is randomly chosen
+and a ball is drawn from it, which is green. What is the probability that the all-green urn was chosen?
+ANSWER: 2/3
+9B. This is a 30-second calculation question. In a circle of radius four inches, find the area of a sector with a
+central angle of two radians.
+ANSWER: 16 square inches
+10A. Give the term for the literary technique, common in ancient epics, of beginning a narrative from the
+middle of a story.
+ANSWER: in media res
+10B. Name the Swedish pop group of the 70s that released the hits “Waterloo” and “Dancing Queen” and
+whose music was featured in the musical Mamma Mia!
+ANSWER: ABBA
+
+VHSL Regular Season Round 11 Page 5 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 11
+Third Period, Fifteen Tossups
+1. One of this figure's secrets was revealed after his barber whispered into a hole in the ground. When this
+figure disagreed with Tmolus (tih-MOW-luss), by stating that Pan was a better musician than Apollo, this
+man was cursed with the ears of a donkey. This man obtained his most notable characteristic as a reward for
+his care of Silenus (sigh-LAY-nuss), but he rid himself of that ability by bathing in the river Patoclus
+(PAA-tow-cluss), after his ability killed his daughter and rendered his food inedible. For 10 points, name
+this Phrygian (FRIDGE-ee-uhn) king, to whom Dionysus (DYE-oh-NIGH-suss) gave the golden touch.
+ANSWER: King Midas
+005-09-1-11117
+
+2. One constant involved in this quantity can be calculated from the temperature using the Eyring equation,
+or by an equation including a steric factor. The temperature and activation energy are also used to calculate
+this quantity. One way of calculating it, the Arrhenius equation, is based on the collision model. In zero
+order reactions, it is determined only by a constant, and not by the concentration of the reactants. It can be
+calculated by laws that have first and second order varieties. For 10 points, name this measure of the speed
+of a reaction.
+ANSWER: reaction rate [or rate constant; accept word equivalents]
+001-09-1-11118
+
+3. In a poem about this type of "movement," Carl Sandburg wrote that this is when "the sea-winds takes the
+city in their arms." Edgar Allan Poe wrote of an eidolon named this in his poem "Dream-Land." A play titled
+after this time describes the Reverend Shannon's visit to Maxine's motel in Mexico. A novel titled after this
+time tells of Rosemary Hoyt's involvement with Dick Diver and Nicole's psychiatric treatment. For 10
+points, name this period of time that titles a Tennessee Williams play "of the Iguana," which in an F Scott
+Fitzgerald novel is "Tender."
+ANSWER: Night
+036-09-1-11119
+
+4. This country is home to the Dayak ethnic group, who live in this country's Kalimantan
+(KAH-lee-mon-TAHN) area. Among the areas controlled by this country are the Moluccas, formerly known
+as the Spice Islands. This country contains the Sunda Strait, in which one can find the large volcano
+Krakatoa. This country controls the western half of Papua as well as the island of Celebes (SEH-luh-beez).
+More Muslims live in this country than any other. For 10 points, name this country, which includes the
+islands of Bali and Java, the latter of which is home to this country’s capital, Jakarta.
+ANSWER: Republic of Indonesia [or Republik Indonesia]
+019-09-1-11120
+
+5. This king’s troops were victorious against James IV of Scotland at the Battle of Flodden Field. This man
+was the target of the "Pilgrimage of Grace," a rebellion sparked when this king seized large amounts of
+church land. This man negotiated with Francis I of France at the Field of the Cloth of Gold. This king's
+advisors included Thomas Wolsey, Thomas Cranmer, and Thomas Cromwell. This man was
+excommunicated after declaring himself head of the Church of England. For 10 points, name this Tudor king
+of England famous for having six wives.
+ANSWER: Henry VIII Tudor of England
+021-09-1-11121
+
+VHSL Regular Season Round 11 Page 6 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. Various versions of this work give its first word as "Listen," "Hear Me," and "So." One character in this
+work describes winning a swimming contest against Breca. A slave is killed in this work after trying to steal
+a chalice, and the protagonist is abandoned against all of his men except Wiglaf after deciding to kill a
+dragon in his old age. The central Geat is asked by Hrothgar to defend the mead hall Heorot from a
+descendent of Cain. For 10 points, name this epic in Old English about a hero who kills Grendel and
+Grendel's mother.
+ANSWER: Beowulf
+015-09-1-11122
+
+7. Trademarked terms on this eatery's menu include "loaded potato bites," "bronco berry sauce," and "tangy
+southwest sauce." This company, whose largest store in the world is located in Colonial Heights, Virginia,
+also offers the "Market Fresh" line of salads and the horseradish-based Horsey Sauce. This chain’s
+commercials feature a superimposed cowboy hat and the slogan "I’m thinking" followed by the company
+name. For 10 points, name this fast-food franchise whose menu revolves around roast beef sandwiches.
+ANSWER: Arby's
+019-09-1-11123
+
+8. This deity was once trapped in a large tree, which was incorporated into the palace of the King of Byblos.
+This ruler of Duat was born on the first of the five intercalary (inter-CALORIE) days that Thoth won from
+Khonsu. He is often depicted with either red or green skin, and he usually carries a crook and flail. His body
+was hacked into pieces by his villainous brother Set, and he was then avenged by his son Horus. For 10
+points, name this Egyptian ruler of the underworld, whose consort was Isis.
+ANSWER: Osiris [or Usiris; or Asar; or Aser; or Ausare; or Ausir; or Wesir; or Usire]
+029-09-1-11124
+
+9. He wrote a work discussing his night in jail after joining intellectuals like Robert Lowell in a march at the
+Pentagon protesting the Vietnam war entitled The Armies of the Night. One of his works is about a man who
+kills Max Jensen during a gas station robbery after that man fought with his lover Nicole Barrett. Author of a
+“true life novel” of a Provo resident who died of capital punishment named Gary Gilmore, this man wrote a
+novel about Croft’s platoon in the Anapopei campaign of World War Two. For 10 points, name this author
+of The Executioner’s Song and The Naked and the Dead.
+ANSWER: Norman Kingsley Mailer
+027-09-1-11125
+
+10. Many of the enzymes involved are activated by the reduction of thioredoxin. This pathway occurs in
+bundle sheath cells in C4 plants. This series of reactions does not devolve to photorespiration because of the
+function of the enzyme Rubisco, and it takes place in the stroma of the chloroplast. For 10 points, name this
+series of biochemical reactions that convert carbon dioxide and water into organic compounds, also known
+as the "dark reactions."
+ANSWER: the Calvin-Benson-Bassham cycle [or dark reactions before mentioned; or light-independent
+reactions before "dark;" or carbon fixation]
+026-09-1-11126
+
+11. The early kingdom of Axum was located within this modern day nation. This nation's forces defeated
+Oreste Baratieri in one war at the Battle of Adowa while under the leadership of Menelik II. During the
+Scramble for Africa, Liberia and this country remained free from European control. One ruler of this country
+appealed to the League of Nations for help when Italy under Mussolini invaded in 1935. For 10 points, name
+this East African nation, from which Eritrea declared independence, once ruled by Haile Selassie.
+ANSWER: Federal Democratic Republic of Ethiopia
+036-09-1-11127
+
+VHSL Regular Season Round 11 Page 7 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+12. The protagonist of this play cries "Never, never, never, never, never" upon discovering the death of his
+youngest child. One character in this play commands "Out, vile jelly" while plucking out the eyes of
+Gloucester [GLOSTER]. In this play's major subplot, Edgar duels and kills his villainous brother Edmund.
+This play begins with the title character expecting declarations of love after dividing his kingdom among
+Regan, Goneril, and Cordelia. For 10 points, name this Shakespeare tragedy about an aged ruler.
+ANSWER: King Lear
+004-09-1-11128
+
+13. One ruler of this dynasty lost control of its territory to Sher Shah before receiving help from Tahmasp I.
+That ruler of this dynasty, Humayun, had a son who won the second Battle of Panipat, Akbar. The first
+Battle of Panipat was won by this dynasty's founder, Babur. Another ruler of this dynasty had a wife named
+Mumtaz, for whom he built the mausoleum, the Taj Mahal. For 10 points, name this Indian dynasty whose
+rulers included Shah Jahan, and whose rulers were all Muslim.
+ANSWER: Mughal Dynasty
+023-09-1-11129
+
+14. Several peasants watch Jacob wrestling with an angel on the red ground in this man's painting Vision
+After the Sermon. Three women with a child, young adults, and a dying old woman represent the three title
+questions of this artist's Where Do We Come From? What Are We? Where Are We Going?. This painter
+depicted a farmer on the Atlantic cost with four expressionless biblical figures in The Green Christ. This
+man used Pont-Aven as the setting for his The Yellow Christ, though he is better known for painting nude
+villagers in Tahiti. For 10 points, name this French post-Impressionist painter.
+ANSWER: Eugène Henri Paul Gauguin
+024-09-1-11130
+
+15. The RTS,S (R-T-S-comma-S) vaccine is currently under development to protect against this disease,
+whose most dangerous form is caused by species falciparum. The gene which causes sickle-cell anemia also
+provides resistance to this disease. Female members of the genus Anopheles are vectors for this disease,
+which can be treated with quinine. For 10 points, name this disease caused by parasites of the genus
+Plasmodium, which is transmitted by mosquitoes and whose name comes from the "bad air" originally
+thought to cause it.
+ANSWER: malaria
+025-09-1-11131
+
+VHSL Regular Season Round 11 Page 8 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 11
+Tiebreaker Questions
+1. In one of these stories, a house built on the sand is blown down by a storm. Another of these stories
+involves three servants, each given a different number of talents. In a different one of these stories, a
+shepherd abandons ninety-nine sheep to find one lost one. In another, the return of one character prompts the
+slaying of a fatted calf. In what is perhaps the most known of these stories, a man is robbed and left on the
+side of the road, only to be helped by a member of a hated group of people. For 10 points, name this group
+of instructional tales, including "The Prodigal Son" and "The Good Samaritan," that are told by a central
+figure in the Gospels.
+ANSWER: parables of Jesus
+015-09-1-11132
+
+2. WRITE MORE QUESTIONS, Particularly a Social Science-Sociology Tossup
+00--20-11133
+
+3. The Karl Fischer version of this technique is used to determine water content. Potentiometry is often used
+to discern when to stop this process. This technique can determine the isoelectric point for amino acids, and
+the end point often occurs when an indicator changes color. When all of the analyte has reacted, this
+technique yields the equivalence point. For 10 points, name this technique in which a buret is used to
+determine the amount of analyte in a solution using a known quantity of reagent.
+ANSWER: titration
+003-09-1-11134
+
+4. An influx of this ion is thought to trigger release of neurotransmitters into the synaptic cleft. This ion also
+binds to troponin to allow muscle contraction, before being pumped back into the sarcoplasmic reticulum.
+Vitamin D increases absorption of this ion via the small intestine. In conjunction with parathyroid hormone,
+Vitamin D stimulates release of both this cation and phosphate from bone, where the vast majority of it is
+stored. For 10 points, name this plus two ion of element number 20, a deficiency in which is known as
+hypocalcemia.
+ANSWER: calcium [or Ca++]
+003-09-1-11135
+
+5. The Buddhist monk Zenchi Naigu tries some quack techniques for changing the size of this item in a
+namesake story by Akutagawa Ryonosuke (ah-KOO-tuh-GAH-wuh ree-OH-no-SOO-kay). In another story,
+a man believes that Mrs. Podtochin (pah-TAH-chin) has taken revenge for a refusal to marry by cursing this
+object. This object becomes a State Councilor after being found in a loaf of bread by Ivan Yakovlevich
+(YAH-kohv-LAY-vich), but eventually returns to Platon Kovalyov (KOH-vull-yoff), in that story by Nikolai
+Gogol. For 10 points, identify this appendage which was unusually large on Cyrano de Bergerac and
+Pinocchio.
+ANSWER: a nose
+019-09-1-11136
+
+VHSL Regular Season Round 11 Page 9 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

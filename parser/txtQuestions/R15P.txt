@@ -1,0 +1,570 @@
+The Illinois Mathematics and Science Academy of Aurora, IL,
+
+in partnership with Loyola Academy of Wilmette, IL, present
+
+IMSANITY 3
+-ROUND 15Editors
+
+Writers
+
+Noah Prince
+
+Lael Costa
+Siva Gangavarapu
+Webster Guan
+Adam Kalinich
+Anton Karpovich
+Sabrina Lato
+
+Adam Kalinich
+Sabrina Lato
+Morgan Venkus
+
+with special contributions from. . .
+Brad Fischer
+Jacob O’Rourke
+
+Nolan Maloney
+Eric Ordonez
+Noah Prince
+Saieesh Rao
+Ian Torres
+Morgan Venkus
+
+IMSANITY 3
+
+Tossups
+(1) This artist painted a couple of rosy-cheeked children poring over a book with a red
+pencil in his Two Girls Reading in the Garden. This artist also painted a darkhaired woman wearing a red and white striped skirt, a loose white top, and a red
+band in her hair in The Bohemian. He painted a woman in a white dress rowing
+with a friend in Boating on the Seine, and in another work, this man painted a
+striped (∗ ) awning under which women in blue dresses and sleeveless men in straw hats enjoy
+a meal. For ten points, identify this French impressionist painter of Luncheon of the Boating
+Party.
+ANSWER: Pierre-Auguste Renoir
+
+(2) This person wrote, “Don’t tell me what you value, show me your budget, and I’ll
+tell you what you value”. This man plagiarized from Neil Kinnock in one speech.
+He called the signing of one bill a “Big F***ing Deal” on live television. This person
+said that all of Rudy Giuliani’s sentences are just “a noun, a verb, and 9/11.” He
+labelled an opponent’s claim about defense cuts “a (∗ ) bunch of malarkey” and said that
+the opposing party wanted to “unchain Wall Street” and “put y’all back in chains”. A former
+Senator from Delaware, for ten points, name this Vice President under Barack Obama.
+ANSWER: Joseph Biden, Jr.
+
+(3) This man was depicted turning into a pear in a political cartoon by Honoré Daumier.
+This man’s government returned the ashes of Napoleon to his country. People who
+did not meet the voting requirements were told to “get rich” by his minister, Francois
+Guizot. Lafayette embraced this man at the Hotel de Ville after the Three Glorious
+Days. He was overthrown in the February Revolution of (∗ ) 1848, and his July Monarchy
+was established after the overthrow of Charles X. For ten points, name this “citizen king” who
+ruled as “King of the French”.
+ANSWER: King Louis-Philippe I (do not accept or prompt on “Louis” or “Philippe”, prompt
+on “Citizen King” before mention)
+
+Round 15- Page 1
+
+IMSANITY 3
+
+(4) Although this rule is parameterized by 81 constants, the minor symmetries enable
+this relation to be expressed in a 6 by 6 matrix using Voigt notation. Two constants
+named after Lame are found in this rule’s expression in 3-dimensional materials.
+More simply, this law is stated in an equation containing Poisson’s ratio and (∗ )
+Young’s modulus. This rule fails in materials like rubber, and in other materials, elastic
+deformation causes this law to only be valid below the yield strength. This law can also be
+used to calculate the frequency of a system, and one form of it is stated as “stress is proportional
+to strain”. For ten points, name this law stating that F equals negative k times x, which governs
+springs.
+ANSWER:
+
+Hooke’s Law
+
+(5) One character in this novel swears to be faithful to another and is consequently not
+thrown into the sea. Another returns to the place he lived most of his life with his
+nephew, a Spanish sailor. One character is enslaved in Sallee until he is rescued by a
+Portuguese captain. When he lectures shipmates after a massacre, the protagonist
+is abandoned in China, but more faithful characters include a widow who keeps
+the protagonist’s money safe for 35 years and Xury. The protagonist was based on
+Alexander (∗ ) Selkirk and spent 17 years alone on an island. For ten points, identify this novel
+about a marooned castaway who befriends Friday, a work by Daniel Defoe.
+ANSWER:
+
+Robinson Crusoe
+
+(6) These numbers can be constructed so that each is the set of smaller numbers of
+this type, starting from the empty set. The input to the Ackermann function is
+two of these numbers, and this set is the range of the Hamming distance function.
+This set of numbers is defined by the Peano [“Pee-ah-no”] axioms, and this set is
+well-ordered as a result of the axiom of induction. In contrast to the difference and
+quotient, the (∗ ) sum and product of two of these numbers is also in this set. These numbers
+along with their additive inverses form the set of integers. For ten points, identify this set of
+numbers abbreviated N .
+ANSWER: natural numbers (accept ordinal numbers before end of second sentence, prompt
+on “ordinals” until “Peano axioms”, grudgingly accept whole numbers, prompt on “W ” or on “N ”
+until mention)
+
+Round 15- Page 2
+
+IMSANITY 3
+
+(7) One novel set in this country alternates between letters from the author to a young
+writer and the investigation of cannibalism in Liquorland. An author from this
+country described the differences in performances of operas seen in childhood. This
+setting of The Republic of Wine and Village Opera was the setting of a work that
+described “I” and “you” in even and odd chapters and also was the setting of the
+play Bus Stop. Another author from this country wrote about a peasant executed
+for a minor crime despite his “spiritual victories” in (∗ ) The True Story of Ah Q. The
+home of the 2012 Nobel Laureate in Literature and of the author of Soul Mountain, for ten
+points, identify this country, home to Lu Xun, Mo Yan, and Gao Xingjian.
+ANSWER: People’s Republic of China
+
+(8) In the Lokasenna, Loki taunts this god for his unfaithfulness, and this god and Thor
+try to steal a giant kettle from Hymir, which this god is unable to lift. This god is
+typically depicted with a spear in his left hand, and his namesake rune represents an
+upright spear. During Ragnarok, this figure will kill and be killed by Garm. After
+the forging of Gleipnir, this character sacrificed his (∗ ) right hand in order to satisfy
+and restrain Fenrir. For ten points, name this Norse god of war, glory, and justice who lends his
+name the second day of our workweek.
+ANSWER:
+
+Tyr (also accept Tiwaz or Ziu)
+
+(9) Leonard Dacre was a prominent member of a movement aiming to dethrone this
+monarch called the Rising of the North. The Auld alliance was ended through
+the Treaty of Edinburgh, which was signed by this monarch. This monarch was
+the subject of Regnans in Excelsis, which was issued by the Pope. Gilbert Gifford
+worked as a double agent to Sir Walsingham in order to protect this ruler from the
+(∗ ) Babington plot. This ruler knighted a privateer who later raided the city of Cadiz, Sir Francis
+Drake. For ten points, name this Tudor monarch who was known as the “Virgin Queen”.
+ANSWER: Queen Elizabeth I of England or
+prompt on “Virgin Queen” before mention)
+
+Elizabeth the Great (prompt on
+
+Elizabeth,
+
+(10) An important economic region of this country is the Valley of the Roses. The
+southwestern part of this country includes the Rila mountains, while the south
+central region is covered by the Rhodope mountains. The largest river in this
+country is the Iskar, which crosses this country’s most prominent mountain range.
+That range, which stretches from the Serbian border to the Black Sea, is the Balkan
+range. The (∗ ) Danube forms this country’s border with Romania. For ten points, name this
+southeastern European country with capital at Sofia.
+ANSWER:
+
+Bulgaria
+
+Round 15- Page 3
+
+IMSANITY 3
+
+(11) Prince Ju revolted against his father during this dynasty. That father organized the
+Zhang Qian to trade with the Yuezhi. The Hanzhong valley was the site of a religious
+movement started by Zhang Daoling that occurred during this dynasty and was
+known as the Five Pecks of Rice Rebellion. Wang Mang interrupted this dynasty
+with the Xin dynasty. The capital of Luoyang was established by the founding
+emperor of this dynasty, Emperor Gaozu, who founded this dynasty after the fall of
+the (∗ ) Qin. For ten points, name this dynasty which gives its name to the predominant ethnic
+group in China.
+ANSWER:
+
+Han Dynasty
+
+(12) One leader of this religion emphasized physical and spiritual wellness of the young
+when he started Mall Akhara, and another stopped married women from being
+burned to death on the funeral pyre of their husbands. One group in this religion
+originally consisted of five men who were decapitated and resurrected, the Khalsa.
+Long hair, a (∗ ) comb, and a metal bracelet are among its “five K’s”. A major leader in this
+religion was Gobind Singh, and the center of worship is the Golden Temple. Considering the Adi
+Granth as their final guru, for ten points, name this Indian religion founded by Guru Nanak.
+ANSWER:
+
+Sikhism
+
+(13) One of these compounds is formed by a reaction between pimeloyl-CoA and alanine.
+Takaki Kanehiro identified a deficiency of one of these compounds, and further work
+on it was performed by the winner of the 1929 Nobel Prize in Medicine, Christian
+Eijkman. This group includes the precursor molecule to coenzyme-A synthesis, while
+another is the main component of FMN and FAD. Examples include pantothenic
+acid and biotin, and (∗ ) beriberi can be caused by the deficiency of “number one”, thymine.
+For ten points, name this class of water-soluble essential vitamins numbered up to 12.
+ANSWER:
+
+B vitamins (accept B-complex)
+
+(14) One character in this novel was the star student of Spider Kelly at Princeton, and
+another character makes a parting gift of a dozen second-rate flies and has his
+name shortened to Harris. In addition to going on a five-day fishing trip with Bill
+Gorton, the protagonist introduces a prostitute as his fiance, Georgette Leblanc.
+One character’s former husband makes her sleep with him on the ground, and she
+unloads his revolver each night. Besides her romantic entanglements with Mike
+Campbell and (∗ ) Robert Cohn, Brett Ashley has an affair with Pedro Romero, a bullfighter
+in Pamplona. For ten points, identify this novel about Jake Barnes, a novel by Ernest Hemingway.
+ANSWER: The Sun Also Rises
+
+Round 15- Page 4
+
+IMSANITY 3
+
+(15) Michael Faraday created a red colored one of these substances using gold that has
+remained stable to the present. These substances are most viscous when uncharged,
+and they do not follow Gibbs’ Phase Rule. A quadruply eponymous theory of these
+entities describes interactions between double layers of counterions; that theory is
+abbreviated DLVO, and when subjected to voltages below the zeta potential they
+undergo (∗ ) flocculation. Blue light scatters in the Tyndall Effect in, for ten points, these
+substances which consist of continuous and dispersed phases, examples of which include aerosols,
+emulsions, and gels.
+ANSWER:
+
+colloids
+
+(16) This concept was explored in a thought experiment about the Grand Hotel devised
+by David Hilbert. The ordinal number lowercase omega is the smallest number with
+this property, and the conjecture that there are no numbers of this type between
+lowercase omega and capital omega is known as the Continuum Hypothesis. Sets
+with this property can be put in one-to-one correspondence with a proper subset.
+Cardinal numbers of this type are represented with the letter (∗ ) aleph, with aleph-null
+being countable and all others being uncountable. For ten points, name this type of set whose
+size is larger than any real number.
+ANSWER:
+
+infinity (accept word forms like “infinite”)
+
+(17) This man directed a comedy in which Ann and David discover that they are not
+married entitled Mr. and Mrs. Smith. This man also directed a film in which a
+nun causes Judy to fall to her death. A third film sees a character die when the
+match used to light his cigar ignites a stream of gasoline, which had formed after a
+man filling his car was attacked by the titular figures. A scene in another film by
+this director features a transition from a (∗ ) drain to a close-up of an eye after Marion
+Crane was stabbed to death in the shower of the Bates Motel. For ten points, name this director
+of Vertigo, The Birds, and Psycho.
+ANSWER: Alfred Hitchcock
+
+(18) One character in this novel wrote A Treatise on the Possibility of Forming Italy
+into one General Monarchy on two of his shirts. After two consecutive fiancés are
+publicly shamed, Eugénie dresses as a boy and runs away with Louis d’Armilly. The
+bandit Luigi Vampa captures one character, and the title character, under the name
+Sinbad the Sailor, saves Morrel and Valentine. Villefort accidentally condemns both
+his sons to death, and Fernard (∗ ) Mondego commits suicide after his wife, Mercédès,
+abandons him. For ten points, identify this story about the revenge of Edmond Dantes, a novel
+by Alexandre Dumas.
+ANSWER: The Count of Monte Cristo (or Le Comte de Monte Cristo)
+Round 15- Page 5
+
+IMSANITY 3
+
+(19) Ringing bells interrupt the melody of the fifth section of this work, whose main
+theme is in B minor. This piece was originally scored for two pianos except its last
+movement, which was scored for solo organ. The first and final movements of this
+piece are written in 5/4 time, and the final movement features a fade-out effect
+achieved by a door slowly being closed on a women’s chorus in an adjoining room.
+With movements titled “The Magician” and (∗ ) “The Mystic”, for ten points, name this
+orchestral suite which begins with “Mars, the Bringer of War”, written by Gustav Holst.
+ANSWER: The Planets
+
+(20) The validity of this law was upheld in the cases Hawke v. Smith and United States v.
+Sprague. A follow-up piece of legislation to this law was written by Wayne Wheeler,
+included an exception for religious rituals, and was named for the Chairman of
+the House Judiciary Committee. It set a seven-year time limit for its ratification,
+and Connecticut and Rhode Island were the only states to reject this amendment,
+whose enforcement was detailed in the (∗ ) Volstead Act. Repealed by the Twenty-First
+Amendment, for ten points, identify this amendment which began the Prohibition era.
+ANSWER:
+
+Eighteenth Amendment to the United States Constitution
+
+(21) Before this battle, a false transmission about a broken water filter aided codebreakers
+from Station Hypo who had broken the JN-25 code. Wade McClusky followed the
+Arashi in order to sink two carriers, preventing the annihilation of the combined
+task forces of Raymond Spruance and Frank Fletcher. This battle saw the death
+of Admiral Yamaguchi on board the Hiryu after sinking the USS (∗ ) Yorktown. This
+battle, which took place during a simultaneous campaign in the Aleutian islands, also saw the
+USS Enterprise sink the Akagi. For ten points, name this June 1942 battle in World War II
+which turned the tides in favor of a United States victory against the Japanese.
+ANSWER: Battle of Midway
+
+Round 15- Page 6
+
+IMSANITY 3
+
+Bonuses
+(1) Answer the following about supporters of the Axis powers during World War II for ten points
+each.
+[10] This Italian man founded his country’s Fascist party and led a successful invasion of
+Ethiopia. He was executed after he was caught trying to escape Italy following the Allied
+invasion.
+ANSWER: Benito Mussolini
+[10] This Norwegian Minister-President supported the Nazi invasion of his country during
+which he was part of a coup to take power. After the war, he was executed for treason.
+ANSWER: Vidkun Quisling
+[10] After being pressured by the looming threat of the Soviets, this Regent led his country
+into an alliance with Hitler’s Germany. The Nazis later invaded his country during Operation
+Margarethe when Miklos Kallay suggested an alliance with the Allies.
+ANSWER: Miklos Horthy de Nagybanya
+
+(2) The United States 2012 Olympic team in this sport was coached by Karch Kiraly. For ten
+points each:
+[10] Identify this sport in which pairs compete to win two sets, with other rules derived from
+its indoor analog. 4,400 tons of sand were brought in to fill Horse Guards Parade, the London
+venue for this sport.
+ANSWER: women’s beach volleyball (do not prompt on or accept “volleyball”)
+[10] This American duo won its third consecutive gold medal in beach volleyball in 2012. This
+team has lost only one set during those three Olympic Games.
+ANSWER: Misty May-Treanor and Kerri Walsh (prompt on a partial answer)
+[10] Misty May-Treanor and Kerri Walsh defeated this other American team in the 2012 Gold
+Medal Game.
+ANSWER: Jennifer Kessy and April Ross (prompt on a partial answer)
+
+(3) Lucy Deane contrives a rowing trip between the main character and Philip Wakem. For ten
+points each:
+[10] Identify this novel, in which Maggie Tulliver does not elope with Stephen Guest, but is
+still ignored by her brother until the title river floods and they both drown.
+ANSWER: The Mill on the Floss
+[10] This author wrote The Mill on the Floss, and a “study of provincial life” in which Dorothea
+Brooke ignores Edward Casaubon’s last words and marries Will Ladislaw, Middlemarch.
+ANSWER: George Eliot (or Mary Anne (Marian) Evans)
+[10] George Eliot also wrote this novel, in which the title character redeems the necklace that
+he saw Gwendolen Harleth pawn.
+ANSWER: Daniel Deronda
+
+Round 15- Page 7
+
+IMSANITY 3
+
+(4) Common examples of these are snowflakes, diamonds, and table salt. For ten points each:
+[10] Name these solids that exhibit long-range order and symmetry and are composed of a
+microscopic repeating pattern in all three spatial directions. Glass, although not an example
+of these, is sometimes referred to by this name.
+ANSWER: crystals
+[10] This most efficient packing structure in a crystal occurs when each of the vertices and the
+centers of its eponymous locations on its unit cell are occupied. It is contrasted with body
+centered cubic packing.
+ANSWER: face centered cubic or cubic close packed
+[10] This is the term for the number of neighbors each atom has in a crystal.
+ANSWER: coordination number
+
+(5) Works in this key include the violin concertos of Brahms and Beethoven, and it includes two
+sharps in its key signature. For ten points each:
+[10] Name this relative major key of B minor, in which Pachelbel composed a famous Canon.
+ANSWER: D major
+[10] This composer wrote twenty symphonies in D Major, including ones titled Haffner and
+Prague.
+ANSWER: Wolfgang Amadeus Mozart
+[10] This march of Johann Strauss Sr. was also composed in D Major and commemorates the
+namesake general’s victory at Custoza.
+ANSWER: Radetzky March
+
+(6) He wrote about about Amal’s death in The Post Office. For ten points each:
+[10] Identify this author, better known for his poetry including Gitanjali, or Song Offerings,
+who wrote one country’s national anthem in Jana Gana Mana.
+ANSWER: Rabindranath Tagore
+[10] This novel, written by Vikram Seth, concerns the efforts of Rupa Mehra to find a husband
+for her youngest daughter, Lata.
+ANSWER: A Suitable Boy
+[10] Rabindranath Tagore and Vikram Seth both came from this country. Works from this
+country sometimes use Sanskrit, and literary awards from this country include the Jnapith
+Award and Sahitya Akademi Fellowship.
+ANSWER: Republic of India
+
+Round 15- Page 8
+
+IMSANITY 3
+
+(7) The Israelites carried this object in a special tent known as the Tabernacle as they wandered
+the desert. For ten points each:
+[10] Name this receptacle adorned with golden cherubim that held the Ten Commandments.
+ANSWER: Ark of the Covenant
+[10] The Ark was once stolen by these people, who gave it back voluntarily when plagues and
+rats struck each city it was taken to.
+ANSWER: Philistines
+[10] After Solomon built the Temple, this room was constructed in order to house the Ark of
+the Covenant. The High Priest offered sacrifices in this room once per year.
+ANSWER: Holy of Holies
+
+(8) The R-plasmid contains the same genes as the F-plasmid plus another gene conferring
+antibiotic resistance. For ten points each:
+[10] The “F” in F-plasmid stands for fertility because bacteria expressing it have the ability to
+donate the F-plasmid through this mechanism, which involves a sex pilus.
+ANSWER: conjugation
+[10] Bacteriophages transfer DNA from one bacterium to another through this mechanism,
+which occurs when the newly synthesized phages incorporate bacterial DNA into their genome.
+ANSWER: transduction
+[10] Plasmids are separate from this main portion of the bacterial genome, which appears as
+lighter than the surrounding cytoplasm in electron micrographs.
+ANSWER: nucleoid
+
+(9) Secretary of Defense Caspar Weinberger resigned in its wake, ostensibly due to his wife’s
+health. For ten points each:
+[10] Name this scandal of the Reagan administration in which arms sales in the Middle East
+were used to fund a namesake Honduran rebel group.
+ANSWER: Iran-Contra Affair (prompt on “Contra” Affair)
+[10] The Contras were fighting against this ruling party of Nicaragua, which took its name
+from the man who led the resistance to United States occupation of Nicaragua in the 1930s.
+ANSWER:
+Sandinistas (or Sandinista National Liberation Front or SNLF or
+Frente Sandinista de Liberación Nacional or FSLN)
+[10] During the Iran-Contra Affair, Oliver North tried to use his good relationship with this
+Panamanian dictator to help put down the Sandinistas. This dictator was removed in the 1989
+United States invasion of Panama.
+ANSWER: Manuel Noriega
+
+Round 15- Page 9
+
+IMSANITY 3
+
+(10) The Federal Reserve has been charged to control these two quantities. For ten points each:
+[10] Name these two economic quantities depicted in an inverse relationship in the Phillips
+curve. These two quantities are added to compute the Misery Index.
+ANSWER: inflation and unemployment (in either order)
+[10] This economist of the Chicago School argued that the Phillips Curve was only accurate
+as a short-term model. He criticized policies of the Federal Reserve in his book A Monetary
+History of the United States.
+ANSWER: Milton Friedman
+[10] According to Milton Friedman, inflation results from unemployment being below this level.
+Non-Accelerating Inflation Rate of Unemployment or NAIRU or natural rate
+ANSWER:
+of unemployment
+
+(11) The protagonist considers an araucaria plant a symbol of bourgeois cleanliness, criticizes a
+picture of Goethe, and enters a building marked “For madmen only”. For ten points each:
+[10] Identify this novel in which Harry Haller follows the saxophonist Pablo into the Magic
+Theater and stabs Hermine.
+ANSWER: Steppenwolf
+[10] Steppenwolf was written by this German author who described Kamala’s death by
+snakebite and Govinda realizing that his friend has become Buddha in Siddhartha.
+ANSWER: Herman Hesse
+[10] In this Hesse novel, set in Castalia, Joseph Knecht takes over a certain position from
+Thomas van der Trave.
+ANSWER: The Glass Bead Game or Magister Ludi
+
+(12) It declared its independence on May 4th, 1776, two months before any other colony, and it was
+the last to ratify the Constitution. For ten points each:
+[10] Name this state with capital at Providence.
+ANSWER: Rhode Island and Providence Plantations
+[10] This founder of Rhode Island fled from Massachusetts for religious freedom. He also
+founded the first Baptist Church at Providence Plantations and was arguably the first
+abolitionist.
+ANSWER: Roger Williams
+[10] During the Second Industrial Revolution, this man launched his eponymous rebellion to
+protest Rhode Island’s policy of granting voting rights only to landowners. He was tried for
+treason, but was set free.
+ANSWER: Thomas Wilson Dorr
+
+Round 15- Page 10
+
+IMSANITY 3
+
+(13) This philosopher argued that everything has a telos, or purpose, and that humanity’s telos
+was eudaimonia, which could be achieved through a virtuous life. For ten points each:
+[10] Name this mentor of Alexander the Great and author of Nicomachean Ethics and Poetics.
+ANSWER: Aristotle
+[10] This British philosopher updated Aristotle’s essay about logic, Organon, in his Novum
+Organon.
+ANSWER: Sir Francis Bacon
+[10] This Bacon work takes place in Bensalem, and describes the ideal college of Solomon’s
+House in the titular utopian community.
+ANSWER: The New Atlantis
+
+(14) Gilgamesh described this goddess as causing the death of Tammuz, the god of the harvest. For
+ten points each:
+[10] Name this Assyrian and Babylonian goddess who demanded entry to the Underworld.
+ANSWER: Ishtar
+[10] Ishtar was the goddess of this emotion, also ruled by goddesses like Aphrodite.
+ANSWER: love
+[10] Ishtar’s sister Ereshkigal was the consort of this Sumero-Babylonian god who ruled over
+the netherworld and whose fall from heaven was described in an Akkadian poem.
+ANSWER: Nergal
+
+(15) This concept can be generalized with a metric. For ten points each:
+[10] Identify this quantity, whose Euclidean form can be calculated for two points in the plane
+as the square root of x-one minus x-two squared plus y-one minus y-two squared.
+ANSWER: distance
+[10] Distances satisfy this property which forbids shortcuts. Formally, it says that the distance
+from x to z is at most the sum of the distances from x to y and from y to z.
+ANSWER: triangle inequality
+[10] In contrast to Euclidean distance, this type of distance is computed as the sum of the
+absolute values of x-one minus x-two and of y-one minus y-two.
+ANSWER: taxicab distance (or taxicab metric or taxicab geometry)
+
+Round 15- Page 11
+
+IMSANITY 3
+
+(16) It is the largest painting in the Louvre. For ten points each:
+[10] This painting of a large celebration features lute players in the front while a man on the
+right pours from a jug of wine. Jesus is seated at the central table in this Paolo Veronese work.
+ANSWER: The Wedding at Cana (or The Wedding Feast at Cana)
+[10] In the Louvre, The Wedding at Cana hangs opposite this painting by Leonardo da Vinci
+depicting the titular woman and her enigmatic smile.
+ANSWER: Mona Lisa (or La Gioconda or La Joconde)
+[10] After the Mona Lisa was stolen in 1911, it was temporarily hung in this gallery in Florence.
+ANSWER: Uffizi Gallery (or Galleria degli Uffizi)
+
+(17) Answer the following about short American poems for ten points each.
+[10] The poem Sycamore, which states “Zaccheus he/Did climb the tree/Our Lord to see”,
+opened this poet’s collection A Witness Tree. That collection also featured The Gift Outright,
+which he read at John F. Kennedy’s inauguration.
+ANSWER: Robert Lee Frost
+[10] This sixteen-word poem by William Carlos Williams states that “so much depends upon”
+the title farm implement “glazed with rain water/ beside the white chickens.”
+ANSWER: The Red Wheelbarrow
+[10] This poet inserted the parenthetical comment “a leaf falls” into the word “loneliness,”
+which he spread across nine lines.
+ANSWER: Edward Estlin Cummings
+
+(18) This element produces a 21 cm line that is ubiquitous throughout the universe. For ten points
+each:
+[10] The Balmer and Lyman series are produced by this element. The individual lines in these
+series are denoted using Greek letters.
+ANSWER: Hydrogen (prompt on “H”)
+[10] The Lyman series specifically is caused by electrons moving to or from this lowest energy
+state.
+ANSWER: ground state
+[10] When an electronic transition from higher to lower energy occurs, these particles are
+produced. These particles are the quantized units of light.
+ANSWER: photons
+
+Round 15- Page 12
+
+IMSANITY 3
+
+(19) Answer the following about attempts to limit free speech in America for ten points each:
+[10] This set of four laws passed in 1798 included one which forbade “false, scandalous, and
+malicious writing” about the government.
+ANSWER: Alien and Sedition Acts (prompt on partial answer, accept in either order)
+[10] This man was arrested in 1918 for violating the Espionage Act with a speech he delivered
+critical of World War I policies. While in prison, he ran for president as the Socialist Party
+candidate.
+ANSWER: Eugene V. Debs
+[10] In the case of Tinker v. Des Moines, several students had been sent home from school
+for wearing this article of clothing to protest the Vietnam War. To the contrary, the majority
+decided that “students do not leave their rights at the schoolhouse door.”
+ANSWER: black armbands (prompt on “band”)
+
+(20) They often are found in conjunction with extratropical cyclones. For ten points each:
+[10] Identify these boundaries between masses of air with different properties. These
+meteorological features often cause rain and thunderstorms in temperate latitudes.
+ANSWER: weather fronts
+[10] This kind of front is formed when a cold front overtakes a warm front, producing a
+boundary between two more similar air masses.
+ANSWER: occluded front
+[10] This is the classical explanation for the formation of an extratropical cyclone, with fronts
+attached to its center. It also explains the warm conveyor belt.
+ANSWER: Norwegian cyclone model
+
+(21) It occurs when the diameter of the pore is significantly smaller than the mean free path of the
+gas molecules. For ten points each:
+[10] Name this process, undergone by gases, which involves the passage of gas molecules
+through a small hole into a vacuum. It is contrasted with diffusion.
+ANSWER: effusion
+[10] This law, named after a Scottish chemist, states the rate of effusion of a gas is inversely
+proportional to the square root of the molar mass of the gas.
+ANSWER: Graham’s Law
+[10] In order to produce bomb-grade uranium during World War II, chemists at Oak Ridge
+National Laboratory used effusion to separate these varieties of atoms, examples of which are
+U-235 and U-238, which have the same number of protons but different numbers of neutrons.
+ANSWER: isotopes
+
+Round 15- Page 13
+
+

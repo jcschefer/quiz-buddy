@@ -1,0 +1,445 @@
+NASAT 2015 - Round 09 - Tossups
+1. These devices can analyze EBICs produced by semiconductors. Gaseous detection devices may replace the
+typical Everhart-Thornley detector in different types of these devices. Gas escapes out of a series of pressurelimiting apertures through differential pumping stages in that "environmental" type of these machines. They
+typically use tungsten cathode thermionic guns. Gold on carbon samples are used for resolution tests in these
+devices, and sputter coating with a gold/palladium alloy is used to prepare its samples. These devices deflect
+an electron beam in a raster fashion to produce images with high depth of field. For 10 points, name this type
+of electron microscope that images a sample's surface topography, unlike transmission EM.
+ANSWER: scanning electron microscope [or SEM; or scanning after "microscope" is read; prompt on
+"electron microscope"; do not accept "scanning tunneling microscope"] <Smart>
+2. In 1993, Prince and Smolensky developed a new approach to this subfield based on evaluating "constraint"
+sets, called Optimality Theory. The basic units of study in this subfield are represented as a column of
+properties marked with pluses and minuses within a large set of brackets in Roman Jakobson's "distinctive
+feature" theory. This subfield might study when "underlying representations" are affected by changes such as
+syncope or epenthesis, and seeks rules determining when people might produce or perceive features such as
+aspiration or voicing. For 10 points, name this subfield of linguistics focused on the rules and patterns of
+sounds within language, whose basic unit is the phoneme.
+ANSWER: phonology [prompt on "linguistics" or "computational linguistics" before mention; do not accept
+"phonetics"] <Jackson>
+3. A tenor aria from this opera begins with the note D sung in a double-dotted "LONG, short, LONG, LONG"
+rhythm, after which the same melody is repeated an octave below. A soprano aria from this opera describes a
+king that "unfurled" seven banners, conquered a rival kingdom, and "stifled" the voice of its ruler. A slave girl
+in this opera stabs herself to death after proclaiming the title character to be "encircled in ice" in the aria "Tu
+che di gel sei cinta." Its title character sings "In questa reggia" as she poses three riddles to the tenor lead, who in
+turn challenges her to discover his name by the next morning, but predicts her failure in the aria "Nessun
+dorma." For 10 points, name this Giacomo Puccini opera about a Chinese princess.
+ANSWER: Turandot <Kim>
+
+NASAT 2015 - Round 09 - Page 1 of 13 
+
+4. In this country, government documents and newspapers were unreadable to most citizens due to being
+published in the "purified" language dialect. The disastrous Battle of Dragasani ended the campaign of a hero
+from this country. Attacks by klephts intensified a crisis in this country. Men who were ethnically from this
+country rose to prominence as "phanariotes." Most of this country's navy avoided destruction after escaping
+from the Gerontas Bay. The Filiki Eteria secret society sponsored Alexander Ypsilanti, a national hero from
+this country. A combined British, French and Russian fleet won the critical battle of Navarino during this
+country's war of independence. For 10 points, name this country whose first king, Otto, ruled from Athens.
+ANSWER: Greece [or Hellenic Republic; or Hellas; or Elliniki Dhimokratia] <O'Rourke>
+5. Before going to work for the Abraxas Corporation, Brian Kelley was suspected of engaging in this action. A
+man caught doing this asked "what took you so long?" when arrested at Foxstone Park in 2001. A scientist
+named David Greenglass was the brother-in-law of a man executed for this action. Both Aldrich Ames and
+Robert Hanssen are serving life sentences for engaging in this action. The decoded Venona Cables apparently
+proved Whittaker Chambers was correct in accusing a State Department official of performing this action. For
+10 points, name this action which both Alger Hiss and Julius Rosenberg were accused of performing to betray
+their country.
+ANSWER: spying for the Soviet Union [or espionage for the Soviet Union; accept Russia for "Soviet Union";
+accept Union of Soviet Socialist Republics for "Soviet Union"; accept Russian Federation for "Soviet Union";
+prompt on spying; prompt on espionage] <Cheyne>
+6. In this novel, a hotel waiter unsuccessfully seeks a "man's job" building a road to the local river. At the end of
+this novel, a woman recalls the way calm water quelled the "turbulent" body of a young boy. The title character
+of this novel has a grandmother who cuts off her leg to get insurance money and a mother who dies when her
+dress catches on fire. A character in this novel encourages everyone to kill themselves each year on January 3.
+This novel's setting, which was built on land that a slave bought thinking that the land was closer to heaven, is
+an Ohio town called The Bottom. Its title character accidentally drowns Chicken Little by throwing him into a
+river. For 10 points, name this novel by Toni Morrison named for Nel's best friend.
+ANSWER: Sula <Sy>
+7. In a play by this author, a woman has to act out the word "winsomely" during a game of adverbs and later
+launches into a scene beginning, "Is this a game?" from her play Love's Whirlwind. A character in a play by this
+author insists that the song Always be played for a seven-year-old with a cold named Daphne. This author
+wrote about the cocaine-addicted composer Nicky Lancaster in The Vortex. A play by this author features the
+Bliss family, who each invite a different guest to spend the weekend in their country house. In one of his plays,
+Ruth is killed by a car booby-trapped by Elvira, whose ghost was summoned during a seance conducted by
+Madame Arcati for Charles Condomine. For 10 points, name this British playwright of Hay Fever and Blithe
+Spirit.
+ANSWER: Noel Coward [or Noel Peirce Coward] <Brownstein>
+
+NASAT 2015 - Round 09 - Page 2 of 13 
+
+8. Seekers of these objects established a type of music known as fijri. One of these objects was nicknamed "La
+Peregrina" because it frequently changed hands for nearly five hundred years. The momme, the Japanese unit
+of mass, is often used outside of Japan to measure the weight of these objects, which are retrieved by the ama
+of Okinawa. These objects have historically been a mainstay of Bahrain's economy. The delta region of a river
+named for these objects is home to Hong Kong. The production of these objects at Sri Lanka's Gulf of Mannar
+inspired an opera by Georges Bizet. These objects are often composed of nacre. For 10 points, name these
+valuable objects produced inside oysters.
+ANSWER: pearls <Golimlim>
+9. Under gauge freedom, the time derivative of a scalar function is subtracted from this quantity to maintain
+invariance. In the Lorentz gauge condition, the time derivative of this quantity is divided by the speed of light
+squared. The relativistic case in Jefimenko's equations uses the retarded form of this quantity, derived from a
+space integral over the charge density. This scalar, and a vector symbolized A, make up a four-vector whose
+derivative is the electromagnetic tensor. For conservative fields, the Laplacian of this quantity equals negative
+charge density over vacuum permittivity in Gauss's Law, since the negative gradient of this quantity equals the
+electric field. It equals Coulomb's constant times the sum of all point charges over their distances. For 10
+points, name this quantity measured in volts.
+ANSWER: electric potential [or phi; or voltage; or V; do not accept "electric potential difference"] <Silverman>
+10. Hilary of Athanaric was enraged by Ulfilas's missionary work promoting this heresy among the Goths. Also
+adopted by the Vandals, this heresy persisted most strongly in and around Constantinople, where it was
+endorsed by Constantius II and Valens before being stamped out by Theodosius. This heresy prompted church
+leaders to settle on the doctrine of Homoousios to dispute that the Logos had been created, and prompted the
+formulation of the Nicene Creed. For 10 points, name this heresy named after a preacher from Alexandria that
+challenged the Trinity by claiming Christ was created rather than synonymous with God, not to be confused
+with a modern racial theory.
+ANSWER: Arianism <Ray>
+11. A family of two-power density models for these objects is named for Walter Dehnen. A scaling relation for
+these objects was derived by John Kormendy. The isophote twist of these objects indicates they are triaxial
+systems. A scaling relation for these objects uses the diameter within which the average surface brightness is
+20.75 in the B-band and is the D-sub-n sigma relation. A de Vaucouleurs profile is followed both by their
+normal and extremely luminous cD types. The fundamental plane for these objects is formed by any two of the
+parameters effective radius, average surface brightness, and velocity dispersion. Their luminosity is
+proportional to their velocity dispersion according to the Faber-Jackson relation. They form the base of the
+tuning fork diagram. For 10 points, name this common galaxy type that's contrasted with spiral galaxies.
+ANSWER: elliptical galaxies [prompt on galaxies] <Voight>
+
+NASAT 2015 - Round 09 - Page 3 of 13 
+
+12. One painting from this artist's "mythomorphic" period depicts a pair of sinuous abstract creatures on a
+beige background. Late in life, this artist suffered an aortic aneurysm which restricted him to creating smaller
+works on stretched paper, which he claimed were "about death" and eschewed bright colors. Fourteen blackhued paintings by this artist of Slow Swirl At The Edge Of The Sea can be found in a building fronted by Barnett
+Newman's Broken Obelisk. This artist, who pulled out of a commission to decorate the Seagram Building,
+painted many artworks that adorn a namesake Houston chapel. For 10 points, name this Latvian-American
+artist of paintings such as Black on Gray and Four Darks in Red that pioneered Color Field painting.
+ANSWER: Mark Rothko [or Markus Yakovlevich Rotkovich] <White>
+13. F6PPK is the key enzyme used in a variant of this process called the bifid shunt. Some organisms substitute
+this pathway with one in which a dehydratase produces KDPG. TIM barrels were named after an enzyme in
+this pathway that interconverts DHAP and GADP. In this pathway, a mutase moves a phosphate from the 3- to
+the 2-position of PG, which is then converted to the penultimate substrate via an enzyme discovered by
+Meyerhof, enolase. AMP and ADP upregulate this pathway by activating production of fructose-1,6bisphosphate through phosphofructokinase. One ATP is used in the first step of this pathway's "investment"
+phase, which is catalyzed by hexokinase. For 10 points, name this metabolic pathway that breaks down glucose
+into pyruvate.
+ANSWER: glycolysis [or Emden-Meyerhof-Parnas pathway; or EMP pathway; or Entner-Doudoroff pathway]
+<Smart>
+14. During this city's defense, William Jasper was recognized for valor after retrieving a flag that had been shot
+down. It's not New York, but an assault on this city began with forces landing on nearby Long Island. After this
+city's eventual capture, guerrilla warfare continued in the nearby swamps under the leadership of Francis
+Marion. One of this city's fortifications on Sullivan's Island was constructed largely of sand and palmetto
+wood. Forces based in this city fired upon the supply ship Star of the West and forced the capitulation of Robert
+Anderson. For 10 points, name this South Carolina city that was defended during the Civil War by Fort
+Moultrie and Fort Sumter.
+ANSWER: Charleston <Clarke>
+15. John Lydgate wrote an addition to The Canterbury Tales titled for the siege of this city. A play about a former
+king of this place formed the basis for T. S. Eliot's last play, The Elder Statesman. A long poem named for this
+place describes the first Nemean games and describes a hero who gnaws the head of his enemy Melanippus.
+The maxim that no man should be considered happy until he is dead concludes a play set in this city, which
+titles an epic poem by Statius. In that play set in this city, a servant narrates how the offstage protagonist took
+down his wife's hanging corpse and used the gold pins from her dress to blind himself after learning that his
+wife Jocasta was also his mother. For 10 points, name this city, the setting of Sophocles's Oedipus Rex.
+ANSWER: Thebes <Casalaspi>
+
+NASAT 2015 - Round 09 - Page 4 of 13 
+
+16. An older god challenges this deity to a contest to see who can stay submerged underwater for three months.
+This god is healed when some milk is poured into his wounds, which were created when some of his body
+parts were torn out, buried in a mountain, and bloomed into lotuses. Among his children is a radiant disk that
+emerges from the head of a god who eats some lettuce filled with this god's semen. This deity paints a wooden
+boat to look like stone to win a race against the sinking stone boat of his rival. This god's mother reassembles
+the fourteen scattered remains of this god's murdered father. This god defeats his uncle Set in a series of
+contendings to become ruler of Egypt. For 10 points, name this falcon-headed son of Osiris.
+ANSWER: Horus <Kim>
+17. It's not Germany, but a politician in this country declared he wanted to "clean out the city with a Karcher"
+vacuum cleaner. This country's Prime Minister told Christine Amanpour his country did not experience riots
+because "nobody died" during "two weeks of unrest." Tension began in this country after the deaths of
+teenagers Zyed Benna and Bouna Traore. In a suburb of this country's capital, two boys were electrocuted at a
+power substation, kicking off massive 2005 riots involving heavily North African immigrant populations. The
+president of this country at the time had recently won re-election over the far right National Front leader JeanMarie Le Pen. For 10 points, name this country that was led by Jacques Chirac.
+ANSWER: France [or the French Fifth Republic] <Cheyne>
+18. Genre and composer required. In a movement from one of these pieces, two recorders accompany a
+soprano soloist that represents the Roman deity Pales. The sinfonia that opens one of them is an F major
+Adagio often transposed into G major and called the composer's "Arioso." Hymns by Philipp Nicolai were
+incorporated into two of these pieces, such as in the tenor chorale "Zion hears the watchmen singing." These
+pieces include Herz und Mund und Tat und Leben and Wachet Auf, Ruft uns die Stimme, or Sleepers Awake, and
+include arias such as "Sheep May Safely Graze." One of them ends with the chorale "Jesu, Joy of Man's
+Desiring." For 10 points, name these roughly two hundred choral pieces by the composer of The Well-Tempered
+Klavier.
+ANSWER: cantatas by J.S. Bach [or cantatas by Johann Sebastian Bach; prompt on Bach; prompt on J. Bach;
+prompt on Johann Bach; prompt on cantatas; do not accept "J.C. Bach" or "Johann Christian Bach"] <Kim>
+19. This text, which draws its central idea from Jacques Turgot's history of physics, says that its title topic is
+"distinguished from the ancient" chiefly by the "rejection of all inquiring into causes." It proposes a process for
+elucidating natural laws which John Stuart Mill labeled "the inverse deductive method." This text argues that
+more complex fields of study progress more slowly than simpler ones, and uses Newton's laws of motion as an
+example of the endpoint of the movement from theological, to metaphysical, to scientific knowledge. This text
+also argues that sociology discovers the laws of all other fields. For 10 points, name this text which advances
+the "law of three stages" and explains the theories of Auguste Comte.
+ANSWER: The Course in Positive Philosophy [or The Course of Positive Philosophy; or Cours de Philosophie
+Positive] <Bollinger>
+
+NASAT 2015 - Round 09 - Page 5 of 13 
+
+20. A man with this profession is addressed in the extra canto that concludes Wallace Stevens's Notes Toward a
+Supreme Fiction. William Wordsworth characterized an ideal member of this profession as one who "hath
+wrought upon the plan that pleased his boyish thought." A sonnet titled for a member of this profession
+identifies the speaker's heartbeat as "a pulse in the eternal mind" giving back "sights and sounds" and
+"laughter, learnt of friends" to their source. Another poem about people with this occupation calls "each slow
+dusk a drawing-down of blinds" after comparing them to cattle, asking "what passing-bells" will send them on
+their way. For 10 points, name this profession whose members were memorialized by Rupert Brooke and
+Wilfred Owen.
+ANSWER: soldiers [or warriors] <Casalaspi>
+21. The operating lines on a McCabe-Thiele diagram are drawn to obey this principle. This law is exploited by
+the lever rule, which gives the ratio of concentrations at equilibrium on a phase diagram. This law applied to a
+control volume sets the partial derivative of concentration with time equal to the negative gradient of flux,
+which reduces to the continuity equation at steady state. The law of definite proportions, the law of multiple
+proportions and this law form the basis of stoichiometry. The classic example of this principle involves
+burning magnesium in air, a variant of Lavoisier's original experiments that discovered it. For 10 points, name
+this principle which implies that matter is neither created nor destroyed.
+ANSWER: law of conservation of mass [or the law of conservation of matter; or the law of conservation of
+moles] <Silverman>
+
+NASAT 2015 - Round 09 - Page 6 of 13 
+
+NASAT 2015 - Round 09 - Bonuses
+1. This simple program is sometimes used as a sanity test for development environments, but it is more
+frequently encountered as an introduction to new programming languages. For 10 points each:
+[10] Name this two-word message that is often the first text printed out when learning a language. Most
+versions of it include a comma and exclamation point.
+ANSWER: Hello, World! [or answers that are less enthusiastic, such as Hello, World...]
+[10] The 3D graphics primitive equivalent to "Hello, World!" is typically a model of this kitchen object, first
+created by Martin Newell of the University of Utah.
+ANSWER: Utah teapot [or Newell teapot]
+[10] In C, one can print "Hello, World!" using the printf command, which prints formatted strings. Printf uses
+this symbol, followed by a format specifier, to delineate the format and type of data to be printed. For example,
+this symbol can be followed by zero two d to print an integer with two digits, including a leading zero if
+required.
+ANSWER: percent sign [or vocalizations of %] <Smart>
+2. This author wrote about Daisy, a birth control advocate who moves in with the more traditional Raman, in
+his novel The Painter of Signs. For 10 points each:
+[10] Name this prolific South Indian writer whose novels such as Swami and Friends and The Guide, both set in
+the fictional town of Malgudi, popularized Indian literature among Western audiences.
+ANSWER: R. K. Narayan [or Rasipuram Krishnaswami Iyer Narayanaswami]
+[10] Narayan produced a 165-page English version of this epic. He greatly condensed a Tamil version written
+by Kamban, which was in turn adapted from an original by Valmiki in which an avatar of Vishnu rescues his
+wife Sita.
+ANSWER: the Ramayana
+[10] A 1983 novel by Narayan is told in first person by one of these animals, which is brought to Malgudi as a
+captive. Aravind Adiga wrote a 2008 novel in which taxi driver Balram Halwai likens himself to a white one of
+these predators.
+ANSWER: tiger [or A Tiger for Malgudi; or The White Tiger] <Jackson>
+
+NASAT 2015 - Round 09 - Page 7 of 13 
+
+3. This term was coined in 1977 by celebrity attorney Marvin Mitchelson. For 10 points each:
+[10] What portmanteau, which is not a legal term, involves the division of assets for people in live-in
+relationships? It was famously applied in a case involving actor Lee Marvin.
+ANSWER: palimony [do not accept "alimony"]
+[10] The Marvin case occurred in what state, where Governor Ronald Reagan signed the first no-fault divorce
+law in the country in 1970?
+ANSWER: California
+[10] Reagan was California Governor when the Symbionese Liberation Army kidnapped this teenage heiress in
+1974 and brainwashed her into following its cause.
+ANSWER: Patricia "Patty" Hearst [or Patricia Hearst-Shaw] <Cheyne>
+4. After losing a footrace, this woman agrees to marry Hippomenes. For 10 points each:
+[10] Name this virgin huntress to whom Meleager awards the head of the Calydonian Boar.
+ANSWER: Atalanta
+[10] Atalanta and Hippomenes are both transformed into these animals when they have sex in a sacred temple.
+ANSWER: lions
+[10] Upon witnessing Cyrene wrestle with a lion, Apollo falls in love with her and fathers Aristaeus, bestknown as a caretaker of these creatures.
+ANSWER: bees [or honeybees; or obvious equivalents] <Kim>
+5. The promiscuous woman Chispa dresses up as a male soldier and sings a marching song in this play, in
+which her lover Rebolledo helps the villain stage a fake fight to gain entry into an attic. For 10 points each:
+[10] Name this play in which Pedro Crespo exacts revenge upon Don Alvaro for raping and not marrying his
+daughter Isabel.
+ANSWER: The Mayor of Zalamea [or El Alcalde de Zalamea]
+[10] The Mayor of Zalamea was written by Pedro Calderon de la Barca during the "Golden Age" of this country's
+literature.
+ANSWER: Spain [or Reino de Espana; or Kingdom of Spain]
+[10] The character of Pedro Crespo was first created by this other Spanish Golden Age playwright, whose
+hundreds of plays include The Dog in the Manger and The Sheep Well.
+ANSWER: Lope de Vega [or Felix Lope de Vega y Carpio] <Gupta>
+6. Gaius Cornelius and Lucius Vargunteius were involved in this plot, which incited a slave revolt in Capua. For
+10 points each:
+[10] Identify this plot to burn down Rome, led by a veteran of the Social War who was not elected as consul for
+the third straight time. This plot prompted its target to produce four famous orations against its leader.
+ANSWER: Second Catiline Conspiracy
+[10] Those four orations were made by this consul, who modeled his Philippics after an oration by
+Demosthenes.
+ANSWER: Marcus Tullius Cicero [or Tully]
+[10] Part of the Catiline Conspiracy's downfall was sealed when letters about the conspiracy sent to the
+Allobroges (AHL-oh-BROH-gayz), a tribe from this Roman province, were intercepted at the Milvian Bridge.
+ANSWER: Transalpine Gaul [or Gallia Narbonensis] <Golimlim>
+NASAT 2015 - Round 09 - Page 8 of 13 
+
+7. On the website VK, this man listed his personal priorities as "career" and "money." For 10 points each:
+[10] Name this still living person responsible for the death of MIT police officer Sean Collier. He was then
+arrested while hiding under a boat in Watertown after a massive manhunt.
+ANSWER: Dzhokhar Tsarnaev
+[10] Tsarnaev was one of the two brothers responsible for setting off bombs during the staging of this
+Massachusetts sports event in 2013.
+ANSWER: Boston Marathon
+[10] This nun and anti-death penalty advocate, the subject of the book and film Dead Man Walking, testified on
+Tsarnaev's behest during the sentencing phase of his trial, unsuccessfully attempting to persuade the jury not
+to apply the death penalty to him.
+ANSWER: Sister Helen Prejean <Cheyne>
+8. Two young girls study sheet music in this artist's Girls at the Piano. For 10 points each:
+[10] Name this Impressionist who painted his wife Aline Charigot wearing lots of flowered hats, and
+additionally playing with a dog in Luncheon of the Boating Party.
+ANSWER: Pierre-Auguste Renoir
+[10] In Luncheon of the Boating Party, Renoir included this fellow French painter whose own works include The
+Europe Bridge and Paris Street, Rainy Day.
+ANSWER: Gustave Caillebotte
+[10] This other painting by Caillebotte is set in a dimly lit apartment, where a bottle of wine is shared by the
+three title workers who are surrounded by hardwood shavings.
+ANSWER: The Floor Scrapers [or Les Raboteurs de Parquet] <Saric>
+9. Activated calcineurin dephosphorylates one of these proteins to expose its nuclear localization signal. For 10
+points each:
+[10] Name this class of proteins that may activate or repress production of mRNA. They bind to either
+enhancers or promoters on DNA and include the basic helix-loop-helix protein c-Myc.
+ANSWER: transcription factors [or TFs]
+[10] ROSE elements are found in a family of chaperone proteins upregulated by a namesake transcription
+factor in response to the "shock" of this stress. Taq polymerase is used in PCR due to its ability to withstand
+this variable, which denatures most other proteins.
+ANSWER: high temperature [or heat shock]
+[10] Heat shock factor has three repeats of a structural motif named after this amino acid, which repeats every
+seven positions in the dimerization domain of bZIP.
+ANSWER: leucine [or leucine zipper] <Smart>
+
+NASAT 2015 - Round 09 - Page 9 of 13 
+
+10. This composer of Prelude, Chorale, and Fugue wrote a one-movement Symphonic Variations for piano and
+orchestra that retains the structure of a three-movement piano concerto. For 10 points each:
+[10] Name this composer of the three-movement Symphony in D minor, which, like his A major violin sonata,
+exhibits cyclic form.
+ANSWER: César Franck [or César-Auguste-Jean-Guillaume-Hubert Franck]
+[10] Another A major violin sonata is this Ludwig van Beethoven piece, which was never performed by its
+namesake, who proclaimed it to be "outrageously unintelligible."
+ANSWER: Kreutzer Sonata [or Violin Sonata No. 9]
+[10] Violin sonatas most frequently feature a solo violin accompanied by this instrument, for which Für Elise
+was composed.
+ANSWER: pianos [or pianofortes; or Klaviers; do not accept "fortepiano"] <Kim>
+11. This thinker established NYU's program in media ecology, a term he coined. For 10 points each:
+[10] Name this scholar who wrote about "the surrender of culture to technology" in Technopoly, and who altered
+another thinker's wording to say "the medium is the metaphor" in his book Amusing Ourselves to Death.
+ANSWER: Neil Postman
+[10] This Canadian intellectual coined the phrase "the medium is the message" in his book Understanding Media.
+He defined media by their level of viewer participation as "hot" or "cool."
+ANSWER: Marshall McLuhan
+[10] McLuhan described the social changes brought on by this man's development of the printing press in
+Europe in a book about this man's "galaxy."
+ANSWER: Johannes Gutenberg [or Johann Gensfleisch zur Laden zum Gutenberg] <Yu>
+12. In the epilogue to this play, a suited man from 1920 appears alongside a medieval soldier who is on his oneday reprieve from hell. For 10 points each:
+[10] Name this play whose title character helps out Gilles de Rais and the Dauphin before being accused of
+heresy by the Bishop of Beauvais.
+ANSWER: Saint Joan
+[10] Saint Joan was written by George Bernard Shaw, who also wrote this play about a Cockney native named
+Eliza Doolittle who is taught how to speak properly by Henry Higgins.
+ANSWER: Pygmalion
+[10] In the first act of Pygmalion, Eliza is selling these items when Colonel Pickering informs her that someone
+is writing down what she says.
+ANSWER: flowers <Sy>
+
+NASAT 2015 - Round 09 - Page 10 of 13 
+
+13. A large, 840-pound emerald was mined in this state. For 10 points each:
+[10] Name this state whose namesake body of water was discovered on All Saints' Day. The martial art capoeira
+originated from this state, which is a hotbed of African culture in Brazil.
+ANSWER: Bahia
+[10] Bahia's capital, Salvador, is home to one of the largest of these festivals. In other cities such as Rio de
+Janeiro, revelers pass through the Sambadrome during this festival that precedes Lent.
+ANSWER: Carnival [or Carnaval]
+[10] These bandits often roamed the semi-arid sertão region that encompassed much of inland Bahia. The
+most well-known of these bandits was nicknamed "Lampiao," or "Oil Lamp," and feuded with police he called
+"monkeys."
+ANSWER: cangaceiros [or cangaço] <Golimlim>
+14. Answer the following about topics in single- and multi-variable calculus, for 10 points each.
+[10] This operation is fundamental to calculus. For a function f, it returns the limit as h goes to zero of f of x
+plus h minus f of x all divided by h.
+ANSWER: differentiation [or taking the derivative; or obvious equivalents]
+[10] Differentiation is related to integration by the fundamental theorem of calculus, which requires this
+property of the function f being integrated. This concept can be formalized using a delta-epsilon formulation.
+ANSWER: continuity [or word forms]
+[10] In multivariable calculus, this quantity represented tau is defined as the negative dot product of the unit
+normal vector and the rate of change of the unit binormal vector. It measures how much a curve deviates from
+the osculating plane.
+ANSWER: torsion <Schindler>
+15. Answer the following about Irish society before the impositions of Oliver Cromwell, for 10 points each.
+[10] Systems of lordship in Irish society lacked this policy of handing down landed estates to the first-born son.
+Laws of entail reinforced this system, which Celtic lords rejected in favor of a chosen next-in-command called
+a tanist.
+ANSWER: primogeniture
+[10] This term refers to the area of Ireland run directly by the King of England instead of by Anglo-Irish lords
+or a much more diffuse collection of Celtic kings and chieftains. It took up a small share of the eastern coast.
+ANSWER: the Pale [or an Phail]
+[10] This English monarch had to put down the Geraldine rebels, under the Fitzgerald family of County
+Kildare, after asserting newly-declared supremacy over the Church of Ireland.
+ANSWER: Henry VIII Tudor <Jackson>
+
+NASAT 2015 - Round 09 - Page 11 of 13 
+
+16. This object is held by Colin Wood, the son of the tennis player Sidney Wood. For 10 points each:
+[10] Name this object held by an awkward looking boy making a maniacal face in a 1962 photograph taken by
+Diane Arbus. As the title of the photograph makes clear, this object is a toy.
+ANSWER: toy hand grenade
+[10] The boy in that photograph is standing in this recreational location in New York City, which is the site of
+Tavern on the Green and Belvedere Castle.
+ANSWER: Central Park
+[10] Another Arbus photo features a boy with a straw hat waiting to march in a parade. Both the parade and
+the buttons the boy wears are in support of this cause.
+ANSWER: The Vietnam War [prompt on the United States military; do not accept the "anti-war movement" or
+"opposing the Vietnam War"] <Cheyne>
+17. Near its end, this ten-book text claims that the contemplative life is the best life, but the political life is an
+acceptable second-best if a contemplative life cannot be achieved. For 10 points each:
+[10] Name this early work of moral philosophy which described virtue, or arete, as a state at the mean between
+two extremes which are each vices. It may once have been lecture notes.
+ANSWER: Nicomachean Ethics [prompt on "Ethics"]
+[10] This founder of the Lyceum and tutor of Alexander the Great wrote Nicomachean Ethics.
+ANSWER: Aristotle of Stagira [or Aristoteles]
+[10] A short work by Aristotle posits ten of, and is named for, these basic ways of classifying objects in the
+world. Immanuel Kant's Critique of Pure Reason contains a "table" of twelve of them.
+ANSWER: categories [or Kategoriai] <Jackson>
+18. Titu Cusi testified that the defeated leader at this battle threw a Bible offered by Friar Vincente de Valverde
+to the ground. For 10 points each:
+[10] Name this battle in which the Inca leader Atahualpa was taken hostage.
+ANSWER: Battle of Cajamarca
+[10] This man received a sword wound to his hand after stopping a soldier from killing Atahualpa. He was
+accompanied by Hernando de Soto during his conquest of the Inca Empire.
+ANSWER: Francisco Pizarro [or Francisco Pizarro Gonzalez]
+[10] Previously, Pizarro allegedly drew a line in the sand of Isla de Gallo, asking his men who would stay at
+Panama or follow him to Peru. Those who followed became known by this collective nickname.
+ANSWER: the Famous Thirteen [or Los Trece de la Fama] <Golimlim>
+
+NASAT 2015 - Round 09 - Page 12 of 13 
+
+19. This poem, whose sections include "Mar Saba" and "The Wilderness," was inspired by a trip its author took
+to the Holy Land in 1856. For 10 points each:
+[10] Name this epic poem in rugged tetrameters whose title character explores Jerusalem with Nehemiah and
+is devastated when Ruth does not come back to life on Easter.
+ANSWER: Clarel: A Poem and Pilgrimage in the Holy Land
+[10] Clarel was written by this American author, who is better known for writing a novel in which Captain Ahab
+hunts for a white whale.
+ANSWER: Herman Melville
+[10] In the third chapter of Moby-Dick, Ishmael meets Queequeg in the Spouter-Inn, which is found in this
+Massachusetts city, the whaling capital of the United States.
+ANSWER: New Bedford <Sy>
+20. Cronin and Fitch experimentally discovered that the combination of this symmetry with parity symmetry
+was violated in certain kaon decays. For 10 points each:
+[10] Name this symmetry, according to which physical laws are invariant when substituting a particle with its
+antiparticle, such as substituting an electron with a positron.
+ANSWER: charge conjugation symmetry [or C-symmetry]
+[10] Kaon decays via this fundamental force were where CP violation was discovered. It is carried by the W and
+Z bosons.
+ANSWER: weak nuclear force
+[10] CP violation, with baryon number violation and thermal disequilibrium, composes this set of three
+conditions necessary for baryogenesis to occur. They were formulated by a Soviet physicist.
+ANSWER: Sakharov conditions <Golimlim>
+21. Joao Guimaraes Rosa's novel about the bandit Riobaldo was translated with the title The Devil to Pay in this
+sort of place. For 10 points each:
+[10] Name this sort of place, a "rebellion" in which titles the translation of Euclides da Cunha's account of the
+Canudos War.
+ANSWER: backlands [or Os Sertoes]
+[10] Both Guimaraes Rosa and Euclides da Cunha are writers from this Latin American country, whose
+literature is typically written in the Portuguese language.
+ANSWER: Brazil [or Brasil]
+[10] The near-sighted journalist, who was likely based on da Cunha, appears in this author's fictionalization of
+the Canudos rebellion, The War of the End of the World.
+ANSWER: Mario Vargas Llosa [or Jorge Mario Pedro Vargas Llosa, 1st Marquis of Vargas Llosa] <Brownstein>
+
+NASAT 2015 - Round 09 - Page 13 of 13 
+
+

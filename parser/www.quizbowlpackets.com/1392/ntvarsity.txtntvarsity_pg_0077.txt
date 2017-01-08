@@ -1,0 +1,57 @@
+NewTrier Varsity 2006  Round 8, Page 7 
+
+
+Bonus 13: Literature (Literature) 
+Identify the folowing Catholicauthors. 
+A: She lived in Georgia and wrote the short story colection A Good Man Is Hard To Find. 
+B: The son of a famous Conservative, he wrote Thank You For Smoking. 
+C: This priest has writen a lot of novels, including Irish Crystal and The PassoverTrilogy, in addition 
+to newspapercolumns,homilies, and works of nonfiction. 
+D: He converted in1930, fifteen years before completing Brideshead Revisited. 
+Answers: A: Flannery O'Connor B: Christopher BuckleyC: Andrew Greeley D: Arthur Evelyn 
+St. John Waugh 
+
+Tossup 14: Math (Calculus) - Computational (30 Seconds) 
+x is restricted to be between negative pi over twoand pi overtwo. Fuly simplify your answer. Find 
+the derivative, with respect to x,of the definite integral from zero to thesine of x, of the inverse sine 
+of t, dt. You can solve this problem byevaluating the definite integral and then thederivative, though 
+it would be easier to evaluateboth at once, remembering to use the chain rule. 
+Answer: x cos(x) (accept cos(x) times x; note that the restricted domain ensures thatarcsin(sin(x) = 
+x) 
+
+
+Bonus 14: Miscelaneous (Technology) 
+Name these ways of connecting peripherals to computers. 
+A: Now one of the most popular connectors, the 2.0 variety of this sends data at rates up to 480 
+megabits per second. 
+B: Also known as IEEE 1394, this comes in four- and six-pin varieties.It is used for camcorders and 
+other high-volumeoperationsbecause it travels up to 800 megabits per second. 
+C: Also known as "mini-DIN," this circular six-pin connector is often used for keyboards and mice. 
+D: This trapezoidal 25-pin port was once used for printers. It is namedfor the fact that it does not 
+send data serialy. 
+Answers: A: USB (Universal Serial Bus) B: Firewire C:PS/2 D: Paralel 
+
+Tossup 15: Science (Biology) 
+Not present in bacterialplasmids, theyoccur only in linear chromosomes, in humans with the patern 
+TTAGGG. Comprising up to 300,000 base pairs of DNA, they alow DNA polymerase to act on entire 
+chromosomes, because it is unable to copy al the way to the end. Consequently, these are 
+shortened every time a cel divides, and their length is thought to be associated with aging. Name 
+this bufer DNA at the ends of linear chromosomes. 
+Answer: Telomere 
+
+Bonus 15: Math (Other)
+I'l give you two SI prefixes. You have to multiplythem and give the resulting SI prefix. For example, 
+if Isay "kilo times kilo," you know that's a thousandtimes a thousand, or one milion, so yourespond 
+"mega." 
+A: Hecto times deca 
+B: Gigatimeskilo 
+C: Mega times nano 
+D: Kilo times peta 
+Answers: A: Kilo B: Tera C: Mili D: Exa 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

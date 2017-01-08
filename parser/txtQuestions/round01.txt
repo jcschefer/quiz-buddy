@@ -1,0 +1,532 @@
+TOSSUP 1
+They are equal to the negative gradient of potential energy when they are conservative. The dot
+product of one with a velocity gives power; dotting with distance yields work. They are defined as
+the rate of change of momentum with respect to time. FTP, what are these vector quantities, best
+known as the product of mass and acceleration?
+Forces
+BONUS 1
+Identify these types of forces FTPE.
+10:
+
+The component of a contact force between an object and a surface that
+is perpendicular to the surface.
+Normal force
+
+10:
+
+The force that draws an object in circular motion towards the center
+of the circle.
+Centripetal force
+
+10:
+
+The fundamental force that acts on quarks and gluons, holding hadrons
+together.
+Strong (nuclear) force or interatction
+
+TOSSUP 2
+It began when the Nawab of Bengal became suspicious of the British Company in his country,
+perceiving them as a threat to Bengal’s independence. His concerns rested mainly in the British
+escalation of military presence in Fort William. The Nawab laid seige to the fort after the British
+refused to stop enhancing their military and finally captured it, along with 65 of the British
+garrison force. After the prisoners began rebelling, they were placed in a 14 by 18 foot guard
+room. In the morning 43 of the British were dead in, FTP, what 1756 incident occuring in a city
+in India?
+Black Hole of Calcutta
+BONUS 2
+Answer the following questions about other war crimes, FTPE.
+10:
+
+Beginning in 2004, abuse at this Iraqi prison, also known as the Baghdad correctional facility, was made known to the public.
+Abu Ghraib
+
+10:
+
+George Patton ordered that American soldiers receive no punishment
+for killing 50 to 120 SS soldiers at this concentration camp, which
+was constructed in a used gunpowder factory in a town just outside of
+Munich.
+Dachau massacre
+
+1
+
+10:
+
+US Army Lieutenant William Calley was convicted of massacring hundreds of Vietnamese civilians in this village, and then released from
+prison by Richard Nixon.
+My Lai
+
+TOSSUP 3
+The young man being adressed will not be swelling the rout of his colleagues who outlasted their
+names. It contrasts the glories of success, like being borne through town on a chair, with the
+indifference of the grave. FTP, name this poem about an expiring runner by A. E. Housman.
+To an Athlete Dying Young
+BONUS 3
+Identify the British poets who wrote these lines FTPE.
+10:
+
+“What immortal hand or eye/Could frame thy fearful symmetry?”
+William Blake
+
+10:
+
+“Beauty is truth, truth beaty.”
+John Keats
+
+10:
+
+“Rage, rage against the dying of the light.”
+Dylan Thomas
+
+TOSSUP 4
+Francis Bacon described this man as ”of a high mind, and loved his own will and his own way.” He
+married off his eldest son for peace with Spain, and his eldest daughter for peace with Scotland.
+Following his victory in the Battle of Bosworth Field, he was proclaimed king in 1485. FTP, name
+this man who ruled for 24 years as the first monarch of the Tudor dynasty.
+Henry VII
+BONUS 4
+FTPE, name these female Tudor monarchs.
+10:
+
+She ruled for 45 years, and was the last of the Tudor monarchs.
+Elizabeth I
+
+10:
+
+She revived Roman Catholicism in England, and was succeeded by
+Elizabeth.
+Mary I or Bloody Mary
+
+10:
+
+She ruled for nine days, between Edward VI and Mary I.
+Jane Grey
+
+2
+
+TOSSUP 5
+Hepzibah, an old woman fallen on hard times; Clifford, her weak brother; and Phoebe, who
+comes from New England to help her feeble relatives, are the main characters in this novel. The
+antagonist of the story is a smooth talking judge, a relative of Hepzibah and Clifford, who wants
+to acquire the house. The family lives in a cursed house that has passed through numerous
+generations. FTP, name this 1851 novel by Nathaniel Hawthorne.
+The House of the Seven Gables
+BONUS 5
+BONUS FTPE, answer the following questions about The House of Seven Gables.
+10:
+
+This family has lived in the house ever since its construction.
+Pyncheon
+
+10:
+
+This man owned the land that the house was built on before he was
+hanged for witchcraft.
+Matthew Maule
+
+10:
+
+This lodger at the house, also a descendant of Matthew Maule, possesses hypnotic powers.
+Holgrave
+
+TOSSUP 6
+This character briefly appeared in Alan Moore’s comic book series The League Of Extraordinary
+Gentlemen. He lives in an old house in Paris, and was one of the first of his kind in literature.
+Arthur Conan Doyle used him as a blueprint for Sherlock Holmes, even though Holmes belittles
+him in “A Study In Scarlet”. FTP, name this detective who famously appeared in “The Murders
+in the Rue Morgue” and was created by Edgar Allan Poe.
+Auguste Dupin
+BONUS 6
+BONUS FTPE name these other Edgar Allan Poe works.
+10:
+
+This haunted house story tells the tale of an unnamed narrator who
+visits Roderick and his sister Madeline.
+The Fall of the House of Usher
+
+10:
+
+The title objects “jingle and tinkle” in the beginning before “moaning
+and groaning” at the end
+The Bells
+
+10:
+
+This short story takes place at an abbey, in which people have crowded
+in to escape a plague.
+The Masque of the Red Death
+
+3
+
+TOSSUP 7
+Although he was king of one of the most powerful empires of his time, he neglected much of it.
+This led to trouble along the frontiers, especially those bordering land claimed by the Mitanni.
+After his death, all the changes he had made to his empire’s religion were undone and his young
+successor, Tutankhaten, was persuaded by priests to change his name to Tutankhamun. FTP,
+name this ancient Egyptian Pharaoh who declared that all of his subjects must worship Aten, the
+sun god, which forms part of his name.
+Akhenaten (or Amenhotep IV)
+BONUS 7
+FTPE, name these Egyptian deities other than Aten.
+10:
+
+This sun god disappeared at sunset, then reappeared each morning
+after defeating Apep, the god of darkness and chaos.
+Ra
+
+10:
+
+Depicted with the head of an ibis, he was the god of writing.
+Thoth
+
+10:
+
+He embodied the Nile’s fertile yield and was represented with the head
+of a crocodile.
+Sobek
+
+TOSSUP 8
+Due to its constant o(n2 ) [oh of en squared] time for unsorted lists, this algorithm is inefficient
+for sorting large amounts of data. It works by comparing adjacent elements and swapping them
+if the first is greater than the second, and then keeps repeating for one fewer element each time,
+until no more pairs are left to compare. FTP, name this sorting algorithm, one of the easiest to
+implement.
+Bubble Sort (accept Exchange Sort)
+BONUS 8
+BONUS FTPE, identify these other sorting algorithms from their given descriptions.
+10:
+
+This sorting algorithm finds the minimum value in a list and swaps it
+with the first value, and so on.
+Selection Sort
+
+10:
+
+Choosing a pivot point and arranging elements into two sub-lists and
+then recursively sorting them, this sort has an average of O(n log n)
+[oh of en log en] time.
+Quick Sort
+
+10:
+
+This sort, despite its O(n2 ) time, is more efficient than selection or
+bubble sorts. It is especially fast at sorting lists that are almost in
+order.
+Insertion Sort
+
+4
+
+TOSSUP 9
+According to the second Merseburg Charm, the German name for this god war Phol. Odin defeats
+the giant Vafthruthnir in a game of riddles by asking him what he - Odin - whispered in this
+god’s ear at his funeral pyre, a thing only Odin himself would know. He will be resurrected after
+Ragnarok and will rule the new earth, reconciled with Hod, his accidental murderer by mistletoe.
+FTP name this Norse god of innocence, joy, purity, beauty, and peace, murdered in a plot by Loki.
+Baldur
+BONUS 9
+Name all of these things about Ragnarok FTPE.
+10:
+
+Immediately preceding Ragnarok, there will be three successivewinters
+with no other seasons in between. Name this time during which there
+will be much internecine strife in the human race.
+Fimbulwinter
+
+10:
+
+The ”world tree”, called this, will shake the universe from Asgard to
+Hel prior to the battle.
+Yggdrasil
+
+10:
+
+Thor uses this hammer.
+Mjollnir
+
+TOSSUP 10
+This element has several extremely rare compounds- all of which are highly unstable. It is
+the second most abundant element in the universe as well as the second lightest element and
+almost always exists as a gas. It is used in cryogenics, deep-sea breathing systems, and as a
+superconducting magnet coolant but perhaps its most famous use is in inflating baloons. FTP,
+name this noble gas whose atomic number is two.
+Helium
+BONUS 10
+FTPE, answer the following about noble gases:
+10:
+
+This element has the atomic number 10 and gives off a distinctive red
+glow when used in vaccum tubes and its eponymous lights.
+Neon
+
+10:
+
+This noble gas has no known industrial purposes but does form compounds with fluorine, its atomic number is 36.
+Krypton
+
+10:
+
+Name the last of the noble gases, which forms from the disintegration
+of radium with atomic number 86.
+Radon
+
+5
+
+TOSSUP 11
+In German, adjective endings for both definite and indefinite articles will be “-en”. In Latin, it
+is identical to the ablative in the plural for all declensions. In the sentence “To whom did you
+send the letter?” the word “whom” is in this case. FTP, name this case used for indirect objects,
+which, in chemistry, also refers to a covalent bond where one atom donates both electrons.
+Dative
+BONUS 11
+FTPE, name these other grammatical cases, given their part of speech.
+10:
+
+Possessive noun
+Genitive
+
+10:
+
+Direct object
+Accusative
+
+10:
+
+Subject
+Nominative
+
+TOSSUP 12
+Its name means ”deer hunter” in Sanskrit, and takes its modern name from the Greek ”glowing”.
+The smaller of the two bodies is not visible to the naked eye because its companion is one of the
+brightest stars in the night sky. Only 8.6 light years away from Earth, this pair is known for its
+vivid blue-white color. FTP, identify this binary star, located in the constellation Canis Major,
+which is also known as the ”Dog Star.”
+Sirius
+BONUS 12
+FTPE, name the brightest star in the following constellations.
+10:
+
+Taurus
+Aldebaran
+
+10:
+
+Scorpio
+Antares
+
+10:
+
+Aquila
+Altair
+
+TOSSUP 13
+Pencil and paper ready. A garden is in the shape of an isoceles triangle with side lengths 10, 13,
+and 13. To determine the area of this garden, one could use Heron’s formula, or one could realize
+that the altitude of the triangle to the side of length 10 can be found using a Pythagorean Triple.
+FTP, find the area of a triangle with side lengths 10,13, and 13.
+60
+BONUS 13
+FTPE, find the area of the following triangles:
+
+6
+
+10:
+
+A triangle with sides 6, 8, and 10.
+24
+
+10:
+
+A triangle with sides 9, 40, and 41.
+180
+
+10:
+
+A√triangle with sides 4, 4, and 4.
+4 3
+
+TOSSUP 14
+Before explorers arrived there in the 1600s, it was home to numerous indigenous peoples including
+the Chukchi [CHUCK-chee] and the Koryak. Kurilsky Lake, in the south, is the largest salmon
+breeding ground in Eurasia. It contains over 160 volcanoes, more than 20 of which are active.
+FTP, name this Russian peninsula located between the Sea of Okhotsk [ok-HOT-sk] and the
+Pacific Ocean.
+Kamchatka Peninsula
+BONUS 14
+FTPE, name these other peninsulas.
+10:
+
+Myanmar, Thailand, and a country that closely shares its name all
+have possession of a portion of it.
+Malay Peninsula
+
+10:
+
+It is shared by Germany and Denmark and separates the North Sea
+from the Baltic Sea.
+Jutland Peninsula
+
+10:
+
+Located at the mouth of the St. Lawrence River, its name comes from
+a Micmac word meaning ”Land’s End.”
+Gaspé Peninsula
+
+TOSSUP 15
+In his twenties, this man worked in a chemical factory in the Urals. Stalin exempted him from
+arrest during the great purges, saying “Don’t touch this cloud dweller.” At the same time, this
+man had been translating works of Shakespeare, which he altered slightly. FTP, name this Russian
+author, who was forced by the Soviet government to decline the 1958 Nobel Prize for his novel
+Doctor Zhivago.
+Boris Leonidovich Pasternak
+BONUS 15
+FTPE, name these characters from Doctor Zhivago .
+
+7
+
+10:
+
+Doctor Zhivago’s wife, who is exiled to France.
+Tonya
+
+10:
+
+The woman Doctor Zhivago truly loves.
+Lara Antipov
+
+10:
+
+Lara’s husband, who disappears during World WAr I and reemerges
+during the Civil War.
+Pasha Antipov or Strelnikov
+
+TOSSUP 16
+He studied lyric-writing with Oscar Hammerstein. He first came to public attention as the lyricist
+for Leonard Bernstein’s West Side Story, but soon moved to writing both words and music in a
+series of productions which redefined American musical theater. His own highly successful musicals
+included A Funny Thing Happened on the Way to the Forum and A Little Night Music. FTP,
+name this American composer and lyricist who combined opera, musical comedy, and cabaret in
+Sweeney Todd.
+Stephen Sondheim
+BONUS 16
+FTPE, name these composers of musicals.
+10:
+
+He collaborated with lyricist Lorenz Hart on Pal Joey and later with
+Oscar Hammerstein on The Sound of Music .
+Richard Rodgers
+
+10:
+
+Hammerstein wrote the book and lyrics to Show Boat in collaboration
+with this man.
+Jerome Kern
+
+10:
+
+Although usually associated with its director and choreographer,
+Michael Bennett, A Chorus Line was actually composed by this man.
+Marvin Hamlisch
+
+TOSSUP 17
+His early experiments involved a device to convert electromagnetic waves into electricity. He
+conducted successful tests with transmitting signals across the English Channel and later across
+the Atlantic Ocean and formed the company which bore his name in London, England. He
+established a worldwide radio telegraph network for the British government. FTP, name this
+inventor of short-wave radio equipment.
+Guglielmo Marconi
+BONUS 17
+FTPE, name these pioneers of radio:
+
+8
+
+10:
+
+This man left his family business to invest in several radio stations
+which became the Columbia Broadcasting System, or CBS:
+William S. Paley
+
+10:
+
+A telegraph operator who helped the Titanic rescue effort by informing other ships about the accident, he is credited with creating the
+National Broadcasting Network, or NBC from the Radio Corporation
+of America, or RCA:
+David Sarnoff
+
+10:
+
+He made broadcast history with William Shirer in 1938 when they
+organized a special broadcast with European reaction to the seizure of
+Austria by Nazi Germany:
+Edward R. Murrow
+
+TOSSUP 18
+Its name comes from a Native American leader of the Lenape tribe. The political activities it is
+well known for started in the late 1700’s when Aaron Burr became the leader. Burr used it to
+become Vice President in 1800. In the 1840’s, people of Irish descent began joining it, providing
+bribes in exchange for votes. It achieved one of its greatest successes when Al Smith won the 1928
+Presidential nomination. FTP, identify this political group whose most famous boss was William
+Tweed.
+Tammany Hall
+BONUS 18
+Name these political parties and organizations FTPE.
+10:
+
+Though Kennedy won Illinois by only 9,000 votes, he won Cook County
+by 450,000 thanks to this machine at the time led by Richard Daley.
+Chicago machine (accept Cook County Democratic Organization)
+
+10:
+
+This is the largest political party in Japan and holds an absolute majority in the House of Representatives.
+Liberal Democratic Party (accept LDP)
+
+10:
+
+This political movement was mainly made up of Republicans that supported the Democrat Grover Cleveland in the 1884 election.
+Mugwumps
+
+9
+
+TOSSUP 19
+His paintings mainly depict people in small towns even though he lived most ofhis life in New
+York City. The first of these paintings to appear in themagazine for which he was best known was
+titled “Boy with Baby Carriage.”Others in 1916 included “Gramps at the Plate” and “Redhead
+Loves HattyPerkins.” However, he had many other famous paintings including portraits offour
+presidents, a series of “Rosie the Riveter” images, “The FourFreedoms,” and “The Golden Rule.”
+FTP name this American artist who paintedcovers for The Saturday Evening Post from 1916 to
+1963.
+Norman Rockwell
+BONUS 19
+For 5 for one, 10 for two, 20 for three, or 30 for all four, name the fourfreedoms Norman Rockwell
+painted that were originally in Franklin D.Roosevelt’s 1941 State of the Union Address.
+30:
+Freedom from want, freedom from fear, freedom of worship
+(accept religion), freedom of speech
+TOSSUP 20
+Its name in Greek means ”up state”. It is triggered when fully condensed sister chromatids are
+arranged into pairs by the spindle in the metaplate. Motor proteins play a vital role as they pull
+on the kinetochore microtubules to separate the chromatids to their respective spindle poles. FTP,
+name this penultimate stage of mitosis.
+Anaphase
+BONUS 20
+FTPE, name these other phases of mitosis
+10:
+
+This last stage of mitosis occurs after anaphase and cleaves the cell in
+half.
+Telophase
+
+10:
+
+Occurring right before anaphase, this stage is responsible for the convening of centromeres at the centre of the dividing cell.
+Metaphase
+
+10:
+
+This stage of the cell cycle is where the cell spends most of its life and
+is defined only by the absence of cell division.
+Interphase
+
+10
+
+

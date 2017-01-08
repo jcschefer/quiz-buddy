@@ -1,0 +1,381 @@
+Cal Classic IV
+Packet by Jeff Good
+Tossups:
+I. Their grandfather was Scipio Africanus and their father was twice a consul. The elder of these brothers,
+on becoming a tribune, introduced a controversial agrarian bill, sought re-election unconstitutionally, and
+was lynched in 132 B. C. The younger sought to revenge his brother, but after supporting a bill giving
+citizenship to Latins could not gain re-election and died in a riot. For ten points, name these Roman
+tribunes associated with land reform.
+Answer: Gracchi (Tiberius Gracchus and Gaius Gracchus)
+2. Vergil gives this name to the evil brother of Dido in the Aeneid, but in Greek mythology it refers to a
+man from Cyprus who fell in love with a statue. In Ovid's version of the myth, he is a sculptor who makes
+the statue and, after Aphrodite gives it life, marries his creation. For ten points, name this mythological
+person who inspired a play by George Bernard Shaw.
+Answer: Pygmalion
+3. The solution to this problem became the basis for graph theory. It was inspired by a particular portion of
+the Pregel River in Russia where two islands were situated between the banks and a total of seven bridges
+connected the islands to each other and to the banks. For ten points name this problem whose goal was to
+determine whether or not a person could take a walk, cross each bridge exactly once, and return to their
+original starting point.
+Answer: The Konigsberg Bridge problem (or Konigsberg walk problem)
+4. This 19th-century movement adhered to an idealistic system of thought based on a belief in the essential
+unity of all creation, the innate goodness of man, and the supremacy of insight over logic and experience
+for the revelation of the deepest truths. Largely centered in New England, among its authors were Orestes
+Brownson, James Freeman Clarke, and Bronson Alcott. For ten points, name this movement whose
+writings were often featured in The Dial and whose most famous writers were Ralph Waldo Emerson and
+Henry David Thoreau.
+Answer: transcendentalists
+5. His chemistry textbook was the Russian standard until superseded by Mendeleev's. The law named after
+him established the field of thermochemistry and was the bridge between earlier work by Carnot and later
+work by Gibbs. For ten points, name this man whose law stated that the heat generated between two
+substances was independent of the chemical reaction caused by the conversion of one of those substances
+into the other.
+Answer: Germain Henri Hess
+6. The main character of this work was a salesman who supported his parents and his sister Grete, after his
+father's business was ruined by a fmancial collapse five years earlier. His name was Greogor Samsa, but we
+better remember him for awaking one morning to fmd himself transformed into a giant cockroach. For ten
+points, name this story by Franz Kafka.
+Answer: "The Metamornhosis"
+7. This work received a hostile reception from the French government upon its completion because it
+graphically depicted the plight of the crew of a sunken French ship. The beginnings of the Romantic
+movement are reflected in its heroic portrayal of the starving crew, with some dead and others waving for
+help in a stormy sea. For ten points, name this 1819 painting by Theodore Gericault.
+Answer: "The Raft of the Medusa"
+8. There is a national historic site dedicated to it and a pyramidal monument marks the spot where it was
+once located. Near its original location, one can now see replica's of _Jupiter_and _No. 119_ two train
+engines. For seventy-three years it remained in the spot where it had been driven to the ground. For ten
+points, name this item which gained its fame when it was used to complete the nation's first trans-
+
+continental railroad.
+Answer: Golden Spike
+9. The teIm was used early on by J. W. von Goethe and was popularized by George Bernard Shaw. It refers
+to a man ~ith superior potential who completely masters himself and strikes off conventional
+Christian "herd morality" to create his own values. FTP, name this teIm often associated with the book
+Thus Spake Zarathustra by Friedrich Nietzsche.
+Answer: SupeIman or UbeImensch
+10. He sailed for the British, but was not British by birth. His search for the Northwest Passage was
+thwarted by the arrival of winter, and his ship, the Half-Moon, got stuck in the ice. He himself died on
+voyage, and a large Canadian bay bears his name, as does a river. FTP, name this Dutch navigator.
+Answer: Henry (Henrik) Hudson
+11 . This British economist postulated that acccumulation of capital could proceed too rapidly, producing a
+glut of unsold goods, an idea echoed 100 years later by John Maynard Keynes. He is more famous,
+however, for his 1798 Essay on the Principles of PopUlation, in which he declared that food supply could
+not keep pace with population growth. For ten points, name this grim economist.
+Answer: Thomas Malthus
+
+13. In the 1700's, they were not very loud because of the inherent weakness of the wood frame; thus, the
+cast-iron framewas introduced in the 1800's. Credit for its invention is usually given to Bartolomeo
+Cristofori. By 1860, the upright version was popular in the home and the twentieth century saw the
+introduction of the electric variety. FTP, name this instrument which makes sound when hammers strike a
+string.
+Answer: piano
+14. Its name means Bay of the Goddes A-rna. It consists of two islands, Taipa and Coloane, and a small
+peninSUla on the western side of the Pearl River estuary. It borders the Chinese province of Kwangtung,
+and, to its north, lies the city of Canton. For ten points, name this territory, which is to the west of Hong
+Kong and which Portugal is scheduled to return to Chinese rule in 1999.
+Answer: Macau
+15. Blue represents the sky, so the air ducts are blue. The sun is the fundamental source of energy, so the
+electrical conduits are yellow. Green is for water pipes, and red is for transport. In 1977, the building,
+designed by Renzo Piano and Richard Rodgers, which utilized this color scheme was completed in Paris. It
+houses France's modern art museum and serves as a national cultural center. For ten points, what is this
+building which is named after the French president who proposed its construction in 1971?
+Answer: Centre Pompidou or the Beauborg
+16. A crucial moment in the development of this work came about when its author's memory was jogged by
+the taste of tea and a rusk biscuit. The work, though fiction, is essentially an allegorical and psychological
+autobiography. For ten points, name this work, the first volume of which is entitled _Swann's Way_and
+which was written by Marcel Proust.
+Answer: Remembrance ofThin~s Past or A fa recherche du temps perdu or In Search ofLost
+Times (prompt on _Swann's Way_until the last sentence.)
+17. It is not very popular in the United States, but the state of Michigan has used this revenue generating
+device--first from 1953 through 1967, and then again after 1975. The fIrst country to adopt this on a large
+scale was France in 1954 and, today, most western European governments use it as a source of income. For
+
+ten points, name this type of tax in which government puts a levy on the amount that a business finn adds
+to the price of a commodity during production and distribution of a good.
+Answer: Value Added Tax or VAT
+18. An early advocate of educational and social equality for women, she worked for James Johnson, a
+London publisher. and was a member of an influential radical group that included Thomas Paine and
+William Blake. She had two daughters, Fanny and Mary, the latter of which is famous in her own right. For
+ten points, name this eighteenth century British feminist and author of Thoughts on the Education of
+Daughters and A Vindication of the Rights of Woman.
+Answer: Mary Wollstonecraft
+19. This architectural innovation arose at the same time as the ribbed vault. While the vault's ribs focused
+support for the ceiling's weight at several discrete points, each of these structures distributed weight in
+several directions away from its highest point, helping to distribute the ceiling's thrust downward. FTP,
+name these structures, which replaced the round versions found in older barrel vaults.
+Answer: Gothic arches
+20. These are essentially very long columns of water with a heat source. The water at the bottom of the
+column does not boil because of the high pressure. As water near the top boils away, pressure at lower parts
+drops, and the water flashes into steam. Observers see this as a violent stream of steam and boiling water
+shooting over a hundred feet into the air. For ten points, name the geological phenomenon.
+Answer: geysers
+2l. The French government called for a means to preserve food for the French army and navy. In 1809,
+Nicholas Appert developed such a means by sealing a bottle or ajar, heating it, and the maintaining the seal
+until use. This process was refined in 1810 in England by Peter Durand who first used metal containers. For
+ten points, name this type of food preservation which worked without explanation until Pasteur's studies
+fifty years after its first use.
+Answer: canning
+22. It was a fortified town on Mt. Petrachus which guarded the entry into the northern plain of Boeotia. It
+has been the sight of two battles, in 86 B. C. there the Roman general Sulla defeated Mithradates VI of
+Pontus. The more famous battle occured in 338 BC. Philip II of Macedon defeated Thebes and Athens. For
+ten points, name this battle which is considered to be the end of the independent Greek city-state.
+Answer: Chaeronea
+23. He is not Salman Rushdie, but in 1959 he had a novel condemned by Islamic religious leaders as
+blasphemous. Nearly all of his works are set in his native Cairo. He is the author of the novels Children of
+Gebelawi, Midaq Alley, and of The Cairo Trilogy. FTP, name this Egyptian winner of the 1988 Nobel Prize
+in literature.
+Answer: Naguib (or Najuib) Mahfouz
+
+24. According to legend, a bright star, which may have been Halley's comet, coincided with his birth. His
+grandfather Alapia ordered him put to death, but he was raised secretly. A war against his cousin Kiwalao in
+1782 resulted in his first major conquest, and his kingdom was complete with the cession of Niihau and Kauai to his
+control in 1810. For ten points, name this ruler who unified the islands of Hawaii.
+Answer: King Kamehameha I (or the Great)
+
+Cal Classic IV
+Packet by Jeff Good
+Bonuses
+1. For ten points each identify these sea creatures:
+a) The common name for fish of the family Tetraodontidae. Many species are poisonous storing a highly
+toxic substance, tetraodontoxin, in their internal organs. In Japan, where they are called fugu, they are used
+for food.
+Answer: pufferfish, swellfish, or blowfish
+b) These are echinoid marine invertebrates with a globular body and a radial arrangement of organs. They
+have tube feet and long, movable spines. The mouth has a complex dental apparatus called Aristotle's
+lantern.
+Answer: sea urchin
+c) In genus Physalia, these are any of various invertebrate, jelly like marine animals noted for powerful
+sting. The body consists mainly of a gas-filled, bladderlike float, from which tentacles hang of up to 50
+metres in length. They are often found on the ocean surface in groups of thousands.
+Answer: Portugese man-of-war
+2. 30-20-10 Name the sculptor
+30: In 1862, he considered entering the church, but in 1864 the young sculptor met Rose Beuret, a
+seamstress, who became his life companion, although he did not marry her until a few weeks before her
+death in February 1917. He worked with the sculptor A.E. Carrier-Belleuse.
+20: His first submission to the Salon, "The Man with the Broken Nose," was rejected. The first major
+monument he sculpted was for the City Hall of Paris. In the mid 1880's he became the lover of Camille
+Claudel.
+10: Among his works are "The Kiss", "The Burghers of Calais", and "The Gates of Hell"
+Answer: Auguste Rodin
+3. For ten points each, name these mythological figures.
+a) Her two sisters, Stheno and Euryale were immortal whereas she was not. Thus, Perseus was able to slay
+her. She had two sons by Poseidon, Chrysaor and Pegasus.
+Answer: Medusa
+b) This monster, one of the offsoring of Typhon and Echidna, lived in marshes of Lema near Argos. Of its
+many heads, only the center one was immortal.
+Answer: Hydra
+c) King Oeneus had omitted to sacrifice to Artemis; so, she sent this wild boar to ravage the country. His
+son Meleager organized a band of heroes, which included Atalanta to drive it away . Meleager eventually
+killed it himself.
+Answer: Calydonian boar
+4.30-20-10 Name this American book.
+30: Although not all historians agree as to its origins, some say it is the work of a clergyman, Solomon
+Spaulding. It relates the story of an ancient migration led by the prophet Lehi.
+20: It was first published in 1830 in Palmyra, New York. The original translator claims he returned the
+manuscript to one of its authors.
+10: One version of its history claims it was written on gold plates by the father of Moroni. Moroni
+supposedly then made additions to the work and buried the plates in upsate New York.
+Answer: Book of Mormon
+5.30-20-10 Name the spice.
+30: It is the largest spice by volume in world trade. It is unusual for a spice in that it is grown mainly in
+temperate climates, principally in Canada, the U.S., Britain, and Hungary.
+20: Three major varieties are grown today: white, yellow, and brown. Its small seeds are used
+as a symbol offaith in the New Testament.
+10: As a condiment, it is sold in three forms: as seeds, as a dry powder, and as a paste blended with other
+
+spices. The paste is usually used as a spread and can be mixed with mayonnaises and sauces.
+Answer: mustard
+6. Give the animal behavior term which refers to the following types of symbiotic behavior, FTP each
+a) Helpful behaviour which raises the recipient's direct fitness while lowering the donor's direct fitness.
+Answer: Altruism
+b) A relationship in which all organisms benefit.
+Answer: Mutualism or cooperation
+c) This relationship is similar to mutualism, but the benefit to the donor is delayed while the benefit to the
+recipient is immediate.
+Answer: Reciprocity
+7. Cassius Dio says that all five men who were consul with Tiberius suffered a sad fate . Name these three,
+FTPeach:
+a) Tiberius' first colleague in 13 B.C. was his brother-in-law. Tapped by Tiberius to govern Germany, he
+was killed in the Teutoberger Wald in AD. 9.
+Answer: Publius Quintillius Varus
+b) Tiberius' nephew and adopted son, colleague in AD. 18 was the beloved of the Roman people but he
+died mysteriously in the East in AD. 19. Rumor says Tiberius' pal (and fellow consul in 7 B.C.)
+Calpurnius Piso poisoned him and committed suicide midtrial.
+Answer: Germanicus Julius Caesar
+c) Tiberius' fifth and last colleague was plotting to overthrow Tiberius but got the tables turned on him in
+AD. 31. Star Trek fans will recognize Patrick Stewart in this role from BBC's I, Claudius.
+Answer: Lucius Aelius Sejanus
+8. For ten points a piece, given the clue, name the twentieth century American artist.
+a) He spent most of his adult life in New York and was part of the Pop Art movement. He is most famous for his
+paintings of American flags.
+Answer: Jasper Johns
+b) Born in the Netherlands, he came to the United States in 1926 as a stowaway. A member of the Abstract
+Expressionist school, his mature works were exclusively about women--some of his most famous works being those
+in the series "Woman I-VI" . He died in 1997.
+Answer: Willem de Kooning
+c) The creator of the technique of "action painting," which involves standing over the canvas and dripping industrial
+paint on it.
+Answer: Jackson Pollock
+9.30-20-10. Name the Author.
+30: His first novel, Grimus, was published in 1975 while he worked in London as an advertising
+copywriter.
+20: The son of a propsperous Muslim businessman in India, he was educated at the Rugby School and the
+University of Cambridge. Other works of his include Midnight's Children and The Moor's Last Sigh.
+10: His most well known novel is The Satanic Verses .
+Answer: Salman Rushdie
+10. Answer the following about conic sections, FTP each:
+a) Given two points, called foci, this type of conic section is the set of points the sum of whose distances
+from the two foci is a constant.
+Answer: Ellipse
+b) This type of conic section, obtained by passing a plane vertically through a cone, is the set of points the
+difference of whose distances from two foci is constant.
+Answer: Hyperbola
+c) This quantity is less than one for an ellipse, more than one for a hyperbola, and one for a parabola. It can
+be viewed as a measurement of the roundness of a conic section.
+Answer: eccentricity
+
+11. 30-20-10 Name the leader.
+30: At the secondary school, he received a nickname, meaning "The Perfect One," from his mathematics
+teacher. In 1895 he progressed to military school where he met Ali Fethi Okyar, who help him in later life.
+20: After World War I, at the urging of the Allies, he was sent to Anatolia to restore order. On May 19,
+1919, he landed at Samsun, a port on the Black Sea.
+10: By 1922, he had pushed the Greeks, and most of the Allies, out of Anatolia. In 1923, the allies
+negotiated the Treaty of Lausanne with the government he led in Ankara. With that treaty, the modern
+Turkish state was completed.
+Answer: Kemal Ataturk (accept Mustafa Kernan
+12. Identify the following acids from their chemical formulas:
+a) F5P, H 2 S04
+Answer: sulfuric acid
+b)F5P,HN0 3
+Answer: nitric acid
+c)FTP,HCIO
+Answer: hypochlorous acid
+d) FTP, HC 2H 30 2
+Answer: acetic acid
+13. For ten points each name these U.S. rivers which flow into the Atlantic Ocean.
+a) It rises in Lake Otsego in New York and empties into the Chesapeake Bay. Its tributaries include the
+Chemung and the Lackawanna and, although the river itself is not navigable, its valley served as an
+important land route to the Ohio River system.
+Answer: Susquehanna
+b) This river also drains into the Chesapeake Bay. It has a north and south branch, both of which unite
+southeast of Cumberland, Maryland. The North Branch forms the boundary between Maryland and West
+Virginia from its source to Harper's Ferry, West Virginia.
+Answer: Potomac
+c) It rises in New Hampshire's White Mountains at the confluence of the Pemigewasset and Winnipesaukee
+rivers. Flowing thorugh Massachusetts as well, many of New England's important early textile factories
+used it as their power source. A famous ship was named after it.
+Answer: Merrimack
+14. Identify the following American expatriate authors from works:
+a) F5P, For Whom the Bell Tolls, Death in the Afternoon, The Sun Also Rises
+Answer: Ernest Hemingway
+b) FTP, Tender Buttons, Three Lives, The Autobiography ofAlice B. Toklas
+Answer: Gertrude Stein
+c) Fl5P,My Education, Junky, Cities of the Red Night
+Answer: William S. Burroughs
+15. Name the 20th century architects for ten points apiece.
+a) This German architect founded the Bauhaus in 1919 and served as its director until 1928. He
+revolutionized architectural design by instructing his students to design in the actual materials instead of
+relying on blueprints.
+Answer: Walter Gropius
+b) This German architect was one of the leading designers in the International sty Ie and became director of
+the Bauhaus in 1930. His most famous buildings are the German Pavilion at the Barcelona exhibition and
+the Seagram Building in New York.
+Answer: Ludwig Mies van der Rohe
+c) Bown Charles Edward Jeanneret, this Swiss architect advocated monumental yet functional designs. He
+emphasized efficiency and was known to describe houses as "dwelling machines." He envisioned cities of
+high-rise buildings surrounded by parkland, a desire reflected in the Unite d' Habitation, a high-rise
+apartment building complete with shops and a rooftop pool.
+
+Answer: Le Corbusier
+16.30-20-10 Name the scientist:
+30: He was born in Croatia and immigrated to the U.S. In 1884. Although scientifically his expertise had
+him under consideration for a Nobel prize at one point, his natural eccentricity degenerated into outright
+neuroticism later in life with an obsession for breeding pigeons.
+20: At one time associated with Thomas Edison, the two of them had a falling out after Edison allegedly
+shorted him payment for an invention. Later, he and Edison caused severe controversy over the merits of
+alternating versus direct current, with his alternating current eventually winning out.
+10: The MKS unit of magnetic flux density is named after him.
+Answer: Nikola Tesla
+17. Name the composer from works, 30-20-10.
+30: Threni, The Wedding, The Rake's Progress, In Memoriam Dylan Thomas
+20: Petrushka, Symphony 0/Psalms, Pulcinella
+10: The Rite o/Spring, The Firebird
+Answer: Igor _Stravinsky _
+18. Answer the following questions about Russian history, FTP each:
+a) These old-fashioned nobles challenged Peter the Great unsuccessfully. A large number of them incurred
+hefty barber bills when he snipped off their beards.
+Answer: Boyars
+b) These terrifying Russian cavalry were auxiliaries in the army infamous for plundering everyone and
+anyone.
+Answer: Cossacks
+c) These wealthy peasants were landowners in tsarist Russia. Stalin exterminated them.
+Answer: Kalchuks
+19. 30-20-10 Name the historical pair.
+30: In 1760, the two were selected by the Royal Astronomical Society to travel to Sumatra in order to
+observe the transit of Venus. They got no further than the Cape of Good Hope, however, before returning to
+England.
+20: In 1763, they were cominissioned to do a job in America. Their work involved setting milestones
+bearing P and M over a distance of over 200 miles. They did not complete their work due to hostile Indians,
+but they were still paid $75,000, and their work was ratified by the British Crown.
+10: They were commissioned by William Penn and Lord Baltimore to settle a dispute over the boundary
+between Pennsylvania and Maryland and gave their names to a "line" between the North and South.
+Answer: Charles Mason and Jeremiah Dixon
+20. Given the description of a relationship between two goods, you give the economic term for that
+relationship for ten points a piece:
+a) Sales of these goods always increase and decrease together. An example would be left and right shoes.
+Answer: complementaty goods
+b) Sales of these goods always move in opposite direction of each other. People do not buy one of these
+goods as a result of buying the other. An example is gloves and mittens.
+Answer: substitute goods
+c) As income rises, consumption of these goods falls.
+Answer: inferior goods
+21. 30-20-10 Name the epic:
+30: The main character of its first half gained invulnerable skin by bathing in dragon's blood. However, a
+leaf fell on his back during this process and one spot, between his shoulder blades remained vulnerable.
+20: Female characters include Kriemhild and Brunhild. The former is from Worms; the latter is from a
+place which is probably Iceland.
+10: The hero of the first half is Siegfried. This German epic, comparable to the Aeneid in its importance to
+its people, inspired Wagner's Ring Cycle.
+
+Answer: Nibelungenlied
+22.30-20-10 Name the author
+30: She graduated from the University of Petrograd in 1924 and came to the U.S. in 1926 where she
+worked as a Hollywood screenwriter.
+20: She is known mostly for two major works in which she presented her philosophy, a controversial one
+which was a reversal of traditional Christian ethics.
+10: Her capitalist, laissez-faire loving philosophy was best presented in the novels The Fountainhead and
+Atlas Shrugged.
+Answer: Ayn Rand
+23. For ten points each, name the pope.
+a) Born as Hildebrand, he was a great reformer. He is most often remembered for his disputes with the
+German Emperor Henry IV over lay investiture.
+Answer: Saint GregOl)' VII
+b) Like Gregory VII, he was a participator in political conflict. However, unlike Gregory, he was largley
+unsuccessful. An attempt to prevent Philip IV the Fair of France from taxing the clergy was a failure, and
+continued conflict with Philip eventually resulted in his brief capture by his enemies. He is perhaps most
+well known for writing the bull _Unam Sanctum_
+Answer: Boniface VIII
+c) He was the first pope to use the name he chose in over six hundred years. He did not begin his reign until
+he was in his seventies. But his age did not stop him from being one of the most innovative modem popes.
+During his five-year reign, he is most famous for summoning an ecumenical council in 1962.
+Answer: John XXIII
+24. 30-20-10 Name the author
+30: This seventeenth century Englishman wrote a very important translation of the Aeneid which is still
+published today .
+20: A poet Laureate, his works include "MacFlecknoe" and "Absalom and Achitophel".
+10: Some of his longest poems were" Annus Mirabilis" and "The Hind and the Panther". He was so
+influential in his times that the literary period in which he lived was named after him.
+Answer: John DJYden
+25. 30-20-10 Name the country.
+30: The ancient forerunners of this nation were the Diauhi, ancestors of the Taokhoi, and the Kulkha,
+ancestors of the Colchians. The fabled wealth of the Colchians became known quite early to the Greeks and
+found expression in the legend the Golden Fleece.
+20: In the ninth century, The Bagratid dynasty was formed, and under such leaders as Ashot I the Great and
+Bagrat III, much of the area that comprises this nation was taken out of Byzantine and Arab control. Stalin
+was a native of this country.
+10: The birthplace of Edward Sheverdnadze, this former Soviet republic's capital is the city of T'bilisi.
+Answer: Georgia
+
+a
+
+

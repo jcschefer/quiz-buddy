@@ -1,0 +1,181 @@
+// Dynamic FormBox javascript
+var FormBoxes = new Array();
+
+// Construct a FormBox object
+function FormBox(id, successMessage, errorMessage, bulletMessage, followupMessage )
+{
+    this.id = id;
+    this.successMessage = ( successMessage ? successMessage : "Form submitted successfully." );
+    this.errorMessage = ( errorMessage ? errorMessage : "An error occurred." );
+    this.bulletMessage = ( bulletMessage ? bulletMessage : "The following errors must be corrected before this form can be submitted." );
+    this.followupMessage = ( followupMessage ? followupMessage : "" );
+    this.forceHide = false;
+    this.clear();
+}
+
+// Clears error message bullets and resets internal state to not displayed.
+// Does not actually update the displayed HTML. 
+// To do both at the same time, call reset().
+FormBox.prototype.clear = function()
+{
+    this.currentStatus = null;
+    this.bullets = new Array();
+}
+
+// Clears error message bullets and hides the box immediately.
+FormBox.prototype.reset = function()
+{
+    this.clear();
+    this.updateDisplay();
+}
+
+// Hide the box without clearing its state
+FormBox.prototype.hide = function()
+{
+    this.forceHide = true;
+    this.updateDisplay( true );
+}
+
+// Unhide the box without otherwise changing its state
+FormBox.prototype.unhide = function()
+{
+    this.forceHide = false;
+    this.updateDisplay( true );
+}
+
+// Return the ID of the FormBox DIV 
+FormBox.prototype.getDivId = function()
+{
+    return this.id + "_FormBox";
+}
+
+// Set box status. Does not change display state.
+FormBox.prototype.setStatus = function( currentStatus )
+{
+    this.currentStatus = currentStatus;
+}
+
+// Updates HTML based on current internal state.
+FormBox.prototype.updateDisplay = function( skipJump )
+{
+    var fbox = document.getElementById( this.getDivId() );
+    if( !this.forceHide && null != this.currentStatus )
+    {
+        var newHtml = "";
+        if( this.hasErrors() )
+        {
+            fbox.className = "FormBox FBError";
+            if( STATUS_ERRORS == this.currentStatus )
+            {
+                newHtml += "<P>" + this.bulletMessage + "</P>";
+                newHtml += "<UL>";
+                for( var i = 0; i < this.bullets.length; i++ )
+                {
+                    newHtml += "<LI>" + this.bullets[i] + "</LI>";
+                }
+                newHtml += "</UL>";
+            }
+            else
+            {
+                newHtml += "<P>" + this.errorMessage + "</P>";
+            }
+        }
+        else if( STATUS_SUCCESS == this.currentStatus || STATUS_FINAL_SUCCESS == this.currentStatus )
+        {
+            fbox.className = "FormBox FBSuccess";
+            newHtml = "<P>" + this.successMessage + "</P>";
+        }
+        else if( STATUS_ADVISORY == this.currentStatus )
+        {
+            fbox.className = "FormBox FBAdvisory";
+            newHtml = "<P>" + this.successMessage + "</P>";
+        }
+
+        if( STATUS_ERRORS != this.currentStatus && this.followupMessage )
+        {
+            newHtml += "<P class=\"Followup\">" + this.followupMessage + "</P>";
+        }
+
+        fbox.innerHTML = newHtml;
+
+        fbox.style.display = "block";
+        if( !skipJump )
+        {
+            document.location.hash = this.getDivId();
+        }
+    }
+    else
+    {
+        fbox.style.display = "none";
+    }
+}
+
+// Display a success message.
+FormBox.prototype.displaySuccess = function( message, followup, skipJump )
+{
+    // Clear out any existing errors.
+    this.clear();
+
+    if( message )
+    {
+        this.successMessage = message;
+    }
+    this.followupMessage = followup;
+    this.currentStatus = STATUS_SUCCESS;
+    this.updateDisplay( skipJump );
+}
+
+// Add a single bullet error to the list.
+FormBox.prototype.addBulletError = function( error )
+{
+    this.addError(STATUS_ERRORS, new Array(error));
+}
+
+// Add errors to the list based on status.
+// If STATUS_JS_ERROR and STATUS_CRITICAL_ERROR, error is the critical error message (string)
+// If STATUS_ERRORS, error is the Array of bullet messages
+// Does not change HTML display state. To populate and display at the same time, use displayError()
+FormBox.prototype.addError = function( stat, error )
+{
+    this.currentStatus = stat;
+    if( STATUS_ERRORS == stat )
+    {
+        // List of errors
+        for( i = 0; i < error.length; i++ )
+        {
+            this.bullets.push(error[i]);
+        }
+    }
+    else if( STATUS_JS_ERROR == stat || STATUS_CRITICAL_ERROR == stat )
+    {
+        // Critical error (-1 is JS app error, 2 is server error)
+        if( error )
+        {
+            this.errorMessage = error;
+        }
+    }
+}
+
+// Add errors to the list based on status and update HTML display state.
+// If STATUS_JS_ERROR and STATUS_CRITICAL_ERROR, error is the critical error message (string)
+// If STATUS_ERRORS, error is the Array of bullet messages
+FormBox.prototype.displayError = function( stat, error, followup )
+{
+    this.clear();
+    this.addError(stat, error);
+    this.followupMessage = followup;
+    this.updateDisplay();
+}
+
+// Determine if the FormBox is in an error state.
+FormBox.prototype.hasErrors = function()
+{
+    return ( STATUS_ERRORS == this.currentStatus || STATUS_JS_ERROR == this.currentStatus || STATUS_CRITICAL_ERROR == this.currentStatus );
+}
+
+// Add a new FormBox to the global FormBoxes array.
+function registerFormBox(id, successMessage, errorMessage, bulletMessage, followupMessage, currentStatus)
+{
+    FormBoxes[id] = new FormBox(id, successMessage, errorMessage, bulletMessage, followupMessage);
+    FormBoxes[id].setStatus(currentStatus);
+}

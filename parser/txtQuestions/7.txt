@@ -1,0 +1,662 @@
+PACE NSC 2012
+Round 7
+Tossups
+1. One of this man's novels features a section about a group of assassins lying in wait for a car and
+opens with a section in which Urania Cabral recounts her childhood in Santo Domingo. An unlucky
+dice roll results in Cava attempting to steal a chemistry answer sheet in another novel by this author.
+He depicted the death of Rafael Trujillo in The Feast of the Goat and wrote of the Slave's death at the
+hands of Jaguar in a novel set in the (*) Leoncio Prado Military Academy. In another of his novels, the
+Genaros, who employ the protagonist, stop buying scripts from Cuba and instead hire the novela writer
+Pedro Camacho. For 10 points, name this author of The Time of the Hero and Aunt Julia and the
+Scriptwriter, a Peruvian Nobel Laureate.
+ANSWER: Mario Vargas Llosa [or Jorge Mario Pedro Vargas Llosa; prompt on partial answers]
+<Carson>
+
+2. This composer’s body of work was the basis for Johann Fux’s treatise Gradus ad Parnassum. His
+works are marked by a relegation of dissonances to weak beats, mostly stepwise melodic lines, and a
+focus on making the text easily intelligible, a style later composers called "prima prattica." This
+member of the Roman School wrote a five-voice motet cycle about the Song of Songs and a setting of
+the Improperia performed every Good Friday at the Sistine Chapel. This composer wrote one
+hundred and four (*) masses, including one which apocryphally convinced the Council of Trent not to
+ban polyphonic church music. For 10 points, name this 16th-century Italian composer of the Pope
+Marcellus Mass.
+ANSWER: Giovanni Pierluigi da Palestrina
+<Thompson>
+
+3. This man’s government shut down the newspaper Our Wheatfield for anti-Semitic remarks. Daniel
+Speckhard was recalled from the country led by this man after his government shut down a complex
+holding several diplomats. During one demonstration against this leader, the police seized a
+white-red-white flag from a protestor, leading him to raise a (*) denim jacket instead. His government
+imprisoned opposition leader Alexander Kazulin, and he won his first election against Vyachaslau Kebich.
+The Zubr youth movement opposes this leader, who was elected to a third term with 84% of the vote after a
+referendum abolishing term limits. This man’s government has been called the last remaining dictatorship
+in Europe. For 10 points, name this longtime president of Belarus.
+ANSWER: Alexander Grigoryevich Lukashenko [or Alyaksandr Ryhoravich Lukashenka]
+<Mukherjee>
+
+4. The most efficient classical method of performing this operation is selecting a pair of small-degree
+polynomials over the rationals with a common integer root in the General Number Field Sieve. A
+method of doing this which finds a cycle in a pseudo-random sequence is Pollard’s rho algorithm.
+Shor developed a polynomial-time algorithm for doing this on a (*) quantum computer. The ability to
+perform this function quickly for large inputs would defeat RSA encryption. A simple method of
+performing this operation is trial division, and this problem is somewhat more difficult than primality
+testing. For 10 points, identify this operation which decomposes a number into the product of powers of
+primes.
+ANSWER: prime factorization [or integer factorization; accept factoring instead of "factorization"]
+<Orth>
+
+PACE NSC 2012
+
+Round 7
+
+Page 1 of 14
+
+5. One king converted to this religion after the dust on the windows overlooking his seraglio was
+untouched, proving that its holy men stay put in their spots in the royal court. Whether or not a set
+of scriptures survived a famine that killed many of its monks is a point of contention in this religion,
+whose devotees follow "five great vows." One controversial practice in this religion is fasting to (*)
+death, which was how Chandragupta Maurya died. A whisk to sweep the ground ahead is one of few
+objects possessed by a sect of "sky-clad" monks in this religion. Divided into the Svetambaras and
+Digambaras, it reveres 24 tirthankaras and focuses on the tenet of ahimsa. For 10 points, name this Indian
+religion founded by Mahavira, which preaches nonviolence.
+ANSWER: Jainism
+<Gupta>
+
+6. One artist from this modern-day nation inspired J. M. W. Turner with his Seaport with the
+Embarkation of the Queen of Sheba. Another artist from this country painted a landscape where two
+men carry the body of the draped title figure off of Athenian soil and a work where Wealth, Poverty,
+Pleasure and Labor cavort as (*) Father Time plays the lyre. Those paintings are The Burial of Phocion
+and A Dance to the Music of Time. That same artist from this nation depicted two men pointing at the title
+enigmatic inscription on a tomb in Et in Arcadia Ego. A later artist from this country painted series of
+haystacks and the Rouen Cathedral. For 10 points, name this country home to Nicolas Poussin and Claude
+Monet.
+ANSWER: France [or the French Republic or République française]
+<Bentley>
+
+7. One work from this school warned that "Soon you'll be ashes or bones. A mere name at most—and
+even that is just a sound, an echo." One of its scholars was the pupil of Cleanthes and supposedly
+died of laughter from watching a donkey trying to eat figs. Scholars belonging to this group
+congregated at the Painted (*) Porch, from which it takes its name. One major work from this school was
+written during a military campaign; that self-help book was the Meditations of Marcus Aurelius. Members
+of this school held that sages of moral and intellectual perfection subsisted only on virtue. For 10 points,
+name this school of philosophy founded by Zeno of Citium, which taught that emotions were the result of
+errors in judgment.
+ANSWER: Stoicism
+<Gupta>
+
+8. The speaker of this poem tells of how its subject “moves the wheels in the great world-clock”,
+noting that that subject also “moves the spheres far out in Space” and calls forth flowers from their
+buds. Its penultimate stanza urges the reader to “close the holy circle tighter” and “swear by this
+golden wine”. Its second stanza asserts that “above a starry canopy a loving Father must dwell” after
+dedicating a kiss to “the entire world” and enjoining the “millions” to “be embraced” in (*)
+brotherhood. It opens by referring to the title subject as the “beautiful spark of the gods” and the “daughter
+of Elysium”. For 10 points, identify this poem by Friedrich Schiller used in the final movement of
+Beethoven’s Ninth Symphony.
+ANSWER: “Ode to Joy”
+<Carson>
+
+PACE NSC 2012
+
+Round 7
+
+Page 2 of 14
+
+9. The sixth power of this quantity is proportional to the differential cross section of Rayleigh
+scattering. In Stokes' law, it is multiplied by the settling velocity, dynamic viscosity, and six pi to give
+drag. One form of this quantity is the ensemble average of the interparticle distance. The root mean
+square of distances from the center of gravity to the edge of a rigid body gives this quantity (*) “of
+gyration”. The moment of inertia of a collection of particles is equal to the sum of the product of the mass
+times the square of this, and the moment of inertia is equal to two-fifths times the mass times this quantity
+squared for a solid sphere. For 10 points, name this value, the cube of which times four thirds pi gives a
+sphere's volume.
+ANSWER: radius [or r or diameter or d; prompt on “size”, "distance", "length", or "displacement"]
+<Mukherjee>
+
+10. John Randolph claimed that the only thing this legislation would manufacture was the next
+President of the United States. George McDuffie opposed it using a flawed Forty Bale theory, and
+four years later a similar bill was also opposed at the Columbia Convention. Its initial support came
+at the Harrisburg Convention. The president who signed this bill later served as chairman of the
+Committee on Manufactures to help (*) Henry Clay rewrite it. It created a conflict that led to the
+Webster–Hayne debate. This legislation was strongly opposed in the South Carolina Exposition and Protest
+by John C. Calhoun, and it was the direct cause of the nullification crisis. For 10 points, identify this import
+duty, nicknamed by the South for its distastefulness.
+ANSWER: the Tariff of Abominations [or Tariff of 1828]
+<Ueda>
+
+11. The nomothetic–idiographic controversy was first popularized in a study of this concept by a man
+who, with Vernon and Lindzey, developed its "value scale." Defined as a function of heredity times
+environment by Gordon Allport, this concept was explained in a sixteen-factor theory by Raymond
+Cattell and divided by Hans Eysenck into (*) choleric, melancholic, sanguine, and phlegmatic types. It is
+classified by a "multiphasic inventory" developed at the University of Minnesota. Preferences for judging
+vs. perceiving or introversion vs. extroversion are represented by two of the four letters yielded by another
+test of this concept. The Myers–Briggs Type Indicator assesses, for 10 points, what indication of an
+individual's character often described as comprising traits?
+ANSWER: personality
+<Wynne>
+
+12. This man wrote a pair of poems about a secret liaison called "Meeting at Night" and "Parting at
+Morning". He described what men "strive to do, and agonize to do, And fail in doing" in a passage
+that coined the maxim "less is more." This author wrote of a "sullen wind" that "tore the elm-tops
+down for spite" in a poem that begins "the rain set in early tonight". The speaker of that poem
+calmly remarks "and yet, God has not said a word!" after (*) strangling his lover with her own hair. A
+"faultless painter" is the subject of his "Andrea del Sarto", while another of his works tells of a woman with
+a heart "too soon made glad" who was painted by Fra Pandolf. For 10 points, name this author of dramatic
+monologues like "Porphyria's Lover" and "My Last Duchess."
+ANSWER: Robert Browning
+<Gupta>
+
+PACE NSC 2012
+
+Round 7
+
+Page 3 of 14
+
+13. A red frame supports the glass roof of the “Peace” one of these objects in Calgary. A large mast
+was used to create one of these objects for the Milwaukee Art Museum by the Catalan architect
+Santiago Calatrava, who also designed one for Turtle Bay Exploration Park. The founder of an art
+movement named for one of these objects depicted women in furs and men in top hats in the 1913
+work, Street, (*) Berlin. A rabbit can be seen on one of these structures in Rain, Steam and Speed. They
+name an art movement founded by Ernst Kirchner and come in cantilevered and suspension varieties. For
+10 points, name this type of expanse, such as the red Golden Gate one in San Francisco.
+ANSWER: Bridges [or Die Brucke]
+<Bentley>
+
+14. The U.S. ambassador to this country, Robert Ford, was egged by protestors in September 2011.
+In this country's northeastern cities of Qamishli and Amoda, the Wifaq Party Council has taken
+effective control. Anthony Shadid, Gilles Jacquier, and Marie Colvin all died while reporting in this
+country, where the "Ghost" organization serves as pro-government hitmen. A group of officers in
+this country's military (*) defected after the siege of Daraa (dar-AH), and one siege in a conflict here saw
+tanks roll into Baba Amr. Kofi Annan drafted a peace plan for this country to stop the shelling of Homs,
+but violence by and against the Ba'th Party continues. For 10 points, name this country, which as of the
+Thursday before this tournament is ruled by Bashar al-Asad.
+ANSWER: Syrian Arab Republic [or al-Jumhuriyya al-Arabiyya al-Suriyya]
+<Mukherjee>
+
+15. Victor of Tonnena reports that this person died of a painful cancer. Anathamus I hid in her
+quarters for twelve years. She created a convent called Metanoia for reformed prostitutes, and
+among her protégés was the banker Peter Barsymes. In one story, she performed a version of Leda
+and the Swan involving geese picking grain off her crotch. This enemy of John the Cappadocian and
+ally of (*) Narses instituted the death penalty for rape and outlawed forced prostitution. She was called "the
+most depraved of all courtesans" in the Secret History by Procopius, and she insisted that the government
+not go into exile during the Nika Revolts. For 10 points, name this contributor to the Corpus Juris Civilis, a
+Byzantine empress who was the wife of Justinian.
+ANSWER: Empress Theodora
+<Mukherjee>
+
+16. The oldest solids formed in the solar system are inclusions enriched in calcium and this metal in
+chondrite meteorites. It's not magnesium, but one isotope of it has a 0.73-million-year half-life and is
+used as a clock for early solar system events. With clay and iron, this metal is leached from the E
+horizon. Except for quartz, all tectosilicates contain this element. Corundum is a crystalline form of
+this element's oxide. Along with silicon, oxygen, calcium, and alkalis, this metal is found in a mineral
+that comes in orthoclase and plagioclase types and is the (*) most common rock-forming mineral in the
+crust; that mineral is feldspar. Cryolite is used to extract this metal in the Hall–Heroult process from
+bauxite. For 10 points, name this most abundant metal in the Earth's crust.
+ANSWER: aluminium [or aluminum or Al]
+<Voight>
+
+PACE NSC 2012
+
+Round 7
+
+Page 4 of 14
+
+17. In Works and Days, Hesiod relates that Zeus destroyed the first generation of heroes by forcing a
+conflict over this person's sheep. This man's father-in-law Menoeceus leapt from the walls of the city
+he ruled to end a plague. This person speared Polyphontes to death after getting his foot run over by
+a chariot wheel. This man was spared the fate of being exposed upon Mount (*) Cithaeron, instead
+arriving at the court of Periboea and Polybus. This clubfooted person blinded himself with a pin during his
+catharsis. At a place where three roads met, he killed Laius and later married Jocasta after correctly
+answering "man" to the riddle of the Sphinx. For 10 points, name this Theban who was fated to kill his
+father and marry his mother.
+ANSWER: Oedipus
+<Gupta>
+
+18. The activation of the phosphatidylserine receptor triggers this process. This process is followed
+by a pathway in which NADPH oxidase and myeloperoxidase create an oxidative burst.
+Streptococcal M protein prevents this process, as do polysaccharide capsules. The binding of
+complement proteins and antibodies primes this action in a process known as opsonization. It results
+in the creation of a (*) vesicle which then fuses with a lysosome, and among the cells capable of it are
+microglia and neutrophils. Other cells that perform this action differentiate from monocytes and are known
+as macrophages. For 10 points, name this process in which cells engulf debris and food from their
+surrounding environment, whose name means “cell eating”.
+ANSWER: phagocytosis [prompt on “endocytosis”]
+<Mukherjee>
+
+19. The phrase “men without skin” appears in this novel’s three chapters of first-person
+“unspeakable thoughts.” One character in this novel mutters “that ain’t her mouth” to an image of a
+woman in a newspaper. Its characters include a man whose heart is like a rusted “tobacco tin” after
+he escapes a chain gang in Alfred, Georgia and the ferryman Stamp (*) Paid. This novel contains a
+passage set before Schoolteacher’s arrival in which Baby Suggs’ son Halle engages in bestiality like the
+other men of Sweet Home, Kentucky. Paul D and Denver both try to resist the effects of this novel's title
+character. For 10 points, identify this 1987 novel whose title ghost haunts its fugitive slave mother Sethe
+[SETH-uh], a work of Toni Morrison.
+ANSWER: Beloved
+<Jackson>
+
+20. One ruler of this dynasty was killed by a bolt of lightning after committing blasphemy by
+shooting a leather bag of blood. Its first ruler overthrew a predecessor who built the obscenely
+expensive Tilt Palace. Its final ruler’s acts of insanity included creating a pool of alcohol underneath
+a tree of roasted meat, and that ruler’s downfall was mythologized in the Investiture of the Gods. This
+dynasty's forces were defeated by King Wu at the Battle of (*) Muye. Many events from this dynasty
+are recorded through a form of pyromancy written on turtle shells and oracle bones. This dynasty had its
+capital near Anyang and succeeded the Xia (SHEE-uh) dynasty. For 10 points, name this earliest historical
+Chinese dynasty, which was supplanted by the Zhou.
+ANSWER: Shang dynasty
+<Mukherjee>
+
+PACE NSC 2012
+
+Round 7
+
+Page 5 of 14
+
+PACE NSC 2012
+Round 7
+Tiebreakers
+21. The second pope of this name attempted to quash the conciliar movement with the bull
+Execrabilis. The fourth pope of this name issued the Tridentine Creed, and the fifth pope of this
+name excommunicated Elizabeth I. The sixth and seventh popes of this name were both taken
+prisoner and exiled by Napoleonic forces. David Dalin and John Cornwell each wrote studies of
+another pope of this name. One pope of this name reigned for a (*) record thirty-one years and,
+between 1860 and 1870, lost the Papal States to unification forces. For 10 points, identify this papal name
+borne by the "prisoner of the Vatican" and by Eugenio Pacelli, the so-called "Hitler's Pope" who reigned
+during World War II.
+ANSWER: Pius
+<Thompson>
+
+22. One part of the brain that processes this sense is area MT. Another area key to this sense is
+organized into thick, thin, and pale stripes. Cytochrome oxidase blobs and dominance columns
+govern the organization of the main processing center of this sense, which in turn outputs to the
+dorsal and ventral stream. The lenticulostriate pathway sends signals of this sense from the lateral
+geniculate nucleus to the striate cortex in the occipital lobe. The (*) nerve responsible for this sense
+crosses over in a chiasm next to the pituitary gland. This sense’s output is organized via center-surround
+inhibition of ganglion cells, which in turn receive input from rhodopsin-containing rod and cone cells in the
+retina. For 10 points, name this sense whose organ is the eye.
+ANSWER: vision [or equivalents like seeing, sight, etc.]
+<Mukherjee>
+
+23. This poem's speaker states "I am a part of all that I have met" after asserting "I am become a
+name". Its speaker says that another character's job will be "to make mild a rugged people" and to
+"subdue them to the useful and the good". Its second stanza ends with the speaker declaring his
+desire "to follow knowledge like a sinking star, beyond the utmost bound of human thought". The
+speaker claims to "mete and dole (*) unequal laws unto a savage race" in this poem's first stanza. Its title
+character complains of "how dull it is to pause" and asserts "I cannot rest from travel; I will drink life to the
+lees". For 10 points, name this poem about a man who desires "to strive, to seek, to find, and not to yield",
+a Tennyson poem about a restless king of Ithaca.
+ANSWER: "Ulysses"
+<Gioia>
+
+24. One theorem about this practice posited by Duncan Black states that its outcome tends toward
+the median. One method of performing this action finds a maximum likelihood sequence by finding
+the minimum bubble sort distance, called the Kemeny-Young method, and another method is the
+Borda Count. No method of doing this can have unrestricted domain, non-dictatorship, independence
+of irrelevant alternatives, and Pareto efficiency according to (*) Arrow’s impossibility theorem.
+Variations of it include the single-transferable, instant runoff, and Condorcet method. The number of
+people participating in any one instance of this process is the turnout. For 10 points, name this practice,
+which is used to select leaders and representatives in a democracy.
+ANSWER: voting [accept word forms; accept elections or other reasonable equivalents; accept counting
+votes]
+<Mukherjee>
+
+PACE NSC 2012
+
+Round 7
+
+Page 6 of 14
+
+PACE NSC 2012
+Round 7
+Bonuses
+1. This Jewish holiday is held every year on the 15th day of Nisan. For 10 points each:
+[10] Name this holiday that recalls the events surrounding the flight of the Israelites from Egypt. Before
+this holiday, all chametz, or leavening agents, must be removed from the home.
+ANSWER: Passover [or Pesach]
+[10] On Passover, families eat this ritual meal with accompanying text given by a Haggadah. It starts with
+the Kadesh and includes four questions asked by the youngest child.
+ANSWER: seder meal
+[10] D'tzach Adash B'achav is an acronym that may be recited after performing this action, which
+symbolizes the lessened joy caused by the suffering from the plagues afflicted on Egypt.
+ANSWER: spilling ten drops of wine [removing ten drops of wine from a cup; the number may vary;
+accept all phrases that mean the same thing]
+<McNamara>
+
+2. For 10 points each, answer the following about power series.
+[10] This kind of power series expands a function about a point a as a power series of the quantity x minus
+a, where the coefficient of x minus a to the nth power is equal to the nth derivative of the function at a,
+divided by n factorial.
+ANSWER: Taylor series expansion
+[10] For a power series to have this property, the limit of the power series as the number of terms goes to
+infinity must be finite.
+ANSWER: convergence [or word forms like convergent]
+[10] This test finds the interval of convergence for a power series by computing the limit as n goes to
+infinity of the absolute value of the n+1th term of the series divided by the absolute value of its nth term.
+ANSWER: ratio test
+<Wynne>
+
+3. Identify the following about some innovators from the Industrial Revolution, for 10 points each.
+[10] Although Thomas Newcomen developed a commercially viable one of these devices, a later Scottish
+inventor added the condensation chamber, which vastly improved their power.
+ANSWER: steam engines
+[10] This man constructed an early submarine called the Nautilus but is better known for his pioneering
+North River Steamboat.
+ANSWER: Robert Fulton
+[10] James Hargreaves invented this device, whose inspiration supposedly came from an incident where his
+child overturned a wheel. It allowed an individual to process multiple threads at once and was first
+employed in a factory co-owned with Thomas James.
+ANSWER: spinning jenny
+<Bentley>
+
+PACE NSC 2012
+
+Round 7
+
+Page 7 of 14
+
+4. This composer paid homage to friends who died in World War I in Le Tombeau de Couperin. For 10
+points each:
+[10] Name this French composer of Daphnis et Chloé who composed a seventeen-minute-long crescendo
+based on a slow Spanish dance in his orchestral work Boléro.
+ANSWER: Maurice Ravel
+[10] Ravel arranged the standard orchestration of this suite originally composed for piano. Its movements
+include "Limoges" and "Ballet of the Unhatched Chicks."
+ANSWER: Pictures at an Exhibition — A Remembrance of Viktor Hartmann [or Pictures from an
+Exhibition; or Kartinki s vystavki — Vospominaniye o Viktore Gartmane]
+[10] This work by Ravel consists of five "children's pieces," including one depicting a conversation
+between Beauty and the Beast. Its first two movements are based on Charles Perrault's fairy tales.
+ANSWER: Mother Goose [or Ma mère l'oye]
+<Thompson>
+
+5. Utility is maximized where the budget constraint line is tangent to one of these figures. For 10 points
+each:
+[10] Name this graphical representation of consumer preferences over combinations of two goods.
+ANSWER: indifference curves
+[10] The slope of the indifference curve is the "marginal" form of this measure, the rate at which one is
+willing to exchange one type of good for another.
+ANSWER: substitution [or marginal substitution rate, substitute goods, and other word forms]
+[10] Diminishing marginal substitution rates imply indifference curves possess this mathematical property.
+Having this property is equivalent to saying that if two bundles of goods are individually preferred to a
+third, then the weighted average of those bundles is also preferred to the third.
+ANSWER: strictly convex [do NOT accept “concave”]
+<Bailey>
+
+6. At the end of this work, Aureliano discovers his fate by translating Melquiades' Sanskrit texts as a storm
+destroys Macondo. For 10 points each:
+[10] Name this Gabriel García Márquez novel about the decay of the Buendía family.
+ANSWER: One Hundred Years of Solitude [or Cien Años de Soledad]
+[10] This wife of Jose Arcadio serves as the matriarch who holds the Buendía family together. She lives to
+the age of a hundred and has shrunken to the size of a baby by the time she dies.
+ANSWER: Úrsula Iguarán Buendía
+[10] Úrsula frequently warns members of the Buendía family not to commit incest, lest they produce a baby
+with this physical defect. At the end of the novel, Aureliano and Amaranta do commit incest, producing a
+baby with this defect that is eaten by ants.
+ANSWER: having the tail of a pig [or equivalents; prompt on "having a tail" or equivalents; accept "having
+a curly tail" or equivalents]
+<Bollinger>
+
+PACE NSC 2012
+
+Round 7
+
+Page 8 of 14
+
+7. Members of a violent nationalist movement in this territory staged a shooting at the US House of
+Representatives in 1954. For 10 points each:
+[10] Identify this Caribbean territory, currently a Commonwealth of the U.S. The Foraker Act established
+the civilian government in this place, which was governed by Rexford Tugwell for a time.
+ANSWER: Puerto Rico
+[10] Two Puerto Rican nationalists, Oscar Collazo and Griselio Torresola, tried to assassinate this U.S.
+President, whose domestic policy was known as the Fair Deal.
+ANSWER: Harry S Truman
+[10] The attack on Truman took place at this Pennsylvania Avenue residence, the President’s guest house.
+Truman was living there while the White House underwent renovations.
+ANSWER: Blair House
+<Thompson>
+
+8. This man developed a progressivist, science-influenced system of “Synthetic Philosophy.” For 10 points
+each:
+[10] Name this British thinker who railed against creeping socialism in The Man Versus the State. He
+doubted the state’s ability to enforce “the law of equal freedom” in Social Statics.
+ANSWER: Herbert Spencer
+[10] Herbert Spencer considered his social views to be in tandem with this biologist, whose voyage on the
+Beagle inspired On the Origin of Species.
+ANSWER: Charles [Robert] Darwin, FRS
+[10] This living American atheist contrasted the “skyhook” and “crane” models of change, and defended
+evolution as an explanation for things such as minds and machines, in his book Darwin’s Dangerous Idea.
+ANSWER: Daniel [Clement] Dennett
+<Jackson>
+
+9. Name these 20th-century playwrights from the British Isles, for 10 points each.
+[10] This playwright of Arms and the Man and Major Barbara wrote about Professor Henry Higgins
+teaching Eliza Doolittle to speak elegantly in his play Pygmalion.
+ANSWER: George Bernard Shaw
+[10] This author of Hay Fever and Private Lives wrote about Charles Condomine holding a séance with
+Madame Arcati, who accidentally summons the angry spirit of his first wife, in the play Blithe Spirit.
+ANSWER: Noel Peirce Coward
+[10] Willy Brandt discovers that his secretary Gunter Guillaume is a spy in this man's play Democracy.
+This author of the sardine-laden farce Noises Off wrote about a meeting between physicists Werner
+Heisenberg and Niels Bohr in Copenhagen.
+ANSWER: Michael J. Frayn
+<Gioia>
+
+PACE NSC 2012
+
+Round 7
+
+Page 9 of 14
+
+10. The coefficient in this law is RT divided by the moles of electrons transferred times Faraday’s constant.
+For 10 points each:
+[10] Name this equation which is used to find the reduction potential of an electrochemical cell.
+Generalizing it to multiple ions gives the Goldman–Hodgkins–Katz equation.
+ANSWER: Nernst equation
+[10] The Nernst equation’s logarithm contains this quantity, which is equal to the equilibrium constant
+when the reaction is at equilibrium. It is symbolized Q.
+ANSWER: reaction quotient [prompt on partial answer]
+[10] These u-shaped electrolyte-filled tubes connect the two half-cells of an electrochemical cell to ensure
+that the reaction can continue, rather than being stopped by charge separation.
+ANSWER: salt bridges [prompt on partial answer]
+<Mukherjee>
+
+11. This woman was told the story of Iphis and Anaxarete by an old woman, who was really her future
+lover in disguise. For 10 points each:
+[10] Name this wood nymph and fruit goddess successfully wooed by Vertumnus.
+ANSWER: Pomona
+[10] Pomona's orchard bore many fruits, most famously this kind. Another fruit of this type was marked
+"for the fairest" and thrown by Eris.
+ANSWER: apple
+[10] Vertumnus claimed that the story of Iphis and Anaxarete was well-known on Cyprus, one of the chief
+cult centers of this deity who was once ensnared in a net with Ares.
+ANSWER: Aphrodite [or Venus]
+<Wynne>
+
+12. The ratio of this measure to the induced strain is equal to Young’s modulus, and it is represented at a
+particular state by Mohr’s circle. For 10 points each:
+[10] Identify this measure of the force per unit area upon a continuous, deformable object. Like pressure, it
+is measured in pascals.
+ANSWER: stress
+[10] Placing a stress on an object past this point causes it to start deforming in a non-linear fashion.
+ANSWER: yield point
+[10] One method of analyzing the effects of stress on a beam is to model it as a series of rigid objects that
+are interconnected by springs. That method is given this name.
+ANSWER: finite element method [or FEM]
+<Mukherjee>
+
+PACE NSC 2012
+
+Round 7
+
+Page 10 of 14
+
+13. This man ordered the Jujuy (hoo-hwee) Exodus while a member of the Primera Junta. For 10 points
+each:
+[10] Identify this man who launched a decisive counterattack at the Battle of Tucumán and later promoted
+the Inca plan. The Sun of May was added to a flag he created for his country, and he was the namesake of a
+warship sunk in 1982.
+ANSWER: General Manuel José Joaquín del Corazón de Jesús Belgrano
+[10] Belgrano is an important libertador of this country, which declared independence from Spain in 1816.
+It was later ruled by "caudillos" such as Juan Facundo Quiroga and Juan Manuel de Rosas.
+ANSWER: Argentina [or the Argentine Republic; or la República de Argentina; or the United
+Provinces of the Río de la Plata; or Provincias Unidas del Río de la Plata]
+[10] This Argentine ruler was supported by the descamisados, or “shirtless ones”, and paid off his
+country’s debt to the Bank of England. He was ousted in 1976 by Jorge Videla.
+ANSWER: Juan Domingo Perón
+<Bentley>
+
+14. In this opera's third act, comic relief is provided by Vasek, who is convinced to put on a bear's costume.
+For 10 points each:
+[10] Name this nationalistic opera in which Kecal attempts to prevent Marenka from marrying Janik.
+ANSWER: The Bartered Bride [or Prodaná nev?stka]
+[10] The Bartered Bride was written by this 19th-century Czech composer who depicted the Vltava River
+in Ma vlast.
+ANSWER: Bed?ich Smetana
+[10] Ma vlast consists of six of these pieces, orchestral works which evoke a novel, painting, or landscape.
+Russian examples of them include Alexander Borodin's In the Steppes of Central Asia and Modest
+Mussorgsky's Night on Bald Mountain.
+ANSWER: symphonic poems [or tone poems]
+<Magin>
+
+15. Opposite sides of this region contain "Freedom Village" and "Propaganda Village," the former of which
+only women can marry into and the latter of which has no permanent residents. For 10 points each:
+[10] Name this four-kilometer-wide region surrounding the armed border between North and South Korea.
+ANSWER: Demilitarized Zone [or DMZ; prompt on "38th Parallel"]
+[10] Until 2010, Propaganda Village held the record for the tallest one of these objects, at an astonishing
+160 meters. That record has since been surpassed by objects of this type designed by David Chambers in
+Baku, Azerbaijan, and Dushanbe, Tajikistan.
+ANSWER: flagpoles
+[10] The DMZ is an important wintering area for the endangered red-crowned variety of this bird, an Asian
+symbol of longevity. Strings of origami representations of this bird can be found at the Hiroshima Peace
+Park.
+ANSWER: cranes
+<Wynne>
+
+PACE NSC 2012
+
+Round 7
+
+Page 11 of 14
+
+16. This author's works include Rudin, Torrents of Spring, and the novella Diary of a Superfluous Man. For
+10 points each:
+[10] Identify this Russian author who wrote about Arkady Kirsanov's attempts to become a nihilist out of
+admiration for his friend in his 1862 novel Fathers and Sons.
+ANSWER: Ivan Sergeyevich Turgenev
+[10] The aforementioned nihilist from Fathers and Sons is this character, a medical student who falls in
+love with Madame Odintsova but dies of typhus.
+ANSWER: Yevgeny Vassilievitch Bazarov [accept either underlined name]
+[10] Turgenev was put under house arrest after publishing this work, which contains "Khor and Kalinych",
+"Bezhin Meadow", "My Neighbor Radilov", and "Hamlet of the Shchigrovsky District".
+ANSWER: A Sportsman's Sketches [or A Hunter's Sketches; or Scenes from A Hunter's Album; or
+Zapiski Okhotnika]
+<Graebner>
+
+17. The temperature is decreased during each cycle in the touchdown variant of this procedure, in which
+reverse transcriptase is used when creating a cDNA library. For 10 points each:
+[10] Identify this technique in molecular biology invented by Kary Mullis, which uses Taq polymerase to
+make several million copies of a template strand of DNA or RNA.
+ANSWER: PCR [or polymerase chain reaction]
+[10] This step in the PCR cycle usually requires a great deal of optimization and usually has a temperature
+of between 50 and 60 degrees Celsius. It is the step at which primers hybridize to the template.
+ANSWER: annealing step
+[10] Templates that are particularly rich in guanine or this other nucleotide tend to resist coming apart
+during the PCR reaction. This nucleotide forms three hydrogen bonds with guanine.
+ANSWER: cytosine
+<Mukherjee>
+
+18. One character repeatedly inveighs against "mendacity" in this play, which centers on the birthday party
+of Big Daddy Pollitt, who is dying of cancer. For 10 points each:
+[10] Identify this work whose title character, Maggie, lies about being pregnant in order to secure Big
+Daddy's inheritance for her husband Brick and herself.
+ANSWER: Cat on a Hot Tin Roof
+[10] This American playwright's favorite of his own plays was Cat on a Hot Tin Roof. He also wrote The
+Glass Menagerie and A Streetcar Named Desire.
+ANSWER: Tennessee Williams [or Thomas Lanier Williams III]
+[10] In this one-act Tennessee Williams play, Violet Venable attempts to prevent Catherine Holly from
+revealing that her pederast cousin Sebastian had been killed and eaten by young boys while in Europe.
+ANSWER: Suddenly, Last Summer
+<Bentley>
+
+PACE NSC 2012
+
+Round 7
+
+Page 12 of 14
+
+19. This artist clasps his gloved hands together and is seated next to an open window in his Self-Portrait
+with Landscape. For 10 points each:
+[10] Name this artist who stares front-on at the viewer in a self-portrait where he has long, curly locks. He
+also created a watercolor called The Great Piece of Turf.
+ANSWER: Albrecht Durer
+[10] A cat is about to pounce on a mouse on the bottom of an Albrecht Durer engraving of these two
+figures. The female receives an apple from a snake, while both of these people are covered by fig leaves.
+ANSWER: Adam and Eve
+[10] In this Master Engraving by Durer, one of the three title figures wears a crown decorated with live
+snakes. The central armored figure in this engraving rides a horse and is accompanied by his dog.
+ANSWER: Knight, Death and the Devil [or Ritter, Tod und Teufel]
+<Bentley>
+
+20. Lindsey Hughes wrote several works about this man, who employed the former slave general Abram
+Gannibal. For 10 points each:
+[10] Name this tsar who traveled to Europe secretly in the Grand Embassy and won the Great Northern
+War against Swedish king Charles XII.
+ANSWER: Peter the Great [or Peter I Romanov; or Pyotr Alexeyevich Romanov; prompt on Peter]
+[10] Peter the Great's Table of Ranks created a hierarchy of nobility, causing conflict with these Russian
+nobles. Peter abolished their Duma and ordered them to pay a beard tax.
+ANSWER: boyars
+[10] Peter established the shipyard in this White Sea port city. During World War II, this site and
+Murmansk were used as delivery points for the Arctic Convoys bringing supplies to Russian troops.
+ANSWER: Arkhangelsk
+<Mukherjee>
+
+PACE NSC 2012
+
+Round 7
+
+Page 13 of 14
+
+PACE NSC 2012
+Round 7
+Tiebreakers
+21. This novel is framed by introductory letters between Parsons Tickletext and Oliver. For 10 points each:
+[10] Name this satirical work, published under the name "Conny Keyber", whose title character
+shamelessly manipulates her "vartue" to trick Squire Booby into marrying her. It parodies an earlier
+epistolary novel about a character who eventually marries her master Mr. B.
+ANSWER: An Apology for the Life of Mrs. Shamela Andrews
+[10] The author of Shamela is most famous for this novel, whose title character is taken in by Squire
+Allworthy and marries Sophia Western.
+ANSWER: The History of Tom Jones, a Foundling
+[10] This English satirist co-founded the Bow Street Runners when he wasn't busy writing works like
+Joseph Andrews, Shamela, and Tom Jones.
+ANSWER: Henry Fielding [or Captain Hercules Vinegar]
+<Gioia>
+
+22. This law gives an explanation for why the earth’s radial velocity increases the closer its orbit takes it to
+the sun. For 10 points each:
+[10] Identify this law which states that a body orbiting a larger, stationary body sweeps out equal areas per
+unit time
+ANSWER: Kepler’s second law
+[10] Johannes Kepler’s largest contribution to physics is his realization that orbits have this shape, rather
+than circular shapes. This conic section has an eccentricity between zero and one.
+ANSWER: ellipse
+[10] This is the point in an elliptical orbit where an orbiting body is closest to the body it orbits.
+ANSWER: periapsis [generously accept perihelion or perigee or periastron]
+<Mukherjee>
+
+23. This dynasty declined after the death of Dagobert I during the reign of the do-nothing kings. For 10
+points each:
+[10] The Arnulfings came to dominate what long-haired dynasty, which earlier suffered during a feud
+between Brunhilda and Fredegunde?
+ANSWER: Merovingian dynasty
+[10] This son of Childeric I first unified the Franks and founded the Merovingian dynasty. When he was
+baptized by St. Remigius, he became the first Frankish king to convert to Catholicism.
+ANSWER: Clovis I
+[10] The history of the Merovingian Dynasty was chronicled by Saint Gregory of this location.
+ANSWER: Tours
+<Ueda>
+
+PACE NSC 2012
+
+Round 7
+
+Page 14 of 14
+
+

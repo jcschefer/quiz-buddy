@@ -1,0 +1,1037 @@
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+1st Section
+Toss-up Questions
+
+Question #1: Literature – U.S. Literature
+10 points
+Mary tells the protagonist of this novel to eat his
+chicken, but the organic functions of his body had
+altered. In this novel, Gus devises a plan to rob Blum’s
+delicatessen, and the body of Bessie Mears is disposed
+of even though there is money in the pocket of her
+dress. Bessie is killed in this book by the same man
+who uses a pillow to suﬀocate Mary Dalton and then
+decapitates her. The protagonist of this novel, who lives
+in poverty in Chicago, is Bigger Thomas. Name this
+novel by Richard Wright.
+
+Native Son
+
+Question #2: Mathematics – Math Concepts
+10 points
+The Master Theorem is used to solve recurrence
+relations that arise when analyzing these mathematical
+things. George Dantzig developed one of these things
+named for simplexes and used on linear programming
+problems. The Church-Turing thesis essentially says
+that the formal deﬁnition of these things is the same as
+the intuitive deﬁnition. These concepts are often
+presented in pseudocode, and if they take locally
+optimal actions, they are called greedy. Name this type
+of formal step-by-step procedure used to solve a
+problem.
+
+1
+
+algorithm(s)
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+1st Section
+Toss-up Questions
+
+Question #3: Social Studies – World History
+10 points
+This person was the namesake of a German Marxist
+organization founded by Rosa Luxembourg. This
+leader’s forces used ropes and vines to descend onto
+Gaius Claber’s troops. To avenge the death of his
+colleague Crixus, this man paired oﬀ his prisoners and
+had them ﬁght each other to the death. He was killed at
+the Battle of Siler River during the Third Servile War,
+and his forces were cruciﬁed along the Appian Way.
+Crassus led the eﬀort to stop his forces, but Pompey got
+the glory. Name this slave who led a revolt against the
+Roman Empire.
+
+Spartacus
+
+Question #4: Science – Biology
+10 points
+Along with a lactone [“LACK-tone”], this molecule is
+formed through the action of G6PD [G-“six”-P-D].
+This compound allows glutathione reductase
+[GLOO-tah-“THIGH-own” ree-DUK-tayss] to act on
+the antioxidant glutathione. Two molecules of this
+compound are formed during the oxidative
+[“OX”-ih-day-tiv] phase of the pentose phosphate
+pathway. A ferredoxin [fair-uh-“DOCK-sin”] in
+photosystem I [1] forms this compound during the
+light-dependent reactions of photosynthesis, and it is
+later used as a reducing agent in the Calvin cycle.
+Name this dinucleotide [“die”-NOO-klee-oh-“tide”]
+that can be formed by phosphorylating
+[fahss-FOR-ih-lay-ting] NADH [N-A-D-H].
+
+2
+
+NADPH [or nicotinamide
+adenine dinucleotide
+phosphate; do not prompt
+on “NAD” or “NADH”]
+
+Round 6
+1st Section
+Toss-up Questions
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Question #5: Literature – British Literature
+10 points
+In this play’s prologue, the messenger describes how
+the soul weeps while the body lies in clay. In this
+English-language drama, the Lord is referred to as
+“Adonai”, and Beauty asks whether she should be
+smothered before leaving. In seeking out Confession,
+Knowledge points this work’s protagonist towards the
+House of Salvation. After this play’s protagonist is
+deserted by Five Wits, he believes that he is completely
+forsaken, and he learns that when the time comes, only
+good deeds will be seen by God. Name this medieval
+morality play.
+
+The Summoning of
+Everyman
+
+Question #6: Miscellaneous – Sports
+10 points
+The Gleneagles Agreement was violated when this
+sport was played during a “Springbok Tour” of South
+Africa. Eric Rush and Jonah Lomu starred in this sport
+for New Zealand. At the 2015 World Cup in this sport,
+Richie McCaw was on the team that won the William
+Webb Ellis Cup. The “sevens” variation of this sport
+was accepted for the 2016 Rio Olympic Games. In this
+sport, throwing the ball forward is illegal, and a try is
+worth ﬁve points. When play stops, it can be restarted
+with a scrum. Name this full-contact sport, a
+predecessor to football.
+
+3
+
+rugby (union)
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+2nd Section
+Teamwork Questions
+
+Question #7: Mathematics – Probability
+10 points per part
+These stochastic [“stow-CAST”-ik] processes are
+named for a Russian mathematician.
+1 Name these processes that may use matrix
+multiplication to demonstrate transitions from one
+state to the next.
+2 In a transition matrix for a Markov chain, the
+numbers in each row must add up to this value.
+3 A transition matrix in a Markov chain has a top row
+of 0.6, 0.4 and a bottom row of 0.1, 0.9. If the
+initial state is given by the column matrix with 0.5
+on top and 0.5 on the bottom, what is the
+probability of the top state after one step?
+
+Markov chains or Markov
+processes
+one
+0.35 [or 7/20 or 35%]
+
+Question #8: Mathematics – Probability
+10 points per part
+This mathematical concept is used to model Brownian
+motion.
+1 Name this process in which the next direction to
+move is chosen without any pre-existing pattern.
+2
+
+3
+
+If an object goes up half the time and down half the
+time, what is the probability that it will end up in
+its original position after four evenly spaced steps?
+If an object goes up half the time and down half the
+time, what is the probability that it will end up
+exactly one step away from its original position
+after four evenly spaced steps?
+
+4
+
+random walk [accept word
+forms]
+3/8 [or 0.375]
+
+0 [accept answers
+mentioning that the speciﬁed
+result is impossible; do not
+accept “no answer”]
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+2nd Section
+Teamwork Questions
+
+Question #9: Social Studies – Geography
+10 points per part
+This region’s name came from a European folk tale in
+which its inhabitants were giants.
+1 Name this region in South America with many
+plateaus. The Mapuche [mah-POO-chay] expanded
+into this region during araucanization
+[ah-RAW-kah-nih-ZAY-shun].
+2 This island group just south of Patagonia is where
+the HMS Sheﬃeld was sunk during a 1982 conﬂict.
+Argentinians claim it belongs to them, and call it
+the Islas Malvinas [EES-lahs mahl-VEE-nahs].
+3 Patagonia is separated from Tierra del Fuego by
+this channel of water. The Evangelistas Lighthouse
+points eastward travelers to the entrance to it, and
+the port Punta Arenas, Chile is on it.
+
+Patagonia
+
+Falkland Islands or
+Falklands
+
+Strait(s) of Magellan [or
+Estrecho(s) de Magallanes]
+
+Question #10: Social Studies – Geography
+10 points per part
+The Fulani and the Dogon [DOH-gon] are among this
+region’s indigenous peoples.
+1 Name this transition region that includes the cities
+of Dakar [duh-KAHR], Niamey [nee-AH-may],
+and Bamako [BAH-muh-koe].
+2 The Sahel is just south of this desert, the largest by
+area in the world.
+3 The 2010 Sahel famine was worst near this river,
+which forms the border between its namesake
+country and Mauritania [mor-uh-TAY-nee-uh].
+
+5
+
+Sahel
+
+Sahara Desert
+Senegal River
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+2nd Section
+Teamwork Questions
+
+Question #11: Science – Physics
+10 points per part
+For a block on an inclined surface, the coeﬃcient for
+the static form of quantity is equal to the tangent of
+the angle of the incline.
+1 Name this force that opposes motion.
+2
+
+3
+
+Friction can cause the buildup of charge in
+materials that contact in this eﬀect. Static
+electricity typically is caused by this eﬀect.
+A friction factor used in ﬂuid mechanics is named
+for this French physicist. That factor, which varies
+inversely with the Reynolds number, is used in an
+equation named for this person and Julius
+Weisbach [“VISE”-bahk]
+
+friction(al force)
+triboelectric eﬀect or
+triboelectricity
+Henry Darcy
+
+Question #12: Science – Physics
+10 points per part
+For a solid sphere of uniform density, this quantity
+equals two-ﬁfths times the mass of the sphere times
+the sphere’s radius squared.
+1 Name this quantity, the rotational analog of mass.
+
+2
+
+3
+
+The moment of inertia applies to these kinds of
+bodies that do not deform. In other words, the
+distance between any two points in these idealized
+solids does not change.
+The moment of inertia can be represented as a
+symmetric matrix. In that representation, the
+moments of inertia are referred to by this term.
+This adjective also describes the axes around which
+those moments of inertia apply.
+6
+
+(ﬁrst mass) moment of
+inertia [do not prompt on
+partial answers]
+rigid bodies
+
+principal axes [or principal
+moments of inertia]
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+2nd Section
+Teamwork Questions
+
+Question #13: Literature – World Literature
+10 points per part
+The oﬃcial lyrics to the song “Guantanamera
+[GWAHN-tahn-ah-MAIR-ah]” were adapted from one
+of this writer’s poems.
+1 Name this author of the poetry collection Versos
+Sencillos [VAIR-sohss sen-SEE-yohss], which
+contains the poem “A Simple Man am I”.
+2 José Martí was a strong advocate for the
+independence of this Caribbean nation. The title of
+an Enrique Flores-Galbis novel refers to the fact
+that this country is 90 miles from Florida.
+3 Cuba’s Alejo Carpentier [ah-LAY-hoh
+kar-pen-tee-AIR] used this literary style in the
+novel The Kingdom of This World, and in the
+foreword contrasted it with European surrealism.
+This genre [zhahn-ruh] tells about fantastical events
+in a matter-of-fact style.
+
+José Martí (Pérez)
+
+(Republic of) Cuba [or
+República de Cuba]
+
+magical realism [or
+marvelous realism; accept
+word forms like magical
+realist]
+
+Question #14: Literature – World Literature
+10 points per part
+This novel features a sign writer-turned-journalist
+who was born with six ﬁngers and was trapped into
+marrying into the Tulsi [TOOL-see] family.
+1 Name this novel in which Mohan seeks to make a
+better life by obtaining the title property.
+2 This Trinidadian author of A House for Mr. Biswas
+wrote of Salim’s experiences in an African country
+in A Bend in the River.
+3 Naipaul’s novel In a Free State starts on a boat
+going to this country, the home of Naguib Mahfouz
+[na-GEEB mah-FOOZ].
+
+7
+
+A House for Mr. Biswas
+V(idiadhar) S(urajsprad)
+Naipaul
+(Arab Republic of) Egypt
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+3rd Section
+Toss-up Questions
+
+Question #15: Fine Arts – Classical Music & Opera
+10 points
+A movement from this composer’s ﬁrst symphony, now
+often played as a separate piece, is called Blumine
+[bloo-MEE-nuh]. That symphony’s last movement is
+labeled “Stormily agitated—Energetic”. After his
+eighth symphony, this composer wrote a piece for two
+singers with six songs, starting with “The Drinking
+Song of Earth’s Misery”. Like Brahms, several of this
+composer’s other early symphonies are considered
+expressions of the folk poems in Des Knaben
+Wunderhorn [dayss kuh-NAH-bin VOON-dur-“horn”].
+Name this composer of “The Song of the Earth”, whose
+eighth symphony is nicknamed—thanks to the large
+group required to play it—the “Symphony of a
+Thousand”.
+
+Gustav Mahler
+
+Question #16: Science – Chemistry
+10 points
+This technique can only analyze transitions that change
+the dipole moment. Higher-resolution spectra
+generated from this technique have P and R branches
+due to rotations. Samples used in this technique are
+commonly placed on a salt plate. The rule of mutual
+exclusion states that transitions in centrosymmetric
+[SEN-troh-“symmetric”] molecules cannot be both
+Raman-active and active in this technique, which
+makes the two complementary techniques. Peaks in
+this technique are labeled using wavenumbers, and
+typically correspond to vibrational normal modes. Part
+of its output is in the ﬁngerprint region. Name this form
+of vibrational spectroscopy, which uses a form of light
+with a longer wavelength than visible light.
+
+8
+
+IR spectroscopy [or
+infrared spectroscopy;
+accept just IR or infrared
+after “spectroscopy”; prompt
+on spectroscopy]
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+3rd Section
+Toss-up Questions
+
+Question #17: Social Studies – U.S. History
+10 points
+After this battle, Jesse Elliott was praised for
+encouraging other Americans to join the ﬁghting, but
+was criticized for being slow to engage in action
+himself. William Powell painted another commander in
+this battle being rowed to the Niagara from the
+twice-captured Lawrence. This battle was fought near
+Put-In-Bay following the defeat of the Queen Charlotte.
+After this battle, William Henry Harrison was sent the
+message “We have met the enemy, and they are ours”
+by Oliver Hazard Perry. Name this naval battle of the
+War of 1812.
+
+Battle of Lake Erie
+
+Question #18: Literature – World Literature
+10 points
+In this work, one man refuses to abandon a dog that
+accompanied him on an ascent to heaven. One contest
+within this story required suitors to shoot the eye of a
+mechanical ﬁsh. Dushasana’s [duh-SHAH-suh-nah’s]
+attempt to disrobe Draupadi [DROW-puh-dee] sparked
+the conﬂict at the center of this epic. This poem details
+the war between the Kauravas and Pandavas, starting
+with the Adi [AH-dee] Parva and including the
+Bhagavad-Gita. Name this long ancient Sanskrit epic.
+
+9
+
+Mahabharata [do not accept
+“Bhagavad-Gita”]
+
+Round 6
+3rd Section
+Toss-up Questions
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Question #19: Science – Astronomy
+10 points
+The two scientists who independently discovered this
+process also developed a formula unrelated to it that
+ﬁnds atomic properties based on the number of protons
+and neutrons. In their honor, this can be called the
+Bethe-Weizsäcker [BEE-tuh “VISE”-zah-kur] process.
+In order, this process emits a gamma ray, positron,
+gamma ray, gamma ray, positron, and gamma ray. It
+converts four hydrogen nuclei into a helium nucleus
+and other particles. Though the proton-proton chain
+reaction is more common in the Sun, this fusion
+reaction is more common in larger stars. Name this
+cycle that uses its three namesake elements as catalysts.
+
+CNO cycle [or
+carbon-nitrogen-oxygen
+cycle; accept more speciﬁc
+answers; accept
+Bethe-Weizsäcker process
+before it is mentioned]
+
+Question #20: Social Studies – Economics
+10 points
+Jonathan Nitzan and Shimshon Bilcher proposed the
+diﬀerential accumulation theory to explain this
+phenomenon. Milton Friedman criticized Keynesian
+[“CANE”-zee-un] economics for causing this
+phenomenon and for its either/or approach to the
+underlying causes of this phenomenon. When this
+eﬀect occurs, both of the quantities used to measure the
+misery index are high. Cited as a criticism of the
+Phillips curve, this phenomenon occurred in the 1970s
+thanks in part to OPEC instigating a supply shock in
+the market for oil. Name this phenomenon in which
+unemployment and inﬂation are both high.
+
+10
+
+stagﬂation [accept word
+forms; do not accept or
+prompt on “inﬂation” or
+“unemployment”]
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+4th Section
+Teamwork Questions
+
+Question #21: Literature – U.S. Literature
+10 points per part
+In this play, Joseph Asagai—who plans to become a
+doctor and move to Nigeria—is a suitor of Beneatha
+[buh-NEETH-uh].
+1 Name this play in which tensions come to a head
+between the protagonist and Beneatha when a
+$6,500 investment in a liquor store business is
+stolen.
+2 A Raisin in the Sun is by this African-American
+author, who also wrote The Sign in Sidney
+Brustein’s Window.
+3 In A Raisin in the Sun, this representative of the
+Clybourne Park Improvement Association fails to
+convince the Younger family not to relocate to his
+neighborhood.
+
+A Raisin in the Sun
+
+Lorraine (Vivian)
+Hansberry
+Karl Lindner [accept either]
+
+Question #22: Literature – U.S. Literature
+10 points per part
+His father struck it rich in Alaska, while Ben rode
+African diamonds to wealth.
+1 Name this former subordinate to Howard Wagner,
+who committed suicide by car crash.
+2
+3
+
+Willy Loman is the protagonist of this Arthur
+Miller play.
+Willy’s son Biﬀ had an opportunity to play football
+in college, but lost interest in his summer school
+math course after visiting Willy in this city.
+
+11
+
+Willy Loman [prompt on
+Loman]
+Death of a Salesman
+Boston, Massachusetts
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+4th Section
+Teamwork Questions
+
+Question #23: Fine Arts – Art History
+10 points per part
+In this painter’s Cat and Bird, the bird appears to be in
+the forehead of the cat, whose face takes up almost the
+entire painting.
+1 Name this Swiss-German painter who worked
+closely with Wassily Kandinsky [VAH-sil-ee
+kan-DIN-skee] at the Bauhaus [rhymes with “cow
+house”]. Several of his works include moon faces
+or stick ﬁgures.
+2 This Paul Klee work shows several birds with open
+beaks on a hand crank.
+3
+
+Klee joined the Blue Rider movement, which was
+started by Kandinsky and this artist of Yellow Cow
+and Fighting Forms.
+
+Paul Klee [“clay”] [be
+generous with
+pronunciations]
+
+Twittering Machine [or Die
+Zwitscher-Maschine]
+Franz Marc
+
+Question #24: Fine Arts – Art History
+10 points per part
+This painter combined his love of jazz with his love of
+New York City in his painting Broadway
+Boogie-Woogie.
+1 Name this Dutch De Stijl [shteel] painter.
+2
+
+3
+
+Other than white and grey, what three colors are
+used in Broadway Boogie-Woogie? Unlike
+Mondrian’s earlier works, there is no black.
+Mondrian worked on this painting similar to
+Broadway Boogie-Woogie but on a tilted canvas.
+He died before completing it.
+
+12
+
+Piet
+Mondrian [MON-dree-ahn]
+red, yellow, and blue [any
+order]
+Victory Boogie-Woogie
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+4th Section
+Teamwork Questions
+
+Question #25: Science – Chemistry
+10 points per part
+The fractional form of this technique is useful for
+separating compounds with very similar boiling
+points.
+1 Name this technique of purifying a liquid by
+boiling it.
+2 It is diﬃcult to separate components of one of these
+mixtures, as their compositions do not change
+when they boil.
+3 When performing an azeotropic distillation, one of
+these devices may be used along with a condenser
+to capture water. This type of trap uses a
+fractionating column and circulates cooling water.
+
+distillation or distilling
+azeotropes
+[AY-zee-oh-“tropes”]
+Dean-Stark apparatus [or
+Dean-Stark trap]
+
+Question #26: Science – Chemistry
+10 points per part
+The ﬁrst metallocene [meh-TAL-oh-seen] to be
+analyzed was a complex with a center of this metal.
+1 Name this element that is the primary component
+of steel and that is coated with zinc in
+galvanization.
+2 Name that ﬁrst metallocene, a sandwich complex
+whose structure was proposed by Robert Woodward
+as an iron atom between two cyclopentadienyl
+[sie-kloe-pen-tuh-DIE-ee-nul] ligands.
+3 Iron oxide and aluminum are the most common
+components of this highly exothermic mixture.
+Steven Zumdahl stopped doing demonstrations
+after students were injured when a beaker with this
+chemical exploded.
+
+13
+
+iron [accept Fe]
+
+ferrocene [“FAIR-oh-seen”]
+
+thermite
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+4th Section
+Teamwork Questions
+
+Question #27: Social Studies – U.S. History
+10 points per part
+In response to this act’s passage, the House of
+Burgesses approved the Virginia Resolves, the fourth
+of which outlined opposition to “taxation without
+representation”.
+1 Name this 1765 act that regulated printed materials
+in the American colonies to raise money for Great
+Britain.
+2 John Dickinson, who represented this colony, wrote
+the Declaration of Rights and Grievances as agreed
+upon at the Stamp Act Congress. Peter Minuit
+[min-YOO-it] founded New Sweden in this colony.
+3 Dickinson also wrote this document issued by the
+Second Continental Congress, which King George
+III refused to read. Meant as a critique of
+ministerial policy, this document led the King to
+proclaim that the colonies were in a state of
+rebellion.
+
+Stamp Act of 1765
+
+Delaware
+
+Olive Branch Petition
+
+Question #28: Social Studies – U.S. History
+10 points per part
+Also called “Men of Bronze,” two of its members,
+Henry Johnson and Needham Roberts, were awarded
+the Croix de Guerre [kroy de gair].
+1 Give the two-word nickname for the 369th Infantry
+Regiment out of New York that spent more time in
+combat than any other regiment.
+2 The Harlem Hellﬁghters fought as part of this
+coalition of U.S. Armed Forces, led by John
+Pershing, that fought in France during World War I.
+3 The Harlem Hellﬁghters included Bill Robinson,
+who became a famous dancer using this nickname.
+14
+
+Harlem Hellﬁghters [or
+Black Rattlers]
+American Expeditionary
+Forces [accept AEF]
+Bojangles
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+5th Section
+Toss-up Questions
+
+Question #29: Mathematics – Math Concepts
+10 points
+A system has this property if every statement in it can
+be either proved or disproved. The axiom that in the
+real numbers, every nonempty subset with an upper
+bound has a least upper bound means that the real
+numbers have this property. The number of edges of an
+undirected graph with this property equals a triangular
+number. To add a vertex to such a graph and maintain
+this property, it is necessary to add a number of edges
+equal to the previous number of vertices
+[VER-tuh-sees]. Such graphs have an edge connecting
+each pair of vertices. Name this adjective that generally
+refers to anything that has all of its possible parts.
+
+completeness [accept longer
+answers like logical
+completeness or logically
+complete]
+
+Question #30: Literature – British Literature
+10 points
+Immediately prior to this event, its beneﬁciary was
+asked “Who watered the wick in Melbourne?”. The
+manager of a boarding house, Peter, did not attend this
+event, as he had arranged to play chess with friends.
+Before this event starts, Lulu shows up with a package.
+Held at the insistence of a Jew named Goldberg and an
+Irishman named McCann, this event is kicked oﬀ by
+Meg Boles playing a toy drum. Name this title
+celebration held for the beneﬁt of Stanley Webber in a
+play by Harold Pinter.
+
+15
+
+the Birthday Party [accept
+similar answers indicating a
+celebration for a birthday;
+prompt on answers
+indicating a celebration or
+party without specifying the
+occasion]
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+5th Section
+Toss-up Questions
+
+Question #31: Social Studies – World History
+10 points
+Before taking part in the Armenian genocide, Halil Kut
+lost control of this city to British troops under
+Frederick Maude. When this city was ﬁrst built as
+al-Mansur’s capital, it was called “the Round City” or
+Madinat al-Salaam [MAH-dee-not al-sah-LAHM],
+which means “City of Peace”. Hulegu [HOO-luh-goo]
+Khan captured and badly damaged this Abbasid capital
+in 1258, executing Al-Musta’sim. Firdos Square in this
+city held a statue that was toppled by Americans in
+2003. Its museum was then looted, destroying many
+Mesopotamian artifacts. Name this national capital
+located on the Tigris River.
+
+Baghdad, Iraq
+
+Question #32: Science – Physics
+10 points
+This quantity’s quantum mechanical operator is
+negative h-bar squared over 2 m times the Laplacian
+[luh-PLAH-see-un]. In Lagrangian
+[luh-GRAHN-jee-un] mechanics, this quantity is
+symbolized T, and in the deﬁnition of the Lagrangian a
+quantity symbolized V is subtracted from it. For a
+photon, this quantity is equal to Planck’s constant times
+the frequency. This quantity is equal to momentum
+squared over twice the mass. This quantity is not
+conserved in inelastic collisions, and is often deﬁned as
+one-half times mass times speed squared. Name this
+energy that an object has because of its motion.
+
+16
+
+kinetic energy [prompt on
+energy; accept just kinetic
+after “energy”; prompt on
+KE]
+
+Round 6
+Extra Section
+Toss-up Questions
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Extra Question #1: Fine Arts – Art History
+10 points
+Several paintings by this artist show the area around his
+home in Bastide du Jas de Bouﬀan [bah-steed doo zhah
+day boo-faw] in southern France. One of his paintings
+shows four skulls stacked in the shape of a pyramid.
+Another painting by this artist, in which 14 women are
+in the foreground in front of arched trees, is nicknamed
+The Large Bathers. Some of his paintings show Mount
+Sainte-Victoire [sent veek-twar]. A group of paintings
+this artist made during the 1890s show men at small
+tables, and sometimes one man is smoking a pipe.
+Name this post-Impressionist who painted The Card
+Players.
+
+Paul Cézanne
+
+Extra Question #2: Social Studies – U.S. History
+10 points
+This justice wrote the unanimous opinion by which
+Martha Lum was excluded from white schools. As
+Chief Justice, he advocated for legislation to allow the
+Supreme Court to only issue rulings after writs of
+certiorari [ser-shee-uh-RAR-ee] were granted. While
+serving as Secretary of War, this person told Teddy
+Roosevelt that he would like to be Chief Justice, but
+Roosevelt encouraged him to run for president instead.
+He was eventually nominated to the Supreme Court in
+1921 upon the death of Edward White, whom he had
+appointed. Name this Chief Justice, the only one to
+have also occupied the White House.
+
+17
+
+William Howard Taft
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+Extra Section
+Toss-up Questions
+
+Extra Question #3: Mathematics – Math Concepts
+10 points
+One of the integral versions of this theorem sets the
+integral of a product of functions equal to a function
+value times the integral of one function. An extended
+version of this theorem, named for Cauchy [koh-shee],
+uses two functions rather than one. Rolle’s [“role’s”]
+theorem is a special case of this theorem, which is often
+used to prove the fundamental theorem of calculus, and
+is itself proved using the Intermediate Value Theorem.
+Name this theorem stating that somewhere in an
+interval, a diﬀerentiable function’s tangent line has the
+same slope as the secant line over that interval.
+
+mean value theorem [accept
+MVT]
+
+Extra Question #4: Literature – U.S. Literature
+10 points
+In this story, one character’s “ﬁneness of blood” was
+compared to “conventional heroes of romance”. A king
+in this story held that his subjects were “reﬁned and
+cultured” through exhibitions of valor in the public
+arena, which always featured either hired wailers or an
+impromptu wedding. This story calls that king
+“semi-barbaric”. At this story’s climax, the princess
+gave a subtle signal for her lover to choose the door on
+the right. Name this Frank Stockton story in which the
+conclusion is never revealed.
+
+18
+
+“The Lady or the Tiger?”
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+Extra Section
+Toss-up Questions
+
+Extra Question #5: Science – Physics
+10 points
+Laguerre [luh-GAIR] polynomials and the spherical
+harmonics appear in the wavefunction for this system.
+A transition in this system produces radiation with a
+21-centimeter wavelength that permeates the universe.
+This system demonstrates energy splitting due to the
+Lamb shift and ﬁne structure. This object’s energy
+levels can be calculated with the Rydberg formula. This
+is the only system that ﬁts the Bohr model, though the
+Bohr model was unable to explain why its spectral lines
+diﬀered in brightness. Name this system, consisting of
+one electron orbiting one proton, comprising the
+simplest element.
+
+19
+
+hydrogen atom [accept H]
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+Extra Section
+Teamwork Questions
+
+Extra Question #6: Literature – U.S. Literature
+10 points per part
+The detective who solved this woman’s murder did so
+using only newspaper reports.
+1 Name this “cigar-girl” who was hired by Monsieur
+Le Blanc to work in a perfume shop. Her body was
+found after it washed up on the shore.
+2
+
+3
+
+“The Mystery of Marie Roget” was written by this
+author as a follow-up to “The Murders in the Rue
+Morgue”.
+Marie’s body was eventually found on the shores of
+this river, across from the Rue Pavée-Saint-André.
+
+Marie Roget or Mary
+Cecilia Rogers [accept any
+underlined name]
+Edgar Allan Poe
+
+Seine River
+
+Extra Question #7: Literature – U.S. Literature
+10 points per part
+This title character is scared of “little formless fears”
+and of the sound of tom-toms.
+1 Name this former Pullman Porter who cultivated
+the myth that he could only be killed by a silver
+bullet.
+
+Emperor (Brutus) Jones
+[accept either underlined
+name]
+
+2
+
+The Emperor Jones was written by this author.
+
+Eugene (Gladstone) O’Neill
+
+3
+
+O’Neill wrote about the Tyrone family in this play.
+
+Long Day’s Journey into
+Night
+
+20
+
+Illinois Masonic Academic Bowl
+2016 State Tournament
+
+Round 6
+Extra Section
+Teamwork Questions
+
+Extra Question #8: Mathematics – Geometry
+10 points per part
+The ancient Greeks studied problems related to
+constructing geometric ﬁgures with a compass and
+straightedge.
+1 The three major problems that remained unsolved
+by the Greeks were to construct a cube with twice
+the volume of a given cube, construct a square with
+the same area as a given circle, and to do this to any
+angle.
+2
+
+3
+
+This 19th-century French mathematician proved
+cube-doubling and angle-trisecting are sometimes
+impossible using only a straightedge and compass.
+A ninety degree angle can be trisected by drawing
+an equilateral triangle. What is the degree measure
+of each angle of an equilateral triangle?
+
+trisecting an angle [accept
+answers that mean dividing
+by three or splitting into
+thirds or dividing into
+three congruent parts]
+Pierre Wantzel
+
+60 degrees
+
+Extra Question #9: Mathematics – Geometry
+10 points per part
+The altitudes of a triangle are the segments from one
+vertex that form a right angle with the opposite side,
+which may need to be extended.
+1 The three altitudes of a triangle meet at a single
+point, which is given this name.
+2 In this type of triangle, two of the three altitudes
+are outside of the triangle.
+3 Find the length of the altitude to the hypotenuse in
+an isosceles right triangle where each leg is of
+length twelve.
+
+21
+
+orthocenter
+obtuse triangle
+6 root 2 [accept equivalents
+such as 6 radical 2 and 6
+times the square root of 2]
+
+

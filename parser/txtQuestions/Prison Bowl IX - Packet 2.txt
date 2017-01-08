@@ -1,0 +1,353 @@
+PRISON BOWL IX
+Questions written and edited by Hunter College High School (Gilad Avrahami, Sam Brochin, Christopher Chilton, David Godovich,
+Lily Goldberg, Ada-Marie Gutierrez, Diane Hwangpo, Joshua Kwan, Chloe Levine, Alice Lin, Brian Lu, Helen Lyons, Daniel Ma,
+Albert Tai, Luke Tierney, and Rachel Yang), with contributions from Rohan Nag and Jeff Xie
+Round 02
+Tossups
+1. This character is described as having eyes “so colorless” that another character “thought he was blind,” and “sickly white hands that
+had never seen the sun.” This character gives the protagonist of the work in which he appears two soap dolls, two pennies, and a
+broken watch, hidden in the knothole of a tree. When this character first meets that protagonist, she is dressed as a ham for Halloween,
+and this character fends off a knife-wielding Bob Ewell, who attacks the protagonist and her brother, Jem. For 10 points, name this
+reclusive neighbor who fascinates the Finch children in Harper Lee’s To Kill a Mockingbird.
+ANSWER: Boo Radley [grudgingly accept either] <CL>
+2. For prokaryotes, this process’s energy is derived from hydrolyzing bonds between GTP and EF-G. One participant in this process
+binds to A, P, and E sites. During this process, the Watson-Crick base pair rules may be violated by wobble base pairs. This process is
+usually initiated by the codon AUG, which codes for methionine, and tRNA anticodons sequence to mRNA codons during it. For 10
+points, name this biological process where a chain of amino acids are formed from instructions given by mRNA.
+ANSWER: translation <AT>
+3. A 1997 ban on “sticks” at the athletic events of one university was designed to keep out these objects, and in 2001 Jeb Bush touted
+his order to move one of these objects into a museum. Representative Doug Brannon argued against the display of these objects in
+2015 in response to their use by Dylann Roof, which also caused Walmart to stop selling them. Governor Nikki Haley recently signed
+a bill removing this object from the Capitol grounds in Columbia, South Carolina, and Mississippi is the only state to include this flag
+in the design of its official state flag. For 10 points, name this symbol known as “the stars and bars” used by seceders from the United
+States.
+ANSWER: Confederate flag [accept clear knowledge equivalents; accept Confederate battle flag, accept rebel flag, accept stars
+and bars before mentioned; prompt on flag; do not accept or prompt on “American flag” or equivalents] <CL>
+4. This man first gained fame at age 13 for an essay published in a local newspaper and entitled “Enthusiasm and Perseverance.” Later
+works by this author include “The Attempt of the Infinite Man” and “The Inhabitant and His Hope.” He wrote about an object “girded
+for battle” which “scale by scale / we undress” in his Elemental Odes. In his most famous collection, this man proclaims, “I want / To
+do with you what spring does with the cherry trees,” and, “Tonight I can write the saddest lines / I loved her, and sometimes she loved
+me too.” For 10 points, name this recipient of the International Peace Prize and poet of Twenty Love Poems and a Song of Despair.
+ANSWER: Pablo Neruda [accept either part of Neftalí Ricardo Reyes Basoalto] <CL>
+5. A theme in this work was borrowed from Philip Nicolai’s chorale Wachet auf. Mozart arranged a version of this work, replacing the
+high trumpets from the “Trumpet Shall Sound” aria with french horns. This composition features the alto tenor duet “O Death, where
+is thy sting?,” and its manuscript featured the dedication “Soli Deo Gloria.” This musical work opens with a Sinfony in French
+Overture form, and includes a “pastoral symphony” called the Pifa. This work’s “ultimate victory” section features the text “And He
+shall reign for ever and ever.” For 10 points, name this George Frideric Handel oratorio that features a famous “Hallelujah” chorus.
+ANSWER: Messiah (accept HWV 56) <AT>
+6. The kiseru is a device used with this plant, and the “Bonsack machine” mass-produced one good using it. The Nazi government
+funded research against this crop, in contrast to Anthony Chute’s earlier findings. The quitrent and headright system tried to fix labor
+shortages in areas growing this crop. A monopoly on this crop by James Buchanan Duke spurred namesake “wars” in the early 1900s,
+and after Dutch traders were banned from shipping this crop, its low prices contributed to Bacon’s Rebellion. Pocahontas’ husband
+John Rolfe first grew the Spanish type of this plant in Virginia. For 10 points, name this plant fought over in the “cigarette wars”.
+ANSWER: tobacco [accept kizami until “Bonsack”]
+7. BKS theory describes the relationship between these objects and electromagnetic fields. Through pair production, one of these
+objects creates an electron and a positron, and they exert radiation pressure as a consequence of possessing momentum. Represented
+by sinusoidal waves in Feynman diagrams, these particles undergo Thomson or Compton scattering depending on their energy levels.
+Ejecting electrons when colliding with metals, these particles with plus-one spin are the carriers of the electromagnetic force. For 10
+points, name these particles that are the quanta of light.
+ANSWER: photons <AT>
+
+8. The composer of this La Nitteti-inspired opera did not use his potpourri overture because of its “pretentious insipidity.” After a
+declaration of war in this opera, a large portion of the cast sings “alta cagion v’aduna.” An aria from this opera song by its tenor lead
+includes a challenging B flat and calls his love “heavenly” or “celeste.” In this opera, Amneris is suspicious that her sister may be in
+love with the commander-in-chief, but distracts herself with the dance of Moorish slaves. That commander is Radames. For 10 points,
+which opera, composed by Giuseppe Verdi, premiered in Cairo and follows the title Ethiopian princess?
+ANSWER: Aida <CL>
+9. The “Tragic Week” of 1909 preceded the creation of this modern-day nation’s Army of Africa. The 1813 battle of Vitoria occurred
+in this country, and was part of a conflict referred to as an “Ulcer”. This nation’s namesake “Road” extended from Milan to Brussels,
+and its tercio formations lost at Rocroi. This country fought a namesake war with France, which was ended by the Treaty of the
+Pyrenees. This nation’s army lost the Eighty Years’ War to the Dutch. The term “guerrilla” stems from the Peninsular War fought
+primarily in this nation. For 10 points, name this nation whose navy included its namesake Armada.
+ANSWER: Spain or Spanish Empire (accept España)
+10. A ritual to this deity was established after the head of a demon named Gajasura was cut off in order to be adored by everyone. He
+once nearly consumed all of the city of Alakapuri until he was given a handful of roasted rice to eat. This deity defeated his brother
+Kartikeya (“KAR-ti-KAY-a”) in a race to circumnavigate the world three times, but he ran around his parents instead. This god had a
+human head, but it was cut off by his father Shiva when he tried to prevent entry into his home, where Parvati was taking a bath. For
+ten points, name this elephant-headed remover of obstacles in Hindu mythology.
+ANSWER: Ganesha <JK>
+11. Niven’s theorem states that there are only a certain amount of rational solutions to this function. An analog of this function equals
+e to the x minus e to the negative x over two, and the derivative of its inverse is equal to one over the square root of one minus x
+squared. This function is used in computing the area of a parallelogram, as the magnitudes of two vectors are multiplied by it to find
+the cross product. It is used to determine the imaginary part in polar coordinates, and its namesake law relates a triangle’s side length
+to the opposite angle. The reciprocal of cosecant is, for 10 points, which function that relates the opposite side of a triangle to the
+hypotenuse?
+ANSWER: sine <JK>
+12. A draft of this poem may have been composed on the back of notes written from research for another of the author’s poems,
+“Empedocles on Etna,” and this poem opens with auditory images like a “grating roar” and a “tremulous cadence.” Often thought to
+have been written during the poet’s honeymoon in the title location, this poem remarks that the world “Hath really neither joy, nor
+love, nor light,” and closes by describing how “ignorant armies clash by night.” For 10 points, name this lyric poem that opens with
+“The sea is calm tonight,” written by Matthew Arnold.
+ANSWER: Dover Beach <CL>
+13. Several of this industry’s structures were discussed in the 1910 Potsdam Accord. The Great Program of 1913 and the Plan XVII
+(17) were dependent on this industry. British “navvies” worked in this industry, which Program Otto expanded east before Operation
+Barbarossa. In 1993, John Major privatized this industry, which saw the “gauge wars”. George Stephenson built the Rocket for this
+industry, which operated a line from Liverpool to Manchester. For 10 points, name this industry that manufactures things like the
+Orient Express.
+ANSWER: railroad industry (or railroads, accept railway industry, train industry, or any clear knowledge equivalents)
+14. Max Ernst replaced this scene’s traditional figures with a self-portrait and his father, dressed in all brown, in a painting subtitled
+“or Revolution by Night.” Michelangelo based a portrait of Joseph of Arimathea off of himself in a sculpture depicting this scene, The
+Deposition. Another sculpture of this subject features Michelangelo’s only signature, located across a sash. This subject is, along with
+the Mater Dolorosa and Mater Stabat, one of three traditional depictions of a sorrowful Virgin Mary. For ten points, name this
+common subject of painting and sculpture which depicts Mary cradling the dead body of Jesus.
+ANSWER: Pieta [prompt on Mary with the body of Jesus and similar answers] <CC>
+15. The Drude Model first analogized electrons to these objects. When applied to these objects, the virial equation will reduce to Z, the
+compressibility factor. The kinetic energy of these objects can be found by multiplying three-halves by Boltzmann’s constant and their
+absolute temperature. These objects, which follow the Maxwell-Boltzmann distribution, have particles that engage in perfectly elastic
+collisions, exert no forces on each other, and are assumed to be small, hard spheres. For 10 points, name these objects that are
+governed by a namesake equation, which sets PV equal to nRT.
+ANSWER: ideal gases (prompt on gases) <AT>
+
+16. This singer of the song “Momentous Day” is also the subject of a popular Facebook page that combines him with Brock from
+Pokémon. This man says the line “I’m forty seven percent through kicking your ass” while doing a spinning kick in a rap battle, and
+was the namesake of a several fried chicken restaurants. A YouTube channel titled this man’s “dubs” features clips from his speeches
+set to pop songs like “Call Me Maybe.” A Key and Peele sketch features this man’s “anger translator.” Parodies of this man frequently
+feature him saying “uh,” “let me be clear,” and “my fellow Americans.” For 10 points, name this current President of the United
+States.
+ANSWER: Barack Hussein Obama II <AT>
+17. This man said that perception is always incomplete, unlike the title concept of his book The Imaginary. He described two
+soulmates, Eve and Pierre, who only meet in death in The Chips are Down. He wrote an adaptation of the Electra myth in which Zeus’
+worshippers are ashamed of their humanity, The Flies, as well as a work about Antoine Roquentin’s belief that inanimate objects
+affect his ability to define himself causing him to experience the title phenomenon, Nausea. He coined the phrase “existence precedes
+essence” and a work by this man features Estelle, Ines, and the line, “Hell is other people.” For 10 points, name this existentialist
+author of No Exit and Being and Nothingness.
+ANSWER: Jean-Paul (Charles Aymard) Sartre <CL>
+18. Julia Tuttle is known as the “Mother of” this city, the only major one in the United States founded by a woman. The Homestead
+Air Reserve Base lies south of this city. A garish animatronic Red Grooms sculpture in this city recently drew controversy, and this
+city contains neighborhoods such as Coconut Grove and the Venetian Islands. The Calle Ocho Festival is hosted in this city each year,
+and it is bordered by Biscayne Bay to the east. For ten points, name this city with a large Cuban-American population in Little
+Havana, the largest city in South Florida.
+ANSWER: Miami <SB>
+19. This river is shown on the right half of the Beatus (“BEE-uh-tuss”) Map. Djed columns were first built along this river, which has
+the Hall of Ancestors along its shores. A British expedition travelled down this river and won the battle of Omdurman at its main fork
+in 1898. The kingdom of Kush controlled Gebel Barkal along this river, which flowed through the Nubian capitals of Napata and
+Meroe. Napoleon’s army won a battle along this river in 1798, while his fleet lost another battle near its delta at Aboukir Bay. For 10
+points, name this river on which the Old Kingdom of Egypt was centered.
+ANSWER: Nile River
+20. A poem by this author titled “The Portrait of a Child” asks, "Young angel, lately given, / When was thy martyrdom achieved?" and
+wrote the poetry collections The Legend of the Ages and Les Contemplations. This man wrote about a woman whom Clopin tries to
+save; that character marries Pierre Gringoire and has her right of sanctuary removed. In addition to writing about a woman lusted after
+by Frollo, this author wrote about a girl who is left at Montfermeil with the Thenardiers. That girl appears in a work in which
+Inspector Javert pursues Jean Valjean. For 10 points, name this author of Les Miserables.
+ANSWER: Victor Hugo <CL>
+TB. In this battle, Abner Doubleday was forced to take command following his commander’s death at the hands of an enemy bullet.
+That commander was John Reynolds, who led his First Corps to relieve cavalry forces under John Buford. During this battle, Lewis
+Armistead valiantly led his brigade to the “high water mark of the Confederacy” when he broke through enemy lines near the “bloody
+angle”. This battle culminated on its third day when a Confederate frontal assault on Union positions was repulsed, an event called
+Pickett's Charge. For ten points, name this July 1863 Civil War battle in Pennsylvania, a decisive victory for Union forces under
+General Meade.
+ANSWER: Battle of Gettysburg
+Bonuses
+1. The Franciscan friar Junipero (“HOO-knee-peh-row”) Serra built several of these buildings in California along The King’s
+Highway. For 10 points each:
+[10] Name these religious outposts often made of adobe and painted white, which were used to convert Native Americans and control
+land. The Alamo was one of them.
+ANSWER: missions
+[10] Missions in the US were built by missionaries of this empire, which negotiated the Adams-Onis treaty and Pinckney’s Treaty
+with the US before it lost control of Mexico.0Z
+ANSWER: Spain or the Spanish Empire
+[10] This Spanish labor system used in colonization relied on indigenous leaders to mobilize labor and tribute from within a portion of
+the local population. Bartolome (“bar-TO-lo-may”) de las Casas specifically condemned this system.
+ANSWER: encomienda
+
+2. One type of this work says, "I knows one [beautiful] thing [about] myself. I [can] [accomplish] anything I [lay] my mits [upon]."
+For 10 points each:
+[10] Name this type of work, examples of which include Olaudah Equiano and The Underground Railroad Records. They consist of
+written accounts by certain Africans in places like Great Britain and the United States.
+ANSWER: slave narrative [prompt on “slave books” and equivalents]
+[10] In his slave narrative, this memoirist writes about being sent to live with Master Thomas Auld, who proved to be extremely cruel.
+This man eventually escaped from slavery and became an abolitionist leader.
+ANSWER: Frederick Douglass
+[10] This narrative describes how the author, born a freeman in Saratoga, New York, was kidnapped and sold into slavery. While on
+Edwin Epps’s plantation, the narrator befriends a slave girl named Patsey.
+ANSWER: 12 Years a Slave <RY>
+3. The Wadjet was an important symbol in Egyptian mythology. Name some stuff about it, for 10 points each:
+[10] The Wadjet is typically associated with this body part of Ra, which represented the sun. One of these body parts, which was torn
+out and restored by Thoth, is also often conflated with the Wadjet.
+Answer: eye
+[10] This god, whose eye was torn out by his rival Set, later defeated Set in a stone boat race in order to claim the pharaohship of
+Egypt. He was the son of Osiris and Isis.
+Answer: Horus
+[10] On the pschent, or double crown of Egypt, Wadjet is represented as a cobra along with Nekhbet, a patron of Upper Egypt which
+was depicted as this kind of animal.
+Answer: vulture <JK>
+4. The thrilling stakes of gambling has certainly inspired many artists. For 10 points each, answer some stuff about painters who
+depicted card-playing in their works.
+[10] This Post-Impressionist French artist painted a series of five paintings known as The Card Players. This artist of The Bathers
+painted his still-lifes using what he called “constructive brushstrokes.”
+ANSWER: Paul Cézanne
+[10] An iconic series of sixteen oil paintings first created to advertise cigars features anthropomorphized versions of these animals
+playing poker. One of these animals cheats by holding a card under a table with his foot.
+ANSWER: dogs (accept specific breeds or canis lupis familiaris, accept Dogs Playing Poker)
+[10] This American artist painted the Dogs Playing Poker series. His paintings became well-known due to their depictions of workingclass taste in home interiors.
+ANSWER: C.M. Coolidge (or Cassius Marcellus Coolidge, accept Kash Koolidge) <AT>
+5. One of this author’s novels begins, “Once upon a time and a very good time it was there was a moocow coming along the road,”
+and that moocow later meets a “baby tuckoo.” For 10 points,
+[10] Name this author who wrote about the moocow from the perspective of the child Stephen Dedalus in his novel A Portrait of the
+Artist as a Young Man.
+ANSWER: James Joyce
+[10] This work of Joyce’s refers to its protagonist by his initials, HCE, and its last sentence is a fragment which leads back to the
+sentence fragment that opens it, making a loop.
+ANSWER: Finnegan's Wake
+[10] Finnegan’s Wake is written largely in an experimental language invented by Joyce, which includes this onomatopoetic word. This
+word was meant to represent the cry of a seagull, and was later borrowed by particle physicists to name a 1964 model.
+ANSWER: quark <LT>
+6. The Elizabethan Religious Settlement denounced this doctrine, stating that “feast[ing] upon [a friend’s] living flesh and blood” is
+“barbarous.” For 10 points:
+[10] Name this change that causes the bread and wine used in the Eucharist to be turned into the body and blood of Jesus Christ.
+ANSWER: transubstantiation
+[10] During this famous final meal of Jesus, he stated, “This is my body” while holding bread. During this event, Jesus predicts his
+betrayal by Judas Iscariot.
+ANSWER: The Last Supper
+[10] In his book Confessions Concerning Christ’s Supper, Luther claimed the existence of this relationship, the inseparable joining of
+the sign of a sacrament to its deeper meaning. It is often mistakenly called consubstantiation.
+ANSWER: sacramental union <GA>
+
+7. This work classifies The Marriage of Figaro, The Magic Flute, and Don Giovanni as three stages of the musical-erotic based on the
+attitudes toward seduction in those works. For 10 points:
+[10] Name this publication featuring the ethical Judge Vilhelm, who tries to convince the hedonistic ‘A’ to live more responsibly.
+ANSWER: Either/Or
+[10] Either/Or is a work by this Danish thinker, widely considered to be the first existentialist philosopher.
+ANSWER: Soren Aabye Kierkegaard
+[10] This other work by Kierkegaard analyzes Abraham’s psyche as he prepares to sacrifice Isaac. In it, Abraham transitions from
+being in infinite regression to being a knight of faith.
+ANSWER: Fear and Trembling <AT>
+8. After being shortlisted for the Man Booker Prize three times, he finally won in 1982. For 10 points each:
+[10] Name this author of Confederates and Gossip from the Forest and The Chant of Jimmie Blacksmith, the latter of which was made
+into a movie in which he acted. His most famous work was inspired by Poldek Pfefferberg.
+ANSWER: Thomas (Michael “Mick”) Keneally [grudgingly accept “Mick” Keneally]
+[10] Keneally’s most famous work is this book concerning a man named Oskar who saved a multitude of Polish Jews from the
+Holocaust. It was later adapted into a Steven Spielberg film.
+ANSWER: Schindler’s Ark (accept Schindler’s List, the name of the American release)
+[10] Keneally hails from this country, and advocated for the abolishment of its monarchy in Our Republic. Another author from this
+country wrote about two gamblers in the novel Oscar and Lucinda.
+ANSWER: Commonwealth of Australia <CL>
+9. When particles in a substance become aligned with respect to this property, the substance will exhibit magnetism. For 10 points:
+[10] Name this property possessed by elementary and composite particles. It has been analogized as a form of “intrinsic angular
+momentum”.
+ANSWER: spin
+[10] These particles are classified by their integer spins. Examples of these types of particles include the four force-carrying gauge
+ones in the Standard Model.
+ANSWER: bosons
+[10] This doubly-eponymous experiment demonstrated the quantum nature of spin by firing silver atoms through a magnetic field.
+Atoms were deflected in specific amounts, suggesting a discrete spectrum of possible spin values.
+ANSWER: Stern-Gerlach experiment <AT>
+10. Rulers with this title may have been from the Abbasid, Umayyad, or Rashidun dynasties. For 10 points each:
+[10] Name this title which refers to a leader as a political and religious successor of Muhammad.
+ANSWER: caliph [do not accept “imam”]
+[10] During the Umayyad Caliphate, the caliph resided in this dynastic capital. This city was also the capital of the colonial State of
+Syria under French rule.
+ANSWER: Damascus
+[10] These semi nomadic cattle herders are led by sheikhs (“shakes”), and occasionally revolted against the caliph throughout history.
+They live throughout Arabia and Syria in tents, and sometimes several tents travel together in a goum.
+ANSWER: Bedouins <CL/RN>
+11. Name some stuff about the life cycles of stars, for 10 points each:
+[10] After a star undergoes supernova, it may eject substantial quantities of gas in a large radius, therefore becoming one of these
+objects. The Eagle one of these entities contains the “Pillars of Creation.”
+ANSWER: nebulae (accept specific types like planetary nebulae)
+[10] If a star doesn’t have enough mass to sustain hydrogen-1 fusion, it will become one of these bodies. Despite their name, they
+actually appear pink to the human eye.
+ANSWER: brown dwarfs (prompt on dwarfs)
+[10] During the majority of their lives, most stars lie in this linear region on the H-R diagram, which directly correlates luminosity and
+color. Red dwarfs lie in this region, while white dwarfs don’t.
+ANSWER: main sequence (accept main-sequence stars) <DM/AT>
+
+12. Champions of this art form include Christian Dior and Valentino, and it differs from ready-to-wear clothing in that it is made from
+unusual fabrics and is not usually for sale. For 10 points:
+[10] Give this name for the creation of extremely custom, detailed clothing. It means “high dressmaking” in French.
+ANSWER: haute couture (prompt on couture)
+[10] This couture designer is famous for shows such as Widows of Culloden, which featured a life-sized hologram of model Kate
+Moss, and his signature armadillo heels worn by Lady Gaga. He committed suicide in 2010.
+ANSWER: Alexander McQueen
+[10] This other fashion house is a frequent participant in the haute couture scene, though its namesake founder achieved fame for
+designing an affordable “little black dress.” Its “No. 5” perfume is still sold today.
+ANSWER: Chanel (accept Coco Chanel)
+13. These albums are the cream of the crop, at least according to a certain “Most Trusted Voice in Music.” For 10 points each, name
+these albums with a perfect 10.0 rating on Pitchfork.com.
+[10] This Beatles album features “Here Comes the Sun” and “Come Together.” Pitchfork critic Mark Richardson said “there’s not a
+duff note on the damn thing,” before slapping a 10 on its iconic cover, a photograph of the four band members crossing a street.
+ANSWER: Abbey Road
+[10] This sophomore Neutral Milk Hotel album garnered a cult following as a staple of 90s lo-fi rock. Written after lead singer Jeff
+Mangum read The Diary of Anne Frank, it includes the songs “Holland, 1945” and “Two-Headed Boy.”
+ANSWER: In the Aeroplane Over the Sea
+[10] Every single song on this 2010 Kanye West album is explicit, but that didn’t stop Pitchfork from praising its “vulnerability” and
+“flawed honesty.” It spawned singles like “All of the Lights,” “POWER,” and “Monster.”
+ANSWER: My Beautiful Dark Twisted Fantasy <LG>
+14. These diagrams plot pressure on their y-axes and temperature on their x-axes. For 10 points:
+[10] Name these diagrams that show lines of equilibrium for the three states of matter of a substance.
+ANSWER: phase diagrams
+[10] This point on a phase diagram mark where the boundary between liquids and gases ceases to exist. Substances in conditions
+which correspond to this location on a phase diagram will form superfluids.
+ANSWER: critical point
+[10] The phase diagram of water’s solid-liquid boundary has this unique property. This property is present because water is denser as a
+liquid than as a solid.
+ANSWER: negative slope (accept clear knowledge equivalents) <AT>
+15. One of its poems is titled “To the Reader.” For 10 points each:
+[10] Identify this most famous poetry collection by Charles Baudelaire. It falls into both the symbolist and the modernist movements
+and is split into six sections.
+ANSWER: Les Fleurs du Mal [accept The Flowers of Evil; do not accept “The Bad Flowers”]
+[10] Les Fleurs du Mal includes a poem named for this bird, a “winged voyager,” which laments, “So beautiful before, now comic and
+ugly!” One of these birds, hailed as a “Christian soul,” is shot in “The Rime of the Ancient Mariner.”
+ANSWER: The Albatross [accept L’Albatros]
+[10] This first section of Les Fleurs du Mal includes “To the Reader” and “The Albatross,” along with “Elevation,” “The Head of
+Hair,” and “Benediction.”
+ANSWER: Spleen and Ideal [accept Spleen et Idéal] <CL>
+16. He engineered the Great Leap Forward and his sayings were collected in the Little Red Book. For 10 points each:
+[10] Name this leader, a founder of the People’s Republic of China and Chairman of the Chinese Communist Party.
+ANSWER: Mao Zedong
+[10] Policy following the Great Leap Forward put this economic sector “First,” and it accounted for half of China’s output when
+Communists took power. Competitions between communes encouraged activity in this sector.
+ANSWER: agriculture [accept farming or other clear knowledge equivalents]
+[10] This group was prominent during the Cultural Revolution and included Jiang Qing (“jee-AHNG ching”), Chairman Mao’s wife.
+Later, it faced charges of being a counter-revolutionary force.
+ANSWER: Gang of Four <CL>
+
+17. John Exner developed a popular method of scoring this psychological test. For 10 points each:
+[10] Identify this test in which a subject is shown ten symmetrical inkblots, named after the Swiss psychologist who invented it.
+ANSWER: Rorschach inkblot test
+[10] The Rorschach inkblot test is this kind of test in which a subject responds to ambiguous stimuli, revealing unconscious attitudes
+or emotions. It is contrasted with “objective” tests measured against a universal standard.
+ANSWER: projective test
+[10] This other psychological test measures four aspects of personality and is widely used as a tool in the corporate world. The types
+measured by this test are expressed as four letter combinations, such as ENTJ or ISFP.
+ANSWER: Myers-Briggs type indicator <CC>
+18. If you hope to play an instrument in anywhere other than the confines of your own home, you better know these musical terms!
+For 10 points each:
+[10] This musical direction indicates a gradual increase of loudness in a piece of music. It’s frequently signified by a sideways “V.”
+ANSWER: crescendo
+[10] This symbol indicates that a note should be held longer than its value would indicate. Its symbol is a dot enclosed by an upsidedown semicircle above the note.
+ANSWER: fermata (prompt on hold or pause)
+[10] This tempo marking indicates that the corresponding section of music can be sped up or slowed down, at the discretion of a
+soloist or conductor. This phrase comes from the Italian for “stolen time.”
+ANSWER: tempo rubato <AT>
+19. This Agricultural Revolution technique included the three-field system. For 10 points each:
+[10] Name this ancient method of switching plants between plots of land to replenish nitrogen. Charles Townshend reintroduced it to
+England in the 1800s.
+ANSWER: crop rotation (or cover cropping, accept word forms)
+[10] The Levellers and Diggers wanted to reverse this movement, which was opposed to the open-field system and the copyhold
+system. Parliament formalized this movement during the Agricultural Revolution.
+ANSWER: enclosure movement
+[10] In Ireland, the monoculture of this crop and lack of crop rotation caused a namesake famine in 1848.
+ANSWER: potatoes <GA>
+20. This theory is contrasted with the phyletic gradualism theory. For 10 points:
+[10] Name this theory which states that rapid changing in species occurs in geologically short periods of cladogenesis, interspaced by
+long absences of net change.
+ANSWER: punctuated equilibrium
+[10] Punctuated equilibrium and gradualism both describe this phenomenon, where the traits of a population change over successive
+generations. Charles Darwin first proposed that this phenomenon occurs via natural selection.
+ANSWER: evolution
+[10] During the equilibrium period in the punctuated equilibrium model, allele frequencies will remain constant, as per this principle.
+This principle designates genotypic proportions as p squared, two p q, and q squared.
+ANSWER: Hardy-Weinberg principle (accept Hardy-Weinberg equilibrium, model, theorem, or law) <AT>
+TB. The ratio of this force to the normal force equals its namesake coefficient, which is frequently denoted as mu. For 10 points each:
+[10] Name this force that opposes motion. Objects acted upon by this non-conservative force will lose energy in the form of heat, and
+its static form is usually greater than its kinetic form due to the formation of chemical bonds.
+ANSWER: friction (prompt on drag or air resistance, accept specific forms of friction like dry friction, fluid friction, etc.)
+[10] This term describes the steepest angle at which a granular material can be piled without the pile slumping. The tangent of this
+angle approximately equals the coefficient of static friction.
+ANSWER: critical angle of repose (accept repose angle)
+[10] Amontons’ First Law states that increases in this quantity won’t actually cause two objects to have more friction, contrary to
+popular misconception. This is because larger values of this quantity will decrease pressure.
+ANSWER: area of contact (accept surface area, or any other clear knowledge equivalents) <AT>
+
+

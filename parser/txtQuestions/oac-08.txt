@@ -1,0 +1,621 @@
+OAC 2013
+Packet 8
+
+CATEGORY ROUND
+American Literature: Death Poems
+Team A: What poem, containing the injunction to "go not like the quarry slave at night," has a Greek title
+meaning "view of death"?
+ANSWER: "Thanatopsis"
+Team B: What author of "Self-Reliance" wrote a poem on the death of his brother?
+ANSWER: Henry David Thoreau
+Tossup: This author wrote a play in which Santa Claus trades masks with Death. Another of his poems
+considers a man who can "break one two three four five pigeons just like that." That poem ends by asking
+"how do you like your blue-eyed boy Mister Death” and concerns Buffalo Bill. Another of his poems
+includes the refrain "sun moon stars rain." He wrote about a "queer old balloonman" who "whistles far and
+wee" in his poem "in Just." Name this author of "anyone lived in a pretty how town" who is known for his
+unorthodox approach to punctuation and capitalization.
+ANSWER: E. E. Cummings [or Edward Estlin Cummings]
+Mathematics: Functions (All questions in this round are 20 seconds)
+Team B: How many real roots does the equation x2 + 4x + 9 = 0 have?
+ANSWER: 0 [or none]
+Team A: What number or numbers are excluded from the domain of the function defined by y equals the
+quantity x squared plus four x plus three, all over the quantity x squared minus four x minus five?
+ANSWER: -1 and 5 [do not accept or prompt on partial answer]
+Tossup: On a closed interval, functions with this property will also possess the uniform type of it. This is a
+necessary condition for use of the intermediate and extreme value theorems. The first fundamental theorem
+of calculus says all functions of this type will have antiderivatives. It is a necessary condition for being
+differentiable, and does not occur at singularities and jumps. Name this property, possessed by functions
+that can be drawn without lifting the pencil.
+ANSWER: continuity [or continuous]
+
+OAC 2013
+
+8
+
+Page 1 of 17
+
+World History: Middle Eastern Conflicts
+Team A: Name the country where a 1953 coup orchestrated by the US overthrew Mohammad Mossadegh
+following his nationalization of its oil industry.
+ANSWER: Islamic Republic of Iran [or Jomhuri-ye Eslami-ye Iran]
+Team B: Name the country whose invasion and attempted annexation by Iraq in 1990 led to the Persian
+Gulf War.
+ANSWER: State of Kuwait [or Dawlat al Kuwayt]
+Tossup: In the aftermath of this war, the losing side wrote the Khartoum Resolution. Prior to the start of
+this war, one side blockaded the port city of Elat by closing the Gulf of Aqaba. After a preemptive strike
+against one side's grounded air force, the winning side in this war seized the Golan Heights, West Bank,
+and Sinai Peninsula and took sole control of Jerusalem. Name this 1967 war between Israel and Arab states
+named for its brief duration.
+ANSWER: Six-Day War [or June War; or Third Arab-Israeli War]
+Fine Arts: Common Musical Compositions
+Team B: What other type of composition was written to develop a particular technique and comes from the
+French word meaning "study?"
+ANSWER: etudes
+Team A: What compositional form in three-four time is often paired with a trio in symphonies?
+ANSWER: minuet
+Tossup: One composition of this type employs two orchestras and a boys’ choir and sets poems by Wilfred
+Owen. That composition, written by Benjamin Britten, is the “War” one. Another composition of this type
+was completed by Franz Xaver Süssmayr after the premature death of its composer, Wolfgang Amadeus
+Mozart. Compositions of this type often include such movements as the Kyrie eleison and Dies Irae. Name
+this type of liturgical composition, a special type of Mass for the dead.
+ANSWER: Requiem Mass [prompt on Mass until mentioned]
+
+OAC 2013
+
+8
+
+Page 2 of 17
+
+Life Sciences: Modern Geneticists
+Team A: This current head of the NIH lead the Human Genome Project
+ANSWER: Francis Collins
+Team B: This geneticist discovered transposons while working with Maize.
+ANSWER: Barbara McClintock
+This principle can be mathematically modeled by the Moran model and the Wright-Fisher model, the latter
+of which is named for its originator, Sewall Wright. This principle generally only results in minor changes
+according to the Hardy-Weinberg principle, and it is especially likely to happen if an event results in a
+population bottleneck. Small populations are especially sensitive to a special case of this principle called
+the founder effect. Name this general term for the change in frequency of an allele in a population over
+time.
+ANSWER: genetic drift [prompt on founder effect until mentioned]
+World Literature: Unrequited Love
+Team B: William Boldwood relentlessly pursues the uninterested Bathsheba Everdene in Far From the
+Madding Crowd, a novel by this British author.
+ANSWER: Thomas Hardy
+Team A: Helena pines after Demetrius, who himself loves Hermia at the beginning of what play by
+Shakespeare, in which Puck causes all sorts of mischief?
+ANSWER: A Midsummer Night's Dream
+Tossup: This character dies of starvation while lying next to his beloved’s corpse, and his bones turn to
+dust when his skeleton is moved. He is first introduced when being crowned Pope of Fools during a feast.
+This man is separated from his love by the archer Phoebus, and he falls in love with the gypsy girl
+Esmeralda. He shouts "Sanctuary!" as he flees to the cathedral where he is the bell-ringer. Name this title
+character from Victor Hugo’s novel The Hunchback of Notre-Dame.
+ANSWER: Quasimodo [prompt on Hunchback of Notre-Dame until it is read]
+
+OAC 2013
+
+8
+
+Page 3 of 17
+
+US Government/Economics: Bankrupt Companies
+Team A: What automaker narrowly avoided bankruptcy through a 1.5 billion dollar loan in 1979 from the
+federal government and formed a partnership with Daimler-Benz in 1998?
+ANSWER: Chrysler Corporation
+Team B: What investment bank's declaration of bankruptcy, the largest in history, helped to set off the
+financial crisis in September 2008?
+ANSWER: Lehman Brothers Holdings Inc.
+Tossup: In 2011, this company was led out of bankruptcy after the resignation of CEO Gerard Arpey. The
+departing CEO of this company, Tom Horton, will give control to Doug Parker under a new arrangement,
+spurred after it fell behind Southwest to become the fourth-busiest domestic carrier. Name this company
+which announced a merger with US Airways in 2013, which will create the largest air transport company in
+the U.S.
+ANSWER: American Airlines
+Physical Sciences: Fluid Mechanics
+Team B: Pascal's states that, neglecting gravity, this quantity in a fluid in equilibrium is the same
+everywhere. Name this quantity that is equal to force per unit area.
+ANSWER: pressure
+Team A: What quantity is a measure of a fluid's resistance to flow?
+ANSWER: viscosity
+Tossup: At the Landau critical form of this quantity, excitations first gain negative energy. In an irrotational
+fluid field, this quantity is related to pressure by the Bernoulli equation. The partial derivative of angular
+frequency with respect to wavenumber gives one form of this quantity. Wavelength over period gives the
+"phase" type of this quantity, which is different from the "group" form. For an object in free fall and in a
+perfect vacuum, this quantity equals the local gravitational constant times time, as its derivative is
+acceleration. Name this vector quantity whose magnitude equals an object's speed.
+ANSWER: velocity
+
+OAC 2013
+
+8
+
+Page 4 of 17
+
+World Geography: Unique Animal Geography
+Team A: This Russian lake, the deepest and most voluminous in the world, is the home of the golomyanka,
+a fish that gives birth to live young.
+ANSWER: Lake Baikal
+Team B: This Southeast Asian river which forms a namesake delta in Vietnam is the location of an
+endangered species of dolphin.
+ANSWER: Mekong River
+Tossup: Conservation efforts in this country have failed to get people to stop frying the endangered ludong
+fish; other unique animals in this country include the monkey-eating eagle and the bleeding-heart pigeon.
+All of those species live along its Cagayan River. This country includes speakers of Ilocano and Cebuano,
+though is most prominent indigenous language is Tagalog. Mindanao and Luzon are among its major
+islands. Name this Southeast Asian archipelago-state, the home of Quezon and Manila.
+ANSWER: Republic of the Philippines [or Republika ng Pilipinas]
+American History: Nineteenth Century Politicians
+Team B: What politician from Ohio was the namesake of both an 1890 Antitrust act and a Silver Purchase
+act?
+ANSWER: John Sherman
+Team A: What politician was defeated by Grover Cleveland in the Presidential Election of 1884, in part
+due to Samuel Burchard's "rum, Romanism, and rebellion" speech?
+ANSWER: James Gillespie Blaine
+Tossup: This man was viewed as a traitor to abolitionism following his "Seventh of March" speech, which
+supported the Compromise of 1850. This man defended his alma mater in Dartmouth College v. Woodward
+and represented James McCulloch in McCulloch v. Maryland. In a debate with Robert Hayne, this orator
+declared "liberty and union, one and forever, now and inseperable!" This man negotiated the treaty that
+ended the Arostook War with Baron Ashburton. Name this Senator from Massachusetts who, along with
+John Calhoun and Henry Clay, made up the Senate's "Great Triumvirate."
+ANSWER: Daniel Webster
+
+OAC 2013
+
+8
+
+Page 5 of 17
+
+Alphabet Round - Letter V
+1. What type of being is killed by Quincy Morris’s wooden stake in Bram Stoker’s most famous novel?
+2. The Hall effect produces what electromagnetic quantity across a conductor transverse to a perpendicular magnetic field?
+3. What divine bard befriends the smith Ilmarinen in the Finnish epic Kalevala?
+4. Which Ohio politician, a leading Copperhead, escaped to Canada after accusations of treason during the Civil War?
+5. (MULTIPLE WORD ANSWER) What 2005 comic book film inspired members of the hacking group Anonymous to wear
+its anarchist central character’s Guy Fawkes mask?
+6. What term names the people who swore fealty to a lord under feudalism, be they peasants or knights?
+7. What thin tube-like structures, often colored blue on circulatory diagrams, carry deoxygenated blood in the body?
+8. What parts of speech can be auxiliary, have aspect, or be in subjunctive mood?
+9. What fluid quantity can be measured in units of poise for its dynamic variant and in stokes for its kinematic variant?
+10. What Hitchcock film, set in San Francisco, features the mentally-troubled retired detective Scottie Ferguson and ends on a
+bell tower?
+11. Italian and Old Spanish emerged as languages from what commoner’s dialect of the late Roman Empire and early Middle
+Ages?
+12. What term describes electromagnetic waves with a wavelength between 400 and 800 nanometers, or between infrared and
+ultraviolet regions of the spectrum?
+13. What painter of The Milkmaid featured another everyday Dutch woman in Girl with a Pearl Earring ?
+14. (MULTIPLE WORD ANSWER) What literary setting in The Great Gatsby is watched over by a billboard featuring the
+eyes of T.J. Eckleburg?
+15. What instrument has the solo in Berlioz’s Harold in Italy and has its lowest string tuned to the C below middle C?
+16. What mythical Norse hall receives slain warriors after their glorious deaths in battle and holds them until Ragnarok?
+17. What Nazi German rockets, propelled by liquid fuel, hit British targets late in World War II, as depicted in Thomas
+Pynchon’s novel Gravity’s Rainbow?
+18. What property does a philosophical argument have if its conclusion is necessarily true, assuming that all its premises are also
+true?
+19. What name did Leif Erikson’s Vikings give to the landmass they found in North America?
+20. What large seaport in Chile is 75 miles northwest of Santiago?
+
+OAC 2013
+
+8
+
+Page 6 of 17
+
+Alphabet Round - Letter V ANSWERS
+1. vampires
+2. Hall voltage difference
+3. Vainamoinen
+4. Clement Vallandigham
+5. V for Vendetta
+6. vassals
+7. veins [prompt on blood vessels]
+8. verbs
+9. viscosity
+10. Vertigo
+11. Vulgar Latin
+12. visible spectrum
+13. Jan Vermeer
+14. Valley of the Ashes
+15. viola
+16. Valhalla
+17. V-2 rockets [or Vergeltungswaffe 2; or A4; or Aggregat-4]
+18. argumentative validity
+19. Vinland
+20. Valparaiso, Chile
+
+OAC 2013
+
+8
+
+Page 7 of 17
+
+FINAL ROUND
+1. This genre, along with the canon, is found in a work based on a theme composed by Frederick the Great,
+The Musical Offering. Each work in this type is paired with a prelude in The Well-Tempered Clavier. This
+genre is defined by the presence of multiple lines of counterpoint being played at the same time. Identify
+this musical genre, named for the Latin for “flight,” which J.S. Bach used in a work titled for the “art” of
+this form.
+ANSWER: fugues
+019-13-81-08101
+
+2. An equation for determining the net external value of this phenomenon rewrites Newton's second law as
+being equal to I times alpha. By facing fingers in the direction of an applied force, the right hand rule can
+be used to have the thumb point in the direction of this force. This force is equal to r F times the sine of
+theta, where theta is the angle at which the force is being applied around a pivot. Name this physics
+phenomenon defined as the tendency for an applied force to cause an object to rotate.
+ANSWER: torque [or moment of force; or moment of a force]
+023-13-81-08102
+
+3. This character describes “arms that are braceleted and white and bare” and laments how he is “pinned
+and wriggling on the wall.” In a textbook example of synecdoche, he states, “I should have been a pair of
+ragged claws scuttling across the floors of silent seas.” Twice he notes how “in the room the women come
+and go talking of Michelangelo.” He begins by saying, “Let us go then, you and I, when the evening is
+spread out against the sky.” Name this character who declaims his own “love song” in a dramatic
+monologue by T. S. Eliot.
+ANSWER: J. Alfred Prufrock [or J. Alfred Prufrock]
+014-13-81-08103
+
+4. One example of this device uses a parabolic primary mirror and hyperbolic secondary mirror and was
+invented by Laurent Cassegrain. There are three primary types of this device: refracting, reflecting and
+catadioptric. Hans Lipperhey is commonly associated with the invention of this device. An improved
+version of this device that consisted of a convergent objective lens and a divergent eyepiece lens was
+created by Galileo. Identify this device commonly used to magnify and observe astronomical objects.
+ANSWER: optical telescope [or reflecting telescope before it is read]
+066-13-81-08104
+
+5. This organ is surrounded by lymphatic capillaries known as lacteals. I cells in the mucosal epithelium of
+this organ secrete the hormone cholecystokinin. The autoimmune celiac disease drastically changes the
+morphology of this organ, the site of sodium bicarbonate and vitamin B12 absorption. This organ's surface
+area is greatly expanded by villi. This organ consists of three main segments: the ileum, the jejunum, and
+the duodenum. Name this digestive organ that follows the stomach and precedes a "large" variant in the GI
+tract.
+ANSWER: small intestine [prompt on intestine; do NOT accept large intestine]
+020-13-81-08105
+
+6. One literary work in this genre was written as a sequel to one by Matteo Maria Boiardo, and includes
+Astolfo’s trip to the moon to recover the title character’s wits. Besides Ludovico Ariosto’s Orlando
+Furioso, other works in this genre include one in which Alde dies of grief after the title character is killed at
+Roncesvalles. Another work in this genre begins by asking a goddess to sing of the rage of Achilles. Name
+this type of narrative poem exemplified by The Song of Roland and the Iliad.
+ANSWER: epic poems [or epics]
+014-13-81-08106
+
+OAC 2013
+
+8
+
+Page 8 of 17
+
+7. This country's Skomer Island and Ramsey Island are located within St. Bride's Bay, which, along with
+Cardigan Bay, indents this country's western coast. Carmel Head is on its island of Anglesey, and the
+Cambrians cut through its middle. Snowdonia is a region in this country, which is north of the Bristol
+Channel, on which lie Swansea and Cardiff, its capital. Name this constituent country of the United
+Kingdom, located west of England.
+ANSWER: Wales [or Cymru; prompt on UK or United Kingdom until "capital" is read; do not accept or
+prompt on "Britain," "England," etc.]
+192-13-81-08107
+
+8. This President won an election in which his opponent dismissed a tariff as being "a local question."
+Stephen Dorsey and Thomas Brady were implicated in an investigation by this man's Postmaster General,
+Thomas James, during the Star Route Scandal. This man defeated Winfield Scott Hancock in his only
+election bid. An attack on this President in a station of the Baltimore and Potomac Railroad led his
+successor to pass the Pendleton Act. Identify this President who was assassinated by Charles Guiteau.
+ANSWER: James Abram Garfield
+189-13-81-08108
+
+9. An early episode in this show features a then-experimental procedure of pericardiocentesis on a patient
+suffering from dropsy. On this show, Charles Grigg tries to blackmail his former vaudeville partner,
+Charles Carosn, who is now a butler. On this television show, the Turkish diplomat Kemal Pamuk dies in
+the room of Mary; the secret removal of his body is witnessed by the kitchen maid Daisy. The death of
+Vera leads to the conviction of John Bates, the valet for Lord Grantham, for her murder on this show. What
+PBS show of British origin centers on the Crawley family?
+ANSWER: Downton Abbey
+088-13-81-08109
+
+10. This man's actions are history "as tragedy," as opposed to their repetition as "farce," according to Karl
+Marx. This man's brother Joseph was opposed in the siege of Salamanca during the Peninsular War. Abbe
+Sieyes (see-ESS) supported this man's coup of 18 Brumaire against the Directory, and his losses included
+the Battles of Leipzig and Borodino. This ruler died in exile on St. Helena. Name this First Consul who was
+previously exiled to Elba, a short emperor who lost at Waterloo.
+ANSWER: Napoleon Bonaparte [or Napoleon I; prompt on Bonaparte]
+104-13-81-08110
+
+11. A "superheavy" entity of this kind may contain both a branching nucleus and a coda; the other segment
+present in the general structure of these entities is the onset. Hermann Ebbinghaus developed learning and
+forgetting curves by memorizing "nonsense" ones. "Open" ones may have up to four different tones in
+Mandarin Chinese. Tablets unearthed in Ur reveal the shift from pictograms to these in depicting writing.
+These units appear in five-seven-five fashion in haikus. Name these component bits of words, two of which
+are found in the word "water."
+ANSWER: syllables
+020-13-81-08111
+
+12. When multiplied on both sides by a matrix A, the matrix denoted by "pseudo-" this term is equal to A.
+In traditional logic, it is a conditional sentence that is the contrapositive of the converse. When applied to
+the output of a function f, a function of this type yields the argument to f. It is the element of a set that
+yields the identity of that set, giving zero and one for addition and multiplication, respectively. Name this
+operation usually signified by a superscript negative one.
+ANSWER: inverse
+066-13-81-08112
+
+OAC 2013
+
+8
+
+Page 9 of 17
+
+13. This president turned away from the socialistic policies of his predecessor with the "opening" or
+"infitah" program, which led to bread riots in 1977. Later that year, he made a landmark address to the
+Knesset (keh-NESS-it), which set up his meetings with Menachem Begin (meh-NOCK-um BAY-gin).
+Khalid Islambouli assassinated this man in 1981, upset at the resultant peace agreement. Name this man
+who succeeded Gamel Nasser as president of Egypt and negotiated peace with Israel.
+ANSWER: Muhammad Anwar el-Sadat
+019-13-81-08113
+
+14. Parts of this law were invalidated by the Peace of Alès (ah-LAY) thirty years later. Disputes caused by
+it were heard in the Chambre de l'Edit (SHOMB-breh del-EE-deet). This law guaranteed eight years of
+safety for currently occupied fortresses, which it termed "places de surete" (PLASS day soor-ey-TAY).
+This law was completely revoked in 1685 by Louis XIV's Edict of Fontainebleau. Name this 1598
+promulgation by Henry IV that protected Huguenots in France.
+ANSWER: Edict of Nantes [or Edit De Nantes]
+019-13-81-08114
+
+15. A Friedrich Nietzsche concept named after this deity represents order in The Birth of Tragedy. A wind
+from Zephyrus blew this god’s fatal discus throw at Hyacinthus. This deity’s plague arrows strike the
+Greeks in the Iliad. Daphne became a laurel tree to avoid this god, who the oracle of Delphi served. Hermes
+gave this god a lyre in his role as god of poetry and music. Name this brother of Artemis, who, like Helios,
+represents the sun.
+ANSWER: Phoebus Apollo [or Apollon; or "the Apollonian"]
+104-13-81-08115
+
+16. This character's accent was adopted from the photographer Weegee. He uses a slide rule to calculate
+that a female-dominated sample of the human race could emerge from a mine shaft after one hundred years.
+In the original screenplay, he was named "Von Klutz." Mr. Staines explains to General Turgidson why this
+character does not have a "Kraut name." He suffers from alien hand syndrome, and his last appearance is
+rising from his wheelchair, shouting "Mein Führer! I can walk!" Name this Peter Sellers-played character
+who titles a 1964 Stanley Kubrick film about nuclear war.
+ANSWER: Dr. Strangelove
+019-13-81-08116
+
+17. In one of this author’s stories, a coalmining accident kills Elizabeth's husband Walter, while in another,
+a boy can predict the outcome of horse races. This author of "Odour of Chrysanthemums" and “The
+Rocking-Horse Winner” wrote about the relationship of Ursula Brangwen and Rupert Birkin in his Women
+in Love. Another novel by this author follows the relationship between the gamekeeper Oliver Mellors and
+the upper class lady Constance. Name this British novelist of Lady Chatterley’s Lover.
+ANSWER: D. H. Lawrence [or David Herbert Lawrence]
+149-13-81-08117
+
+18. In this novel, a psychic named Landau urges one character to reject a plea for divorce. One character in
+this novel is scolded by her husband after an emotional outburst during an accident involving Gladiator and
+Frou-Frou at a racetrack. The protagonist reconciles Dolly and Stiva following Stiva’s affair with their
+children’s governess in this novel, in which Konstantin Levin attempts to create a model farming
+community in this work with his wife Kitty. Name this novel in which the title character has an affair with
+Count Vronsky, a work by Leo Tolstoy.
+ANSWER: Anna Karenina
+030-13-81-08118
+
+OAC 2013
+
+8
+
+Page 10 of 17
+
+19. This man is shown to the left of an empty chair draped with an ornate cloak, symbolizing rejected
+kingship, in a painting that shows him "resigning his commission." He is the subject of the Vaughan and
+Athenaum portraits. His right hand stretches out over a red-draped table with a quill while his left hand
+holds a sword in the Lansdowne portrait; those three paintings of him are by Gilbert Stuart. Identify this
+person whom Emmanuel Leutze depicted in a boat on icy waters "crossing the Delaware."
+ANSWER: George Washington
+019-13-81-08119
+
+20. Some authorities assert that this object symbolizes the four exiles in Babylon, Persia, Greece, and
+Rome. It displays an acronym for the phrase "nes gadol hayah sham” (NESS gah-DOLE hi-AH SHAHM),
+meaning “a great miracle happened there.” Depending on which letter is facing up, players of this object
+may contribute, do nothing, or take half or all of the pot. Identify this top-like device which is used to play
+a traditional game on Hannukah.
+ANSWER: a dreidel
+019-13-81-08120
+
+OAC 2013
+
+8
+
+Page 11 of 17
+
+Alphabet Round - Letter V
+1. What type of being is killed by Quincy Morris’s wooden stake in Bram Stoker’s most famous novel?
+2. The Hall effect produces what electromagnetic quantity across a conductor transverse to a perpendicular magnetic field?
+3. What divine bard befriends the smith Ilmarinen in the Finnish epic Kalevala?
+4. Which Ohio politician, a leading Copperhead, escaped to Canada after accusations of treason during the Civil War?
+5. (MULTIPLE WORD ANSWER) What 2005 comic book film inspired members of the hacking group Anonymous to wear
+its anarchist central character’s Guy Fawkes mask?
+6. What term names the people who swore fealty to a lord under feudalism, be they peasants or knights?
+7. What thin tube-like structures, often colored blue on circulatory diagrams, carry deoxygenated blood in the body?
+8. What parts of speech can be auxiliary, have aspect, or be in subjunctive mood?
+9. What fluid quantity can be measured in units of poise for its dynamic variant and in stokes for its kinematic variant?
+10. What Hitchcock film, set in San Francisco, features the mentally-troubled retired detective Scottie Ferguson and ends on a
+bell tower?
+11. Italian and Old Spanish emerged as languages from what commoner’s dialect of the late Roman Empire and early Middle
+Ages?
+12. What term describes electromagnetic waves with a wavelength between 400 and 800 nanometers, or between infrared and
+ultraviolet regions of the spectrum?
+13. What painter of The Milkmaid featured another everyday Dutch woman in Girl with a Pearl Earring ?
+14. (MULTIPLE WORD ANSWER) What literary setting in The Great Gatsby is watched over by a billboard featuring the
+eyes of T.J. Eckleburg?
+15. What instrument has the solo in Berlioz’s Harold in Italy and has its lowest string tuned to the C below middle C?
+16. What mythical Norse hall receives slain warriors after their glorious deaths in battle and holds them until Ragnarok?
+17. What Nazi German rockets, propelled by liquid fuel, hit British targets late in World War II, as depicted in Thomas
+Pynchon’s novel Gravity’s Rainbow?
+18. What property does a philosophical argument have if its conclusion is necessarily true, assuming that all its premises are also
+true?
+19. What name did Leif Erikson’s Vikings give to the landmass they found in North America?
+20. What large seaport in Chile is 75 miles northwest of Santiago?
+
+OAC 2013
+
+8
+
+Page 12 of 17
+
+Alphabet Round - Letter V
+1. What type of being is killed by Quincy Morris’s wooden stake in Bram Stoker’s most famous novel?
+2. The Hall effect produces what electromagnetic quantity across a conductor transverse to a perpendicular magnetic field?
+3. What divine bard befriends the smith Ilmarinen in the Finnish epic Kalevala?
+4. Which Ohio politician, a leading Copperhead, escaped to Canada after accusations of treason during the Civil War?
+5. (MULTIPLE WORD ANSWER) What 2005 comic book film inspired members of the hacking group Anonymous to wear
+its anarchist central character’s Guy Fawkes mask?
+6. What term names the people who swore fealty to a lord under feudalism, be they peasants or knights?
+7. What thin tube-like structures, often colored blue on circulatory diagrams, carry deoxygenated blood in the body?
+8. What parts of speech can be auxiliary, have aspect, or be in subjunctive mood?
+9. What fluid quantity can be measured in units of poise for its dynamic variant and in stokes for its kinematic variant?
+10. What Hitchcock film, set in San Francisco, features the mentally-troubled retired detective Scottie Ferguson and ends on a
+bell tower?
+11. Italian and Old Spanish emerged as languages from what commoner’s dialect of the late Roman Empire and early Middle
+Ages?
+12. What term describes electromagnetic waves with a wavelength between 400 and 800 nanometers, or between infrared and
+ultraviolet regions of the spectrum?
+13. What painter of The Milkmaid featured another everyday Dutch woman in Girl with a Pearl Earring ?
+14. (MULTIPLE WORD ANSWER) What literary setting in The Great Gatsby is watched over by a billboard featuring the
+eyes of T.J. Eckleburg?
+15. What instrument has the solo in Berlioz’s Harold in Italy and has its lowest string tuned to the C below middle C?
+16. What mythical Norse hall receives slain warriors after their glorious deaths in battle and holds them until Ragnarok?
+17. What Nazi German rockets, propelled by liquid fuel, hit British targets late in World War II, as depicted in Thomas
+Pynchon’s novel Gravity’s Rainbow?
+18. What property does a philosophical argument have if its conclusion is necessarily true, assuming that all its premises are also
+true?
+19. What name did Leif Erikson’s Vikings give to the landmass they found in North America?
+20. What large seaport in Chile is 75 miles northwest of Santiago?
+
+OAC 2013
+
+8
+
+Page 13 of 17
+
+Alphabet Round - Letter V
+1. What type of being is killed by Quincy Morris’s wooden stake in Bram Stoker’s most famous novel?
+2. The Hall effect produces what electromagnetic quantity across a conductor transverse to a perpendicular magnetic field?
+3. What divine bard befriends the smith Ilmarinen in the Finnish epic Kalevala?
+4. Which Ohio politician, a leading Copperhead, escaped to Canada after accusations of treason during the Civil War?
+5. (MULTIPLE WORD ANSWER) What 2005 comic book film inspired members of the hacking group Anonymous to wear
+its anarchist central character’s Guy Fawkes mask?
+6. What term names the people who swore fealty to a lord under feudalism, be they peasants or knights?
+7. What thin tube-like structures, often colored blue on circulatory diagrams, carry deoxygenated blood in the body?
+8. What parts of speech can be auxiliary, have aspect, or be in subjunctive mood?
+9. What fluid quantity can be measured in units of poise for its dynamic variant and in stokes for its kinematic variant?
+10. What Hitchcock film, set in San Francisco, features the mentally-troubled retired detective Scottie Ferguson and ends on a
+bell tower?
+11. Italian and Old Spanish emerged as languages from what commoner’s dialect of the late Roman Empire and early Middle
+Ages?
+12. What term describes electromagnetic waves with a wavelength between 400 and 800 nanometers, or between infrared and
+ultraviolet regions of the spectrum?
+13. What painter of The Milkmaid featured another everyday Dutch woman in Girl with a Pearl Earring ?
+14. (MULTIPLE WORD ANSWER) What literary setting in The Great Gatsby is watched over by a billboard featuring the
+eyes of T.J. Eckleburg?
+15. What instrument has the solo in Berlioz’s Harold in Italy and has its lowest string tuned to the C below middle C?
+16. What mythical Norse hall receives slain warriors after their glorious deaths in battle and holds them until Ragnarok?
+17. What Nazi German rockets, propelled by liquid fuel, hit British targets late in World War II, as depicted in Thomas
+Pynchon’s novel Gravity’s Rainbow?
+18. What property does a philosophical argument have if its conclusion is necessarily true, assuming that all its premises are also
+true?
+19. What name did Leif Erikson’s Vikings give to the landmass they found in North America?
+20. What large seaport in Chile is 75 miles northwest of Santiago?
+
+OAC 2013
+
+8
+
+Page 14 of 17
+
+Alphabet Round - Letter V
+1. What type of being is killed by Quincy Morris’s wooden stake in Bram Stoker’s most famous novel?
+2. The Hall effect produces what electromagnetic quantity across a conductor transverse to a perpendicular magnetic field?
+3. What divine bard befriends the smith Ilmarinen in the Finnish epic Kalevala?
+4. Which Ohio politician, a leading Copperhead, escaped to Canada after accusations of treason during the Civil War?
+5. (MULTIPLE WORD ANSWER) What 2005 comic book film inspired members of the hacking group Anonymous to wear
+its anarchist central character’s Guy Fawkes mask?
+6. What term names the people who swore fealty to a lord under feudalism, be they peasants or knights?
+7. What thin tube-like structures, often colored blue on circulatory diagrams, carry deoxygenated blood in the body?
+8. What parts of speech can be auxiliary, have aspect, or be in subjunctive mood?
+9. What fluid quantity can be measured in units of poise for its dynamic variant and in stokes for its kinematic variant?
+10. What Hitchcock film, set in San Francisco, features the mentally-troubled retired detective Scottie Ferguson and ends on a
+bell tower?
+11. Italian and Old Spanish emerged as languages from what commoner’s dialect of the late Roman Empire and early Middle
+Ages?
+12. What term describes electromagnetic waves with a wavelength between 400 and 800 nanometers, or between infrared and
+ultraviolet regions of the spectrum?
+13. What painter of The Milkmaid featured another everyday Dutch woman in Girl with a Pearl Earring ?
+14. (MULTIPLE WORD ANSWER) What literary setting in The Great Gatsby is watched over by a billboard featuring the
+eyes of T.J. Eckleburg?
+15. What instrument has the solo in Berlioz’s Harold in Italy and has its lowest string tuned to the C below middle C?
+16. What mythical Norse hall receives slain warriors after their glorious deaths in battle and holds them until Ragnarok?
+17. What Nazi German rockets, propelled by liquid fuel, hit British targets late in World War II, as depicted in Thomas
+Pynchon’s novel Gravity’s Rainbow?
+18. What property does a philosophical argument have if its conclusion is necessarily true, assuming that all its premises are also
+true?
+19. What name did Leif Erikson’s Vikings give to the landmass they found in North America?
+20. What large seaport in Chile is 75 miles northwest of Santiago?
+
+OAC 2013
+
+8
+
+Page 15 of 17
+
+Alphabet Round - Letter V
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+8
+
+Page 16 of 17
+
+Alphabet Round - Letter V
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+8
+
+Page 17 of 17
+
+

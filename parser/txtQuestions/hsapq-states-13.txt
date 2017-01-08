@@ -1,0 +1,317 @@
+HSAPQ State Series - 2014 State Finals
+Round 13
+First Period: Tossups with Bonus
+
+1. This author wrote a story in which Mrs. Pike recognizes Mr. Petrie as a fugitive rapist from
+California. This author of "Petrified Man" also created a character named Sonny, who helps the
+protagonist after his car falls in a ravine. Phoenix Jackson travels to Natchez in order to pick up
+medicine for her grandson in this author's "A (*) Worn Path," and she wrote a story in which
+Stella-Rondo brings home Shirley T. on Independence Day. For 10 points, name this American author of
+"Why I Live at the P.O."
+ANSWER: Eudora Welty
+227-14-102-13101
+
+BONUS: RSA is an example of a public-key system used to accomplish what process?
+ANSWER: encryption
+014-14-102-1310-11
+
+2. Invariants named for these constructs are true after every time they are executed. A type of them
+whose name is prefixed with "do" checks the termination condition at the end, rather than the
+beginning. One can go to the beginning of one of them with the "continue" command, or leave one
+entirely with the (*) "break" command. These constructs come in "while" and "for" types. For 10 points,
+name these repeating pieces of code, an "infinite" one of which will cause a program to run forever.
+ANSWER: loops [or specific answers, such as for loops or while loops]
+132-14-102-13102
+
+BONUS: What sixth-century Pope, known as "the Great," is the namesake of a type of chant?
+ANSWER: Gregory the Great [or Gregory I]
+014-14-102-1310-11
+
+3. After the Sharpeville Massacre, this man became the commander of the newly formed Spear of the
+Nation. During the Rivonia Trial, he gave the "I am Prepared to Die" speech. This leader established
+the Truth and Reconciliation Commission after sharing the Nobel Peace Prize with F.W. (*) de Klerk.
+He spent eighteen years imprisoned on Robben Island before winning a 1994 election that was the first to
+allow black voters. For 10 points, name this president of South Africa who helped to end apartheid.
+ANSWER: Nelson Rolihlahla Mandela
+023-14-102-13103
+
+BONUS: Okonkwo is the protagonist of what Chinua Achebe novel about Umuofia (OOM-woh-FEE-uh)?
+ANSWER: Things Fall Apart
+014-14-102-1310-11
+
+4. The text of the Monroe Doctrine was mainly authored by this man while he was Secretary of State.
+This man won an election that included William Crawford as a candidate. He is the only President to
+follow his time in office by serving in the House of Representatives. Henry Clay agreed to serve as the
+Secretary of (*) State for this President, in return for swinging the election of 1824. For 10 points, name
+this man who used the "Corrupt Bargain" to defeat Andrew Jackson and was the first son of a President to
+hold the office.
+ANSWER: John Quincy Adams [prompt on Adams; do not accept "John Adams"]
+023-14-102-13104
+
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 1 of 8
+
+BONUS: In May of 2013, mayor Dave Bing announced that what American city was forced to declare
+bankruptcy?
+ANSWER: Detroit
+015-14-102-1310-11
+
+5. This MLB team's ballpark has stands in left field called the Crawford Boxes. During the 1990s and
+early 2000s, this team's lineup included the "Killer Bs," comprised of Derek Bell, Lance Berkman,
+Craig Biggio, and Jeff Bagwell. Tal's Hill and a train on a track above left field are features of this
+team's (*) Minute Maid Park. In 2013, this team drafted Mark Appel first overall and moved into the
+American League. For 10 points, name this MLB team that plays the Lone Star Series against its in-state
+rival Texas Rangers.
+ANSWER: Houston Astros [or Houston Astros]
+023-14-102-13105
+
+BONUS: What DNA base forms namesake dimers when exposed to UV light and is replaced by uracil in
+RNA?
+ANSWER: thymine [or T; or thymidine]
+048-14-102-1310-11
+
+6. This quantity can be calculated as the square root of the ratio of the permittivity to the
+permittivity of free space. A material that is birefringent (BYE-ruh-FRIN-jent) has multiple values
+for this quantity. Snell's law gives the ratio of the angles of (*) incidence as a ratio of this quantity for
+two mediums. It is equal to the ratio of the speed of light in a vacuum to that in a particular medium. For 10
+points, identify this quantity that is important to a phenomenon that makes straws appear bent in water.
+ANSWER: index of refraction [or refractive index]
+226-14-102-13106
+
+BONUS: What dictator of Cambodia and leader of the Khmer Rouge created the "killing fields?"
+ANSWER: Pol Pot [or Saloth Sar]
+014-14-102-1310-11
+
+7. This goddess pulled a handful of hair out of the chest of Brontes after he placed her on his knee.
+This goddess killed the giants Otus and Ephialtes by tricking them into throwing a spear at each
+other. This goddess sent a boar to rampage through Calydon. (*) Actaeon was transformed into a stag
+after he witnessed her bathing in a stream, and Leto gave birth to this goddess on Delos with her brother.
+For 10 points, name this Greco-Roman goddess of the moon and the twin sister of Apollo.
+ANSWER: Artemis [or Diana]
+227-14-102-13107
+
+BONUS: What name is given to the moment of greatest intensity in a narrative, conventionally thought of
+as being followed by the “falling action”?
+ANSWER: climax
+014-14-102-1310-11
+
+8. In Kafka on the Shore, Johnnie Walker kidnaps one of these animals named Goma. Bengalsky is
+decapitated by one of these animals named Behemoth in The Master and Margarita. Thomas Gray
+composed an ode on the death of a favorite one of these animals. T. S. Eliot included (*) "Bustopher
+Jones" and "Macavity" in "Old Possum's Book of Practical" ones. For 10 points, name this animal that, in a
+Tennessee Williams play, is "on a hot tin roof."
+ANSWER: cats [or obvious equivalents]
+198-14-102-13108
+
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 2 of 8
+
+BONUS: What English actor voiced both Smaug and the Necromancer in The Hobbit?
+ANSWER: Benedict Cumberbatch
+014-14-102-1310-11
+
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 3 of 8
+
+Second Period: Directed Round
+
+SET A:
+1. BONUS: What Austrian composer developed the twelve-tone technique and composed the string sextet
+Transfigured Night?
+ANSWER: Arnold Schoenberg
+014-14-102-1310-12
+
+2. BONUS: What letter denotes the speed of light in physics and is given to a vitamin also known as
+ascorbic acid?
+ANSWER: c
+014-14-102-1310-12
+
+3. BONUS: What Scottish mathematician developed logarithms and produced a number of tables with their
+values?
+ANSWER: John Napier
+014-14-102-1310-12
+
+4. BONUS: This is a 20-second calculation question. A school brings six players to a quizbowl tournament.
+How many different ways are there to pick four players to play in a given round?
+ANSWER: 15
+190-14-102-1310-12
+
+SET B:
+1. BONUS: What Giuseppe Verdi opera is about an Ethiopian princess?
+ANSWER: Aida
+014-14-102-1310-12
+
+2. BONUS: What politician forced Treaty of Velasco by defeating Santa Anna at San Jacinto
+(ha-SEEN-toe) to become the first president of the Republic of Texas?
+ANSWER: Sam Houston
+015-14-102-1310-12
+
+3. BONUS: What Byzantine emperor was challenged by the Nika riots?
+ANSWER: Justinian I [or Justinian the Great]
+014-14-102-1310-12
+
+4. BONUS: This is a 20-second calculation question. What is the period of the sinusoid “y = 3 sine x”?
+ANSWER: 2 pi radians [or 360 degrees]
+190-14-102-1310-12
+
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 4 of 8
+
+Third Period: Tossups With Bonus
+
+9. In a 2000 Supreme Court case, this organization was allowed to expel New Jersey leader James
+Dale. This organization, one of the few Congressionally chartered groups in America, expanded
+during the conservationist era under the leadership of Daniel Carter Beard and Ernest Thompson.
+As of 2014, it has retreated from a policy prohibiting (*) gay members, but has not changed its stance on
+leaders. For 10 points, name this organization which teaches outdoor skills and patriotism.
+ANSWER: Boy Scouts of America
+019-14-102-13109
+
+BONUS: What poem's first section, "The Burial of the Dead," begins with the line, "April is the cruelest
+month?"
+ANSWER: The Waste Land
+014-14-102-1310-11
+
+10. One of this author's characters is mentored by a church organist named Pistorius and frequently
+obsesses about his friend's mother, Frau Eva. In another of this author's novels, the protagonist
+spends his days listening to a river, eventually becoming a (*) ferryman, after his lover Kamala dies
+from a snakebite. This author wrote a novel set in Castalia about Joseph Knecht, who strives to become a
+Magister Ludi, or master of The Glass Bead Game. For 10 points, name this German author of Demian and
+Siddhartha.
+ANSWER: Hermann Hesse
+190-14-102-13110
+
+BONUS: What beautiful youth spurned Echo and died after falling in love with his own reflection?
+ANSWER: Narcissus
+014-14-102-1310-11
+
+11. The scientific name of an animal named for this color is Balaenoptera musculus. This color is
+produced by radiation from particles modeled by the Frank-Tamm formula. Ferrocyanide salts can
+be found in a pigment of this color named for Prussia. Stars of this color inhabit the left part of the
+Hertzsprung-Russell diagram, which includes the star (*) Rigel (RYE-jul). A solvated electron forms
+when alkali metals are dissolved in ammonia, displaying this color. It is not green, but solutions of copper
+ions are this color. For 10 points, what color does Rayleigh scattering impart to the sky?
+ANSWER: blue
+239-14-102-13111
+
+BONUS: This is a 30-second calculation question. If f(x) ["f of x"] equals 4x+3 and g(x) equals 2x2 - 5,
+find f composed with g; that is, find f of g of x.
+ANSWER: 8x2 - 17
+037-14-102-1310-11
+
+12. The Euler-Mascheroni (OY-lur mash-uh-ROH-nee) constant is the limit of the difference between
+this function and the harmonic series. The coefficients of its Taylor series centered at one are the
+terms of the alternating harmonic sequence. Its derivative is (*) "one over x". The value of this function
+applied to a product of numbers equals the sum of this function applied to each number separately. Its base
+is approximately 2.718. For 10 points, name this function inverse to the exponential function.
+ANSWER: natural logarithm [or base-e logarithm]
+121-14-102-13112
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 5 of 8
+
+BONUS: What protein, encoded by HIV, allows the synthesis of DNA from RNA?
+ANSWER: reverse transcriptase [or RT]
+048-14-102-1310-11
+
+13. Eight men died trying to end this event in Operation Eagle Claw. Frank Reynolds was the
+original host of a show started during this event; that show, later hosted by Ted Koppel, was ABC's
+Nightline. Six people escaped this event thanks to the (*) Canadian Caper. This event was ended minutes
+after the inauguration of Ronald Reagan. For 10 points, name this event during the Carter administration
+that lasted for 444 days and included fifty-two Americans being held against their will in Tehran.
+ANSWER: Iran hostage crisis
+023-14-102-13113
+
+BONUS: What Middle Eastern country is the headquarters of Al-Jazeera and will host the 2022 FIFA
+World Cup?
+ANSWER: Qatar
+015-14-102-1310-11
+
+14. Escaped slaves living in this area inspired Harriet Beecher Stowe's novel Dred. This area contains
+the larger of only two natural lakes in its state, Lake Drummond. George Washington surveyed it
+and suggested building a canal connecting the Albemarle Sound with the (*) Chesapeake Bay. This
+marsh's current borders touch Camden County in the south and the cities of Chesapeake and Suffolk in the
+north. For 10 points, name this swamp in southeast Virginia and northeast North Carolina.
+ANSWER: Great Dismal Swamp
+121-14-102-13114
+
+BONUS: What Greek historian recorded the funeral oration of Pericles in his History of the Peloponnesian
+War?
+ANSWER: Thucydides
+014-14-102-1310-11
+
+15. The protagonist of a novel by this author convinces Captain Anderson to allow James Colley to
+perform a religious service on Anderson's ship. In another of his novels, Christopher Martin
+recounts his life as he dies in the North Atlantic. This author of Rites of Passage and Pincher Martin
+described how a dead (*) parachutist frightens a group of boys, who mistake the body for "the Beast" that
+haunts the island on which they have been stranded. For 10 points, name this British novelist of Lord of the
+Flies.
+ANSWER: William Golding
+121-14-102-13115
+
+BONUS: What Greek term denotes the use of excessive exaggeration as a figure of speech?
+ANSWER: hyperbole
+014-14-102-1310-11
+
+16. This man was taught music by the German Julius Weiss. He may have named one of his pieces
+after a club in Sedalia, Missouri. The title character is saved from being thrown into a wasps’ nest in
+this composer's opera (*) Treemonisha. In the 1970s, one of his pieces became the theme song for the
+movie The Sting. This man wrote the compositions “The Entertainer” and “Maple Leaf Rag.” For 10
+points, name this African-American composer known as the “King of Ragtime.”
+ANSWER: Scott Joplin
+052-14-102-13116
+
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 6 of 8
+
+BONUS: The protagonist of what novel dreams of lions on a beach in Africa, and continuously mentions
+the baseball player Joe DiMaggio as his idol?
+ANSWER: The Old Man and the Sea
+227-14-102-1310-11
+
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 7 of 8
+
+Tiebreakers/Extras
+
+17. In this country, workers building the Stalinallee Boulevard rioted against the government in
+1953. This country attempted to create a more efficient economy through Wolfgang Berger's New
+Economic System. Kurt Wismach shouted for free elections to be held in this country while Walter
+(*) Ulbricht gave a speech. This country enacted a plan of "consumer socialism" while led by Erich
+Honecker. This country employed the Stasi police force and was where the Berlin Wall was built. For 10
+points, name this former country that was reunited with its western counterpart in 1990.
+ANSWER: East Germany [or GDR; or German Democratic Republic; or Deutsche Demokratische
+Republik; do not accept or prompt on "Germany"]
+186-14-102-13117
+
+BONUS: What band's 1991 album Nevermind featured the hit "Smells Like Teen Spirit?"
+ANSWER: Nirvana
+225-14-102-1310-11
+
+HSAPQ State Series - 2014 State Finals
+
+13
+
+Page 8 of 8
+
+

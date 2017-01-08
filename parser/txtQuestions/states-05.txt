@@ -1,0 +1,455 @@
+2013 VHSL States
+Round 5
+First Period, Fifteen Tossups
+
+1. Ninhydrin turns purple in the presence of these compounds. Naturally, these compounds are found only
+in their L-enantiomeric forms. These compounds exist as zwitterions at neutral pHs because carboxyl
+groups are more acidic than ammonium. These compounds were synthesized from sulfur dioxide, carbon
+dioxide, nitrogen, and water, with the help of an electrical spark, in the Miller-Urey experiment. They form
+a special type of amide bond called a peptide bond. Two of them contain sulfur: methionine and cysteine.
+For 10 points, name these compounds, the constituents of proteins.
+ANSWER: amino acids
+190-13-76-05101
+
+2. This leader was defeated in an election by the Janata Party and Morarji Desai. "Garibi Hatao," a phrase
+meaning "Stop Poverty," was used in several campaigns to elect this leader. The Smiling Buddha nuclear
+test was approved during this leader's tenure. After being indicted by her country's Supreme Court, this
+leader decided to call a State of Emergency in 1975. This woman ordered Operation Blue Star against
+Sikhs at the Golden Temple, which led to her assassination in 1984. For 10 points, name this daughter of
+Jawaharlal Nehru who was a female Prime Minister of India.
+ANSWER: Indira Priyadarshini Gandhi [prompt on Gandhi]
+192-13-76-05102
+
+3. The site of this city's first university is on its "Illuminated Block" in the Monserrat neighborhood.
+Residents of this city are called porteños. The Pink House is the executive mansion near its central plaza,
+which was the site of the "Mothers of the Plaza" demonsrations. That site, Plaza de Mayo, is named for the
+1810 May Revolution that started in this city. It borders the estuary of the confluence of the Paraná and
+Uruguay Rivers, the Río de la Plata. For 10 points, name this capital of Argentina.
+ANSWER: Buenos Aires
+121-13-76-05103
+
+4. In one novel by this author, a photographer publishes a picture of a servant carrying schoolbooks in Life
+magazine. This author’s “coded homage” to the lawyer Bram Fischer is a work in which the communist
+Lionel is Rosa’s father. A different novel by this author of the Burger’s Daughter ends with the title
+character running towards a helicopter and takes place during a war between the Blacks and Whites. In that
+novel, the Smales family moves to their servant’s rural village. For 10 points, name this South African
+author who wrote July’s People.
+ANSWER: Nadine Gordimer
+149-13-76-05104
+
+5. Much of the source material for this opera came from Metastasio's work Nitetti. In the La Scala premiere
+of this opera, the title role was sung by the composer's favorite soprano Teresa Stolz. One character in this
+play confesses her love for a man after falsely hearing that he has died in battle. "O patria mia" and
+"Ritorna vincitor" are sung by the title character, the rival of Amneris and daughter of Amonasro. This
+opera ends in the Temple of Vulcan with the death of the protagonist and her lover, Radames. For 10
+points, name this opera about an Ethiopian princess, by Giuseppe Verdi.
+ANSWER: Aida
+192-13-76-05105
+
+2013 VHSL States
+
+5
+
+Page 1 of 10
+
+6. Beethoven fused this genre with a piano trio in his "Triple" work of this type and introduced three
+recurring, improvisatory cadenzas in the fifth and last of a set of them. Eight bell-like chords open another
+of these works, dedicated to the hypnotist Nikolai Dahl, Rachmaninoff's second piece of this type for piano.
+Arcangelo Corelli composed twelve pieces in a similar form to this one called "grosso" ones. The first
+movements of these pieces often contain a sonata-allegro structure followed by a cadenza, and in general,
+they have a three-movement, fast-slow-fast form. For 10 points, name this type of piece in which a soloist
+"competes" against an orchestra.
+ANSWER: concertos [or piano concertos; or concerti]
+080-13-76-05106
+
+7. This man scored 68 points in a 1977 game against the Knicks, the most points ever scored by a guard at
+the time. This man and Lou Hudson became the second pair of teammates ever to each score 2,000 points
+in a season, doing so for the Hawks. His father Press coached him in high school and college, and he scored
+an SEC-record 69 points in a game against Alabama in 1970 despite the absence of three-pointers at that
+time. This man died while playing a pickup game in 1989, nine years after retiring from the Jazz. 10 points,
+name this LSU basketball player who holds the NCAA Division I record for most points scored and was
+nicknamed “Pistol Pete.”
+ANSWER: Pete Maravich
+030-13-76-05107
+
+8. The influence of Utagawa Hiroshige (hee-row-SHE-gay) on this artist can be seen in his Bridge in the
+Rain and in the background to his portrait of art dealer Pere Tanguy. This artist painted pictures of his
+bedroom and the Yellow House in which he lived in Arles. In one painting, this artist depicted a woman
+pouring coffee at the square table of the five title people, who are lit by a small oil lamp hanging from the
+ceiling. Another painting by this man shows Saint Remy under a swirling evening sky. For 10 points, name
+this Dutch Post-Impressionist who painted The Potato Eaters and The Starry Night.
+ANSWER: Vincent Willem van Gogh
+023-13-76-05108
+
+9. This general captured modern-day Cartagena by sending 500 men in secret over an ebbing lagoon. He
+extended the battle lines on his flanks while holding his center back to win the Battle of Ilipa. Cato tried to
+destroy this man politically due to his affection for Greek culture. In another battle, this general opened
+gaps in his lines to let war elephants pass through and used Masinissa's Numidian cavalry to attack the
+enemy from behind. That strategy used by this man won the Battle of Zama. For 10 points, name this
+Roman general who defeated Hannibal to end the Second Punic War.
+ANSWER: Publius Cornelius Scipio Africanus [or Scipio Africanus the Elder; or Scipio Africanus
+Major]
+080-13-76-05109
+
+10. James Michael Curley served four terms as mayor of this city despite being in prison for part of them.
+In the 1970s, this city experienced a series of race riots after Judge W. Arthur Garrity mandated a busing
+plan. The Lowell and Cabot families were part of the aristocracy dominating this city in the nineteenth
+century nicknamed its "Brahmins." In this city, which experienced a deadly molasses flood in 1919, Whitey
+Bulger was a prominent leader of the Irish Mob. For 10 points, name this city where, in 1773, the Sons of
+Liberty protested against British taxes during a Tea Party.
+ANSWER: Boston
+080-13-76-05110
+
+2013 VHSL States
+
+5
+
+Page 2 of 10
+
+11. The keyword auto is used with these things. These things can be passed to functions using the strategies
+call-by-value or call-by-reference. Camel case and Hungarian notation are two ways to name these things.
+When they are only available inside certain functions, instead of globally, their scope is said to be local.
+Statically typed languages require that these things have their type identified when they are declared; those
+types include int and float. For 10 points, identify these storage locations for data that have a symbolic
+name.
+ANSWER: variables
+066-13-76-05111
+
+12. During this man's presidency, the first commemorative postage stamp was released by his Postmaster
+General, John Wanamaker. William Dudley wanted to use "floaters" to support this man's campaign in the
+"Blocks of Five" scandal. Levi Morton was the running mate of this President. He signed the McKinley
+Tariff and the Sherman Antitrust Act. This President worked with the Billion Dollar Congress. For 10
+points, name this Republican President who served between the two terms of Grover Cleveland.
+ANSWER: Benjamin Harrison [prompt on Harrison]
+149-13-76-05112
+
+13. This man's government created Project Merlin to increase lending to small businesses in 2011. In 2012,
+he met with Alex Salmond to discuss a possible devolution that Salmond advocates. In January 2013, he
+claimed he didn't want to "pull up the drawbridge" in a speech that proposed holding a referendum by 2017
+on whether his country should remain in the EU. This man's party formed a coalition with the Liberal
+Democrats led by Nick Clegg after the 2010 general election. For 10 points, name this prime minister of the
+United Kingdom.
+ANSWER: David Cameron
+121-13-76-05113
+
+14. This character describes “arms that are braceleted and white and bare” and laments how he is “pinned
+and wriggling on the wall.” In a textbook example of synecdoche, he states, “I should have been a pair of
+ragged claws scuttling across the floors of silent seas.” Twice he notes how “in the room the women come
+and go talking of Michelangelo.” He begins by saying, “Let us go then, you and I, when the evening is
+spread out against the sky.” For 10 points, name this character who declaims his own “love song” in a
+dramatic monologue by T. S. Eliot.
+ANSWER: J. Alfred Prufrock [or J. Alfred Prufrock]
+014-13-76-05114
+
+15. This interaction explains why the boiling point for butane is higher than for isobutene despite both
+having the same molecular formula. Willem Keesom explained a type of this interaction that arises from
+molecules having elements with different electronegativities. This force can be caused by the temporary
+clustering of electrons at one end of a molecule, which can create an induced dipole. That dispersion type
+of this force was described by Fritz London. For 10 points, name this force that attracts molecules together
+more weakly than covalent and hydrogen bonds.
+ANSWER: Van der Waals force [or dipole-dipole interaction before "dipole"; or London dispersion
+force before read; or London force before read]
+023-13-76-05115
+
+2013 VHSL States
+
+5
+
+Page 3 of 10
+
+2013 VHSL States
+Round 5
+Directed Round
+
+1A. What Spanish artist stated “Let me be your hero” and “tonight I’m lovin’ you” in two different
+songs?
+ANSWER: Enrique Iglesias
+1B. Identify the major division of Buddhism that believes in the possibility of becoming an "arhat,"
+follows the Pali Canon, and is predominant in Southeast Asia.
+ANSWER: Theravada Buddhism
+2A. This is a 20-second calculation question. Find the cosecant of 5 pi over 4 radians.
+ANSWER: the negative square root of 2 [or minus root 2; or negative radical 2]
+2B. This is a 20-second calculation question. A circular dartboard has a radius of 5 inches and a bull's eye
+with radius of 1 inch. Assuming a dart hits the target at random, what is the probability of hitting the bull's
+eye?
+ANSWER: 1/25 [or 4 percent; or 0.04]
+3A. What name is given to the curve is traced by a rotating circle as it travels along a straight path?
+ANSWER: cycloid [or tautochrone; or brachistochrone]
+3B. What British author created the character Bernard Marx in his dystopian novel Brave New World?
+ANSWER: Aldous Huxley [or Aldous Leonard Huxley]
+4A. The numeral system that uses only zero and one is known by this term. What term is paired with
+fission in a type of asexual reproduction and cell division?
+ANSWER: binary
+4B. ? What type of psychological conditioning is based on Edward Thorndike's law of effect and uses
+reinforcement and extinguishing to modify behavior?
+ANSWER: operant conditioning
+5A. What element’s 13 isotope is commonly used in NMR?
+ANSWER: carbon
+5B. What country experienced a revolution against Soviet influence in 1956 before the government of Imre
+Nagy (NAHJ) was put down in favor of Janos Kadar?
+ANSWER: Hungary [or Magyarorszag]
+6A. What kind of verbs, closely related to the "middle voice" of ancient languages, are often seen in Latin
+and are defined as verbs with active meanings but passive forms?
+ANSWER: deponent verbs
+6B. Francis II was the last person to hold what political position, which disappeared in August 1806 after
+the Battle of Austerlitz?
+ANSWER: Holy Roman Emperor
+7A. In January 2013, President Obama nominated which former US Senator to replace Leon Panetta as
+Secretary of Defense?
+ANSWER: Charles Timothy "Chuck" Hagel
+2013 VHSL States
+
+5
+
+Page 4 of 10
+
+7B. What highly viscous layer of the upper mantle is the lower boundary of the lithosphere?
+ANSWER: asthenosphere
+8A. This is a 30-second calculation question. Calculate all roots, real and complex, of the polynomial x
+cubed minus 9 x squared plus 4 x minus 36.
+ANSWER: 9, 2i, and negative 2i [or any other order; or 9 and plus or minus 2i]
+8B. This is a 30-second calculation question. The angles of a pentagon are in arithmetic progression, with a
+common difference of 12 degrees. Find the smallest angle in the pentagon.
+ANSWER: 84 degrees [or 7 pi / 15 radians; do not prompt "7 pi / 15"]
+9A. What allegory of Plato describes a group of prisoners watching shadows projected onto a wall, and not
+knowing whether anything besides the shadows exists?
+ANSWER: allegory of the cave
+9B. The time-independent form of which equation, used to calculate wavefunctions of quantum systems,
+can be expressed as "H psi equals E psi"?
+ANSWER: Schrodinger equation
+10A. What national park in Montezuma County, Colorado is famous for its cliff dwellings built by the
+Anasazi?
+ANSWER: Mesa Verde National Park
+10B. Name the South African river which powers the Hartbeespoort Dam, is known at the start of its
+course as the Krokodil, and forms the border with Botswana and Zimbabwe.
+ANSWER: the Limpopo River
+
+2013 VHSL States
+
+5
+
+Page 5 of 10
+
+2013 VHSL States
+Round 5
+Third Period, Fifteen Tossups
+
+1. One literary work in this genre was written as a sequel to one by Matteo Maria Boiardo, and includes
+Astolfo’s trip to the moon to recover the title character’s wits. Besides Ludovico Ariosto’s Orlando
+Furioso, other works in this genre include one in which Alde dies of grief after the title character is killed at
+Roncesvalles. Another work in this genre begins by asking a goddess to sing of the rage of Achilles. For 10
+points, name this type of narrative poem exemplified by The Song of Roland and the Iliad.
+ANSWER: epic poems [or epics]
+014-13-76-05117
+
+2. One statement named for this man indicates that the sharing of edges and faces in anion polyhedra
+decreases stability in an ionic structure. He published an erroneous three helix structure of DNA and helped
+elucidate the structure of the alpha helix. This man developed a formula for a certain physical quantity
+which accounts for valence bond theory and dissociation energies; hydrogen has a value of 2.20 on that
+scale. He proposed that defects in hemoglobin cause sickle cell anemia. For 10 points, name this man who
+developed a scale for electronegativity and won Nobels in Chemistry and Peace.
+ANSWER: Linus Pauling
+189-13-76-05118
+
+3. The protagonist of this novel, who suffers from a varicose ulcer above his ankle, fixes Mrs. Parson’s
+sink by removing a clot of hair. This novel contains an Appendix that discusses “A,” “B,” and “C”
+vocabularies. It opens with the line, “It was a bright cold day in April, and the clocks were striking
+thirteen.” This novel ends with its protagonist drinking Victory Gin after being betrayed by Julia. This
+novel introduced the phrase “We've always been at war with Eastasia,” the language “Newspeak,” and the
+term “Big Brother.” For 10 points, name this dystopian novel by George Orwell.
+ANSWER: Nineteen Eighty-Four
+015-13-76-05119
+
+4. Repertoire cloning can be accomplished by PCR on individual ones of these cells. These cells express
+CD19 and C20 on their membranes. These cells proliferate in the germinal center of a lymph node. These
+cells rearrange their variable, diversity, and joining genes in order to create their namesake receptor. They
+differentiate in the bone marrow, and after activation can further differentiate into plasma and memory
+types. For 10 points, name these lymphocytes that secrete antibodies.
+ANSWER: B lymphocytes
+048-13-76-05120
+
+5. Hermes turned Chelone (keh-LOE-nee) into a tortoise for failing to attend this goddess’s wedding.
+Pausanias (pow-SAY-nee-us) claims she married her husband after taking pity on him when he turned into
+a cuckoo. She promised Aeolus a nymph in exchange for battering the ship of Aeneas with wind. This
+goddess is the mother of the cupbearer Hebe. She sent snakes to attack an infant Heracles, and later sent the
+spell of madness that caused him to kill his family. This goddess transformed Echo, and turned Io into a
+cow out of jealousy caused by her husband’s affairs. For 10 points, name this wife of Zeus.
+ANSWER: Hera
+015-13-76-05121
+
+2013 VHSL States
+
+5
+
+Page 6 of 10
+
+6. This process is either free or forced depending on the Richardson number, which is equal to the Grashof
+number over the square of the Reynolds number. When driven from below, this process produces Benard
+cells. This process occurs at high values of the Rayleigh and Prandtl numbers. Sunspots occur where the
+sun’s magnetic field inhibits this process. Seafloor spreading is caused by this process’ namesake currents
+in the upper mantle. The air around a fire or another heat source is warmed by this process. For 10 points,
+name this process of heat transfer occurs in fluids.
+ANSWER: convection
+149-13-76-05122
+
+7. In this novel, a psychic named Landau urges one character to reject a plea for divorce. One character in
+this novel is scolded by her husband after an emotional outburst during an accident involving Gladiator and
+Frou-Frou at a racetrack. The protagonist reconciles Dolly and Stiva following Stiva’s affair with their
+children’s governess in this novel, in which Konstantin Levin attempts to create a model farming
+community in this work with his wife Kitty. For 10 points, name this novel in which the title character has
+an affair with Count Vronsky, a work by Leo Tolstoy.
+ANSWER: Anna Karenina
+030-13-76-05123
+
+8. At the Landau critical form of this quantity, excitations first gain negative energy. In an irrotational fluid
+field, this quantity is related to pressure by the Bernoulli equation. The partial derivative of angular
+frequency with respect to wavenumber gives one form of this quantity. Wavelength over period gives the
+“phase” type of this quantity, which is different from the “group” form. For an object in free fall and in a
+perfect vacuum, this quantity equals the local gravitational constant times time, as it is the antiderivative of
+acceleration. For 10 points, name this vector quantity whose magnitude equals an object’s speed.
+ANSWER: velocity
+149-13-76-05124
+
+9. In one poem, this man questioned the pride of landowners “who steer the plow, but cannot steer their
+feet clear of the grave.” In addition to “Hamatreya,” this author wrote a poem that states, “Here once the
+embattled farmers stood and fired the shot heard round the world.” Plato, Swedenborg, and Napoleon were
+among the subjects of this author’s Representative Men, and this man delivered a speech to the Phi Beta
+Kappa Society calling for an independent American culture entitled “The American Scholar.” For 10
+points, name this transcendentalist who wrote "Self-Reliance."
+ANSWER: Ralph Waldo Emerson
+030-13-76-05125
+
+10. This political group ascribed to the strange "ruin value" theory, which states that buildings should be
+designed so that they leave aesthetically pleasing ruins when they collapse. One member of this group
+wears an armband and burns down a building in Marc Chagall's painting White Crucifixion. They decried
+modern art as "degenerate," showcasing the worst offenders in a 1937 exhibition. A large rally of this
+political group was depicted in the propaganda film Triumph of the Will. An atrocity perpetrated by this
+group is depicted in Pablo Picasso's Guernica. For 10 points, name this political group whose symbol was
+the swastika.
+ANSWER: Nazis [or National Socialists; prompt on Germans]
+020-13-76-05126
+
+2013 VHSL States
+
+5
+
+Page 7 of 10
+
+11. This molecule is usually found bonded to a divalent cation such as magnesium, as it has a minus-four
+charge in neutral solutions. This compound is converted to 3,5 cAMP by the enzyme adenylyl cyclase. The
+synthesis of this molecule is coupled to the facilitated diffusion of protons into the inner membrane. This
+molecule binds to sodium-potassium pumps to allow active transport of ions, and around thirty-six
+molecules of it are produced in oxidative phosphorylation in the electron transport chain. For 10 points,
+name this end product of cellular respiration, the "energy currency" of the cell.
+ANSWER: ATP [or adenosine triphosphate]
+190-13-76-05127
+
+12. After one battle in this war, dozens of people who were unable to walk to Fort Malden were brutally
+killed in the Raisin River Massacre. Sir Isaac Brock was killed at this war's Battle of Queenston Heights.
+The Battle of Bladensburg occurred during this war and led to one side's capital being burned. Jean Lafitte
+helped a commander in this war win a pivotal battle two weeks after a peace treaty had already been signed
+at Ghent. For 10 points, name this war that included the Battle of New Orleans between the US and
+England and which started in its namesake year.
+ANSWER: War of 1812
+190-13-76-05128
+
+13. This man played Bette Midler’s scheming husband Sam Stone in the 1986 movie Ruthless People. In
+another movie, he plays a character who Max Shrek attempts to make mayor and later attempts to kill the
+first-born sons of Gotham City. He currently plays a character who sings doowop as a member of the
+Yellow Jacket Boys and is the father of Dennis, Dee, and possibly Charlie. His breakout role came as the
+dispatcher Louie De Palma in Taxi. For 10 points, name this actor who played the Penguin in Batman
+Returns and currently stars as Frank Reynolds on It’s Always Sunny in Philadelphia
+ANSWER: Danny DeVito
+030-13-76-05129
+
+14. The knowlesi form of this disease can infect macaques and, like the vivax type, uses Duffy antigens as
+a receptor. The agents that cause this disease have merozite and sporozite stages. A deficiency in glucose 6
+phosphate can protect you against this disease. Another substance that protects against this disease comes
+from the bark of the cinchona tree and is called quinine. The alleles for sickle cell anemia confer resistance
+to this disease that is caused by Plasmodia. For 10 points, what disease, prominent in Africa, is commonly
+carried by mosquitoes?
+ANSWER: malaria
+149-13-76-05130
+
+15. This poet described a train as “punctual as a star” and “docile and omnipotent” in a poem which begins
+“I like to see it lap the miles.” In another poem, she wrote that “to comprehend a nectar requires sorest
+need.” Much of her innovative punctuation and capitalization was edited out of her poems in an edition
+published by her mentor Thomas Wentworth Higginson. She wrote “The stillness in the room was like the
+stillness in the air” in a poem beginning “I heard a fly buzz when I died.” For 10 points, name this
+reclusive Massachusetts poet of a poem that opens, “Because I could not stop for Death.”
+ANSWER: Emily Dickinson
+015-13-76-05131
+
+2013 VHSL States
+
+5
+
+Page 8 of 10
+
+2013 VHSL States
+Round 5
+Tiebreaker Questions
+
+1. In one of this author’s stories, a coalmining accident kills Elizabeth's husband Walter, while in another, a
+boy can predict the outcome of horse races. This author of "Odour of Chrysanthemums" and “The
+Rocking-Horse Winner” wrote about the relationship of Ursula Brangwen and Rupert Birkin in his Women
+in Love. Another novel by this author follows the relationship between the gamekeeper Oliver Mellors and
+the upper class lady Constance. For 10 points, name this British novelist of Lady Chatterley’s Lover.
+ANSWER: D. H. Lawrence [or David Herbert Lawrence]
+149-13-76-05132
+
+2. A U-shaped one of these devices was designed by James Six to record maximums and minimums over a
+certain time period. A sealed cylinder of water with glass bulbs of differing densities makes up one of these
+devices named for Galileo. Santorio Santorio is usually credited with the invention of the "clinical" one of
+these things, which was placed a patient's tongue. The most common type of this device today uses
+mercury, which was invented by Daniel Fahrenheit. For 10 points, identify this device used to measure
+temperature.
+ANSWER: thermometer [or thermoscope]
+066-13-76-05133
+
+3. One person with this last name led the "Great Raid of 1863," which resulted in the only pitched battle of
+the Civil War in Indiana. A different man with this last name financed Tesla's Wardenclyffe Tower and
+bought up the Tennessee Coal and Iron Company as part of a move that helped avert the Panic of 1907.
+That man with this last name purchased Carnegie Steel to create the United States Steel Corporation. For
+10 points, Chase Manhattan Corporation merged with a company named after a JP with what last name?
+ANSWER: Morgan [or John Hunt Morgan; or JP Morgan; or John Pierpont Morgan]
+149-13-76-05134
+
+4. A modification made to this equation focusing on the concentrations of potassium, sodium, and chlorine
+ions is named for Goldman, Hodgkin, and Katz. This equation can be rewritten to include a log base ten
+multiplied by 0.0592 instead of a natural log when a system is kept at twenty-five degrees Celsius. That
+0.0592 in this equation comes from multiplying the temperature by the ideal gas constant and Faraday's
+constant. For 10 points, name this equation that uses the log of a system's reaction quotient to discover the
+value of E, the potential of an electrochemical cell in volts.
+ANSWER: Nernst equation
+023-13-76-05135
+
+5. This poet wrote a poem whose line “Thus in silence in dreams’ projections” is inscribed in the Dupont
+Circle Metro Station in DC. He claimed he was drunk when he wrote his temperance novel Franklin Evans.
+In one poem, he responds, “I guess it is the handkerchief of the Lord” when asked, “What is the grass?”
+This poet wrote, “For you they call, the swaying mass,” in a poem which begins by noting that “our fearful
+trip is done; the ship has weathered every rack, the prize we sought is won.” For 10 points, name this poet
+of “O Captain! My Captain!” and the collection Leaves of Grass.
+ANSWER: Walt Whitman [or Walter Whitman]
+015-13-76-05136
+
+This is a calculation question. For the set {2, 8, 18, x}, the mean is equal to the median. Find all possible
+values of x.
+ANSWER: -8, 12, and 24 [or any other order of the same numbers]
+2013 VHSL States
+
+5
+
+Page 9 of 10
+
+What literary term, similar to synecdoche, refers to the substitution of something associated with an entity
+for the entity itself?
+ANSWER: metonymy
+
+2013 VHSL States
+
+5
+
+Page 10 of 10
+
+

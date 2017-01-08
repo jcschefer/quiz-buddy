@@ -1,0 +1,677 @@
+PACE NSC 2012
+Round 9
+Tossups
+1. This work's fifth movement features a slow, repeated two-note motif which represents the passing
+of time. The composer of this work adapted the andate maestoso theme from its fourth movement
+into the hymn "I Vow to Thee, My Country." Its final movement ends with shimmering harp and
+celesta arpeggios giving way to an offstage six-part wordless female chorus which slowly fades into
+silence. This suite's first movement begins with the strings playing (*) col legno before transitioning
+into a blaring brass march in 5/4 time. The subtitles of its seven movements, such as "the Bringer of Jollity"
+and "the Bringer of War," were inspired by astrology. For 10 points, name this suite by Gustav Holst whose
+movements include "Saturn" and "Mars."
+ANSWER: The Planets
+<Magin>
+
+2. One method of testing whether a number n is one of these involves asking whether 5n squared
+minus 4 or 5n squared plus 4 is a perfect square. One method of generating these numbers is to
+repeatedly take powers of the two-by-two matrix one-one-one-zero, and the Wall-Sun-Sun primes are
+defined using these numbers. The generating function x divided by the quantity 1 minus x minus x
+squared creates these numbers. Taken modulo some integer n these numbers gives rise to (*) Pisano
+periods. The ratio between successive members of these numbers approaches 1 plus the square root of 5 all
+over 2, which is known as the golden ratio. For 10 points, name this sequence of numbers, a given member
+of which is a sum of the previous two entries.
+ANSWER: Fibonacci numbers
+<Mukherjee>
+
+3. This author instructed his actors to repeatedly fold a blanket in halves until there is room only for
+four feet to create the set for one of his "statement plays." In that play by this author, the inmates
+John and Winston stage an adaptation of Antigone. This author of The Island wrote a play set at St.
+George's Park Tea Room in which the central characters reminisce about flying a kite and decide
+that Charles Darwin and Abraham Lincoln, but not (*) Napoleon, are "men of magnitude". That play
+by this man ends after news of his father's return prompts one character to angrily demand that Sam, like
+Willie, call him by the title appellation. For 10 points, name this South African author of Blood Knot and
+Master Harold and the Boys.
+ANSWER: Athol Fugard [or Harold Athol Lanigan Fugard]
+<Gupta>
+
+4. One man with this first name has an affair with his sister, Bernice, and sarcastically asks Paul if he
+thinks he can persuade him to be a Christian. Another man with this name is hailed as a god, not a
+man, which results in him being "eaten by worms" and dying. The father of the most famous one was
+Idumean and married an Arabian woman named Cyprus. Besides (*) Agrippa and Antipas, this name
+was held by a ruler who became entranced by the dancing of his wife's daughter and ordered an execution.
+This was the first name of the king who executed John the Baptist and a ruler who lied to the Magi that he
+wanted to worship the newborn Christ. For 10 points, give this name shared by various kings of Judea,
+including one who ordered the massacre of the innocents.
+ANSWER: Herod [accept Herod Antipas, Herod Agrippa, Herod the Great, or Herod the tetrarch]
+<Cheyne>
+
+PACE NSC 2012
+
+Round 9
+
+Page 1 of 14
+
+5. This group was technically supposed to cease the "reisen," their annual raids into Lithuania, after
+the marriage of Jagiello and Jadwiga. They absorbed a similar group, the Brothers of the Sword, in
+Livonia. Responding to a call for help from Conrad of Moravia, this group crusaded against the
+pagans of (*) Prussia and eventually turned it into a separate state. Their Livonian branch's expansion east
+was stopped by Alexander Nevsky at the Battle on the Ice. Prussia became the seat of this group's power
+shortly after the fall of Acre, where this group had originally been founded to aid Christian pilgrims and
+crusaders. For 10 points, name this military order whose members were mostly German.
+ANSWER: Teutonic Knights [or Teutonic Order; prompt on "Livonian Brothers of the Sword" or
+"Livonian Brothers" before it is read]
+<Bailey>
+
+6. An engineer in this novel describes a delirious episode in which he saw pink toads gathering
+around his bed right before a tragedy. Its protagonist rejects Chester's offer to join him gathering
+guano on a secluded island for the rest of his life. In this novel Cornelius betrays his stepdaughter
+Jewel's husband after Mr. Stein gives the protagonist his old job. After foolishly releasing the
+imprisoned pirate "Gentleman Brown," the title character of this novel is shot by chief (*) Doramin
+as retribution for the death of his son Dain Waris. The title character of this novel gets a job at a trading
+post on the isle of Patusan after he is condemned for abandoning his post as an officer on the sinking Patna.
+For 10 points, name this novel by Joseph Conrad.
+ANSWER: Lord Jim
+<Gioia>
+
+7. Carl Bridenbaugh suggests the early history of this location saw its library burned down by
+arsonists who opposed Robert Hunt. One document comparing its prison to Amiens was written by
+Pierre Baird. Inhabitants of this location invested their income in the construction of an armory at
+Martin's Hundred Fort. One head of this location attempted to solve the problems of food shortage
+by sending Thomas Dale to build farms at Henricus. Two decades after the (*) "Starving Time," this
+place was destroyed in a conflict that saw the dissolution of the Green Spring Faction under William
+Berkeley, Bacon's Rebellion. For 10 points, name this Virginia town, home to settlers John Smith and John
+Rolfe, which was the first permanent English colony in North America.
+ANSWER: Jamestown
+<Foster>
+
+8. The leftmost figure in this work wears a medallion of the Order of St. Michael attached to a gold
+chain around his neck. An open book in this painting reveals that the man holding a glove in his right
+hand is 25 years old. Other visible text in this painting includes the Ten Commandments and a
+translation of Luther's Veni, Creator Spiritus. One man's arm is in front of a (*) globe in this work,
+while a lute with a broken string may represent religious discord. A crucifix peers out behind a green
+curtain in the top left of this painting, while the foreground contains an anamorphic image of a skull. This
+work is a dual portrait of Georges de Selve and Jean de Dinteville. For 10 points, name this Hans Holbein
+portrait of two foreign dignitaries.
+ANSWER: The French Ambassadors
+<Bentley>
+
+PACE NSC 2012
+
+Round 9
+
+Page 2 of 14
+
+9. This compound causes pyrogallol solution to turn colorless. Methods of measuring the amount of
+this compound in solution include adding manganese sulfate and potassium iodide in the Winkler
+test. Another method to measure its concentration uses a zirconia probe. Molecular orbital theory is
+used to explain why its triplet form is paramagnetic, and its singlet form is very reactive. One
+molecule of it is combined with sulfur dioxide in the first step of the (*) contact process, which
+eventually produces sulfuric acid. Subjecting it to strong electric shocks transforms it into its triatomic
+form, which is called ozone. For 10 points, name this diatomic gas, which comprises 21% of Earth's
+atmosphere and is exchanged with CO2 in respiration.
+ANSWER: Diatomic oxygen [or O2]
+<Mukherjee>
+
+10. This work says the word "tribe" became "almost a chimera" in ancient Rome as it lost legal
+meaning in a section on the comitia and twice references Caligula's reasoning that people needed him
+as a god. It says that moral qualities can't be quantified, so birth rate should instead be used as a sign
+of successful states. Its first section attacks Grotius, saying no man has a right to "alienate" all his
+liberty to another. This work notes that (*) hotter climates are more suited to despotism. It argues that
+the whole body of citizens forms "the sovereign," which operates according to the general will and leaves
+each man "forced to be free." For 10 points, name this work beginning "Man is born free, yet everywhere
+he is in chains," by Jean-Jacques Rousseau.
+ANSWER: On The Social Contract [or Du contrat sociale]
+<Jackson>
+
+11. Benedict Anderson posited that this device created a namesake form of capitalism that facilitated
+the rise of the "Imagined Communities" underlying nationalism. One work about this device states
+that it creates a "visual homogenization" that encourages a specialist outlook and allowed the
+emergence of rationalism and nationalism. Jurgen Habermas stated that this device allowed the (*)
+public sphere to exist apart from the private domain. This device was said to have catalyzed the eventual
+creation of "Global Villages" in a Marshall MacLuhan work named for the "Galaxy" of its inventor. For 10
+points, identify this device first used in Mainz to create a 42-line Bible by that inventor, Johannes
+Gutenberg.
+ANSWER: printing press [accept movable type even though that's not exactly a "device;" prompt on
+answers of just "press" or "print;" do not accept unlikely-but-very-wrong answer of "printer"]
+<Mukherjee>
+
+12. A bearded man shakes hands with the Queen of Sheba in a scene from this work that may
+represent the Treaty of Santa Maria Novella. Commissioned by the Arte di Calimala, this work was a
+follow-up to a project completed 70 years earlier by Andrea Pisano. Its artist sculpted himself into a
+medallion piece over the Nativity and Adoration of the Magi scenes. During the 20 years it took to
+create its 10 panels, the artist also created bronze statues for the Orsanmichele and was helped by
+Michelozzo. A scene in bronze of (*) Abraham sacrificing Isaac was created by two artists competing for
+this commission; the loser in that competition was Brunelleschi. For 10 points, give the name of this portal
+for the Baptistery in Florence created by Lorenzo Ghiberti.
+ANSWER: The Gates of Paradise [or the Doors of Paradise; accept the North Doors of the Baptistery
+in Florence or the East Doors of the Baptistery before “Baptistery” is read]
+<Bentley>
+
+PACE NSC 2012
+
+Round 9
+
+Page 3 of 14
+
+13. The ratio between this value and the critical density of the universe is approximately 0.7, and that
+value corresponds to the dark energy density. It is multiplied by one third of the square of the speed
+of light in the Friedmann equation. Taking this quantity divided by 8 pi gives the vacuum energy
+density. Quantum field theories unusually predict its value to be 120 orders of magnitude greater
+than its real value. This value originally appeared multiplying the metric tensor in the (*) Einstein
+Field Equations in order to maintain a stationary universe. Einstein referred to its conception as the "biggest
+blunder" of his life since the universe is expanding. For 10 points, identify this mysterious value in general
+relativity symbolized lambda.
+ANSWER: cosmological constant [or lambda till mention]
+<Mukherjee>
+
+14. In 1983, the completion of a suspension bridge in this country's principal ocean port of Matadi
+linked its capital to the coast for the first time. This country's city of Goma has suffered because the
+Dodd-Frank Banking Act requires companies to report the use of coltan originating in this country.
+The northeastern part of this country relies on trade in the city of Kisangani, while its southern city
+of Lubumbashi has boomed because of the high price of copper mined in the (*) Katanga region.
+Angolan security forces raped female citizens of this country en masse in 2010 while deporting them, and
+this country has also seen a dramatic rise in rapes in provinces that border Rwanda and Uganda. For 10
+points, name this African country whose capital is Kinshasa.
+ANSWER: Democratic Republic of the Congo [accept DRC; prompt on "Congo"; accept
+Congo-Kinshasa before "Kinshasa" is mentioned; do NOT accept "Republic of the Congo"]
+<Haddad-Fonda>
+
+15. One of this author's protagonists can quickly learn any language he encounters; that man saves
+the life of Niketas Choniates after visiting Prester John's kingdom. The protagonists of another of his
+novels are inspired by a book written by Colonel Ardenti to create the computer Abulafia. In his first
+novel, the protagonists encounter the Inquisitor Bernard Gui and the blind monk Jorge of Burgos,
+who eats the (*) poisoned manuscript of Aristotle's Comedy. One of his novels centers on a conspiracy
+created by Belbo, Diotellavi, and Causabon, while in another, a murder is investigated by Adso of Melk
+and William of Baskerville. For 10 points, name this Italian author of Baudolino, Foucault's Pendulum and
+The Name of The Rose.
+ANSWER: Umberto Eco
+<Graebner>
+
+16. One group of these creatures were controlled by a copper staff belonging to Phaethusa, whose
+sister Lampetia described a slaughter of them carried out by Eurylokhos. Eight of these animals
+were dragged by their tails to throw their owner off the trail by a fire-breathing monster named
+Cacus. Another set of them was protected by a two-headed offspring of Typhon and Echidna named
+(*) Orthrus. The infant Hermes stole a group of these animals belonging to Apollo. Odysseus sacrificed a
+group of them belonging to Helios, dooming his crew. A group of red ones originally belonging to a
+three-headed giant were sacrificed by Eurystheus after being stolen as part of Heracles' Tenth Labor. For 10
+points, name these animals herded by Geryon.
+ANSWER: cattle [or oxen; accept equivalent like cows, bulls, etc; accept more specific answers like cattle
+of Geryon or cattle of Helios]
+<Mukherjee>
+
+PACE NSC 2012
+
+Round 9
+
+Page 4 of 14
+
+17. Foreign commercial rights in this city were extended after the physician William Hamilton cured
+Farrukh Siyar of an agonizing disease. Protection against the bargis for citizens of this city was
+provided by the Maratha Ditch. A park called Maidan surrounds Fort William in this city. In the
+1960s, this city’s Presidency College became a center of the Naxalite movement. This city serves as
+the capital of the state of (*) West Bengal. In the eighteenth century, men under the command of John
+Holwell were killed in this city after being imprisoned by Siraj al-Dawlah in a cramped prison. For 10
+points, name this Indian city that served as the capital of the British raj, home to a dungeon called its “black
+hole”.
+ANSWER: Kolkata [or Calcutta or Kalikata]
+<Bentley>
+
+18. This disease shares many features with Noonan syndrome, and one variant of this disease is
+caused by ring formation. Sufferers of this disease often have trans-illuminating tumors called cystic
+hygromas, and it is also associated with coarctation of the aorta and bicuspid aortic valves. 15% of
+sufferers also have horseshoe kidneys, and one of the most striking features is the shield-shaped
+chest. Estrogen replacement therapy is a common treatment for this condition. Streak gonads are
+another characteristic of this disease, leading to (*) infertility. Patients with this condition also have a
+webbed neck and mild mental retardation. For 10 points, name this genetic condition, in which patients
+have only one X chromosome.
+ANSWER: Turner's syndrome
+<Mukherjee>
+
+19. After this man's correspondence with the comte de Mirabeau was discovered, the count's remains
+were removed from the Pantheon. His finance minister Calonne's attempts at abolishing the corvée
+were opposed by the parlements, and another of his finance ministers published the Compte rendu, a
+report showing a large surplus for the kingdom. Charles Gravier was this man's foreign minister,
+who advised supporting the (*) American colonists in their revolt from England. This man called an
+Assembly of Notables after that support of American colonists led to a national debt crisis and later
+followed the Assembly's suggestion of calling the Estates General. For 10 points, name this French
+monarch who was executed by the Revolutionary government in 1793.
+ANSWER: King Louis XVI [prompt on "Louis"]
+<Bailey>
+
+20. A phrase from this poem titles both an unfinished sequel to A Touch of the Poet and a Kurt
+Vonnegut story whose main character obsesses over home and garden magazines. Its fourth stanza
+begins "Thanks for the heavenly message brought by thee". This poem describes "cold sea-maids"
+that "rise to sun their streaming hair" and describes an "irised ceiling" and a "sunless crypt". It
+urges its subject to "leave thy (*) low-vaulted past" and to "let each new temple" "shut thee from heaven
+with a dome more vast". It describes "silent toil" that spreads the title creature's "lustrous coil" and
+commands "Build thee more stately mansions, O my soul". For 10 points, name this poem about a creature
+that lives in a "ship of pearl", a work of Oliver Wendell Holmes.
+ANSWER: "The Chambered Nautilus"
+<Jose>
+
+PACE NSC 2012
+
+Round 9
+
+Page 5 of 14
+
+PACE NSC 2012
+Round 9
+Tiebreakers
+21. These organelles contain GNPAT, which catalyzes the early steps of plasmalogen synthesis. Its
+targeting signal is a C-terminal serine-lysine-leucine motif. One disease of these organelles results in
+the inability to break down very long chain fatty acids, while another one is caused by a mutation in
+Pex2 and is treated with Lorenzo's oil. The glyoxylate cycle occurs in a specialized type of these
+organelles called glyoxysomes. Adrenoleukodystrophy and Zellweger's syndrome are malfunctions of
+this organelle, which contains an extremely high-speed enzyme called (*) catalase. These organelles are
+responsible for stopping damage from reactive oxygen species. For 10 points, name these organelles which
+are responsible for breaking down hydrogen peroxide.
+ANSWER: peroxisomes
+<Mukherjee>
+
+22. This man boarded the Cambria for a journey in which he took up the slogan “Send Back the
+Money!” against Scottish churches after visiting Ireland. In one work, this man recalls his views of
+white-sailed ships in the distance, the shooting of Demby, and his fight with Edward Covey. This man
+claimed in one speech that “gross injustice and cruelty” is revealed at its height on the 4th of July.
+This man never learned that (*) Victoria Woodhull chose him to be her vice presidential candidate. He
+gave that aforementioned speech in Rochester, where this male supporter of the Seneca Falls convention
+edited the North Star newspaper. For 10 points, name this black rights activist who described his own
+escape from Maryland in three slave narratives.
+ANSWER: Frederick Douglass [or Frederick Augustus Washington Bailey]
+<Jackson>
+
+23. One of this man's works ends with the narrator throwing a button into a river, thus helping Uncle
+Caesar get away with murdering Major Caswell to protect Azalea Adair. He wrote a story in which
+the wannabe criminal Soapy is arrested for loitering after deciding to turn his life around. This
+author of "A Municipal Case" and "The Cop and the Anthem" wrote a story about Bill Driscoll and
+Sam Howard's unsuccessful attempt to (*) kidnap the son of Ebenezer Dorset. In his most famous work,
+found in his collection The Four Million, Jim buys a set of elaborate combs for his wife, only to find that
+she had sold her hair to buy him a chain for the watch he'd just sold. For 10 points, name this author of
+"The Ransom of Red Chief" and "The Gift of the Magi".
+ANSWER: O. Henry [or William Sydney Porter]
+<Bentley>
+
+24. A popular one of these constructs was designed by Thomas Kurtz and John Kemeny at
+Dartmouth. One sub-class of these entities lack side effects and are exemplified by Miranda and
+Clean; those are the “purely functional” types. They’re not context-free grammars, but the
+Backus-Naur Form is often used to define syntax in these entities. One of these constructs is named
+for (*) Haskell Curry. Type conversion is easy in examples of these constructs that have weak typing.
+These constructs are usually supplemented by a standard library. Low level examples of these constructs
+include Assembly, while higher-level examples include PHP and Python. For 10 points, name these
+constructs that include C, BASIC and Java, used to write programs.
+ANSWER: Programming Languages [accept Functional Programming Languages or Purely Functional
+Programming Languages before mentioned; accept computer language; prompt on "languages"]
+<Bentley>
+
+PACE NSC 2012
+
+Round 9
+
+Page 6 of 14
+
+PACE NSC 2012
+Round 9
+Bonuses
+1. This artist's photographic work includes stop-motion compositions like Double Jump and Pole Vaulter.
+For 10 points each:
+[10] Identify this American artist whose non-photographic depictions of nudes include paintings like The
+Swimming Hole. He also painted Max Schmitt in a Single Scull.
+ANSWER: Thomas Eakins
+[10] Thomas Eakins collaborated on several works with Eadweard Muybridge. Muybridge is most famous
+for taking stop-motion photos of one of these animals to prove that all four of its hooves leave the ground
+while trotting.
+ANSWER: horse [or racehorse]
+[10] This other American photographer captured a horse-drawn carriage in Winter –Fifth Avenue and
+created a work where a roped walkway visually divides people on a steamship titled The Steerage.
+ANSWER: Alfred Stieglitz
+<Bentley>
+
+2. Answer some questions about the occult, for 10 points each.
+[10] Masonic scholarship is studied in a "research" variety of these buildings, which form the basic
+organizational unit of Freemason societies.
+ANSWER: Masonic lodges [or private lodges; or constituent lodges]
+[10] This neo-pagan occult movement was created by Gerald Gardner, who wrote the Charge of the
+Goddess. Observers worship deities on the full moon and wear pentagram symbols.
+ANSWER: Wicca
+[10] This British occultist was inspired by Rabelais to start the Abbey of Thelema, whose slogan was "Do
+What Thou Wilt". He wrote The Book of Lies and was a member of the Ordo Templi Orientis.
+ANSWER: Aleister Crowley
+<Mukherjee>
+
+3. Identify the following about the non-poetic works of Johann Wolfgang von Goethe, for 10 points each.
+[10] In this novel, Eduard and Charlotte invite the Captain and Ottilie to stay with them in their Weimar
+estate, which causes the relationships to undergo a metaphorical double displacement reaction.
+ANSWER: Elective Affinities [or Die Wahlverwandtschaften]
+[10] In this tragic play published in two parts, Goethe's most famous work, Mephistopheles appears before
+the title character in the form of a black poodle and makes a pact.
+ANSWER: Faust: A Tragedy
+[10] Goethe also created this character, who joins the Tower Society and travels to the Pedagogical
+Province in two novels about his "Apprenticeship" and his "Journeyman Years".
+ANSWER: Wilhelm Meister [accept either underlined answer]
+<Ueda>
+
+PACE NSC 2012
+
+Round 9
+
+Page 7 of 14
+
+4. People who enlist with this force must adopt an anonymat, and its monument to the dead was originally
+located in Sidi Bel Abbes in Algeria. For 10 points each:
+[10] Identify this military unit traditionally made up of non-French born soldiers.
+ANSWER: French Foreign Legion [or Légion étrangère]
+[10] The French Foreign Legion fought several battles against the "Amazons" of this African Kingdom in
+an 1892 war. This kingdom was once led by Gezu and comprised much of what is now southern Benin.
+ANSWER: Kingdom of Dahomey
+[10] Legionnaires participated in the Toyota War, fought between Libya and this neighboring nation. It is
+currently led by Idriss Deby and has seen a large influx of refugees from Darfur.
+ANSWER: Chad
+<Bentley>
+
+5. Longitudinal waves are unable to acquire this property. For 10 points each:
+[10] Identify this property of electromagnetic radiation in which oscillations occur in only a single plane.
+Light can have linear, circular, or elliptical versions of this property.
+ANSWER: polarization [or word forms]
+[10] For a refraction event, this is the angle at which light of a given polarization is perfectly transmitted
+from one medium to another.
+ANSWER: Brewster angle
+[10] This law gives the intensity of light transmitted through a polarizer. It states that the ratio between the
+intensity of the transmitted and incident light is the cosine squared of the angle between the axis and the
+incident polarization.
+ANSWER: Malus' law
+<Mukherjee>
+
+6. Answer these questions about psychological studies involving rats, for 10 points each:
+[10] This founder of behaviorism conditioned one subject, "Little Albert," to fear not only a white rat, but
+also other white fuzzy things such as a Santa Claus beard.
+ANSWER: John Broadus Watson
+[10] Watson and Harvery Carr developed this experiment, in which rats originally trained to run a long
+alley to reach food were observed to smash headlong into a wall when the alley's length was shortened. Its
+name derives from the resulting sound.
+ANSWER: kerplunk experiment
+[10] Bruce Alexander and colleagues developed "Rat Park" to explore the effects of social isolation versus
+engagement on the incidence of this phenomenon, examining the prevalent "disease model" of it.
+ANSWER: addiction [or chemical dependence; accept close equivalents; accept specific answers like
+"drug addiction," "morphine addiction," etc.]
+<Wynne>
+
+PACE NSC 2012
+
+Round 9
+
+Page 8 of 14
+
+7. In humans, these regions contain the histone variants CENP-A and CENP-C and have a high
+concentration of alpha-satellite repeats. For 10 points each:
+[10] Name this highly compacted region usually found in the middle of a chromosome that joins the two
+arms. When a chromosome divides, the spindle attaches at this site.
+ANSWER: centromere
+[10] During mitosis, chromosomes separate at the centromere during this particular phase. This phase
+occurs when separase helps cleave cohesins, which then drive sister chromatids apart.
+ANSWER: anaphase
+[10] This protein complex forms on the centromere during mitosis and serves as the actual attachment point
+for the microtubules of the mitotic spindle.
+ANSWER: kinetochore
+<Mukherjee>
+
+8. The second edition of this book contains the poem “The Author to Her Book”, and in one entry the
+author excoriates people “Who says my hand a needle better fits”. For 10 points each:
+[10] Name this volume of poetry published in 1650, at first attributed only to "A gentlewoman in those
+parts". It also includes "Upon the Burning of Our House, July 10th, 1666".
+ANSWER: The Tenth Muse, Lately Sprung up in America [or Several Poems Compiled with Great
+Variety of Wit and Learning, Full of Delight, Wherein especially is Contained a Complete Discourse and
+Description of the Four Elements, Constitutions, Ages of Man, Seasons of the Year, together with an exact
+Epitome of the Four Monarchies, viz., The Assyrian, Persian, Grecian, Roman, Also a Dialogue between
+Old England and New, concerning the late troubles]
+[10] This female Puritan poet, who claimed that her "love is such that Rivers cannot quench" in "To My
+Dear and Loving Husband", wrote The Tenth Muse Lately Sprung Up in America.
+ANSWER: Anne Dudley Bradstreet [or Anne Dudley]
+[10] This much later American poet wrote an "Homage to Mistress Bradstreet" in 1956. His other works
+include a collection of 385 poems about Henry and Mr. Bones called The Dream Songs.
+ANSWER: John Allyn Berryman
+<Mukherjee>
+
+9. During his rule, he referred to himself as "Duke and Prince of the Franks" rather than as a king. For 10
+points each:
+[10] Identify this victor at Avignon and the River Berre in 737, the grandfather of Charlemagne.
+ANSWER: Charles Martel [or Charles the Hammer; prompt on "Charles"]
+[10] Charles Martel's most important military victory came at this 732 battle, in which his Frankish army
+turned back a Moorish invasion led by Abdul Rahman Al Ghafiqi.
+ANSWER: Battle of Tours [or Battle of Poitiers]
+[10] Another eighth-century Carolingian ruler made this land grant, which created the Papal States.
+ANSWER: the Donation of Pepin
+<Thompson>
+
+PACE NSC 2012
+
+Round 9
+
+Page 9 of 14
+
+10. This philosopher was the first to describe change in terms of a potentiality becoming actuality within a
+primary substance, such as a potentially-hot log becoming actually hot upon burning. For 10 points each:
+[10] Name this philosopher who devised ten categories and divided the reasons for an object's unique
+existence into formal, material, efficient, and final causes.
+ANSWER: Aristotle [or Aristoteles of Stagyra]
+[10] In a namesake work, Aristotle described this thing as the first actuality of a plant, animal, or human,
+allowing for second actualities like nutrition and sense. Plato's Phaedo argues that it is immortal, unlike the
+body it is paired with.
+ANSWER: the soul [or anima; or psyche; or psuche; do not accept “heart” or “mind”]
+[10] Aristotle's Nicomachean Ethics admits that unlucky people are unlikely to exist in this state of
+happiness caused by "doing well and living well."
+ANSWER: eudaimonia
+<Jackson>
+
+11. In the Neue Zeitschrift für Musik, this composer represented different aspects of his personality with the
+characters Florestan and Eusebius. For 10 points each:
+[10] Name this German Romantic composer of Dichterliebe and Papillons, whose wife Clara was also an
+accomplished pianist.
+ANSWER: Robert Schumann
+[10] This work by Schumann, his Opus 9, consists of twenty short movements, including ones depicting
+Florestan and Eusebius. It features a musical cryptogram spelling the letters A-S-C-H.
+ANSWER: Carnaval
+[10] Schumann's Scenes from Childhood includes this frequently performed piano piece that depicts a
+youthful reverie.
+ANSWER: "Traumerei" [or "Dreaming"]
+<Thompson>
+
+12. The protagonist of this work is undone when a single leaf from a linden tree falls onto his back. For 10
+points each:
+[10] Name this poem which ends with a feast at the great hall of King Etzel, where lots of Burgundians are
+murdered to avenge the protagonist's death.
+ANSWER: Nibelungenlied [or The Song of the Nibelungs]
+[10] This hero is killed by a spear thrown by Hagen in the Nibelungenlied. He gains the ability to
+understand the bird language after drinking the blood of Fafnir.
+ANSWER: Sigurd [or Siegfried; or Sivard Snarensven]
+[10] Sigurd drinks an "Ale of Forgetfulness" to forget Brynhildr, one of these women who in the Njals saga
+decide who will die at the Battle of Clontarf and then transport the dead warriors to Valhalla.
+ANSWER: valkyries [or walkure]
+<Gupta>
+
+PACE NSC 2012
+
+Round 9
+
+Page 10 of 14
+
+13. The protagonist is disappointed to find out that a picture of a beautiful knight on horseback actually
+depicts Joan of Arc, and later becomes intrigued by a Guido Reni painting of St. Sebastian. For 10 points
+each:
+[10] Identify this 1948 novel in which Kochan attempts to fall in love with Sonoko but is ultimately
+unsuccessful at repressing his homosexuality.
+ANSWER: Confessions of a Mask [or Kamen no Kokuhaku]
+[10] This similarly-closeted Japanese author wrote Confessions of a Mask and the Sea of Fertility tetralogy
+before leading his "Shield Society" in a failed coup that resulted in him committing seppuku.
+ANSWER: Yukio Mishima [or Kimitake Hiraoka; accept the constituent parts of either name in either
+order]
+[10] The club-footed Kashiwagi appears in this Mishima novel, in which the acolyte Mizoguchi's obsession
+with destroying beauty eventually leads him to burn down the title building.
+ANSWER: The Temple of the Golden Pavilion [or Kinkaku-ji]
+<Carson>
+
+14. Ron Fouchier was prevented by the National Science Advisory Board for Biosecurity from publishing
+the details of how he made this virus highly contagious in ferrets. For 10 points each:
+[10] Identify this virus that virologists like Robert G. Webster have warned may become pandemic. It may
+spread through smuggled waterfowl.
+ANSWER: Influenza A virus subtype H5N1 [or Bird Flu; or Avian Influenza; or A(H5N1) HPAI(H5N1);
+prompt on just “influenza” or “flu”]
+[10] In February 2012, a meeting at the Geneva headquarters of this organization announced that the H5N1
+research would eventually be published. This UN organization is headed by Margaret Chan, and it once
+helped eliminate smallpox.
+ANSWER: World Health Organization [or WHO; or Organisation Mondiale de la Santé]
+[10] This government organization, led by Francis Collins, paid for Fouchier's research on H5N1. It is
+broken into 27 smaller agencies covering specialties like cancer and drug abuse and operates the NLM.
+ANSWER: National Institutes of Health [or NIH]
+<Bentley>
+
+15. Identify the following about some Roman offices, for 10 points each.
+[10] Two men held this office for a period of one year. The holders of this office had command over the
+army and presided over the Senate, and each could veto his colleague.
+ANSWER: consuls [or the consulship]
+[10] One of the most notable holders of the position of censor was this "unshorn" man, who sought to
+maintain the mos maiorum. He supported the Lex Orchia to curb luxuries and once dropped figs on the
+floor of the Senate to make a point.
+ANSWER: Marcus Porcius Cato the Elder [or Cato Censorious; or Cato Sapiens; or Cato Priscus; or Cato
+Major; or Cato the Censor; or Cato the Wise; or Cato the Ancient]
+[10] Although holders of this office investigated murders during Rome's regal period, they more commonly
+dealt with finances. Holders of this office, the first in the cursus honorum, had to be at least thirty following
+the reforms of Sulla.
+ANSWER: quaestor
+<Bentley>
+
+PACE NSC 2012
+
+Round 9
+
+Page 11 of 14
+
+16. Mons Hadley is one massif on this object whose surface also contains the Sea of Tranquility. For 10
+points each:
+[10] Name this only known satellite of the Earth. Channel-like structures on this object are known as rilles.
+ANSWER: moon [or Luna]
+[10] Both John Adams and Urbain LeVerrier worked on the secular acceleration of the Moon and
+co-discovered this planet. Cubewanos are Kuiper Belt objects that have precise fraction orbital resonances
+with this planet.
+ANSWER: Neptune
+[10] This large atmospheric storm found in Neptune's Southern Hemisphere is similar to Jupiters Great Red
+Spot. The first one of these spots was observed by Voyager 2.
+ANSWER: Great Dark Spot
+<Hothem>
+
+17. This man was assisted in shredding documents by his secretary Fawn Hall and was, like Secretary of
+Defense Caspar Weinberger and National Security Adviser John Poindexter, investigated by the Tower
+Commission. For 10 points each:
+[10] Identify this lieutenant colonel who was charged with several felonies for diverting funds in a manner
+previously outlawed by the Boland Amendment.
+ANSWER: Oliver Laurence "Ollie" North
+[10] North was implicated in this scandal during Ronald Reagan's presidency, in which officials were
+accused of sending money received from clandestine arms sales to certain rebel groups in Nicaragua.
+ANSWER: Iran-Contra affair [accept synonyms for "affair"]
+[10] Reagan famously referred to the Iran-Contra scandal during the State of the Union Address with this
+three-word phrase, which acknowledged that wrongdoing happened while evading personal responsibility.
+ANSWER: "mistakes were made"
+<Kandlikar>
+
+18. Schrock developed a Molybdenum-HIPT complex that can do this artificially. For 10 points each:
+[10] Identify this process which commonly occurs in root nodules, in which a particular diatomic element's
+super-strong triple bond is cleaved by rhizobia.
+ANSWER: nitrogen fixation
+[10] This molecule with formula NH3 is the product of nitrogen fixation.
+ANSWER: ammonia [do NOT accept "ammonium"]
+[10] This process, in some ways the inverse of nitrogen fixation, transforms nitrogen-oxygen compounds
+back into diatomic nitrogen gas.
+ANSWER: denitrification [do NOT accept “nitrification”]
+<Mukherjee>
+
+PACE NSC 2012
+
+Round 9
+
+Page 12 of 14
+
+19. The right-most figure in this work is wearing a yellow-and-black striped shirt and reaches into his back
+pocket for a hidden object. For 10 points each:
+[10] Identify this painting in which a man holds up two fingers to indicate what the mark is looking at. A
+backgammon table can also be seen in this painting.
+ANSWER: The Cardsharps [do not accept “Cardsharks”]
+[10] The Cardsharps is a painting by this Italian Baroque artist, known for his use of chiaroscuro and for
+painting works like The Calling of Saint Matthew.
+ANSWER: Michelangelo Merisi da Caravaggio
+[10] In one of Caravaggio's versions of this scene, Jesus wears a red robe and reaches his right hand across
+the table. The other three figures include Luke, who stretches his arms out wide on the right side of this
+work.
+ANSWER: The Supper at Emmaus [or Christ at Emmaus; accept synonyms for "Supper" like "Dinner";
+do not accept "Road to Emmaus"]
+<Bentley>
+
+20. This poet lamented how "the curfew tolls the knell of parting day" at the beginning of one poem and
+coined the phrase "where ignorance is bliss, 'tis folly to be wise" in his "Ode on a Distant Prospect of Eton
+College". For 10 points each:
+[10] Name this author of "Ode on the Death of a Favorite Cat", who wonders if "some Cromwell guiltless
+of his country's blood" rests in the title location of his "Elegy Written in a Country Churchyard".
+ANSWER: Thomas Gray
+[10] The speaker of Gray's "Elegy" notes that despite "the boast of heraldry" and "the pomp of power",
+these things "lead but to the grave". This three-word phrase also titles a Stanley Kubrick war film.
+ANSWER: “paths of glory”
+[10] In the fifteenth stanza of Gray's "Elegy", the speaker wonders if "some mute inglorious" version of this
+poet "here may rest". Wordsworth's poem "London, 1802" asserts that this author of Areopagitica "shouldst
+be living at this hour".
+ANSWER: John Milton
+<Gioia>
+
+PACE NSC 2012
+
+Round 9
+
+Page 13 of 14
+
+PACE NSC 2012
+Round 9
+Tiebreakers
+21. The protagonist of this work is frequently visited by his attorney, Roman Vissarionovich, who never
+ends up providing him any help. For 10 points each:
+[10] Identify this novel also featuring a jailer named Rodion. The protagonist, Cincinnatus C., is accused of
+committing "gnostical turpitude".
+ANSWER: Invitation to a Beheading [or Priglasheniye na kazn]
+[10] Invitation to a Beheading is a novel by this Russian author of Pnin and Pale Fire, who wrote about
+Humbert Humbert in Lolita.
+ANSWER: Vladimir Vladimirovich Nabokov
+[10] This character from Lolita, who wrote the play The Little Nymph, briefly kidnaps Lolita from her
+hospital room. Humbert murders this man near the end of the novel.
+ANSWER: Clare Quilty [accept either underlined answer]
+<Bentley>
+
+22. This organization killed thousands of Polish officers in the Katyn Forest Massacre, and some people
+believe Sergei Kirov was killed by agents of this organization. For 10 points each:
+[10] Name this Soviet secret police organization, the predecessor to the KGB. One of its most notorious
+leaders was Lavrenty Beria.
+ANSWER: NKVD [or People’s Commissariat for Internal Affairs; or Narodnyy komissariat
+vnutrennikh del]
+[10] The NKVD helped carry out Stalin's Great Purge, in which several dissidents were shipped off to these
+Soviet Labor camps. Solzhenitsyn gave an account of living in one of these.
+ANSWER: Gulags
+[10] Joseph Stalin purged this Old Bolshevik and author of The ABCs of Communism. He was a longtime
+editor of Pravda and fell out of favor for criticizing collectivization.
+ANSWER: Nikolai Bukharin
+<Mukherjee>
+
+23. These organisms are able to synthesize their own complex organic compounds and serve as producers
+in the food chain. For 10 points each:
+[10] Name this type of organism, which, unlike heterotrophs, do not need to feed on other organisms.
+ANSWER: autotroph
+[10] Chemoautotrophs that live around deep sea vents can use this foul-smelling gas as their primary source
+of energy. Since those bacteria are the primary producers for their ecosystem, all deep-sea creatures rely on
+them.
+ANSWER: hydrogen sulfide [or H2S]
+[10] Plants are autotrophs that use this process to create organic compounds. It involves the use of
+chlorophyll to convert light energy into chemical energy.
+ANSWER: photosynthesis
+<Mukherjee>
+
+PACE NSC 2012
+
+Round 9
+
+Page 14 of 14
+
+

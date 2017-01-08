@@ -1,0 +1,532 @@
+2009-2010 Four Quarter Set #1
+Round 13
+First Quarter, Ten Tossups
+1. In one poem by this author, the speaker experiences the "perfect silence" of the outdoors after walking out
+on the proofs and figures of the "learned astronomer." Another poem by this author describes the "filament,
+filament, filament" launched by "the noiseless patient spider." This author of "Out of the Cradle Endlessly
+Rocking" wrote a poem wherein the speaker sounds "a barbaric yawp over the roofs of the world," a poem
+beginning "I celebrate myself, and sing myself." For 10 points, name this author of Song of Myself, who
+collected all of those poems in Leaves of Grass.
+ANSWER: Walter Whitman
+026-09-1-13101
+
+2. This city was the center for the work of Hans and Sophie Scholl during their time in the White Rose. One
+meeting in this city was interrupted by supporters of Erich Ludendorff in the Beer Hall Putsch, led by Adolf
+Hitler. A conference held in this city produced a namesake agreement that led Neville Chamberlain to
+believe "peace in our time" had been achieved. During one event in this city, operatives of Black September
+killed a group of people. For 10 points, name this German city whose 1972 Olympics included the murder of
+Israeli athletes.
+ANSWER: Munich [or München]
+023-09-1-13102
+
+3. This man wrote a play in which James Joyce gets help writing Ulysses from a woman in love with Tristan
+Tzara, Travesties. This author of The Coast of Utopia also wrote about a murder mystery within a play in a
+work about theater critics named Birdboot and Moon called The Real Inspector Hound. Septimus Hodge
+falls in love with his genius 13-year-old student, Thomasina, in one play. Another of his plays opens with a
+long series of heads-up coin tosses and ends with the disappearance of the two title characters, who are
+drawn from Shakespeare's Hamlet. For 10 points, name this playwright of Arcadia and Rosencrantz and
+Guildenstern Are Dead.
+ANSWER: Tom Stoppard [or Tomas Straussler]
+032-09-1-13103
+
+4. One way of measuring this is equivalent to the mass mixing ratio, while the volumetric measurement is
+not usually used. One simplified device for measuring it is the psychrometer, which consists of two
+thermometers and comparing the current conditions to those of saturated air at the same temperature yields
+the relative measure of this. That saturation point is known as the dew point and using both temperature and
+this measurement allows one to calculate the heat index. For 10 points, identify this measure of how much
+moisture is in the air.
+ANSWER: humidity [or relative humidity]
+001-09-1-13104
+
+5. This river plunges through the Five Finger Rapids in its headwaters, where it is joined by the Teslin River
+after flowing from Atlin and Tagish Lakes. The Porcupine River is a tributary of this river, which flows into
+Lake Laberge. A namesake trail from Skagway to Dawson was used during the Klondike Gold Rush. It runs
+through Whitehorse and flows north of Fairbanks. For 10 points, name this river that runs through Alaska
+and a namesake Canadian territory.
+ANSWER: Yukon River
+036-09-1-13105
+
+2009-2010 Four Quarter Set #1 Round 13 Page 1 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. This author created shoemaker Ralph Spencer, who is actually safecracker Jimmy Valentine, in “A
+Retrieved Reformation.” The title of one collection of his stories refers to the population of New York, The
+Four Million. In one of this author's stories, Bill Driscoll and Sam Howard end up giving 250 dollars to
+Ebenezer Dorset, whose son believes himself to be on a camping trip and styles himself "Red Chief." In his
+best known story, Jim and Della sell their watch and hair to buy each other gifts pertaining to their watch
+and hair. For 10 points, name this author of "The Gift of the Magi," known for his frequent twist endings.
+ANSWER: O. Henry [or William Sidney Porter; prompt on Porter]
+019-09-1-13106
+
+7. Guillaume de Mauchaut wrote one of these compositions named for Notre Dame that was the first one of
+these composed. Ones by composers like Josquin used the cantus firmus L'homme armé. Most settings of
+this end with the statement "Grant us peace" in the "Agnus Dei," and they open with a "Kyrie." Palestrina
+wrote one named after Pope Marcellus. Bach composed one in B minor despite being a Lutheran. They also
+include settings of the "Gloria," "Sanctus," and the Nicene Creed, and ones for the dead are named
+"Requiems." For 10 points, name this weekly Catholic ritual, which is often set to music.
+ANSWER: Masses ordinary [or missa; or ordinary masses]
+027-09-1-13107
+
+8. One character in this novel contracts scarlet fever from the Hummel family's baby. Another character in
+this novel marries Mr. Brooke, and a third character inherits Plumfield and marries Professor Bhaer. This
+novel is named for the daughters of Marmee, the sisters Amy, Beth, Meg, and Jo Marsh. For 10 points, name
+this novel written by Louisa May Alcott.
+ANSWER: Little Women
+004-09-1-13108
+
+9. 2,4-DNP is an example of an uncoupler used by this organelle. The color of brown fat is due to the high
+concentration of this organelle, which is responsible for generating heat in that tissue. One can trace
+matrilineal descent through this organelle's DNA. Like the chloroplast, this double-membraned organelle is
+the subject of the endosymbiotic hypothesis. For 10 points, name this site of oxidative phosphorylation, the
+energy-producing organelle.
+ANSWER: mitochondria
+003-09-1-13109
+
+10. This opera’s first act opens with the opening of the “Star-Spangled Banner.” One character buys a 999
+year lease on a home before meeting the consul Sharpless. In this opera, the title character sings “Un Bel di
+Vedremo.” After being forced to give up her son Sorrow to Kate, the title character says farewell to her maid
+Suzuki and kills herself before Lieutenant Pinkerton can stop her. For 10 points name this Giacomo Puccini
+opera about Cio-Cio San's love of an American soldier in Japan.
+ANSWER: Madame Butterfly
+015-09-1-13110
+
+2009-2010 Four Quarter Set #1 Round 13 Page 2 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+2009-2010 Four Quarter Set #1
+Round 13
+Second Quarter, Ten Tossups with Bonuses
+1. One function exhibiting the "mu" type of this technique that isn't also of the "primitive" type is the
+Ackermann function. The stack space used by this technique can be decreased by using the "tail" type of it.
+It is often used to implement the factorial function, solve the Towers of Hanoi problem, and calculate the
+Fibonacci sequence. For 10 points, name this programming technique, often contrasted with iteration, in
+which a function calls itself.
+ANSWER: recursion [or recursivity; or recursive functions; accept word forms]
+029-09-1-13111
+
+BONUS. Pencil and paper may be useful. For a reaction carried out at 300 Kelvin, the change in enthalpy is
+negative -300 Joules and the change in entropy is 3 Joules per Kelvin. For 10 points each:
+[10] Calculate the change in Gibbs free energy for this reaction.
+ANSWER: -1200 Joules [or negative twelve hundred joules or equivalents; do not accept "twelve hundred"
+or other positive equivalents]
+[10] This is the term for reactions, such as this one, which will occur by themselves if given enough time to
+proceed, and are characterized by a negative change in Gibbs free energy.
+ANSWER: spontaneous reactions
+[10] In general, the Gibbs Free Energy is a metric of the thermodynamic potential of obtaining this from a
+reaction. This quantity is calculated by multiplying force and distance.
+ANSWER: work
+003-09-1-13201
+
+2. One character of this play gets evicted from the Flamingo Hotel and fantasizes about Shep Huntleigh. In
+one scene of this play, a character angrily throws a radio out of the window and leaves two women to seek
+refuge with the upstairs neighbor Eunice. This play ends with Steve dealing a hand of poker, as one
+character who yells "Fire!" to avoid having sex with Mitch is led to an asylum while saying that she has
+"always depended on the kindness of strangers." For 10 points, name this play in which Stanley rapes his
+wife Stella's sister, Blanche Dubois (doo BWAH), a work by Tennessee Williams.
+ANSWER: A Streetcar Named Desire
+032-09-1-13112
+
+BONUS. For 10 points each, name these art movements.
+[10] Thomas Moran, Albert Bierstadt, and Thomas Cole were members of this nineteenth century American
+school of painters, which mainly created grand panoramas of nature.
+ANSWER: Hudson River School
+[10] This school focused on depicting the urban squalor of American life. Its members included Everett
+Shinn and John Sloan.
+ANSWER: Ashcan School
+[10] This early twentieth century art movement used non-natural, bright colors, and included Andre Derain
+and Henri Matisse. Its name is French for "wild beasts."
+ANSWER: Fauvism [or the Fauves]
+004-09-1-13202
+
+2009-2010 Four Quarter Set #1 Round 13 Page 3 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+3. The current leader of this country was accused of tampering with election results after narrowly defeating
+former movie star Fernando Poe, Jr., in the 2004 election. The Communist Party in this country was made
+legal by the staunchly anti-communist Fidel Ramos. This country’s first civilian American governor was
+William Howard Taft. This country's independence movement included figures such as José Rizal and
+Emilio Aguinaldo, who fought against the United States and Spain. For 10 points, name this Asian island
+country with a capital at Manila.
+ANSWER: Republic of the Philippines [or Republika ng Pilipinas]
+003-09-1-13113
+
+BONUS. The title character becomes frustrated with her Paris life and kills her husband Camille in one of
+this man’s early novels, Thérèse Raquin. For 10 points each:
+[10] What French author is better known for defending Alfred Dreyfus in an open letter to Felix Faure,
+“J’Accuse!”?
+ANSWER: Emile Francois Zola
+[10] Zola's best known novel is this work about Étienne Lantier, who leads a coal miners' strike in a town in
+Norther France.
+ANSWER: Germinal
+[10] Zola's novel Nana is about a singer of this genre. Another singer in this medium, Christine, is loved by
+the deformed Erik in a Gaston Leroux novel about the "phantom" of it.
+ANSWER: opera
+034-09-1-13203
+
+4. The reaction used to synthesize this compound works best with an osmium catalyst, but iron is used
+because it is more cost-effective. This material is oxidized in a reaction that uses a platinum-rhodium metal
+gauze. That reaction, the Ostwald Process, is used to turn this compound into nitric acid. The industrial
+process used to create this compound uses high pressure and heat to break the triple bond of its primary
+ingredient, nitrogen gas. For 10 points, name this compound that is formed via the Haber-Bosch process, a
+chemical with formula NH3.
+ANSWER: ammonia [or hydrogen nitride; or Spirit of Hartshorn; or Nitro-Sil; or Vaporole; accept NH3
+before it is read]
+026-09-1-13114
+
+BONUS. This suite was originally written for piano, and it ends with the movement "The Great Gate of
+Kiev." For 10 points each:
+[10] Name this that also includes the movements "Market at Limoges" and "The Old Castle." It has a
+“Promenade” theme to represent walking to differeng Viktor Hartman paintings.
+ANSWER: Pictures at an Exhibition [or Pictures from an Exhibition; or Kartinki s vystavki]
+[10] Pictures at an Exhibition is a work of this Russian composer, who also wrote the tone poem Night on
+Bald Mountain.
+ANSWER: Modest Petrovich Mussorgsky
+[10] Pictures at an Exhibition is most often performed in an orchestration by this composer, who himself
+composed Pavane for a Dead Princess, Gaspard de la Nuit (GAS-pard day lah NOO-ee), and the repetitive
+Bolero.
+ANSWER: Joseph-Maurice Ravel
+026-09-1-13204
+
+2009-2010 Four Quarter Set #1 Round 13 Page 4 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+5. This region's Khitans created the Liao Empire only to be overthrown by the Jin Dynasty of the Jurchens
+during the 12th Century. The people of this region allied with Wu Sangui and were led by Nurhaci. After the
+assassination of its warlord Zhang Zoulin in 1928, a Japanese invasion led to a puppet state here ruled by
+Pu-Yi. In 1644, the people from this region came into power after the Ming Dynasty ended, and established
+the Qing dynasty. For 10 points, name this northeastern region of China.
+ANSWER: Manchuria
+040-09-1-13115
+
+BONUS. Name these recent American authors, for 10 points each.
+[10] This author of the play The Engineer of Moonlight may be better known for his novels, such as one
+about Hitler Studies professor Jack Gladney, White Noise.
+ANSWER: Don DeLillo
+[10] The 2009 novel Inherent Vice is the latest work of this recluse, who described The White Visitation’s
+pursuit of Tyrone Slothrop in Gravity’s Rainbow and wrote The Crying of Lot 49.
+ANSWER: Thomas Ruggles Pynchon Jr.
+[10] This author died in January 2009, echoing the fate of his recurring character Rabbit Angstrom. His
+other novels include The Witches of Eastwick and Terrorist.
+ANSWER: John Hoyer Updike
+019-09-1-13205
+
+6. This artist had a falling-out over the use of diagonal lines with Theo van Doesburg, the founder of the
+movement with which he is associated. This artist named that style "neoplasticism," and used a gigantic red
+square and some smaller rectangles separated by horizontal lines in his Composition in Red, Blue and Yellow
+. The best known work of this artist was inspired by the city grid of New York and depicts motion
+reminiscent of a kind of dance music. For 10 points, name this Dutch artist, a member of the De Stijl (Duh
+Style) movement and painter of Broadway Boogie Woogie,
+ANSWER: Pieter Cornelis "Piet" Mondrian
+024-09-1-13116
+
+BONUS. This event began with a coup overthrowing Isabel Peron, and those convicted of their part in it
+were pardoned by Carlos Menem in a move to placate the military. For 10 points each:
+[10] Name this event from 1976 to 1983, in which over 10,000 suspected leftists, subversives, and innocent
+civilians were "disappeared."
+ANSWER: Dirty War
+[10] The Dirty War took place in this country, which regressed to political instability after the death of
+dictator Juan Peron and has seen periodic rioting in its capital of Buenos Aires.
+ANSWER: Argentina
+[10] The Dirty War regime made an international relations error when they invaded these islands in the
+South Atlantic, only to see Great Britain retake them within three months.
+ANSWER: Falkland Islands [or Falklands; or Islas Malvinas; accept Falkland Islands War]
+003-09-1-13206
+
+7. Fighting during this battle included a bombardment of the Miller cornfield as well as fighting for control
+of the sunken road known as Bloody Lane. The division of one side's forces before this battle was
+discovered by B.W. Mitchell in a piece of paper wrapped around three cigars, known as Special Order 191.
+This battle gave Abraham Lincoln the proper mood to announce his preliminary Emancipation Proclamation.
+For 10 points, name this battle fought in Maryland between the forces of McClellan and Lee, the bloodiest
+day of fighting during the Civil War.
+ANSWER: Battle of Antietam [or Battle of Sharpsburg]
+023-09-1-13117
+
+2009-2010 Four Quarter Set #1 Round 13 Page 5 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+BONUS. Name these members of Greek mythology's dysfunctional House of Atreus, for 10 points each.
+[10] This man was the son of the incestuous Thyestes (thigh-ESS-teez) and Pelopia. His affair with
+Clytemnestra had murderous consequences.
+ANSWER: Aegisthus
+[10] Aegisthus and Clytemenstra (cly-tem-NESS-truh) killed this man, Clytemnestra's husband, after he
+returned from the Trojan War. Along with his brother Menelaus (men-uh-LAY-us), he was a stepbrother of
+Aegisthus.
+ANSWER: Agamemnon
+[10] This man avenged his father Agamemnon's death at the urging of his sister Electra, but was then driven
+insane by the Furies for the act.
+ANSWER: Orestes
+003-09-1-13207
+
+8. WRITE MORE QUESTIONS, Particularly a Literature-American Tossup
+00--20-13118
+
+BONUS. This object consisted of a series of ouvrages, each approximately nine miles apart. For 10 points
+each:
+[10] Name this series of fortifications, which completely failed in its intended purpose of keeping the
+German army out of France.
+ANSWER: Maginot Line
+[10] The Maginot Line replaced a continuous line of trenches envisioned by this victor at the Battle of
+Verdun, who later led the Vichy government.
+ANSWER: Henri Philippe Petain
+[10] France had built the similar Alpine Line to deal with the forces of this neighboring country, which lost
+its military governor in Libya and switched sides during the course of World War II.
+ANSWER: Italy [or Italian Republic; or Repubblica Italiana]
+003-09-1-13208
+
+9. This country was the location of the Don Pacifico affair, which occurred during the rule of a German put
+on the throne by the Convention of London, King Otto. During this country's fight for independence, around
+twenty thousand people were killed in a massacre on the island of Chios and Lord Byron died fighting here.
+Earlier groups in this modern country fought the Battles of Salamis and Thermopylae against invading
+Persians. For 10 points, name this country that, in ancient times, was known for city-states like Corinth,
+Sparta, and Athens.
+ANSWER: Greece [or Hellenic Republic; or Ellinikí Dhimokratía]
+023-09-1-13119
+
+BONUS. Their period is approximately proportional to the square root of their length over the gravitational
+acceleration. For 10 points each:
+[10] Name these devices that consist of a mass supported by a string or other pivoting connector.
+ANSWER: pendulum
+[10] Pendulum motion is similar to this type of motion demonstrated by a mass on a spring.
+ANSWER: simple harmonic motion [or harmonic oscillator; do not accept "quantum harmonic motion";
+do not accept "quantum harmonic oscillator"]
+[10] The force which causes a body to experience simple harmonic motion is often given by this law, which
+relates the force of a spring to its displacement from equilibrium and a spring constant.
+ANSWER: Hooke\'s Law
+001-09-1-13209
+
+2009-2010 Four Quarter Set #1 Round 13 Page 6 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+10. One type of this disease is caused by a mutation in the RB gene and a loss of heterozygosity, meaning no
+functional Rb protein is produced. Another type was found by Peyton Rous to be caused by a retrovirus, and
+this disease often begins with a gain-of-function mutation in a proto-oncogene. Later stages of this type of
+disease may involve the metastasis of a malignant tumor. For 10 points, name this unchecked proliferation of
+mutated cells, forms of which include leukemia and those affecting the lung and skin.
+ANSWER: cancer
+003-09-1-13120
+
+BONUS. This thinker proposed that the title figure of his Moses and Monotheism was a follower of
+Akhenaten. For 10 points each:
+[10] Name this figure who discussed "The Horror of Incest" in Aboriginal culture in Totem and Taboo and
+the result of punitive laws in Civilization and Its Discontents.
+ANSWER: Sigmund Schlomo Freud
+[10] Freud's magnum opus "interprets" these occurrences, a named example of which is "Irma's Injection,"
+and which might represent sex if they involve ladders and inclines.
+ANSWER: dreams [accept word forms]
+[10] In Freud's threefold model of the psychic apparatus groups, this portion represents the basest desires
+and impulses, and is at odds with the ego and superego.
+ANSWER: id
+022-09-1-13210
+
+2009-2010 Four Quarter Set #1 Round 13 Page 7 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+2009-2010 Four Quarter Set #1
+Round 13
+Third Quarter: Team Rounds
+1. [10] Joe Theismann, Doug Williams, and Mark Rypien are the three men who have won the SuperTeam
+BowlA
+while playing for what position and team?
+ANSWER: quarterback for the Washington Redskins [or quarterback for Washington; accept obvious
+equivalents; prompt if only one of the correct answers is given]
+2. [10] This is a 30-second calculation question. A company normally sells widgets at 75 cents each, but if
+you buy more than 25, you get a 10% discount. What would be the total cost of buying 30 widgets?
+ANSWER: $20.25
+3. [10] "Masculine," "feminine," "complete," "incomplete," and "slant" are all types of what literary device?
+ANSWER: rhyme [or rhyming or other word forms]
+4. [10] This phenomenon disappears above the Curie point. Identify this kind of magnetism that can occur in
+nickel or cobalt, but is named for its presence in iron.
+ANSWER: ferromagnetism [do not accept "antiferromagnetism"]
+5. [10] This is a 10-second calculation question. When temperature is held constant, then P times V is also
+constant. If P = 15 pascals when V = 20 liters, find P when V = 30 liters.
+ANSWER: 10 pascals
+6. [10] Citrine, silica glass, and amethyst are all types of what rock, principally made of silicon dioxide, that
+also has "smoky" and "rose" versions?
+ANSWER: quartz
+7. [10] Angola and the island of Macau are some of the locations where this is a majority language. Identify
+this originally European language, whose largest concentration of speakers is found in Brazil.
+ANSWER: Portuguese [or Português]
+8. [10] In 1968, he stated that, "In the future, everyone will be world-famous for 15 minutes." Later that
+year, Valerie Solanas claimed her 15 minutes by shooting him. Name this American "pop artist," who
+painted Marilyn Monroe and Campbell's soup cans.
+ANSWER: Andy Warhol [or Andrew Warhola]
+9. [10] Conservative leader David Cameron and Liberal Democrat Nick Clegg are poised to challenge the
+fading popularity of what current Prime Minister of the United Kingdom, who is legally obligated to call for
+an election before June 2010?
+ANSWER: James Gordon Brown
+10. [10] This is a 30-second calculation question. If theta is an angle in the second quadrant with sine theta
+equal to 3/5, what is the tangent of theta?
+ANSWER: -3/4
+019-09-1-13401
+
+2009-2010 Four Quarter Set #1 Round 13 Page 8 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+2009-2010 Four Quarter Set #1
+Round 13
+Third Quarter: Team Rounds
+Team B
+1. [10] Serena's incorporation into Blair's social circle is the basic plot of what CW show, that stars Blake
+Lively and Leighton Meester and adapts an eponymous series of books by Cecily von Ziegesar?
+ANSWER: Gossip Girl
+2. [10] This is a 20-second calculation question. If 5a - 3b = 8c, and a = 9 and c = 2, find b.
+ANSWER: 29/3 [or 9 2/3]
+3. [10] Though scholars more often praise his Blood Meridian, what contemporary author achieved more
+popular success with The Road, All the Pretty Horses, and No Country For Old Men?
+ANSWER: Cormac McCarthy [or Charles McCarthy]
+4. [10] Phytol (FYE-tawl) side chains branching off a porphyrin (POUR-fuh-rin) ring around a magnesium
+atom comprise what molecule that absorbs blue and red light in photosynthesis, reflecting green light and
+thus giving plants their color?
+ANSWER: chlorophyll [do not accept "chloroplast"]
+5. [10] This is a 20-second calculation question. To the nearest penny, how much would you pay for 3
+gallons of gasoline at $2.429 (two dollars and 42.9 cents) per gallon?
+ANSWER: $7.29
+6. [10] A ninth-grade science teacher testified that a fourteen-year-old Philo Farnsworth had discovered the
+basic principle of this technology. Identify this invention, which Farnsworth successfully won a patent on in
+a 1939 lawsuit against RCA and Vladimir Zworykin.
+ANSWER: television
+7. [10] Djibouti, Eritrea, Ethiopia, and Somalia comprise what piracy-stricken region with a
+musical-sounding name?
+ANSWER: the horn of Africa
+8. [10] The Pahari people of Nepal and the classical culture of Tibet were some of the few groups that
+engaged in what specific form of polygamy, in which a woman is permitted to have multiple husbands?
+ANSWER: polyandry [do not accept "polygyny"]
+9. [10] In September 2009, a march in what country accused a neighboring country's president, Hugo
+Chavez, of smuggling weapons across the border to this country's militant FARC movement?
+ANSWER: Republic of Colombia [or Republica de Colombia]
+10. [10] This is a 10-second calculation question. You draw two cards at random from a standard poker deck
+of 52 cards. If the first card is a king, what is the probability that the second card is a queen?
+ANSWER: 4/51
+019-09-1-13401
+
+2009-2010 Four Quarter Set #1 Round 13 Page 9 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+2009-2010 Four Quarter Set #1
+Round 13
+Fourth Quarter: Ten Tossups
+1. In novel by this man, a meal on Whitsuntide is arranged to lure away La Ramée and the Comte de
+Rochefort is killed by a man he befriended and dueled. This author of Twenty Years After and The Vicomte
+of Bragelonne wrote about the Man in the Iron Mask in a sequel to a book about Milady de Winter’s enmity
+toward D’Artagnan, Athos, Porthos, and Aramis, and about Mercédès’s fiancée, who is condemned to life
+imprisonment in the title island by Villefort. For 10 points, name this author of The Three Musketeers and
+The Count of Monte Cristo.
+ANSWER: Alexandre Dumas, père [or Dumas Davy de la Pailleterie]
+020-09-1-13122
+
+2. This process is used on beams of neutrons to determine the surface structure of thin films. Its diffuse form
+is modeled well by a Lambertian model, in which intensity is directly proportional to the emission angle and
+so perceived radiance is constant. For a given polarization, this phenomenon is minimized at Brewster's
+angle. Above the critical angle, a "total internal" variety of this phenomenon occurs. For 10 points, name this
+phenomenon in which a wavefront changes direction at an interface between two media so that it returns to
+the first medium, which takes place with mirrors.
+ANSWER: reflection
+022-09-1-13123
+
+3. This man delivered a famed 1820 speech commemorating the landing of the Mayflower. This politician
+argued for his alma mater in the case Dartmouth v. Woodward. This man argued against nullification in his
+1830 debate with Robert Hayne. As Secretary of State, this man was the only cabinet member to carry over
+from William Henry Harrison to John Tyler’s administration. For 10 points, name this famous orator and
+politician, who negotiated a treaty that settled the Maine-Canada boundary with Baron Ashburton.
+ANSWER: Daniel Webster
+030-09-1-13124
+
+4. One author from this country wrote about Jesuit missionary Sebastian Rodrigues in his novel Silence. A
+woodcutter and bandit offer conflicting accounts of a murder in "In a Grove", whose author names the
+highest literary prize of this nation. A Nobel laureate from this country wrote A Personal Matter and The
+Silent Cry. The author of Confessions of a Mask and the Sea of Fertility tetralogy is from this country, as is
+the eleventh century court lady who wrote The Tale of Genji. For 10 points, name this homeland of Yukio
+Mishima and Lady Murasaki.
+ANSWER: Japan [or Nippon-koku; or Nihon-koku]
+012-09-1-13125
+
+5. Operation Cyclone was designed to weaken this country. This country was administrated partly by the
+GOSPLAN. During World War II, this country launched Operation Uranus and won the Battle of Kursk.
+This country invaded one of its neighbors after the Saur Revolution, though it was defeated by the
+mujahideen. After a period of perestroika and glasnost, this country collapsed in 1991 and was replaced by
+the CIS. For 10 points, name this rival of the United States and NATO during the Cold War.
+ANSWER: Soviet Union [or Sovetsky Soyuz; or Union of Soviet Socialist Republics; or USSR; or CCCP
+; or Soyuz Sovetskikh Sotsialisticheskikh Respublik]
+021-09-1-13126
+
+2009-2010 Four Quarter Set #1 Round 13 Page 10 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. One of the first incidents related in this novel is a card game played by forming latrine boxes into a table.
+As Kemmerich is dying from an infected leg wound in this novel, he gives his boots to Müller. The central
+characters of this novel are recruited by the teacher Kantorek and trained by the harsh Corporal
+Himmelstoss. The title phrase is the only content of the official army report on the day that the protagonist of
+this novel, Paul Bäumer, is killed. For 10 points, name this novel about the average German soldier in World
+War I, written by Erich Maria Remarque.
+ANSWER: All Quiet On The Western Front [or Im Westen nichts Neues]
+019-09-1-13127
+
+7. This god's brother Anteros was worshipped in Athens following the deaths of Meles and Timagoras. In
+one creation myth, his coupling with Chaos produced the birds. By one lover, he gave birth to the goddess
+Voluptas or Hedone. This god banished one of his lovers when her curiosity caused her to spill lamp oil on
+him. He is the lover of Psyche and daughter of Aphrodite. For 10 points, name this classical god of love,
+often depicted flying with angelic wings and wielding a magic bow and arrow.
+ANSWER: Eros [or Cupid]
+015-09-1-13128
+
+8. Edward Chace Tolman formulated the "purposive" branch of this school. Another member of this school
+wrote Animal Intelligence and researched how cats escaped from puzzle boxes. In addition to Edward
+Thorndike, another member of this school conducted the Little Albert experiment and claimed to be able to
+train an infant to "become any type of specialist." For 10 points, name this school of psychology associated
+with John B. Watson and B.F. Skinner, which attempts to study the actions of animals and humans.
+ANSWER: behaviorism
+024-09-1-13129
+
+9. By Fubini's theorem, multiple instances of this operator can be performed in any order, and performing it
+on a product of functions can be done "by parts." Using the disk or shell methods, one can use this operator
+to find the volume of a solid of revolution. First defined rigorously by Bernhard Riemann, this operator can
+be described graphically as finding the area under the graph of a function. For 10 points, name this function,
+which by the Fundamental Theorem of Calculus is the inverse function of differentiation.
+ANSWER: integration [or integral]
+025-09-1-13130
+
+10. A book about a journey on this route was the first bestseller for popular historian Francis Parkman.
+Marcus Whitman led the "great migration" along this route. Landmarks on this route included Fort Bridger,
+Fort Hall, and Soda Springs. Twelve thousand people used this route to settle in the Columbia River Valley.
+This route started at Independence, Missouri and moved westward through Kansas, Nebraska, and
+Wyoming, where it shared stretches with the Mormon Trail. For 10 points, identify this settler route to a
+namesake Western U.S. territory.
+ANSWER: Oregon Trail
+019-09-1-13131
+
+2009-2010 Four Quarter Set #1 Round 13 Page 11 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+2009-2010 Four Quarter Set #1
+Round 13
+Tiebreaker Questions
+1. If an alternate loop structure is present, these entities can terminate early in a process known as
+attenuation. The mechanism of their function was discovered by Jacob and Monod. Translational repressors
+of these entities contrast with their transcriptional repressors, which bind to the operator site. They also have
+promoter sites, where RNA polymerase binds. In E. coli, one of them facilitates the transport and production
+of lactose. For 10 points, name these sequences of prokaryotic DNA that regulate expression of related
+genes, including the trp (trip) and lac types.
+ANSWER: operons
+026-09-1-13132
+
+2. This composer's first symphony was originally for organ. Eugene Goossens commissioned a
+brass-and-percussion piece by this composer that he would later incorporate into the finale of his Third
+Symphony. One of this man's ballets contains the "Hoe-Down" movement. He composed a ballet
+choreographed by Martha Graham that incorporates the Shaker hymn "Simple Gifts." For 10 points, name
+this American composer of Rodeo, Fanfare for the Common Man, and Appalachian Spring.
+ANSWER: Aaron Copland
+026-09-1-13133
+
+3. Barriers to entry are one way that existing firms can have the "incumbent" form of this, as compared to
+new firms in a market. The ability to produce a good more efficiently in a national economy is its "absolute"
+form. Two countries which produce more of two goods by respectively specializing in one and the other are
+benefiting from another form of this, which was originally explained in terms of British cloth and
+Portuguese wine by David Ricardo. For 10 points, give this economic term that appears in justifications of
+international trade in its "comparative" form.
+ANSWER: advantage
+019-09-1-13134
+
+2009-2010 Four Quarter Set #1 Round 13 Page 12 of 12
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

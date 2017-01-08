@@ -1,0 +1,370 @@
+Harvard Fall Tournament VII
+Round 2
+Edited by Stephen Liu, with assistance from Eric Mukherjee and Dallas Simons
+Written by Stephen Liu, Graham Moyer, David Liu, Kuo-Kai Chin, Will Holub-Moorman, Stephen Morrison, Andy
+Dibble, Sriram Pendyala, Jared Cowan, Mark Arildsen, and Artur Meller
+Tossups
+1. The main theme of the third movement rondo of one of these pieces is played once with a long pedal and later
+over a sustained trilled G. Another has the word “Lebewohl” spelled over its first three chords; that piece, titled Les
+Adieux, commemorates the departure of Archduke Rudolf. These pieces also include one whose Adagio sostenuto
+first movement may have been inspired by a view of Lake Lucerne. That work is subtitled “Quasi una fantasia”
+and is in C# minor. For 10 points, name this group of works for a certain keyboard instrument that include the
+Hammerklavier, Waldstein, and Moonlight ones, written by the composer of Fur Elise.
+ANSWER: Beethoven’s Piano Sonatas [Accept equivalents. Prompt on “Piano works by Beethoven.”]
+2. He defended the language he writes in as “nationwide currency” and one of his works features the fall of Sam’s
+military regime in the fictional nation of Kangan. That work includes a man nicknamed Samsonite for his brutal
+use of a stapler. This author also wrote about how a series of bribes leads to Obi’s downfall in No Longer at Ease,
+the sequel to a work in which Obi’s grandfather violates the Week of Peace by beating his wife, and is later exiled
+for the accidental explosion of his gun. That character created by this author lives in Umuofia and hangs himself in
+protest of coming imperialism. For 10 points, name this Nigerian author who wrote about Okonkwo in Things Fall
+Apart.
+ANSWER: Chinua Achebe [Accept Albert Chinualumogu Achebe.]
+3. One set of mathematical constructs named for this man are Hermitian and unitary, and thus correspond to the
+observables of the complex Hilbert space with two dimensions. This man used the conservation of energy and
+momentum in beta decay to theorize the existence of the neutrino. He names a set of three matrices that describe
+spin, and one of his results explains why neutron stars below the Tolman-Oppenheimer-Volkoff limit don’t collapse.
+That principle concerns the anti-symmetric quantum states of fermions, explaining why electrons with the same spin
+cannot occupy the same orbital. For 10 points, name this Austrian theoretical physicist with a namesake Exclusion
+Principle.
+ANSWER: Wolfgang Pauli
+4. This painting was created alongside a companion piece in which one title figure holds a halberd and grabs the
+hair of the other, entitled Pallas and the Centaur. The head of the central figure in this work is framed by two wingshaped gaps in the trees, while in the upper left some clouds are being cleared away with a caduceus by a red-robed
+Mercury. Set in an orange grove, this painting features a grassy ground with many different species of flowers,
+above which the three Graces dance in transparent white gowns. Next to the central figure of Venus in this work
+stands the flower-covered Flora. For 10 points, name this Botticelli painting that allegorizes the titular season.
+ANSWER: Primavera [Accept Allegory of Spring.]
+5. This man attempted to represent the interests of the wool growers of Springfield, Massachusetts with his business
+partner Simon Perkins. He left Springfield and founded the League of Gilead in response to the passage of the
+Fugitive Slave Act. This man commanded a group of men against Henry Pate in the Battle of Black Jack, and
+responded to the Sack of Lawrence by killing five pro-slavery citizens at Pottawatomie Creek. This man was
+eventually captured by Robert E. Lee after trying to seize control of a Maryland armory. For 10 points, name this
+militant abolitionist who was involved with Bleeding Kansas and also led a raid on Harper’s Ferry.
+ANSWER: John Brown
+
+6. The winning side in this battle supposedly followed up on their vow to sacrifice as many goats as the men they
+slew. Cynaegirus died in this battle due to a severed hand while trying to drag back an escaping enemy ship. Before
+this battle, the attacking fleet was directed to a landing site by the exiled tyrant Hippias, and while the defenders
+were assisted by Plataea, the Spartans arrived three days late. The strategoi Callimachus died during this battle,
+though his troops repelled the troops of Datis and Artaphernes, ruining Darius I's invasion of Greece. For 10 points,
+name this victory for Miltiades over the Persians, after which Pheidippides ran 26 miles to bring the news to Athens.
+ANSWER: Battle of Marathon
+7. The protagonist of this novel goes to see a Fernandel movie with his girlfriend, and he fondles her breast while
+they watch. Another character in this novel asks the protagonist to help him write a break-up letter. Those two
+characters later visit Masson at his house on the beach, where the protagonist is tormented by the sun. An old man
+in this novel distraught after the loss of his dog is named Salamano, while other characters in this novel include the
+aforementioned friend Raymond Sintes. This novel begins, “Maman died today. Or yesterday, I don’t know.” For 10
+points, name this work in which Meursault fails to mourn his mother and kills an Arab, written by Albert Camus.
+ANSWER: The Stranger [or L’Etranger]
+8. In computational chemistry, the Gaussian-type of these entities are used in the LCAO method. For radially
+symmetric potentials inversely proportional to radial distance, the wavefunctions of these objects are given
+by Laguerre polynomials multiplied by the spherical harmonics. Within molecules, these entities can exist as
+nonbonding, bonding, and anti-bonding types. These objects mix together in molecules in a phenomenon known
+as hybridization, and are filled according to the Aufbau principle. For 10 points, name these wave-like functions
+describing the location of electrons within atoms, whose classifications include s, p, d, and f.
+ANSWER: orbitals [Accept atomic orbitals or molecular orbitals.]
+9. This architect designed the Wingspread House for the commissioner of a corporate headquarters that featured
+a “lily pad” platform and “calyx” columns in the “Great Workroom.” This man designed a series of single-story
+homes with garden terraces and minimal storage space, which he named the Usonian style. This architect of the
+Johnson Wax Headquarters was inspired by the flatness of the midwestern landscape in designing the Robie House,
+an example of his Prairie School architecture. One of this man's best known works features cantilevered terraces
+overlooking a waterfall. For 10 points, name this American architect of the Guggenheim Museum and Fallingwater.
+ANSWER: Frank Lloyd Wright [accept Frank Lincoln Wright]
+10. The Beveridge curve relates this quantity to the potential to decrease it and can explain one type of it that
+exists due to a time delay between situations in which it disappears. The Shapiro-Stiglitz model uses the concepts
+of “shirking” and “wage sluggishness” to help explain this quantity. The gap version of Okun’s law states that for
+every 1% increase in this quantity, the GDP will fall 2% from its optimal level. This quantity exists in frictional and
+cyclic forms, the latter of which depends on business cycles, and it was shown as inversely related to inflation in the
+Phillips Curve. For 10 points, name this economic quantity that measures the number of people out of work.
+ANSWER: unemployment rate
+11. The catopril challenge test checks for conditions such as fibromuscular displasia, which concerns the renal
+variety of these entities. One type of these is closely related to the median nerve and splits into ulnar and radial
+varieties at the cubital fossa. Another type of these undergoes coarctation in Turner’s Syndrome and sinuses of
+Valsalva are the origin of the coronary variety. The largest example of these objects has a namesake arch and
+pulmonary ones uniquely carry deoxygenated blood. For 10 points, name this type of blood vessel exemplified by
+one that exits the left ventricle, the aorta, which carries oxygenated blood away from the heart in contrast to veins.
+ANSWER: arteries
+
+12. One son of this figure was born with full armor and became the father of Geryon, whose cattle was stolen by
+Heracles. When Athena punished this mother of Chrysaor for sleeping with Poseidon in Athena’s temple, she
+assumed the same form as her sisters, daughters of Phorcys and Ceto named Stheno and Euryale. This figure was
+eventually killed by a hero armed with a mirrored shield and the winged sandals of Hermes, and one part of her
+body was used to save Danae from Polydectes before it was mounted on Athena's aegis shield. For 10 points, name
+this monster slain by Perseus who had snakes for hair and was so ugly that her face turned people into stone.
+ANSWER: Medusa
+13. This philosopher wrote a critical and psychoanalytic biography of Gustave Flaubert entitled The Family Idiot.
+In one essay, this thinker wrote that “Man first of all exists, encounters himself, surges up in the world, and defines
+himself afterwards.” This man’s most famous work discusses the absence of the waiter Pierre and the effect of “the
+look.” That work explains how a person defines himself through his socially constructed role, a concept this man
+termed “bad faith.” This man explained the philosophy he developed as “a humanism” in another essay. For 10
+points, name this French author of Being and Nothingness, perhaps the most influential existentialist thinker.
+ANSWER: Jean-Paul Sartre
+14. One object in this story has the name Dillingham written out in full on a letterbox, which its owners wish to
+change to the more modest “D.” The author of this work claimed that if the protagonists had lived next to King
+Solomon and the Queen of Sheba, the latter would have been put to shame. One character in this story goes to
+Madame Sofronie’s, requiring her to curl her hair afterwards. At the end of this story, the narrator explains the origin
+of the Christmas present. For 10 points, name this short story in which Jim and Della sell their watch and hair to buy
+each other a watch chain and a comb, written by O. Henry.
+ANSWER: “The Gift of the Magi”
+15. This man asked “Who would believe me, if I swear / That I have had the plague a year” in one poem and noted
+that he was a “little world made cunningly of elements” in another. Aside from writing “The Broken Heart,” this
+poet noted that the title figure “suck’d me first, and now sucks thee” in a poem that uses being bitten by an insect
+as a euphemism for sex. In another poem this author told the addressee that “thy firmness makes my circle just /
+and makes me end, where I begun.” That work is “A Valediction: Forbidding Mourning.” For 10 points, name this
+Metaphysical poet famous for lines like “Death, be not proud,” “No man is an island,” and “Therefore, send not to
+know for whom the bell tolls, it tolls for thee.”
+ANSWER: John Donne
+16. This body of water contains an entity known as the “black stream,” and the Andesite line delineates between
+andesitic and mafic rocks in it. The Louisville hotspot lies underneath it, and the Humboldt current here sees high
+primary productivity due to upwelling. The Kuroshio current lies in this entity whose changing location relative to a
+hotspot created the Emperor seamount chain. Weakened trade winds over this entity cause its eastern portion to heat
+up and upwelling to stop, disrupting fisheries, in one phase of the El Nino Southern Oscillation. For 10 points, name
+this ocean containing the California and Alaska Currents, the largest ocean on Earth.
+ANSWER: Pacific Ocean
+17. The Cissé dynasty of this kingdom was founded by Kaya Magha, and its royal court was centered at El-Ghaba.
+Its history was documented by Abu Ubayd Al-Bakri, and after being weakened by the Takrur and Almoravids under
+Abdullah ibn Yasin, this state was conquered by the Sosso under the leadership of Sumanguru. Made up of the
+Soninke peoples, it had its capital at Koumbi Saleh and after the defeat of the Sosso was occupied by the forces of
+Sundiata Keita. This empire was the first of the Sub-Saharan African trading states, growing rich from trading gold
+and salt. For 10 points, identify this empire that shares its name with a modern day country with capital at Accra.
+ANSWER: Ghana Empire
+
+18. In 2008, this politician secured over a million dollars in funding for an Ice Age Trail in his state and told a
+newspaper that year, “If we’re going to have free trade with China, why not Cuba?” in his support for ending
+the trade embargo. This politician characterized the Dodd-Frank Act as “class warfare” and was criticized by the
+faculty of Georgetown for his “Roadmap for America’s Future” and “Path to Prosperity” budgets, which famously
+cut social programs such as food stamps and Medicare. For 10 points, name this Republican congressman from
+Wisconsin who was Mitt Romney’s running mate in the 2012 presidential election.
+ANSWER: Paul (Davis) Ryan
+19. This religious group practices a controversial mut‘a or temporary marriage. This denomination emphasizes
+taqiyya, or concealing one's faith for purposes of self-protection. The largest branch of this sect professes belief
+in twelve divinely ordained leaders or sinless and infallible imams. Members of this denomination claim that only
+recordings of members of Mohammad’s family are authoritative, leading them to reject the hadith derived from
+people like Omar ibn al-Khattab and Abu Bakr. This denomination rose out of a schism in which its members
+favored Ali. For 10 points, name this branch of Islam common in Iran and opposed to the Sunni branch.
+ANSWER: Shi'a [or Shiite.]
+20. This ruler put down rebellious rifle regiments hoping to place this ruler's sister Sophia Alekseyevna or her lover
+Vasily Galitzine in power. In addition to dealing with the Streltsy Uprising, this man established the Table of Ranks
+to keep track of his government. This ruler participated in his own Grand Embassy through Western Europe to seek
+allies against the Ottomans, after which he imposed a tax on beards. The largest conflict during this man's reign saw
+him avenge a defeat against Charles XII at Narva by crushing the Swedish at the Battle of Poltava. For 10 points,
+name this Russian tsar who fought the Great Northern War and founded a city later renamed Leningrad.
+ANSWER: Peter the Great or Peter I [Accept Pyotr I Alexeyevich Romanov]
+Bonuses
+1. Complications from this X-linked recessive disease included the inability to stop bleeding from even minor
+wounds. For 10 points each:
+[10] Name this disease which can be due to prolonged partial thromboplastin time, leading to delayed blood clotting.
+ANSWER: hemophilia
+[10] One factor crucial for clotting is these vitamins, which include phylloquinone and menaquinone. Only the first
+directly comes from green leafy vegetables.
+ANSWER: vitamin K
+[10] This Finnish scientist gave his name to a certain clotting factor responsible for allowing platelets to remain
+merged at wounds. His name is also given to a disease similar to hemophilia.
+ANSWER: Erik Adolf von Willebrand
+2. Before he rose to the throne, this man dealt with an uprising by Nikephoros Byrennios against his predecessor.
+For 10 points each:
+[10] Name this Byzantine Emperor whose daughter Anna documented his life in a record that also chronicles his
+dealings with Robert Guiscard and Bohemond of Taranto.
+ANSWER: Alexius I [Accept Alexius Komnenos and Alexius I Comnenus.]
+[10] Alexius and Bohemond were allies during this war, which was called by Pope Urban II at the Council of
+Clermont. It began a series of conflicts by Christians in the Holy Land.
+ANSWER: First Crusade [Prompt on “Crusade.”]
+[10] Ten years before Alexius came to the throne, the Byzantines had been crushed at the Battle of Manzikert by a
+group of these people. That group, the Seljuks, were an offshoot of the Oghuz branch of these people.
+ANSWER: Turks
+
+3. One side in this battle landed at Pevensey and were preparing to pillage through Kent when the defenders engaged
+them, despite being tired from a long march. For 10 points each:
+[10] Name this 1066 battle in which the Normans under William the Conqueror gained control of England.
+ANSWER: Battle of Hastings
+[10] The Battle of Hastings was a defeat for this last Anglo-Saxon king of England, who might have been shown in
+the Bayeux Tapestry with an arrow in his eye. He beat Harald Hardrada and his brother Tostig at Stamford Bridge.
+ANSWER: Harald Godwinson [Accept Harald II.]
+[10] This daughter of Henry I was the last ruler of England from the House of Normandy. She became heir after her
+brother died in the White Ship Disaster and she fought the Anarchy against Stephen of Blois.
+ANSWER: Matilda of England [Accept Empress Matilda. Accept Maude instead of “Matilda”.]
+4. In a novel named for one of these objects, characters like Sir Walter Raleigh and Dickie Sludge help and hinder
+the protagonist. For 10 points each:
+[10] Name these objects that include a Walter Scott creation called Kenilworth, as well as the title object in a Kafka
+work in which the land surveyor K attempts to reach one of these buildings.
+ANSWER: castles
+[10] Horace Walpole wrote the first gothic novel about the castle at this location. The novel features giant falling
+helmets and centers on Theodore’s attempts to overcome the maleficent Count Manfred.
+ANSWER: The Castle of Otranto
+[10] John Polidori introduced this creature into Gothic fiction. Perhaps the most famous example of these monsters
+sucks Lucy Westenra’s blood and is defeated by Van Helsing, who chases him to his castle in Transylvania.
+ANSWER: vampires
+5. Sixteen hyperbolic pillars were arranged in a circle and interspersed by large panels of stained glass for the
+Cathedral of this city. For 10 points each:
+[10] Name this city that was designed either to look like an airplane or a butterfly from the sky. It makes sense that
+the National Congress Building is here, since it's the capital of Brazil.
+ANSWER: Brasilia
+[10] The aforementioned Cathedral of Brasilia as well as various other modernist buildings in Brasilia were
+designed by this Brazilian architect, who collaborated with urban planner Lucio Costa.
+ANSWER: Oscar (Ribeiro de Almeida) Niemeyer (Soares Filho)
+[10] This man also served as an urban planner when he designed the Indian city of Chandigarh. This Swiss-French
+architect is better known for the Villa Savoye, which illustrated his “five points” of architecture.
+ANSWER: Le Corbusier [Accept Charles-Edouard Jeanneret.]
+6. In one story by this author, a man watches his former lover and her husband watch the play The Geisha. For 10
+points each:
+[10] Name this Russian author who wrote about Dmitri Gurov and Anna Sergeyevna in The Lady with a Lapdog. He
+also wrote a play about the suicidal Uncle Vanya and about Madame Ranevskya in The Cherry Orchard.
+ANSWER: Anton (Pavlovich) Chekhov
+[10] In this Chekhov play, Arkadina mocks would-be writer Konstantin Trepylov, and loves the more successful
+playwright Trigorin. Konstantin shoots the titular bird, to which Arkadina compares herself.
+ANSWER: The Seagull [Accept Chayka.]
+[10] In this other play, the title character is criticized for loving the “jewess” Anna for her money, and he cannot
+escape that reputation when he falls in love with Lebedev’s daughter Sasha, leading to his suicide.
+ANSWER: Ivanov
+7. This island is bounded by the East and Hudson Rivers, while smaller outlying islands include Ellis and Roosevelt.
+For 10 points each:
+
+[10] Name this most densely populated New York city borough. It comprises the entirety of New York County.
+ANSWER: Manhattan
+[10] This nearby island is composed of Nassau and Suffolk counties and contains the boroughs of Brooklyn and
+Queens. Its South Shore contains locales like Montauk.
+ANSWER: Long Island
+[10] This city, which lies between the Hudson River and the Upper New York Bay across from Manhattan, is the
+second most populous in its state after Newark.
+ANSWER: Jersey City
+8. When the Sweet Home Men try to escape a plantation in this novel, Paul A is hanged and Sixo is burned alive.
+For 10 points each:
+[10] Name this novel in which Paul D, the last of the Sweet Home Men, tries to support and encourage Sethe and
+her child Denver as they are haunted by what seems to be the ghost of Sethe’s murdered child.
+ANSWER: Beloved
+[10] This African American author of Beloved told of Milkman Dead’s quest for gold in Song of Solomon. She also
+wrote about the death of Chicken Little and the return of the titular girl to The Bottom in Sula.
+ANSWER: Toni Morrison [Accept Chloe Ardelia Wofford.]
+[10] In Morrison’s The Bluest Eye, this character desires the titular facial features and considers herself to be ugly.
+Claudia MacTeer watches over this character’s struggles, and she is raped by her father Cholly near the end of the
+novel.
+ANSWER: Pecola Breedlove [Accept either name.]
+9. The throwing of this object supposedly marked the beginning of the Aesir-Vanir war. For 10 points each:
+[10] Name this object forged by the Sons of Ivaldi so that it would never miss its target. It was the primary weapon
+of Odin.
+ANSWER: Gungnir
+[10] Gungnir was one of these weapons, another of which, the gae bulg, was owned by Cuchulainn and had thirty
+barbs. Chiron gave one of these as a wedding gift to Peleus, and it was later used by Achilles to kill Hector.
+ANSWER: spears
+[10] While being chased around Castle Carbonek, Balin found the Spear of Longinus and struck King Pelles with it,
+creating the Waste Land. That spear had earlier pierced the side of this man as he hung from the cross.
+ANSWER: Jesus Christ [Accept Jesus of Nazareth.]
+10. This work compared use-values and exchange-values and introduced the idea of commodity fetishism. For 10
+points each:
+[10] Name this three-volume critical analysis of a certain economic system which argues that the exploitation of
+labor is the motivation for that system.
+ANSWER: Das Kapital, Kritik der politischen Ökonomie [or Capital: Critique of Political Economy]
+[10] Das Kapital is a work by this German, who also criticized the Young Hegelians in his Theses on Feuerbach.
+ANSWER: Karl Heinrich Marx
+[10] This work by Marx, co-written with another author, argues that internal tensions in capitalist systems will first
+lead to socialism, then the namesake regime. It ends with the sentence “Workers of the world, unite!”
+ANSWER: The Communist Manifesto [Accept Das Kommunistische Manifest, or Manifesto of the Communist
+Party, or Manifest der Kommunistischen Partei.]
+11. The proton-proton chain and CNO cycle occur in these objects, which contain regions such as the corona and are
+found on the Hertzsprung-Russell diagram. For 10 points each:
+[10] Identify these celestial objects that include the Sun and make up constellations.
+ANSWER: stars
+
+[10] Cepheid variable stars are standard candles, meaning that they are often used to identify this quantity. Parallax
+is often used to determine this quantity.
+ANSWER: distance [Accept clear equivalents like distance between stars, etc.]
+[10] This other class of variable stars also function as standard candles. These old red giants undergo the Blazhko
+effect and are more common than Cepheid variables.
+ANSWER: RR Lyrae variable stars
+12. This novel opens with Dr. Juvenal Urbino examining the body of his friend Jeremiah Saint-Amour, who killed
+himself to avoid getting old. For 10 points each:
+[10] Name this novel also featuring the characters Florentino Ariza and Fermina Daza, which sees Juvenal Urbino
+fall from a ladder while chasing his pet parrot.
+ANSWER: Love in the Time of Cholera [Accept El amor en los tiempos de colera.]
+[10] Love in the Time of Cholera is a novel by this Colombian author who created the Buendia family in One
+Hundred Years of Solitude.
+ANSWER: Gabriel García Márquez [Be lenient and prompt on partial answers.]
+[10] This García Márquez novella set during “La Violencia” deals with a veteran of the Thousand Days’ War who is
+still hoping to receive a military pension promised fifteen years prior.
+ANSWER: No One Writes to the Colonel [Accept El coronel no tiene quien le escriba.]
+13. This painting was made for the Contarelli Chapel, which also includes a companion piece depicting the titular
+saint writing his Gospel as an angel of inspiration floats down from overhead. For 10 points each:
+[10] Name this painting in which a diagonal ray of light shines upon a group of tax collectors who are seated around
+a table. Christ appears on the right, pointing dramatically at the titular future Apostle.
+ANSWER: The Calling of Saint Matthew
+[10] This Baroque Italian artist painted The Calling of Saint Matthew. His characteristic use of tenebrism inspired a
+namesake group of followers, who included Artemisia Gentileschi.
+ANSWER: Michelangelo Merisi da Caravaggio
+[10] The first version of this Caravaggio work, which shows Christ revealing himself at dinner to two of his
+disciples, was highly celebrated for the foreshortening in the arms of Cleopas, which are extended outward in
+surprise.
+ANSWER: The Supper at Emmaus
+14. Answer the following questions about the colligative properties of liquid-liquid solutions in chemistry. For 10
+points each:
+[10] Name this process, generally involving boiling and re-condensing a mixture of two liquids, that is used to
+separate the liquids based on boiling point.
+ANSWER: distillation [Accept fractional distillation.]
+[10] These solutions of two liquids cannot be separated by distillation because the boiling point of the solution is not
+between the boiling points of the components.
+ANSWER: azeotropes
+[10] One well known azeotrope consists of 96% of this chemical and 4% of water. Its dehydration with strong acid
+desiccants can produce diethyl ether.
+ANSWER: ethanol [Accept ethyl alcohol or drinking alcohol.]
+15. This work was commissioned by Paul Whiteman and was first performed in the concert An Experiment in
+Modern Music. For 10 points each:
+[10] Name this work that begins with a notable clarinet glissando, a fusion between classical and jazz music.
+ANSWER: Rhapsody in Blue
+
+[10] Rhapsody in Blue was written by this composer who included the aria “Summertime” in his opera Porgy and
+Bess. He also included some car horns for his An American in Paris.
+ANSWER: George Gershwin
+[10] Gershwin also wrote this work originally called Rumba that features bongos, maracas, and claves. Its main
+theme was inspired by an Ignacio Pineiro song.
+ANSWER: Cuban Overture
+[NOTE: Do not say “Australia” when giving teams the answer to the first part.]
+16. Mungo Man was one of these people, and many of them, including the Darug People, died following the arrival
+of the British. For 10 points each:
+[10] Identify these indigenous people of an island in Oceania to whom Uluru, also called Ayer’s Rock, was sacred.
+ANSWER: Australian Aborigines [Accept Aboriginal people and other clear equivalents. ]
+[10] The Aborigines were natives of this island where the city Sydney is located.
+ANSWER: Australia
+[10] This is the name for the generation of Australian Aboriginal children who were taken from their families by the
+Australian government. Prime Minister Kevin Rudd issued a formal apology for them in 2008.
+ANSWER: Stolen Generations [Accept Stolen Children.]
+17. Name these American pioneers in space travel. For 10 points each:
+[10] This man was the first to set foot on the moon, which he did as a member of the Apollo 11 crew. He died in
+August 2012 and is best remembered for his statement, “That’s one small step for man, one giant leap for mankind.”
+ANSWER: Neil (Alden) Armstrong
+[10] This astronaut was the first American in suborbital space, accomplished during the Mercury missions on May 5,
+1961. He later played golf on the Moon during the Apollo 14 mission.
+ANSWER: Alan (Bartlett) Shepard, Jr.
+[10] This Cornell-trained medical doctor became the first African-American woman in space after stepping aboard
+the space shuttle Endeavor in 1992.
+ANSWER: Mae (Carol) Jemison
+18. This particle’s recent discovery was a massive breakthrough in particle physics. For 10 points each:
+[10] Name this particle, which mediates an eponymous field named for a Scottish physicist and endows other
+particles with mass. It’s sometimes called the God Particle for that reason.
+ANSWER: Higgs boson
+[10] The Higgs boson was detected at this CERN facility, a 27 kilometer circumference particle accelerator that can
+smash protons at 7 TeV.
+ANSWER: Large Hadron Collider
+[10] Until its 2011 shutdown, the Tevatron accelerator at this Batavia, Illinois national laboratory was also looking
+for the Higgs boson. The top quark was discovered here in the 1990s.
+ANSWER: Fermilab
+19. In this experiment, most of the titular objects were picked up and mailed by strangers, but many of the ones
+addressed to Nazi and communist sympathizers were not. For 10 points each:
+[10] Name this experiment that studied how helpful people tend to be to unseen strangers in various scenarios.
+ANSWER: the lost letter experiment [Accept Milgram’s lost letter experiment, but don’t say Milgram.]
+[10] This psychologist conducted the lost letter experiment, in addition to having test subjects in the role
+of “teacher” administer fake electric shocks to their “students” in a namesake experiment studying obedience.
+ANSWER: Stanley Milgram
+[10] Stanley Milgram, the creator of the obedience experiment, conducted it while working as a professor at this
+school in Connecticut.
+
+ANSWER: Yale University
+20. Answer the following about officials of the Roman Catholic Church. For 10 points each:.
+[10] This is the highest rank in the Catholic Church. Tradition holds that St. Peter was the first person to hold this
+office, and it is currently held by Benedict XVI.
+ANSWER: Pope [Accept Bishop of Rome.]
+[10] During the process of electing a new Pope, an inconclusive set of ballots is accompanied by the display of the
+black type of this. For successful ballots, a white type of this is displayed, produced by the burning of the ballots.
+ANSWER: smoke
+[10] One office by this name is the treasurer of the College of Cardinals, but the best known one serves as head of
+state of Vatican City until the College elects a new Pope.
+ANSWER: Camerlengo [Accept Chamberlain.]
+
+

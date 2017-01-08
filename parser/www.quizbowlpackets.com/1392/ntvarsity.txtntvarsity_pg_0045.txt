@@ -1,0 +1,52 @@
+NewTrier Varsity 2006  Round 5, Page 6 
+
+
+Tossup 11: Science (Biology) 
+Though a fairly common process, the ethidium bromide dye and acrylamide medium it often uses 
+are both toxic, and requirespecial handling. This process can separate any molecules by size, 
+though it is typicalyused on negatively-charged restriction fragments of DNA. Name this methodof 
+comparing DNA fragments that generates several columns of fluorescent bands caled DNA ladders. 
+Answer: Gel electrophoresis (accept DNA electrophoresis) 
+
+Bonus 11: Math (Algebra) 
+Compute the folowing sums.
+A: The sum from x = 1 to x = 101, of the cosine of pi x. 
+B: The sum of the first ten perfect squares. 
+C: The sum of the first five prime numbers. 
+D: The sum of the first hundred natural numbers. 
+Answers: A: -1 B: 385 C:28 D:5050 
+
+Tossup 12: Literature (Literature) 
+Under the contract of its production, nofilm adaptation can be made of this playuntil the West End 
+production of it has beenclosed for at least six months. This performance hasbeen running non-
+stop since November 25, 1952, making it the longest continuouslyrunning playanywhere. In it, the 
+characters become snowed in to a new hotel converted from the old Monkswel Manor. Detective 
+Sergeant Troter arives on skis to tel the guests that he believes a murder may be on his way tothe 
+hotel. Folowing the subsequent murder of Mrs.Boyle,one of the guests, it is obvious that the 
+murderer is already there. Identifythis play, atthe conclusion of which, by tradition, the audience is 
+asked not to reveal the murderer to anyone outside the theatre and which is Agatha Christie's most 
+famous. 
+Answer: The Mousetrap 
+
+Bonus 12: Fine Arts(Music) 
+Identify each of the folowing instruments as single-reed, double-reed, or no-reed. 
+A: Clarinet
+B: French horn 
+C: English horn 
+D: Bassoon 
+Answers: A: Single reed B: No reed (accept zero, etc) C: Double reed D: Double reed 
+
+Tossup 13: Math (Geometry) - Computational (30 Seconds) 
+Find the diameter of a right circular cylinder with a volume of 250 over pi,and a base circumference 
+equal to its height. To solve this problem,you need to realize thatpi r squared h equals 250 over pi,
+and that the base circumference and heightare equal to pi times the diameter, or2 pi r. With these 
+considerations, you should be able to easily find the radius or height, by which you can solve forthe 
+diameter of the cylinder as required by this question. 
+Answer: 10 over pi 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

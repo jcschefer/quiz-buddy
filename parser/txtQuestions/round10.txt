@@ -1,0 +1,561 @@
+TOSSUP 1
+Developed by such authors as Congreve, Etherege, Vanbrugh and Wycherly, it was generally
+written in prose, with romantic moments in verse, and it can be described as bawdy, cynical, and
+amoral. Its primary subject matter is romantic intrigue, and it featured such standard characters
+as scheming valets, young widows, country squires, and elderly ladies. It was named agter the
+re-establishment of the English monarchy when Charles II returned to the throne in 1660, when
+theatres across the country re-opened. FTP name this dramatic genre of such plays as The
+Country Wife, The Comical Revenge, or Love in a Tub, and The Old Bachelor.
+Restoration Comedy.
+BONUS 1
+FTPE name these other comedic genres.
+10:
+
+This form of improvisational theatre originated in 16th century Italy.
+Its stock characters included the Harlequin, Pulcinella the hunchback,
+the fat and hungry Figaro, and the rogue Scaramouche.
+Comedia dell Arte.
+
+10:
+
+This puppet theatre comedy form evolved from Comedia dell Arte,
+featuring a hunch-backed puppet in a jester’s motley and his wife.
+Punch and Judy.
+
+10:
+
+This American entertainment with strongly racist aspects consisted of
+comic skits, variety acts, dancing, and music performed either by white
+people in blackface or, after the Civil War, by African Americans in
+blackface.
+Minstrel Show.
+
+TOSSUP 2
+The American authority on measurements and standards has declared thismeasurement obsolete,
+due to the fact that volume measurements are lessprecise than mass measurements. Despite this, it
+is still a more commonlyused measurement than formal, volume-volume percentage, or normality.
+FTP,name this measure of concentration, defined as moles per liter of solution,and with symbol
+M.
+Molarity
+BONUS 2
+FTPE, give the molarity of the following solutions. You will have 10 seconds per part.
+10:
+
+248 grams of nitrate ion in 4 liters of water. The molecular mass
+ofnitrate is 62.
+1 molar (moles per liter)
+
+10:
+
+207 grams of sodium ion in 3 liters of water. The atomic mass of
+sodium is 23.
+3 molar
+
+1
+
+10:
+
+1278 grams of chlorine in 2 liters of water. The atomic mass of chlorine
+is 35.5.
+9 molar
+
+TOSSUP 3
+In short games like tic-tac-toe, the result can be known from the start if both players play perfectly.
+In most interesting games, however, the full game tree cannot be expanded, and AI players use
+techniques such as alpha-beta pruning to increase the number of states that can be checked in
+advance. FTP, identify this strategy in game theory in which each player assumes optimal play on
+the part of their opponent, and attempts to secure the best possible outcome.
+Minimax
+BONUS 3
+Identify these related concepts from game theory FTPE.
+10:
+
+In this classic two-player game, cooperation brings reward to both
+players, but a higher reward is on offer for the player that defects. If
+both players defect, both lose.
+The Prisoner’s Dilemma
+
+10:
+
+When playing the Prisoner’s game repeatedly, using this strategy,
+where you make the move your opponent just made, is optimal.
+Tit for tat
+
+10:
+
+When playing once, defecting is the optimal strategy, because any
+change in strategy could be worse for you, a state of affairs known
+as this.
+Nash equilibrium (Prompt on equilibrium)
+
+TOSSUP 4
+He is a minor character in Pynchon’s “Gravity’s Rainbow”, and Carlos Santana claims that he
+visits him during meditations and has a white beard. There are no references to him in the Old or
+New Testaments, or in any Islamic source, but the Talmud says that when Elisha entered Paradise
+he saw this angel sitting down. However, he is better known for appearing to abortion clinic
+worker Bethany and telling her that she is the last living relative of Jesus. FTP, name this angel,
+the voice of God, played by Alan Rickman in “Dogma”.
+Metatron
+BONUS 4
+In “Dogma”, Rickman played Metatron alongside Chris Rock, who played Rufus, the thirteenth
+apostle who was excluded from the Bible because he was black. Name these other Apostles FTPE.
+10:
+
+This son of Alphaeus was the tax-collector at Capernaum.
+Matthew
+
+10:
+
+This apostle betrayed Jesus for thirty pieces of silver.
+Judas Iscariot
+
+2
+
+10:
+
+This apostle was selected to replace Judas Iscariot after the betrayal
+of Jesus.
+Matthias
+
+TOSSUP 5
+Pencil and paper ready. Rosencrantz and Guildenstern are flipping coins and they want to know
+the probability of flipping tails at least once over the course of 5 flips. They realize that all they
+have to do is subtract the probability of flipping heads five times from one. FTP, what is the
+probability of getting at least one tails in five flips?
+31
+32
+
+BONUS 5
+Rosencrantz and Guildenstern fail to flip tails, of course, but you might have a shot. FTPE:
+10:
+
+What is the probability of flipping tails twice in a row?
+1
+4
+
+10:
+
+What is the probability of flippint tails at least twice in five throws?
+15
+16
+
+10:
+
+What is the probability of flipping tails exactly 3 times out of 4 flips?
+1
+4
+
+TOSSUP 6
+Created on the banks of the Vitava with the power of a secret ritual, it originally is benign and
+helpful to the Jews of the ghetto, feching water and running errands. When it goes berserk, Rabbi
+Loew is forced to destroy it by changing the word on its forhead from “truth” to “death.” FTP,
+identify this creature of Jewish legend, a man made of clay and brought to life by the power of
+God.
+Golem
+BONUS 6
+Identify these elements of the golem legend FTPE.
+10:
+
+The classic golem story takes place in this Czech city.
+Prague
+
+10:
+
+The rituals are derived from this system of Jewish mysticism that arose
+during the Middle Ages.
+Kabbalah
+
+10:
+
+The legend was retold by this Nobel Prize-winning Jewish American
+author of novels and short stories for children and adults.
+Isaac Bashevis Singer
+
+3
+
+TOSSUP 7
+It is losing some credibility in the face of archaeological evidence of human settlements appearing
+while it was still covered with glacial ice. Still,dating techniques have revealed that it had plants
+and animals living on it as recently as 11,000 years ago, making it feasible for migrating humans
+to have crossed it. FTP, identify this feature on which the first Americans crossed the Bering Sea
+after the end of the last Ice Age.
+Land bridge
+BONUS 7
+Identify these early North American communities FTPE.
+10:
+
+They are the first community to appear in the archaeological record of
+the Americas, and probably crossed the land bridge.
+Clovis people
+
+10:
+
+This culture had essentially disappeared by the time of European contact, but the Cahokia site reveals a fondness for mound-building.
+Mississippian culture
+
+10:
+
+This Central American civilization is best known for leaving behind a
+large number of giant stone heads.
+Olmecs
+
+TOSSUP 8
+First inhabited by Native Americans of the Arawak and Carib tribes, this nation was the subject
+of several attempts by the Dutch and the English to colonize it. The Dutch finally gained control
+of it and set up a slave system which was abolished in 1863, making it the last country to do so.
+Sharing its southern border with Brazil and its northern border with the Atlantic Ocean and lying
+between French Guiana and Guyana, this is FTP what smallest South American country with
+capital at Paramaribo?
+Suriname
+BONUS 8
+Identify these other South American countries from their capitals, FTPE.
+10:
+
+Bogota
+Colombia
+
+10:
+
+Quito
+Ecuador
+
+10:
+
+Stanley
+Falkland Islands
+
+4
+
+TOSSUP 9
+First officially used by the US in 1992, it can be computed using compensation of employees,
+operating surplus, mixed income and taxless subsidies. This indicator, however, is more commonly
+divided into consumption, investment, net exports, and government spending. FTP give this
+economic term for the total market value of all goods and services produced within the borders of
+a nation during a specified period.
+Gross Domestic Product or GDP
+BONUS 9
+Name these other economic indicators FTPE.
+10:
+
+Often mistaken with GDP, it is not limited to the borders of the nation.
+Gross National Product or GNP
+
+10:
+
+The measurement is determined using samples of urban family purchases relative to a previous period.
+Consumer Price Index or CPI
+
+10:
+
+Since it is made almost identically around the world, international
+variations in the cost of this McDonald’s product have been used to
+measure purchasing power parity.
+Big Mac
+
+TOSSUP 10
+Numerous urban legends say that the acidity of this can dissolve a tooth or clean highways of
+blood. Many advertising campaigns have appeared throughout the years, including slogans like
+”Always the Real Thing”, or ”The pause that refreshes”. A new version was introduced in the
+1980s, but was quickly rejected by consumers. Its company, established in 1892, is now based in
+Atlanta, where the drink was invented by John Stith Pemberton in 1886. Now, it boasts many
+varieties, including a cherry and lemon flavor. FTP, name this most popular soft drink in the
+world, whose main competitor is Pepsi.
+Coca-Cola (accept coke)
+BONUS 10
+FTPE, name these other Coca-Cola Company products.
+10:
+
+This lemon-lime flavored soft drink is the company’s second most popular product.
+Sprite
+
+10:
+
+This drink was created to compete against Dr. Pepper.
+Pibb Xtra ( accept Mr. Pibb)
+
+10:
+
+This mango juice drink is popular in Bangladesh and India.
+Maaza
+
+5
+
+TOSSUP 11
+These were originally discovered in the E. coli cell, but were found to be inmost organisms. They
+are shorter in prokaryotes, as long as 2000 base pairsin length, while the are only about 400 base
+pairs in eukaryotes. They arecreated because DNA polymerase can only synthesize DNA from the
+5 prime end to the 3 prime end. FTP name these short segments of DNA that are created on the
+lagging strand during DNA replication.
+Okazaki fragments
+BONUS 11
+Name these other things from DNA replication, FTPE.
+10:
+
+This enzyme seals DNA.
+DNA ligase
+
+10:
+
+This enzyme unzips the DNA.
+helicase
+
+10:
+
+DNA polymerase 3 can synthesize both the leading and lagging strandsof DNA because it is this type of molecule.
+dimer
+
+TOSSUP 12
+This man once said ”There are three side effects of acid: enhanced long-term memory, decreased
+short-term memory, and I forget the third.” In 1966, he founded the ”League For Spiritual
+Discovery,” which was an attempt to provide constitutional protection for the right to take LSD
+as a sacramental substance. He administered acid to hundreds of people at Harvard in the name
+of research. FTP, name this drug enthusiast who coined the phrase “Tune in, turn on, drop out.”
+Timothy Leary
+BONUS 12
+BONUS FTPE identify these hippie movement icons.
+10:
+
+The followers of this founder of Transcendental Meditation at one point
+included the Beatles.
+Maharishi Mahesh Yogi
+
+10:
+
+This outdoor festival was held on a farm in Bethel, New York in 1969;
+it featured such performers as the Grateful Dead and Jimi Hendrix
+Woodstock
+
+10:
+
+A giant wooden sculpture of a human figure is set alight every year at
+this festival in the Nevada desert.
+Burning Man
+
+6
+
+TOSSUP 13
+His talent for composing may have been influenced by synaesthesia [sin-ess-THEE-zhia], a
+neurological mixing of senses. He became professor of composition and orchestration at the St.
+Petersburg Conservatory in 1871, but was fired after expressing anti-czar political views. He
+continued to criticize the monarchy in Russia in his opera The Golden Cockerel. FTP, name this
+Russian musician who composed such works as ”Scheherezade” [sheh-heh-reh-ZAHD] and ”Flight
+of the Bumblebee.”
+Nikolai Rimsky-Korsakov
+BONUS 13
+FTPE, identify these pieces from Modest Mussorgsky’s ”Pictures at an Exhibition.”
+10:
+
+This recurring theme is used as a transition between paintings and
+describes the composer walking through the exhibition.
+Promenade
+
+10:
+
+This work is based on the Russian legend of an old witch who lives in
+the forest.
+(also
+accept
+The Hut on Chickens’ Legs
+The Hut of Baba Yaga or equivalents)
+
+10:
+
+Viktor Hartmann’s painting of this titular structure commemorated
+Tsar Alexander II’s escape from an assassination attempt in the capital
+of the Ukraine.
+The Great Gate of Kiev
+
+TOSSUP 14
+Despite not really believing in Catholicism, he was appointedBishop of Autun in 1789 and shortly
+thereafter represented theFirst Estate at the Estates General of that year. He wasbriefly exiled by
+the National Convention, and stayed at AaronBurr’s house to wait it out. Napoleon made him his
+ForeignMinister for the Consulate and up to 1807, when he resigned toprotest the Treaty of Tilsit.
+FTP name this French statesman,who represented France at the Congress of Vienna.
+Charles Maurice de Talleyrand-Perigord
+BONUS 14
+Robert Benchley once said, ”The surest way to make a monkeyof a man is to quote him.” We get
+to do that with this othergreat statesman of history. 30-20-10, given the quote, name the speaker.
+30:
+
+”A Bavarian is halfway between an Austrian and a human being.”
+
+20:
+
+”If the British Army landed in Europe, I’d get the Belgian police to
+arrest them.”
+
+10:
+
+”Not by speeches and votes of the majority are the great questions of
+the time decided, but by iron and blood.”
+Otto von Bismarck
+
+7
+
+TOSSUP 15
+After recovering from a year-long sickness, the protagonist is about to returnhome when he learns
+that his youngest brother has been murdered. Before arrivinghe sees a familiar shadow and
+immediately knows who the killer was. However,when he gets home he finds that the family’s
+maid, Justine Moritz, has beenaccused of the crime and made a false confession. The murderer
+strikes twicemore, but the death of Elizabeth Lavenza drives the protagonist over the edgeand
+makes him determined to destroy his creation. FTP, name this novel by MaryShelley about a man
+and the creature that he creates.
+Frankenstein; or, The Modern Prometheus
+BONUS 15
+Name these characters from Frankenstein FTPE.
+10:
+
+Victor Frankenstein’s youngest brother who is killed by The Creature.
+William Frankenstein
+
+10:
+
+The captain of the ship who saves Victor and recounts the story in
+lettersto his sister.
+Robert Walton
+
+10:
+
+Victor’s best friend who is killed while the two are in Scotland.
+Henry Clerval
+
+TOSSUP 16
+Capacitors create a difference in it across the dielectric. It drops across resistors, producing a
+current. Its negative gradient gives the electric field that defines in. FTP, identify this measure of
+energy per unit of charge, measured in volts.
+Electric potential (accept Electromotive force Prompt on potential, accept
+voltage before “measured”)
+BONUS 16
+Identify these physical quantities FTPE.
+10:
+
+The strength of the electric field between two charges depends partly
+on this constant, symbolized epsilon naught.
+Permittivity of free space
+
+10:
+
+Measured in webers, a change in this quantity through a loop of wire
+can induce a current.
+Magnetic flux (Do not accept magnetic field)
+
+10:
+
+It is the rate of change of charge with respect to time.
+Electric current
+
+8
+
+TOSSUP 17
+The title refers to successive shots from a double-barreled shotgun. A plume of smoke is the
+only evidence the weapon exists, with its owner barely visible in a boat being tossed on a stormy
+sea. The shots are aimed at the painting’s central subjects, a pair of waterfowl. FTP, name this
+painting by Winslow Homer of two dying ducks.
+Right and Left
+BONUS 17
+Identify these 19th century American artists FTPE.
+10:
+
+She worked with the Impressionists in Paris for over a decade.
+Mary Cassat
+
+10:
+
+This Philadelphian is best known for medical paintings like The Gross
+Clinic
+Thomas Eakins
+
+10:
+
+His concern for the arrangement of color over the depiction of the natural world is made apparent by titles such as Symphony in White and
+Arrangement in Grey and Black
+James MacNeill Whistler
+
+TOSSUP 18
+It was first recorded in 1054 and called a “guest star by Chinese and Arabastronomers. Soon after
+its formation it had an apparent magnitude between -7and -4.5, meaning that it was brighter than
+everything in the night sky exceptfor the Moon. The mass of progenitor stars, stars that form
+nebulas, must be atleast eight solar masses, but the mass of it and its pulsar add up to much
+less,but investigation has failed to determine what happened to the “missing mass.”FTP, name
+this nebula in the constellation Taurus named for a crustacean.
+Crab Nebula
+BONUS 18
+Name these constellations, FTPE.
+10:
+
+This other crab is one of the Zodiac constellations.
+Cancer
+
+10:
+
+South of Cancer lies this many-headed serpent defeated by Heracles.
+Hydra
+
+10:
+
+This constellation represents many different swans of legend.
+Cygnus
+
+9
+
+TOSSUP 19
+His book Seven Pillars of Wisdom weaves his experiences in with possible fabrication, and it is in
+fact difficult to know what exactly he did or didn’t do while fighting the Ottomans in the desert
+alongside Prince Faisal and his camel-mounted army. It is clear, however, that he had the respect
+of the Arabs he spent time with and even wore Arab clothing. FTP, name this British Army
+officer who led and fought with Arab rebels during the Arab Revolt of 1916-1918, portrayed on
+film by Peter O’Toole.
+T.E. Lawrence “of Arabia”
+BONUS 19
+Answer these questions about Lawrence of Arabia, the man and the film, FTPE.
+10:
+
+Lawrence died in a crash while driving one of these vehicles, seen in
+the opening sequence of the film.
+Motorcycle
+
+10:
+
+The film was directed by this man, who also directed
+Zhivago and Bridge over the River Kwai.
+David Lean
+
+10:
+
+The film focuses much of its attention on Lawrence’s attack on this
+Syrian capital.
+Damascus
+
+Doctor
+
+TOSSUP 20
+The main character carries on an affair with Sabina, his long-time lover and a talented painter.
+After his wife Tereza finds out, she becomes friends with Sabina but still harbors feelings of
+jealousy towards Tomas, the main character. After Soviet occupation ends the Prague Spring,
+both Tereza and Tomas, who have finally forgiven each other, die in a car crash, and Sabina
+continues her erotic adventures with another professor. This describes the plot of, FTP, what
+most famous novel of Milan Kundera?
+The Unbearable Lightness of Being
+BONUS 20
+Identify these other famous Czech works FTPE.
+10:
+
+This play by Karel Capek introduced the word “robot” to the English
+language.
+R.U.R. (accept Rossum’s Universal Robots)
+
+10:
+
+This play by former Czech president Vaclav Havel was inspired by a
+type of outdoor celebration thrown by Karel Capek.
+The Garden Party
+
+10:
+
+This unfinished novel by Jaroslav Hasek tells the story of a Czech
+veteran’s adventures in the army.
+The Good Soldier Svejk
+
+10
+
+

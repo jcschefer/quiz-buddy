@@ -1,0 +1,602 @@
+OAC 2013
+Packet 5
+
+CATEGORY ROUND
+American Literature: Literary Endings
+Team A: Which Southern author, who also wrote Absalom, Absalom!, ended his novel As I Lay Dying with
+the revelation that Anse Bundren has bought new false teeth and has abruptly remarried?
+ANSWER: William Faulkner
+Team B: Which 1960 novel ends with Scout finally meeting her mysterious neighbor, Boo Radley?
+ANSWER: To Kill a Mockingbird
+Tossup: At the end of this novel, someone suggests the title character had previously been locked up in
+Deer Creek. The protagonist's home is described as “spiteful” and “full of baby's venom” in its opening. In
+this novel, Denver escapes to live with Lady Jones and begins working for Mr. Bodwin, and when Denver's
+mother tries to attack Mr. Bodwin with an ice pick, the title woman disappears. That woman may be the
+spirit of a child who died eighteen years earlier, when Sethe killed her daughter rather than allow her to
+return to slavery. Name this novel by Toni Morrison.
+ANSWER: Beloved
+Mathematics: Geometry (All questions in this round are 30 seconds)
+Team B: Consider a square and an isosceles triangle, each with area 4 square units, such that a side of the
+square is equal in length to the base of the triangle. What is the height of the triangle?
+ANSWER: 4 units
+Team A: The angles of a pentagon are in arithmetic progression, with a common difference of 12 degrees.
+Find the smallest angle in the pentagon.
+ANSWER: 84 degrees [or 7 pi / 15 radians; do not prompt "7 pi / 15"]
+Tossup: A theorem named for this shape concerns three sets of points on two lines, whether the intersection
+of certain lines connecting them are collinear and is named for Pappus. Pascal's theorem involves inscribing
+one of these shapes in a conic section. A "close-packed" lattice named for this shape gives the most
+efficient packing of spheres. In terms of number of sides, this is the largest regular polygon that can be used
+to tessellate a plane. Identify this polygon with six sides.
+ANSWER: hexagon
+
+OAC 2013
+
+5
+
+Page 1 of 17
+
+World History: Dictators
+Team A: What president of Belarus has been called the "last dictator in Europe?"
+ANSWER: Alexander Grigoryevich Lukashenko
+Team B: What right-wing dictator created the Estado Novo regime in Portugal?
+ANSWER: Antonio de Oliveira Salazar
+In a war this man won, he was opposed by American volunteers fighting in the Abraham Lincoln Brigade.
+This man was assisted in that same war by Germany, with the Condor Legion being responsible for the
+bombing of Guernica. This man merged the Carlist and Falange (fal-AHN-hay) parties, and he defeated
+Republican forces with his Nationalist troops in 1939. Name this dictator whose death in 1975 brought Juan
+Carlos to the throne of Spain.
+ANSWER: Francisco Paulino Hermenegildo Teodulo Franco Bahamonde
+Fine Arts: Influential Filmmakers
+Team B: Identify the French filmmaker whose The Last Metro is about a Jewish theater director during the
+Holocaust and whose four films about Antoine Doinel include The 400 Blows.
+ANSWER: Francois Truffaut
+Team A: Name the Italian director whose film La Dolce Vita is the source of the word "paparazzi." He also
+depicted Guido Anselmi's writer's block in 8 1/2.
+ANSWER: Federico Fellini
+In a movie by this director, Henriette Girard is sent to the guillotine by Robespierre. This director of
+Orphans of the Storm depicted the St. Bartholomew’s Day Massacre, the fall of Babylon, and the death of
+Christ in a movie he made to rebut criticism, Intolerance. That starred his favorite actress Lillian Gish,
+much like his movie, based on a Thomas Dixon novel, in which the Ku Klux Klan is portrayed heroically.
+Name this director of Birth of a Nation.
+ANSWER: D.W. Griffith [or David Wark Griffith; or Orphans of the Storm
+until "director" is read]
+
+OAC 2013
+
+5
+
+Page 2 of 17
+
+Life Sciences: Lab Animals
+Team A: Ivan Pavlov conditioned these animals to salivate when they heard a bell ring by ringing the bell
+each time they were fed. Laika was another one of these that was sent into space.
+ANSWER: dogs
+Team B: Dolly was one of these animals, the first mammal to be successfully cloned.
+ANSWER: sheep
+Tossup: The first man credited with breeding these organisms was Charles W. Woodworth. Many of them
+were found at a namesake room at Columbia University where they were raised inside milk bottles. One
+scientist noted a white-eyed mutant male among all red-eyed types, leading to the use of these animals to
+study heredity by Thomas Hunt Morgan. Their average development time is about 8 days. Give the family,
+species, or common name of this popular model organism, an insect noted for breeding quickly and laying
+many eggs at a time.
+ANSWER: Drosophila melanogaster [or Drosophilidae; or common fruit fly;
+or vinegar fly]
+World Literature: Comedic Plays
+Team B: In what Shakespeare play does Petruchio marry the disagreeable Kate, allowing Lucentio and
+Hortensio to pursue her younger sister Bianca?
+ANSWER: The Taming of the Shrew
+Team A: What man wrote about Henry Higgins' project of turning the flower girl Eliza Doolittle into a
+respectable lady in his play Pygmalion?
+ANSWER: George Bernarnd Shaw
+Tossup: This man, along with George Chapman, was arrested for their response to Westward Ho called
+Eastward Ho. In one of his plays, Master Lovewit’s house is appropriated by the con artist Subtle, who
+pretends to make the philosopher’s stone. In another play by this man, Bonario stops the title character
+from raping Celia. In that play, a rich man pretends to be on his deathbed to receive gifts from Corvino,
+Corbaccio, and Voltore. Name this contemporary of Shakespeare who wrote The Alchemist and Volpone.
+ANSWER: Ben Jonson
+
+OAC 2013
+
+5
+
+Page 3 of 17
+
+US Government/Economics: Supreme Court
+Team A: What Supreme Court case established judicial review in 1803?
+ANSWER: Marbury v. Madison
+Team B: What four word phrase did Oliver Wendell Holmes introduce in his opinion for Schenck v. U.S.
+that provides a test for limiting free speech?
+ANSWER: clear and present danger
+The applicability of this law to the states was tested in the 2010 Supreme Court case McDonald v. Chicago.
+That case followed a similar 2008 ruling on this law in District of Columbia v. Heller. Alex Jones started a
+petition to the White House to deport a television personality because of an attack on this law. Jones
+claimed during an interview with Piers Morgan that "1776 will commence again" if the rights of this law
+were violated. Name this part of the Bill of Rights that grants citizens the right "to keep and bear arms."
+ANSWER: Second Amendment to the United States Constitution
+Physical Sciences: Bosons
+Team B: The existence of the Higgs boson would explain why particles have this quantity.
+ANSWER: mass
+Team A: Name this gauge boson that is the quantum of light.
+ANSWER: photon
+Tossup: Feynman and Gell-Man proposed a "vector minus axial vector" Lagrangian for this interaction to
+compensate for a consequence of the CKM matrix. Rubbia and van der Meer won the 1984 Nobel Prize in
+Physics for their work in discovering the particles which mediate this force, and Glashow, Salam, and
+Weinberg posited its unification with the electromagnetic force. This force is mediated by the W and Z
+bosons and is capable of changing the flavor of quarks. Name this force which is not as strong as the strong
+force.
+ANSWER: weak nuclear force [or weak interaction]
+
+OAC 2013
+
+5
+
+Page 4 of 17
+
+World Geography: Stratovolcanoes
+Team A: This volcano in the Gulf of Naples destroyed the towns of Pompeii and Herculaneum in 79 CE.
+ANSWER: Mount Vesuvius
+Team B: This Washington State mountain erupted in 1980, losing much of its northern face.
+ANSWER: Mount St. Helens
+Tossup: The first person to climb this mountain was the author of "The Geographical Pivot of History,"
+Halford Mackinder. It is locally identified with the god Ngai and called by a name meaning "Mountain of
+Whiteness." While the Embu and Meru people also live near here, this mountain’s environs are dominated
+by a group whose culture was chronicled in a book about “facing” this mountain, the Kikuyu. Name this
+mountain, found a hundred miles northeast of Nairobi.
+ANSWER: Mount Kenya [or Kirinyaga; or Kere-Nyaga]
+American History: Scandals
+Team B: What President's reputation was tarnished by the revelation of the Ostend Manifesto, implying his
+desire to annex Cuba, and by the aftermath of his signature on the Kansas-Nebraska act?
+ANSWER: Franklin Pierce
+Team A: What scandal surrounding the lease of federal oil reserves on Elk Hills tarnished the
+administration of Warren Harding?
+ANSWER: Teapot Dome scandal
+Tossup: One participant in this scandal wrote the "Dear Handsome" letter. Henry Hyde asked 81 questions
+to another participant in this scandal. Bob Livingston resigned his position to try and set an example for the
+man focused on in this scandal. The charges in this scandal were called a "vast right-wing conspiracy" by
+the wife of a man who said "it depends on what the meaning of the word 'is' is." This scandal was brought
+to light by Linda Tripp giving tapes to Kenneth Starr. Name this scandal that helped lead to articles of
+impeachment when an intern had an affair with Bill Clinton.
+ANSWER: Monica Lewinsky scandal [or Monicagate; or Zippergate; accept
+equivalent answers that mention Monica Lewinsky]
+
+OAC 2013
+
+5
+
+Page 5 of 17
+
+Alphabet Round - Letter A
+1. What Greek scientist allegedly shouted "Eureka" after discovering his namesake principle of buoyancy?
+2. What ornithologist created all the colored illustrations in his work Birds of America?
+3. What Chilean magical realist wrote about the Trueba family in her novel The House of the Spirits?
+4. What word coined by sociologist Auguste Comte describes considering what is good for others above personal needs?
+5. What city in New York had a congress where Benjamin Franklin proposed a Plan of Union?
+6. What term in physics describes the distance from the middle of a wave to its crest or trough?
+7. What liturgical season begins four Sundays before Christmas?
+8. What country was led by Ahmed Ben Bella after it gained independence from France in 1962?
+9. What author wrote about the rabbits Hazel, Fiver, and Bigwig in his novel Watership Down?
+10. What Iranian president was criticized for how he consoled Hugo Chavez's mother in March 2013?
+11. What man nicknamed "Der Alte" served as the first chancellor of West Germany following World War II?
+12. What Greek comedic playwright wrote about Athenian women declaring a sex strike in his play Lysistrata?
+13. What mountain range borders the Altiplano and contains Mount Aconcagua?
+14. What Swedish chemist came up with an equation to describe why reactions occur faster at higher temperatures?
+15. What director worked with Diane Keaton on Annie Hall and also directed Midnight in Paris?
+16. What ruler known as the Scourge of God was defeated at the 451 CE Battle of Chalons?
+17. (TWO WORD ANSWER) What reality game show hosted by Phil Keoghan involves contestants traveling around the world
+to Pit Stops?
+18. What phylum of segmented worms includes such creatures as leeches and earthworms?
+19. What captain of the Pequod chases after the white whale Moby Dick?
+20. What name was given to the immortality-giving food of the Greek gods?
+
+OAC 2013
+
+5
+
+Page 6 of 17
+
+Alphabet Round - Letter A ANSWERS
+1. Archimedes
+2. John James Audubon [or Jean-Jacques Fougere Audubon; or Fougere Rabin]
+3. Isabel Allende
+4. altruism
+5. Albany
+6. amplitude
+7. Advent
+8. People's Democratic Republic of Algeria [or Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash
+Sha'biyah]
+9. Richard George Adams
+10. Mahmoud Ahmadinejad
+11. Konrad Adenauer
+12. Aristophanes
+13. Andes Mountains [or Cordillera de los Andes]
+14. Svante August Arrhenius
+15. Woody Allen [or Heywood Allen; or Allen Stewart Konigsberg]
+16. Attila the Hun
+17. The Amazing Race
+18. annelids [or Annelida]
+19. Ahab
+20. ambrosia
+
+OAC 2013
+
+5
+
+Page 7 of 17
+
+FINAL ROUND
+1. The partial derivative with respect to time of the density of particles experiencing this phenomenon is
+related to the mass diffusivity times the second partial derivative of their density with respect to x. The
+time-evolution of this phenomenon is well described by the Langevin equation. The random walk paradigm
+is used to model this phenomenon, whose description, along with that of Special Relativity and the
+photoelectric effect, made up Einstein’s annus mirabilis papers. This phenomenon occurs to particles
+suspend in a fluid that are hit by that fluid’s particles. 10 points, pollen randomly moving across water is an
+example of what type of motion?
+ANSWER: Brownian motion
+149-13-81-05101
+
+2. This man collaborated with Alfred Kroeber to study the Yurok. Originally an art teacher, he was inspired
+to change professions after being psychoanalyzed by Anna Freud. This author of Gandhi’s Truth invented
+"psychohistory" in Young Man Luther and described his major theory, including steps such as "ego
+integrity v. despair," in Childhood and Society. Identify this psychologist who believed that each person
+progresses through eight stages of life conflict.
+ANSWER: Erik Homburger Erikson
+019-13-81-05102
+
+3. The events of this election year prompted the formation of the Commission on Party Structure and
+Delegate Selection. George Romney dropped out of this election's primaries after saying that he was
+"brainwashed" into supporting the Vietnam War. In this year, a pig was nominated outside the DNC, where
+Chicago mayor Richard M. Daley suppressed riots. This election marked a political realignment of the
+formerly "Solid South," and it was the last time a third party candidate won a state. In what year did George
+Wallace and Hubert Humphrey lose to Richard Nixon?
+ANSWER: Election of 1968
+079-13-81-05103
+
+4. During this battle, John French moved in with the British Expeditionary Force after Allied
+reconnaissance planes discovered a 30-mile gap between the German First and Second armies. The losing
+side in this battle retreated 40 miles before successfully entrenching themselves at the Aisne River. The
+French line at this battle was saved when Joseph Gallieni sent 6,000 reinforcement troops to the front in
+taxicabs. After losing this battle, Germany had to abandon the Schlieffen Plan. Name this 1914 World War
+I battle that pushed back the initial German march towards Paris.
+ANSWER: First Battle of the Marne [prompt on Battle of the Marne]
+080-13-81-05104
+
+5. This man wrote in opposition to Walter Lipmann's theory of journalism, advocating universal
+participation in politics in his book The Public and Its Problems. He was the head judge at a celebrated
+mock trial of Leon Trotsky. He coined the term “instrumentalism” to refer to his belief that participation is
+the only proper form of learning, as found in his book Democracy and Education. Name this American
+philosopher, who succeeded William James as the leading pragmatist.
+ANSWER: John Dewey
+019-13-81-05105
+
+OAC 2013
+
+5
+
+Page 8 of 17
+
+6. The force of Damasithymos of Calyndia was disabled in this battle after it was moved into by the allied
+force of Artemisia of Halicarnassus. Following defeat in this battle, one side left forces under the command
+of Mardonius, who was defeated the next year at the Battle of Plataea. Eurybiades had to be convinced to
+fight this battle rather than retreat. A throne was set up on a hill so that this battle could be watched by the
+Persian king, whose forces were defeated by Themistocles. Name this 480 BCE battle in which Greece
+defeated the Persian navy.
+ANSWER: Battle of Salamis
+023-13-81-05106
+
+7. This general captured modern-day Cartagena by sending 500 men in secret over an ebbing lagoon. He
+extended the battle lines on his flanks while holding his center back to win the Battle of Ilipa. Cato tried to
+destroy this man politically due to his affection for Greek culture. In another battle, this general opened
+gaps in his lines to let war elephants pass through and used Masinissa's Numidian cavalry to attack the
+enemy from behind. That strategy used by this man won the Battle of Zama. Name this Roman general who
+defeated Hannibal to end the Second Punic War.
+ANSWER: Publius Cornelius Scipio Africanus [or Scipio Africanus the Elder; or Scipio Africanus
+Major]
+080-13-81-05107
+
+8. This character introduces James Steerforth, a friend of his from Salem House, to Little Emily, the niece
+of the fisherman Dan Peggotty. This man marries Dora Spenlow, although he eventually marries a lawyer’s
+daughter, Agnes Wickfield. He is eventually raised by his aunt Betsey Trotwood after growing up abused
+by his stepfather Mr. Murdstone. This character is patronizingly called “master” by his nemesis, Uriah
+Heep, and he is befriended by Mr. Micawber. Name this title character of a novel by Charles Dickens.
+ANSWER: David Copperfield [or David Copperfield; or Trotwood before it is read; or Trot before
+“Trotwood” is read]
+052-13-81-05108
+
+9. This mythological figure was suckled by a she-bear after being exposed to die in Arcadia by Schoeneus.
+At the funeral games for Pelias, this person defeated Peleus in a wrestling match. This figure and her
+husband were turned into lions for making love in Zeus’s temple. Meleager was in love with this woman,
+so he awarded her the skin of the Calydonian boar. Later, she lost a footrace to Hippomenes
+(hi-PAW-men-eez) when he threw Aphrodite’s golden apples in front of her. Name this huntress from
+Greek mythology.
+ANSWER: Atalanta
+014-13-81-05109
+
+10. This poem discusses objects of which "some are loaves and some so nearly balls, we have to use a spell
+to make them balance." This poem's speaker claims, "Spring is the mischief in me," and he says of another
+man that "he is all pine and I am apple orchard." The speaker of this poem claims that "something there is
+that doesn't love" the title structure and "sends the frozen-ground-swell under it." The refrain "good fences
+make good neighbors" appears in this poem. What is this Robert Frost poem about a barrier?
+ANSWER: "Mending Wall"
+126-13-81-05110
+
+OAC 2013
+
+5
+
+Page 9 of 17
+
+11. This man played Bette Midler’s scheming husband Sam Stone in the 1986 movie Ruthless People. In
+another movie, he plays a character who Max Shrek attempts to make mayor and later attempts to kill the
+first-born sons of Gotham City. He currently plays a character who sings doowop as a member of the
+Yellow Jacket Boys and is the father of Dennis, Dee, and possibly Charlie. His breakout role came as the
+dispatcher Louie De Palma in Taxi. Name this actor who played the Penguin in Batman Returns and
+currently stars as Frank Reynolds on It’s Always Sunny in Philadelphia
+ANSWER: Danny DeVito
+030-13-81-05111
+
+12. This poet got his break when his University of Pennsylvania classmate Ezra Pound convinced James
+Laughlin to publish him. He wrote a long poem that contains the lines “there is something something
+urgent I have to say to you” and “it is difficult to get the news from poems.” This author of Asphodel, That
+Greeny Flower wrote another poem about plums that were “delicious, so sweet and so cold.” Name this
+American physician and poet of “This Is Just to Say” and "The Red Wheelbarrow."
+ANSWER: William Carlos Williams
+015-13-81-05112
+
+13. This sub-national political division contains a large collection of distance markers at the "Sign Forest"
+outside of Watson Lake. Herschel Island, which lies just off the northern coast of this political division's
+mainland, is in the Beaufort Sea. In the southwest of this political division, the Kluane National Park
+contains a peak of the St. Elias Mountains, Mount Logan. The towns of Burwasli Landing, Sulphur, Forty
+Mile, and Glacier Creek lie on its western border with the United States. Dawson and Whitehorse are also
+found within what northwesternmost territory of Canada, which borders Alaska?
+ANSWER: Yukon [or the Yukon Territory]
+019-13-81-05113
+
+14. In one poem, this author predicts that "the golden Muses have truly blessed me, I shall not be forgotten
+after death." A stanza of one short line followed by three long ones is named for this poet, who described
+summoning a goddess borne on doves to avenge a spurned lover in the "Ode to Aphrodite." Classical
+sources describe this author exchanging work with Alcaeus and throwing herself off the Leucadian cliffs to
+her death. Like the later Corinna, she was called the "tenth Muse." Name this ancient Greek poet from the
+island of Lesbos.
+ANSWER: Sappho
+019-13-81-05114
+
+15. This man collected some of his early work in the Parmelian Prints. He depicted a church and a
+cemetery overlooked by dark clouds in a rural town during a time in which he was hired by the Secretary of
+the Interior. Willard van Dyke and Imogen Cunningham joined this man in a group named for the small
+size of the aperture which he used, f/64. He also depicted a snow-capped monolith at Half Dome in a series
+of photographs. Name this photographer of Moonrise, Hernandez, New Mexico and several landmarks in
+Yosemite National Park.
+ANSWER: Ansel Adams
+190-13-81-05115
+
+OAC 2013
+
+5
+
+Page 10 of 17
+
+16. Inspired by a Theodore Roosevelt speech, this man composed “The Strenuous Life.” A conjurer named
+Zodzetrick tries to sell a bag of luck to the title character, who is saved from being thrown into a hornet’s
+nest, in his opera Treemonisha. Marvin Hamlisch won an Academy Award for orchestrating this man's
+music in his film score for The Sting. This man performed as a touring musician in Sedalia, Missouri,
+whose Maple Leaf Club provided the name for one of his early compositions. His most recognizable piece
+is "The Entertainer." Name this composer known as the “king of ragtime.”
+ANSWER: Scott Joplin
+030-13-81-05116
+
+17. In one painting by this man, two cherubs with bows in the top left fly over a woman waving a red shawl
+and clutching the horns of a bull wearing a garland. In another of his paintings, the title figure dressed in
+red and a blue mantle stands on a cloud as the apostles below frantically gesture up to her. This painter of
+The Rape of Europa and the Assumption of the Virgin also depicted a servant searching a large chest in the
+background of a painting of a nude goddess holding roses and reclining on a couch. Name this Renaissance
+Venetian painter of Venus of Urbino.
+ANSWER: Titian [or Tiziano Vecellio; or Tiziano Vecelli]
+014-13-81-05117
+
+18. Repertoire cloning can be accomplished by PCR on individual ones of these cells. These cells express
+CD19 and C20 on their membranes. These cells proliferate in the germinal center of a lymph node. These
+cells rearrange their variable, diversity, and joining genes in order to create their namesake receptor. They
+differentiate in the bone marrow, and after activation can further differentiate into plasma and memory
+types. Name these lymphocytes that secrete antibodies.
+ANSWER: B lymphocytes
+048-13-81-05118
+
+19. Elements can be extracted from this data structure in a process called slicing. When most of the values
+are zero, this data structure is said to be sparse. A hash table is the most common way to implement the
+associative type of this data structure, which associates an arbitrary key with a value. These data structures
+are indexed according to pointer arithmetic. When one-dimensional, these data structures are called vectors,
+and they usually contain elements of only one data type. Identify these data structures analogous to
+matrices that store data in a contiguous address space.
+ANSWER: arrays
+066-13-81-05119
+
+20. Depending on whether geometry is preserved or not, there are adiabatic and vertical varieties of this
+quantity. A property for the highest occupied molecular orbital is equated to this quantity via Koopmans'
+theorem. Mercury has an unusually high one. This quantity is the opposite of electron affinity. Due to
+shielding, this quantity generally decreases down a group, but increases across a period. For sodium, the
+second one is way higher than the first one. Name this energy required to remove an element from an atom.
+ANSWER: first ionization energy [or first ionization enthalpy; just ionization needed after "energy" is
+read]
+020-13-81-05120
+
+OAC 2013
+
+5
+
+Page 11 of 17
+
+Alphabet Round - Letter A
+1. What Greek scientist allegedly shouted "Eureka" after discovering his namesake principle of buoyancy?
+2. What ornithologist created all the colored illustrations in his work Birds of America?
+3. What Chilean magical realist wrote about the Trueba family in her novel The House of the Spirits?
+4. What word coined by sociologist Auguste Comte describes considering what is good for others above personal needs?
+5. What city in New York had a congress where Benjamin Franklin proposed a Plan of Union?
+6. What term in physics describes the distance from the middle of a wave to its crest or trough?
+7. What liturgical season begins four Sundays before Christmas?
+8. What country was led by Ahmed Ben Bella after it gained independence from France in 1962?
+9. What author wrote about the rabbits Hazel, Fiver, and Bigwig in his novel Watership Down?
+10. What Iranian president was criticized for how he consoled Hugo Chavez's mother in March 2013?
+11. What man nicknamed "Der Alte" served as the first chancellor of West Germany following World War II?
+12. What Greek comedic playwright wrote about Athenian women declaring a sex strike in his play Lysistrata?
+13. What mountain range borders the Altiplano and contains Mount Aconcagua?
+14. What Swedish chemist came up with an equation to describe why reactions occur faster at higher temperatures?
+15. What director worked with Diane Keaton on Annie Hall and also directed Midnight in Paris?
+16. What ruler known as the Scourge of God was defeated at the 451 CE Battle of Chalons?
+17. (TWO WORD ANSWER) What reality game show hosted by Phil Keoghan involves contestants traveling around the world
+to Pit Stops?
+18. What phylum of segmented worms includes such creatures as leeches and earthworms?
+19. What captain of the Pequod chases after the white whale Moby Dick?
+20. What name was given to the immortality-giving food of the Greek gods?
+
+OAC 2013
+
+5
+
+Page 12 of 17
+
+Alphabet Round - Letter A
+1. What Greek scientist allegedly shouted "Eureka" after discovering his namesake principle of buoyancy?
+2. What ornithologist created all the colored illustrations in his work Birds of America?
+3. What Chilean magical realist wrote about the Trueba family in her novel The House of the Spirits?
+4. What word coined by sociologist Auguste Comte describes considering what is good for others above personal needs?
+5. What city in New York had a congress where Benjamin Franklin proposed a Plan of Union?
+6. What term in physics describes the distance from the middle of a wave to its crest or trough?
+7. What liturgical season begins four Sundays before Christmas?
+8. What country was led by Ahmed Ben Bella after it gained independence from France in 1962?
+9. What author wrote about the rabbits Hazel, Fiver, and Bigwig in his novel Watership Down?
+10. What Iranian president was criticized for how he consoled Hugo Chavez's mother in March 2013?
+11. What man nicknamed "Der Alte" served as the first chancellor of West Germany following World War II?
+12. What Greek comedic playwright wrote about Athenian women declaring a sex strike in his play Lysistrata?
+13. What mountain range borders the Altiplano and contains Mount Aconcagua?
+14. What Swedish chemist came up with an equation to describe why reactions occur faster at higher temperatures?
+15. What director worked with Diane Keaton on Annie Hall and also directed Midnight in Paris?
+16. What ruler known as the Scourge of God was defeated at the 451 CE Battle of Chalons?
+17. (TWO WORD ANSWER) What reality game show hosted by Phil Keoghan involves contestants traveling around the world
+to Pit Stops?
+18. What phylum of segmented worms includes such creatures as leeches and earthworms?
+19. What captain of the Pequod chases after the white whale Moby Dick?
+20. What name was given to the immortality-giving food of the Greek gods?
+
+OAC 2013
+
+5
+
+Page 13 of 17
+
+Alphabet Round - Letter A
+1. What Greek scientist allegedly shouted "Eureka" after discovering his namesake principle of buoyancy?
+2. What ornithologist created all the colored illustrations in his work Birds of America?
+3. What Chilean magical realist wrote about the Trueba family in her novel The House of the Spirits?
+4. What word coined by sociologist Auguste Comte describes considering what is good for others above personal needs?
+5. What city in New York had a congress where Benjamin Franklin proposed a Plan of Union?
+6. What term in physics describes the distance from the middle of a wave to its crest or trough?
+7. What liturgical season begins four Sundays before Christmas?
+8. What country was led by Ahmed Ben Bella after it gained independence from France in 1962?
+9. What author wrote about the rabbits Hazel, Fiver, and Bigwig in his novel Watership Down?
+10. What Iranian president was criticized for how he consoled Hugo Chavez's mother in March 2013?
+11. What man nicknamed "Der Alte" served as the first chancellor of West Germany following World War II?
+12. What Greek comedic playwright wrote about Athenian women declaring a sex strike in his play Lysistrata?
+13. What mountain range borders the Altiplano and contains Mount Aconcagua?
+14. What Swedish chemist came up with an equation to describe why reactions occur faster at higher temperatures?
+15. What director worked with Diane Keaton on Annie Hall and also directed Midnight in Paris?
+16. What ruler known as the Scourge of God was defeated at the 451 CE Battle of Chalons?
+17. (TWO WORD ANSWER) What reality game show hosted by Phil Keoghan involves contestants traveling around the world
+to Pit Stops?
+18. What phylum of segmented worms includes such creatures as leeches and earthworms?
+19. What captain of the Pequod chases after the white whale Moby Dick?
+20. What name was given to the immortality-giving food of the Greek gods?
+
+OAC 2013
+
+5
+
+Page 14 of 17
+
+Alphabet Round - Letter A
+1. What Greek scientist allegedly shouted "Eureka" after discovering his namesake principle of buoyancy?
+2. What ornithologist created all the colored illustrations in his work Birds of America?
+3. What Chilean magical realist wrote about the Trueba family in her novel The House of the Spirits?
+4. What word coined by sociologist Auguste Comte describes considering what is good for others above personal needs?
+5. What city in New York had a congress where Benjamin Franklin proposed a Plan of Union?
+6. What term in physics describes the distance from the middle of a wave to its crest or trough?
+7. What liturgical season begins four Sundays before Christmas?
+8. What country was led by Ahmed Ben Bella after it gained independence from France in 1962?
+9. What author wrote about the rabbits Hazel, Fiver, and Bigwig in his novel Watership Down?
+10. What Iranian president was criticized for how he consoled Hugo Chavez's mother in March 2013?
+11. What man nicknamed "Der Alte" served as the first chancellor of West Germany following World War II?
+12. What Greek comedic playwright wrote about Athenian women declaring a sex strike in his play Lysistrata?
+13. What mountain range borders the Altiplano and contains Mount Aconcagua?
+14. What Swedish chemist came up with an equation to describe why reactions occur faster at higher temperatures?
+15. What director worked with Diane Keaton on Annie Hall and also directed Midnight in Paris?
+16. What ruler known as the Scourge of God was defeated at the 451 CE Battle of Chalons?
+17. (TWO WORD ANSWER) What reality game show hosted by Phil Keoghan involves contestants traveling around the world
+to Pit Stops?
+18. What phylum of segmented worms includes such creatures as leeches and earthworms?
+19. What captain of the Pequod chases after the white whale Moby Dick?
+20. What name was given to the immortality-giving food of the Greek gods?
+
+OAC 2013
+
+5
+
+Page 15 of 17
+
+Alphabet Round - Letter A
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+5
+
+Page 16 of 17
+
+Alphabet Round - Letter A
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+5
+
+Page 17 of 17
+
+

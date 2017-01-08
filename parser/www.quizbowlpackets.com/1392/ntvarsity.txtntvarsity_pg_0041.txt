@@ -1,0 +1,54 @@
+NewTrier Varsity 2006  Round 5, Page 2 
+
+
+Tossup 1: Social Studies (U.S. History) 
+Known as the “Lone Eagle”, this man made advances in medicine, inventing the glass perfusion 
+pump, which alows organs to be kept outsidethe body during surgery. Bruno Hauptmann is strongly 
+linked to this man, Time magazine's first Man of theYear, as Hauptmann was convicted for the 
+famous kidnapping and murder of this man's son. Identify this man, the first to pilot a solo non-stop 
+flight across the Atlantic Ocean. 
+Answer: Charles Augustus Lindbergh, Jr. 
+
+Bonus 1: Literature (Language Arts) 
+Given a description, givethe grammatical term thatis being described. 
+A: It has a subject and a predicate, and forms part ofa sentence or can stand alone, depending on 
+whether it's independent or not. 
+B: A sequence of two or more words aranged in a grammatical construction and acting as a unit in a 
+sentence. 
+C: It hasa subjectand a predicate, conveys a complete thought, and has a terminal punctuation 
+mark. 
+D: A subject and a predicate that cannot stand alone and often answers the questions "Who?",
+"How?", or "Why?" 
+Answers: A: Clause B: Phrase C: Sentence D: Adverbial Clause 
+
+Tossup 2: Math (Algebra) - Computational (30 Seconds) 
+Find the determinant of the folowing 3by3 matrix: First row 6,5, 1, second row0, 3, 2,third row 11, 
+10, 8. One way to find the determinant would be to expand by minors along the left column, realizing 
+that the determinant is equal to 6 times the determinant of the botom-right two-by-two matrix, plus 
+11 times the determinant of the upper-right two-by-two matrix. Using this or any other technique,find 
+the determinantof the matrix. 
+Answer: 101 
+
+Bonus 2: Science (Biology) 
+Given a taxonomicclassification of the leopard, name whether it is a kingdom, phylum, class, order,
+family, genus, or species. 
+A: Chordata 
+B: Felidae 
+C: Mammalia 
+D: Panthera 
+Answers: A: Phylum B: Family C: Class D: Genus 
+
+Tossup 3: Literature (Literature) 
+He blames Southwark ale for any potential faults in his storyteling. The narator who records his 
+story apologizes inadvance of the tale, asking the reader to “reflect a litle, anddon’t hold me to 
+blame/There’s no sense making earnest out of game.” His livelihood is made beter by pressing his 
+“goldenthumb” down on scales of measured grain. Name this pilgrim with alarge red warton his 
+nose from Chaucer’s Canterbury Tales. 
+Answer: The Miler 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

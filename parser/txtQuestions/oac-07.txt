@@ -1,0 +1,605 @@
+OAC 2013
+Packet 7
+
+CATEGORY ROUND
+American Literature: Literary Adventures
+Team A: What type of novel, exemplified by Gil Blas, generally has a rascally young protagonist who
+escapes dangers by his wits?
+ANSWER: a picaresque novel
+Team B: What picaresque novel tells of a young Spanish boy who uses his wits to endure a blind beggar
+and other masters?
+ANSWER: Lazarillo de Tormes
+Tossup: This character, after failing to thread a needle, is caught pretending to be a girl. Earlier he lies to
+two men by claiming that his companion was his father and was infected with smallpox. This man’s father
+won custody of him after a new judge overruled Judge Thatcher’s decision. This character falsely claims
+that he is George Jackson when he stumbles upon the Shepherdsons and Grangerfords feud. He misses a
+turn to Cairo, sending him and the former slave Jim down the Mississippi River. Name this protagonist of a
+Mark Twain novel, who is also friends with Tom Sawyer.
+ANSWER: Huckleberry Finn [or Huckleberry Finn; or Huck Finn; or Huck
+Finn]
+Mathematics: Polynomials (All questions in this round are 30 seconds)
+Team B: Find all solutions to the equation x3 + 3x2 - 4x - 12 = 0.
+ANSWER: x= 2, x = -2, and x=-3 [accept answers in any order; do not accept
+partial answers]
+Team A: Find the point of intersection of the lines y = 2x + 5 and y = -4x - 7.
+ANSWER: (-2, 1) [or x = -2 and y = 1]
+Tossup: This Greek letter denotes the function that is the derivative of the unit step function. That function
+named for this letter is zero everywhere except zero, where it is infinite, and is also named for Dirac. With
+epsilon, this letter names proofs used to prove limit statements. An upside down form of this letter, the
+nabla, is used to represent the gradient. This letter denotes the discriminant of a polynomial. Identify this
+Greek letter often used to symbolize the change in a quantity.
+ANSWER: delta
+
+OAC 2013
+
+7
+
+Page 1 of 17
+
+World History: Wars
+Team A: What war fought from 1740 to 1748 was started in part over Frederick the Great's attempts to gain
+Silesia, using as a pretext the illegality of the Pragmatic Sanction leaving the throne to a woman?
+ANSWER: War of the Austrian Succession
+Team B: What war fought from 1642 to 1651 included the Battle of Naseby won by the New Model Army?
+ANSWER: English Civil War
+Tossup: Adolphus Slade led one side in this conflict's Battle of Sinope. During this conflict, a woman
+known as the "lady of the lamp" rose to prominence; that woman was Florence Nightingale. This war
+included the Siege of Sevastopol and the Battle of Balaclava, which included the Charge of the Light
+Brigade. Name this war lasting from 1853 to 1856, in which Britain, France, and the Ottoman Empire
+defeated Russia in fighting that took place primarily on the namesake peninsula.
+ANSWER: Crimean War
+Fine Arts: Cities and Museums
+Team B: This American city's Art Institute houses Georges Seurat's A Sunday Afternoon on the Island of La
+Grand Jatte. This city is also home to Millennium Park.
+ANSWER: Chicago
+Team A: This American city's National Gallery of Art houses Leonardo's Ginerva de' Benci, as well as
+Copley's Watson and the Shark. It is also home to the John F. Kennedy Center for the Performing Arts.
+ANSWER: Washington, D.C.
+Tossup: An art museum in this city was built for the 1904 World's Fair and was constructed by Cass Gilbert
+in its neighborhood of Forest Park. The first major skyscraper was a ten-story red brick building in this city
+designed by Dankmar Adler and Louis Sullivan. This home of the Wainwright Building also contains the
+Jefferson National Expansion Memorial, which houses a steel structure in this city which, at 630 feet, is the
+tallest monument in the U.S. Identify this Midwestern city which is home to Eero Saarinen's Gateway Arch.
+ANSWER: St. Louis, Missouri
+
+OAC 2013
+
+7
+
+Page 2 of 17
+
+Life Sciences: Growth
+Team A: This is the name for the phenomenon of an organism growing towards a light source.
+ANSWER: phototropism
+Team B: The spitzenkorper is an organelle needed for the growth of these structures, which are filaments
+that make up the body of a fungus.
+ANSWER: hyphae
+In some organisms, this organelle possesses a structure called a pyrenoid, which regulates diffusion.
+Another structure in this organelle contains the cytochrome b6f complex. This organelle contains the TIC
+and TOC translocases. Lamellae connect the grana within this organelle, and the stroma is the fluid which
+surrounds thylakoids in this organelle. The aforementioned stroma is the site of the Calvin cycle in this
+organelle, which is found in photosynthetic organisms. Identify this organelle whose color comes from its
+chlorophyll.
+ANSWER: chloroplasts
+World Literature: Innkeepers in Literature
+Team B: Harry Bailey is the innkeeper of the Tabard who suggests a group of pilgrims take turns telling
+stories in what collection?
+ANSWER: The Canterbury Tales
+Team A: Damon Wildeve is a failed engineer and innkeeper in what Thomas Hardy novel, in which Clym
+Yeobright plans to become a schoolteacher in his hometown in Egdon Heath?
+ANSWER: The Return of the Native
+Tossup: In this novel, Mr. Macy often tells stories in the Rainbow Inn. In this novel, a member of the
+Dissenting Chapel named William Dane accuses another character of theft. Another character in this novel
+passes out from opium while traveling to the Red House, and the son of Dolly Winthrop, Aaron, marries a
+woman whom Nancy Lammeter refused to adopt. In this novel, the remains of Dunsey are found in a
+quarry beside the title character's stolen gold. Name this novel about the title weaver who cares for Eppie, a
+work by George Eliot.
+ANSWER: Silas Marner
+
+OAC 2013
+
+7
+
+Page 3 of 17
+
+US Government/Economics: ECONOMISTS
+Team A: What thinker from the Chicago school formulated a namesake theorem regarding externalities in
+his paper "The Problem of Social Cost"?
+ANSWER: Ronald Coase
+Team B: What social choice theorist formulated a namesake "impossibility theorem" about the fairness of
+voting systems?
+ANSWER: Kenneth Joseph Arrow
+Tossup: This thinker explained how interest rates are determined using his concept of liquidity preference.
+This thinker criticized the massive reparations exacted from Germany in the Treaty of Versailles in his The
+Economic Consequences of the Peace. He argued for the necessity of increasing aggregate demand in a
+book which influenced American policies adopted during the Great Depression. Name this British
+economist who advocated deficit spending in The General Theory of Employment, Interest, and Money.
+ANSWER: John Maynard Keynes
+Physical Sciences: Niels Bohr
+Team B: This assistant to Niels Bohr developed the principle that it is impossible to measure to arbitrary
+precision the position and momentum of a particle.
+ANSWER: Werner Heisenberg
+Team A: Bohr developed the interpretation of quantum mechanics named for this Danish city.
+ANSWER: Copenhagen
+Niels Bohr proposed stationary orbits and the quantization of this quantity in order to formulate his model
+of the atom, showing that it is an integer multiple of h-bar. Kinetic energy equals this quantity squared
+divided by twice the moment of inertia. The shape of an atomic orbital is given by this quantity's namesake
+quantum number. Kepler's Second Law results from the conservation of this quantity. It equals the product
+of mass, velocity, and radius for an object in uniform circular motion, and time derivative of it is torque.
+Name this quantity symbolized L.
+ANSWER: angular momentum [or L before mention]
+
+OAC 2013
+
+7
+
+Page 4 of 17
+
+World Geography: Preserved Stuff
+Team A: The Catal Huyuk and Troy archaeological sites are in what modern-day country?
+ANSWER: Republic of Turkey [or Türkiye Cumhuriyeti]
+Team B: Otzi the Iceman, a 6000-year-old corpse mummified by ice, was found in what mountain range
+containing the Matterhorn?
+ANSWER: the Alps
+Tossup: This desert is the only remaining home of an endangered wild donkey species, the khulan. In part
+of this desert, the "White Cave" houses proto-human artifacts up to seven hundred thousand years old. The
+Mogao Caves here hold a cache of Silk Road art. The southern portion of this desert comprises the Alxa
+(AL-shuh) Plateau, and it is found south of the Altai Mountains. Name this desert of northern China and
+southern Mongolia.
+ANSWER: Gobi desert
+American History: American Race Riots
+Team B: What Illinois city, home to Abraham Lincoln for twenty-four years, suffered a race riot that led to
+the formation of the NAACP?
+ANSWER: Springfield
+Team A: What state, whose largest city experienced a 1921 race riot, is called the Sooner State?
+ANSWER: Oklahoma
+Tossup: This state's largest city experienced the 12th Street race riot in 1967. A Secretary of State from this
+state negotiated the Clayton-Bulwer treaty for the Buchanan administration and ran for president against
+Zachary Taylor in 1848. Governors of this state included Stevens Mason and Lewis Cass. Gerald Ford
+served as a representative of this state, which was governed by George W. Romney, the father of Mitt
+Romney. Name this state where Henry Ford founded his motor company in a suburb of Detroit.
+ANSWER: Michigan
+
+OAC 2013
+
+7
+
+Page 5 of 17
+
+The Letter L
+1. (MULTIPLE WORD ANSWER) What British officer fought alongside Prince Faisal during the Arab Revolt?
+2. What group of fifteen elements on the periodic table constitutes most of the rare earth elements?
+3. What organ in humans receives important gases from the bloodstream through the alveoli?
+4. What region of France contains the cities of Metz and Nancy?
+5. (TWO WORD ANSWER) What British novelist wrote Tinker, Tailor, Soldier, Spy?
+6. (TWO WORD ANSWER) What medieval scholastic wrote four books of Sentences?
+7. What brand of positivism was espoused by Rudolf Carnap and the Vienna Circle?
+8. What law of electromagnetism states that an induced electromotive force will have the opposite sign from the original
+difference in magnetic flux?
+9. (TWO WORD ANSWER) What occasionally obscene English poet wrote "Annus Mirabilis" and "This Be The Verse"?
+10. What inspector from Scotland Yard appears in the Sherlock Holmes stories?
+11. (TWO WORD ANSWER) What woman names the Fair Pay Act that was the first signed by Barack Obama?
+12. What Confederate general commanded the Army of Northern Virginia during the Civil War?
+13. (TWO WORD ANSWER) What bald billionaire is the nemesis of Superman?
+14. (TWO WORD ANSWER) What American sports columnist wrote stories like "Haircut" and "Alibi Ike"?
+15. Who is the mother of Apollo and Artemis in Greek myth?
+16. What French king was served by Cardinal Richelieu?
+17. What mythical lawgiver created the constitution of Sparta?
+18. (TWO WORD ANSWER) In what economic situation is monetary policy ineffective because interest rates are low, but
+savings rates are still high?
+19. What author of the Children of Violence series wrote "The Golden Notebook"?
+20. What rule in calculus states that the limit as x approaches c of f of x over g of x is equal to the limit as x approaches c of the
+derivative of the first over the derivative of the second?
+
+OAC 2013
+
+7
+
+Page 6 of 17
+
+The Letter L ANSWERS
+1. Thomas Edward Lawrence [or Lawrence of Arabia]
+2. lanthanides
+3. the lung
+4. Lorraine
+5. John le Carre
+6. Peter Lombard
+7. logical positivism
+8. Lenz's Law
+9. Philip Larkin
+10. Inspector Lestrade
+11. Lilly Ledbetter
+12. Robert Edward Lee
+13. Alexander Joseph "Lex" Luthor
+14. Ring Lardner
+15. Leto [or Latona]
+16. Louis XIII
+17. Lycurgus
+18. liquidity trap
+19. Doris Lessing
+20. L'Hopital's Rule
+
+OAC 2013
+
+7
+
+Page 7 of 17
+
+FINAL ROUND
+1. This person was said to have a thigh made of gold, and he advocated arbitrary restrictions such as always
+putting on one's right shoe first and never eating beans. The central tenet of his philosophy was
+"metempsychosis," the idea that one’s soul migrates into other beings after death. He ordered the murder of
+Hippasus for proposing irrational numbers, which contradicted his math-based philosophy. Identify this
+pre-Socratic thinker who discovered a namesake theorem about triangles.
+ANSWER: Pythagoras
+019-13-81-07101
+
+2. One character in this novel gives up the key to Martello Tower and then has a vision of umbilical cords
+linking all humans back to Eve. Another character in this novel remembers Rudy, his son who died in
+infancy, while listening to Father Coffey at a wake for Paddy Dignam. A singer in this novel is carrying on
+an affair with her tour manager, Blazes Boylan. This novel is set on the date of the author's meeting with
+Nora Barnacle, June 16, 1904, now known as "Bloomsday." Name this enormous novel about Leopold
+Bloom's travels through Dublin, written by James Joyce.
+ANSWER: Ulysses
+019-13-81-07102
+
+3. One member of this family names the temperature at which a ferromagnetic material becomes
+paramagnetic. Two brothers with this last name discovered piezoelectricity, which would be used in a very
+sensitive electrometer to discover two new elements. A husband and wife team with this last name created
+new radioactive elements by bombarding elements with alpha particles. One person with this last name is
+the only one to have one two Nobels in the sciences. Identify this last name of the husband and wife team
+that discovered radium and polonium.
+ANSWER: Curie [prompt on Joliot-Curie]
+066-13-81-07103
+
+4. The beginning of this ballet features the entrances of characters such as Breadcrumb and Coulante. Its
+second act features the technically demanding Rose adagio between the title character and her suitors. Its
+central conflict emerges when Catallabutte forgets to invite Carabosse to a christening party, leading her to
+place a curse involving the title character pricking her finger on a spindle. Name this ballet about a princess
+who is woken up by a kiss, by Pyotr Ilyich Tchaikovsky.
+ANSWER: The Sleeping Beauty [or Spyashchaya krasavitsa]
+192-13-81-07104
+
+5. One member of this family was a disciple of Howard Pyle in the Brandywine School, painted the
+massive Apotheosis of the Family, and illustrated the Scribner's Classics series. Another member of this
+family made 247 depictions of Helga Testorf, as well as a painting in which a woman looks at a distant
+farmhouse from a position on the ground in a pink dress. Give this surname of illustrator N.C. and the
+painter of Christina's World, Andrew.
+ANSWER: Wyeth
+019-13-81-07105
+
+6. One narrator created by this author refers to past incidents such as the "Trevor Richardson affair" and the
+"Mannering case" and believes that the disappearance of his parents in Shanghai is the cause of the Pacific
+theater of World War II. This author, who created Christopher Banks in When We Were Orphans, also
+created a protagonist distressed by a housekeeper's long marriage to Mr. Benn. This author depicted the
+arrival of Mr. Farraday to take over Darlington Hall in that novel about the butler Stevens. Name this
+British author of The Remains of the Day.
+ANSWER: Kazuo Ishiguro
+019-13-81-07106
+OAC 2013
+
+7
+
+Page 8 of 17
+
+7. Mario Vargas Llosa wrote a "retelling" of this man's most famous novel entitled Bad Girl. The veil of
+Tanit is stolen by Matho in this man’s novel Salammbo. After moving to Yonville, a character in a novel by
+this man borrows money from Lheureux and gives birth to Berthe. In that novel by this man, the
+protagonist’s husband botches an experimental surgery on the club-footed boy Hippolyte. That protagonist
+has affairs with Leon Dupuis and Rodolphe Boulanger. Name this French author of Madame Bovary.
+ANSWER: Gustave Flaubert
+149-13-81-07107
+
+8. A museum of this mountain range is found at Blue Mountain Lake. Both of the wollastonite mines in the
+U.S. are in this mountain range. One peak in this mountain range is named for its near-vertical side as
+Whiteface Mountain. This range contains recreational hotspots around the Saranac River, Lake George, and
+Lake Placid. It was formed as part of the Canadian Shield rather than the Appalachians, and it extends from
+the St. Lawrence valley near Lake Champlain to the Mohawk valley. Name this mountain range of
+northeastern New York.
+ANSWER: Adirondack Mountains [or the Adirondacks]
+019-13-81-07108
+
+9. The inventor of this product abandoned his business interests in 1960 and spent the last fourteen years of
+his life as a missionary in Bolivia. In 1962, Homer Fesperman and Charles Weagley wrote the iconic jingle
+for this product, which notes that it's "fun for a girl or a boy." It was invented in 1946 by shipyard engineer
+Richard James, who demonstrated it at a Gimbel’s store using an inclined plane. Identify this toy which
+consists of a coiled spring.
+ANSWER: Slinky
+019-13-81-07109
+
+10. This emperor defeated Lucius Antonius in a campaign in Perusia. The Res Gestae in Ankara features an
+inscription detailing this ruler's conquests and deeds. This ruler gained political leverage by marrying
+Scribonia, and rued the Roman loss to Arminius at the Battle of Teutoberg Forest. This man formed the
+Second Triumvirate with Lepidus and another man, whom this leader defeated at the Battle of Actium.
+Name this man who defeated Mark Antony and was the first Roman Emperor.
+ANSWER: Augustus Caesar [or Gaius Julius Caesar Octavianus; or Octavius]
+192-13-81-07110
+
+11. One king of this name was responsible for the murder of Alfred the Aetheling, was the son of Canute,
+and was known as "Harefoot." Another king of this name was captured by Guy I of Ponthieu after a
+shipwreck and later defeated Tostig at the Battle of Stamford Bridge. That king of this name was shown
+being killed by an arrow to his eye in the Bayeux Tapestry. Give this name of the last Anglo-Saxon king of
+England who died in his battle against William the Conqueror at Hastings.
+ANSWER: Harold [or Harold I; or Harold Harefoot; or Harold II; or Harold Godwinson]
+030-13-81-07111
+
+12. This composer utilized maracas and bongos in his Cuban Overture. A fisherman named Jake sings "A
+Woman is a Sometime Thing" in an opera by this composer, which includes an aria about a time "when the
+livin' is easy." His most famous composition, which premiered during the "An Experiment in Modern
+Music" concert, opens with a seventeen-note clarinet glissando. Identify this American composer of Porgy
+and Bess and Rhapsody in Blue.
+ANSWER: George Gershwin
+189-13-81-07112
+
+OAC 2013
+
+7
+
+Page 9 of 17
+
+13. This poet wrote a poem whose line “Thus in silence in dreams’ projections” is inscribed in the Dupont
+Circle Metro Station in DC. He claimed he was drunk when he wrote his temperance novel Franklin Evans.
+In one poem, he responds, “I guess it is the handkerchief of the Lord” when asked, “What is the grass?”
+This poet wrote, “For you they call, the swaying mass,” in a poem which begins by noting that “our fearful
+trip is done; the ship has weathered every rack, the prize we sought is won.” Name this poet of “O Captain!
+My Captain!” and the collection Leaves of Grass.
+ANSWER: Walt Whitman [or Walter Whitman]
+015-13-81-07113
+
+14. This interaction explains why the boiling point for butane is higher than for isobutene despite both
+having the same molecular formula. Willem Keesom explained a type of this interaction that arises from
+molecules having elements with different electronegativities. This force can be caused by the temporary
+clustering of electrons at one end of a molecule, which can create an induced dipole. That dispersion type
+of this force was described by Fritz London. Name this force that attracts molecules together more weakly
+than covalent and hydrogen bonds.
+ANSWER: Van der Waals force [or dipole-dipole interaction before "dipole"; or London dispersion
+force before read; or London force before read]
+023-13-81-07114
+
+15. During a presidential election, one man holding this post was asked by Bernard Shaw if he favored the
+death penalty for a hypothetical rapist and murderer of his wife. That man in this post was attacked by an
+ad showing him driving a tank and another connecting him to criminal Willie Horton. The longest serving
+man in this post was the Democratic loser of the 1988 presidential election, Michael Dukakis. This post is
+currently held by Deval Patrick, who succeeded Mitt Romney in 2007. Name this position that leads a
+certain New England state.
+ANSWER: Governor of the Commonwealth of Massachusetts [prompt on partial answer]
+052-13-81-07115
+
+16. With reflexive verbs in this aspect, French uses “être” rather than “avoir” as as the auxiliary verb.
+Spanish uses “haber” as the auxiliary verb to this aspect in all cases. In English, this aspect is formed by
+following a conjugated form of “to have” with the past participle. Name this verb aspect that refers to past
+actions bearing on the present, as in the phrase, “I have finished,” and in most languages is closely linked
+to the past tense.
+ANSWER: perfect aspect [or perfect tense]
+121-13-81-07116
+
+17. In the months before this war, Britain almost became involved when the troop carrier Kowshing was
+sunk. This war began over an accused violation of the Lito Convention, when one side sent troops to
+suppress the Tonghak rebellion. This war resulted in the Pescadores, the Liaodong Peninsula, and Taiwan
+being ceded to the victors under the Treaty of Shimonoseki. Name this war over control of Korea between
+two other East Asian powers, which was fought from 1894 to 1895.
+ANSWER: First Sino-Japanese War [or First China-Japan War]
+019-13-81-07117
+
+OAC 2013
+
+7
+
+Page 10 of 17
+
+18. Cú Roí (COO roy) urges three rivals to perform this action in the Irish story of the feast of Bricriu
+(BRYE-croo). During the Aesir-Vanir war, Odin found Mimir after this had occurred to him. Diomedes
+(dye-AH-muh-deez) does this to the slow-witted Dolon in the Iliad, and another instance of it causes the
+birth of Chrysaor (chris-EY-or) and Pegasus from the resulting wound. Identify this act which Perseus does
+after defeating Medusa and David does after defeating Goliath.
+ANSWER: decapitation [or word forms; or beheading; or cutting off heads, etc.; do not accept or prompt
+on “killing” or similar answers, since the whole point of the story is that Cu Roi is not killed by having his
+head cut off]
+019-13-81-07118
+
+19. The probability the time-averaged value for this property takes a given value over the probability it
+takes the opposite value follows an exponential function, as shown in the fluctuation theorem. The
+H-theorem shows the change of this property in an ideal gas is irreversible. The H-theorem was developed
+by the same man who defined this property as the logarithm of available microstate times Boltzmann's
+constant. Clausius define it as the line integral of change in heat over temperature. The second law of
+thermodynamics states this value must universally be increasing. Name this measure of a system's disorder.
+ANSWER: entropy
+121-13-81-07119
+
+20. This organ contains the perisinusoidal space, also known as the space of Disse, contain fat-storing cells
+called Ito cells. Other cells in this organ include specialized stellate macrophages known as Kupffer cells.
+This organ connects to the diaphragm at its "bare area." Blood is conducted to this organ by the hepatic
+portal vein, and cirrhosis of this organ is commonly caused by alcoholism. Identify this vital organ which
+produces bile.
+ANSWER: the liver
+126-13-81-07120
+
+OAC 2013
+
+7
+
+Page 11 of 17
+
+The Letter L
+1. (MULTIPLE WORD ANSWER) What British officer fought alongside Prince Faisal during the Arab Revolt?
+2. What group of fifteen elements on the periodic table constitutes most of the rare earth elements?
+3. What organ in humans receives important gases from the bloodstream through the alveoli?
+4. What region of France contains the cities of Metz and Nancy?
+5. (TWO WORD ANSWER) What British novelist wrote Tinker, Tailor, Soldier, Spy?
+6. (TWO WORD ANSWER) What medieval scholastic wrote four books of Sentences?
+7. What brand of positivism was espoused by Rudolf Carnap and the Vienna Circle?
+8. What law of electromagnetism states that an induced electromotive force will have the opposite sign from the original
+difference in magnetic flux?
+9. (TWO WORD ANSWER) What occasionally obscene English poet wrote "Annus Mirabilis" and "This Be The Verse"?
+10. What inspector from Scotland Yard appears in the Sherlock Holmes stories?
+11. (TWO WORD ANSWER) What woman names the Fair Pay Act that was the first signed by Barack Obama?
+12. What Confederate general commanded the Army of Northern Virginia during the Civil War?
+13. (TWO WORD ANSWER) What bald billionaire is the nemesis of Superman?
+14. (TWO WORD ANSWER) What American sports columnist wrote stories like "Haircut" and "Alibi Ike"?
+15. Who is the mother of Apollo and Artemis in Greek myth?
+16. What French king was served by Cardinal Richelieu?
+17. What mythical lawgiver created the constitution of Sparta?
+18. (TWO WORD ANSWER) In what economic situation is monetary policy ineffective because interest rates are low, but
+savings rates are still high?
+19. What author of the Children of Violence series wrote "The Golden Notebook"?
+20. What rule in calculus states that the limit as x approaches c of f of x over g of x is equal to the limit as x approaches c of the
+derivative of the first over the derivative of the second?
+
+OAC 2013
+
+7
+
+Page 12 of 17
+
+The Letter L
+1. (MULTIPLE WORD ANSWER) What British officer fought alongside Prince Faisal during the Arab Revolt?
+2. What group of fifteen elements on the periodic table constitutes most of the rare earth elements?
+3. What organ in humans receives important gases from the bloodstream through the alveoli?
+4. What region of France contains the cities of Metz and Nancy?
+5. (TWO WORD ANSWER) What British novelist wrote Tinker, Tailor, Soldier, Spy?
+6. (TWO WORD ANSWER) What medieval scholastic wrote four books of Sentences?
+7. What brand of positivism was espoused by Rudolf Carnap and the Vienna Circle?
+8. What law of electromagnetism states that an induced electromotive force will have the opposite sign from the original
+difference in magnetic flux?
+9. (TWO WORD ANSWER) What occasionally obscene English poet wrote "Annus Mirabilis" and "This Be The Verse"?
+10. What inspector from Scotland Yard appears in the Sherlock Holmes stories?
+11. (TWO WORD ANSWER) What woman names the Fair Pay Act that was the first signed by Barack Obama?
+12. What Confederate general commanded the Army of Northern Virginia during the Civil War?
+13. (TWO WORD ANSWER) What bald billionaire is the nemesis of Superman?
+14. (TWO WORD ANSWER) What American sports columnist wrote stories like "Haircut" and "Alibi Ike"?
+15. Who is the mother of Apollo and Artemis in Greek myth?
+16. What French king was served by Cardinal Richelieu?
+17. What mythical lawgiver created the constitution of Sparta?
+18. (TWO WORD ANSWER) In what economic situation is monetary policy ineffective because interest rates are low, but
+savings rates are still high?
+19. What author of the Children of Violence series wrote "The Golden Notebook"?
+20. What rule in calculus states that the limit as x approaches c of f of x over g of x is equal to the limit as x approaches c of the
+derivative of the first over the derivative of the second?
+
+OAC 2013
+
+7
+
+Page 13 of 17
+
+The Letter L
+1. (MULTIPLE WORD ANSWER) What British officer fought alongside Prince Faisal during the Arab Revolt?
+2. What group of fifteen elements on the periodic table constitutes most of the rare earth elements?
+3. What organ in humans receives important gases from the bloodstream through the alveoli?
+4. What region of France contains the cities of Metz and Nancy?
+5. (TWO WORD ANSWER) What British novelist wrote Tinker, Tailor, Soldier, Spy?
+6. (TWO WORD ANSWER) What medieval scholastic wrote four books of Sentences?
+7. What brand of positivism was espoused by Rudolf Carnap and the Vienna Circle?
+8. What law of electromagnetism states that an induced electromotive force will have the opposite sign from the original
+difference in magnetic flux?
+9. (TWO WORD ANSWER) What occasionally obscene English poet wrote "Annus Mirabilis" and "This Be The Verse"?
+10. What inspector from Scotland Yard appears in the Sherlock Holmes stories?
+11. (TWO WORD ANSWER) What woman names the Fair Pay Act that was the first signed by Barack Obama?
+12. What Confederate general commanded the Army of Northern Virginia during the Civil War?
+13. (TWO WORD ANSWER) What bald billionaire is the nemesis of Superman?
+14. (TWO WORD ANSWER) What American sports columnist wrote stories like "Haircut" and "Alibi Ike"?
+15. Who is the mother of Apollo and Artemis in Greek myth?
+16. What French king was served by Cardinal Richelieu?
+17. What mythical lawgiver created the constitution of Sparta?
+18. (TWO WORD ANSWER) In what economic situation is monetary policy ineffective because interest rates are low, but
+savings rates are still high?
+19. What author of the Children of Violence series wrote "The Golden Notebook"?
+20. What rule in calculus states that the limit as x approaches c of f of x over g of x is equal to the limit as x approaches c of the
+derivative of the first over the derivative of the second?
+
+OAC 2013
+
+7
+
+Page 14 of 17
+
+The Letter L
+1. (MULTIPLE WORD ANSWER) What British officer fought alongside Prince Faisal during the Arab Revolt?
+2. What group of fifteen elements on the periodic table constitutes most of the rare earth elements?
+3. What organ in humans receives important gases from the bloodstream through the alveoli?
+4. What region of France contains the cities of Metz and Nancy?
+5. (TWO WORD ANSWER) What British novelist wrote Tinker, Tailor, Soldier, Spy?
+6. (TWO WORD ANSWER) What medieval scholastic wrote four books of Sentences?
+7. What brand of positivism was espoused by Rudolf Carnap and the Vienna Circle?
+8. What law of electromagnetism states that an induced electromotive force will have the opposite sign from the original
+difference in magnetic flux?
+9. (TWO WORD ANSWER) What occasionally obscene English poet wrote "Annus Mirabilis" and "This Be The Verse"?
+10. What inspector from Scotland Yard appears in the Sherlock Holmes stories?
+11. (TWO WORD ANSWER) What woman names the Fair Pay Act that was the first signed by Barack Obama?
+12. What Confederate general commanded the Army of Northern Virginia during the Civil War?
+13. (TWO WORD ANSWER) What bald billionaire is the nemesis of Superman?
+14. (TWO WORD ANSWER) What American sports columnist wrote stories like "Haircut" and "Alibi Ike"?
+15. Who is the mother of Apollo and Artemis in Greek myth?
+16. What French king was served by Cardinal Richelieu?
+17. What mythical lawgiver created the constitution of Sparta?
+18. (TWO WORD ANSWER) In what economic situation is monetary policy ineffective because interest rates are low, but
+savings rates are still high?
+19. What author of the Children of Violence series wrote "The Golden Notebook"?
+20. What rule in calculus states that the limit as x approaches c of f of x over g of x is equal to the limit as x approaches c of the
+derivative of the first over the derivative of the second?
+
+OAC 2013
+
+7
+
+Page 15 of 17
+
+The Letter L
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+7
+
+Page 16 of 17
+
+The Letter L
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+7
+
+Page 17 of 17
+
+

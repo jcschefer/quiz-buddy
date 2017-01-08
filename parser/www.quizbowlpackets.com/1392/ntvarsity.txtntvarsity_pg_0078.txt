@@ -1,0 +1,56 @@
+NewTrier Varsity 2006  Round 8, Page 8 
+
+
+Tossup 16: Miscelaneous (Interdisciplinary)
+The name's thesame. In math, it refers to a sequence of vector subspaces, each of which is a 
+subspaceof the next. In computer science, it refers to one ormore bits that store a status value 
+checked by other functions. In music, it is atached to the top of a note's stem,unless there's a bar 
+instead. Drivers and chess players are often woried that it wil fal before theyaredone. In common 
+parlance, if it is red,it signals that something is wrong. Unless, of course, it is also white and blue. 
+Name this term which most commonly refers to a piece of cloth that shows one's patriotism. 
+Answer: Flag 
+
+Bonus 16: Science (Physics)
+The annus mirabilis papers were four papers writen in 1905 byAlbert Einstein. 
+A: Einstein won the Nobel Prize for a paper explainingthis efectof light on metals. 
+B: Another paper dealtwith this shaking motion of tiny particles in fluid. 
+C: A third paper extended Newtonian physics to objects moving nearthe speed of light in inertial 
+reference frames, introducing this theory. 
+D: His fourth paper was titled "Doesthe inertia of a body depend upon itsenergy content?" and 
+introduced this, his most famous equation. 
+Answers: A: Photoelectric efect B: Brownian motion C: Special relativity(prompt relativity, do 
+not accept general relativity) D: E=mc squared (acceptequivalents) 
+
+
+Tossup 17: Math (Other) - Computational (30 Seconds) 
+Find the length of the latus rectum of the elipse given by the equation, x squared over 25 plus y 
+squared over nine equalsone. Itmay help you to know that the latus rectum isthe line segment 
+going through one focus, perpendicular to the major axis, starting and ending onthe elipse. To solve 
+this problem, you must first locate one focus of the elipse. Because this elipse ishorizontal, you 
+know that you can find they-coordinate of one end of the latus rectum by plugging in the x-value of 
+the focus, andbecause it is centered about the origin, you can findthe length of the latus rectum by 
+doubling that y-coordinate. 
+Answer: 18/5 (3.6) 
+
+Bonus 17: Literature (Literature) 
+Name the Shakespeare characters that said each of these famous lines. 
+A: How beauteous mankind is! Obrave new world, that has such people in't! 
+B: Friends, Romans, countrymen, lend me your ears. 
+C: Some are born great, some achieve greatness, and some have greatness thrust upon them. 
+D: We are such stuf as dreams are made on;and our litle life Is rounded with a sleep. 
+Answers: A: Miranda B:Mark Antony C: Malvolio D: Prospero 
+
+Tossup 18: Science (Physics) 
+It can be defined as the projection of the state vectoronto the position basis. The square of its 
+absolute value, integrated over al space, is equal to 1, meaning that its absolute square is a 
+probability densityfunction of a particle's location in a given region of space.Its namesake realized 
+the problems it can pose before it colapses, creating afamous thought experiment with an 
+unfortunate feline.Namethis function of quantum mechanics named after Erwin Schrödinger. 
+Answer: Schrödinger wavefunction (accept Schrödinger wave equation)
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

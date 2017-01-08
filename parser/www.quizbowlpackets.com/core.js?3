@@ -1,0 +1,220 @@
+// Generic application-wide javascript functisns
+
+var STATUS_JS_ERROR = -1;
+var STATUS_SUCCESS = 0;
+var STATUS_ERRORS = 1;
+var STATUS_CRITICAL_ERROR = 2;
+var STATUS_ADVISORY = 3;
+var STATUS_FINAL_SUCCESS = 4;
+
+/* From http://www.somacon.com/p355.php */
+String.prototype.trim = function() {
+	return this.replace(/^\s+|\s+$/g,"");
+}
+String.prototype.ltrim = function() {
+	return this.replace(/^\s+/,"");
+}
+String.prototype.rtrim = function() {
+	return this.replace(/\s+$/,"");
+}
+
+
+/* From http://css-tricks.com/snippets/javascript/htmlentities-for-javascript/ */
+function htmlEntities(str) {
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function show_collapse_triangle( prefix, show )
+{
+    if( show )
+    {
+        document.getElementById(prefix + "_Collapse").style.display = "inline";
+    }
+    else
+    {
+        document.getElementById(prefix + "_Collapse").style.display = "none";
+    }
+}
+
+function box_collapse( prefix )
+{
+    document.getElementById(prefix + "_Content").style.display = "none";
+    document.getElementById(prefix + "_Collapse").innerHTML = "<a href=\"javascript:box_expand('" + prefix + "')\" title=\"show\">&#x25B2;</a>";
+}
+
+function box_expand( prefix )
+{
+    document.getElementById(prefix + "_Content").style.display = "";
+    document.getElementById(prefix + "_Collapse").innerHTML = "<a href=\"javascript:box_collapse('" + prefix + "')\" title=\"hide\">&#x25BC;</a>";
+}
+
+// thanks to http://www.myguysolutions.com/2010/04/21/clear-upload-file-input-field-using-javascripts-innerhtml/
+function clear_upload_files( div_id )
+{
+    var list = document.getElementById( div_id + "_list" );
+    while( list.hasChildNodes() )
+    {
+        list.removeChild( list.firstChild );
+    }
+    add_dummy_li( list );
+
+    document.getElementById(div_id + "_div").innerHTML = document.getElementById(div_id + "_div").innerHTML;
+    document.getElementById(div_id + "_list_div").style.display = "none";
+}
+
+// Add a dummy LI to a list (for HTML validity purposes to avoid empty list)
+function add_dummy_li( list )
+{
+    var li = document.createElement('li');
+    li.id = list.id + "_dummy";
+    li.style.display = "none";
+    list.appendChild( li );
+}
+
+// Based on code from http://davidwalsh.name/multiple-file-upload
+function process_multiple_uploads( div_id, php_limit, app_limit )
+{
+    //get the input and UL list
+    var input = document.getElementById(div_id + '_files');
+    var list = document.getElementById(div_id + '_list');
+
+    //empty list for now...
+    while( list.hasChildNodes() )
+    {
+        list.removeChild( list.firstChild );
+    }
+    document.getElementById(div_id + "_list_div").style.display = "none";
+
+    if( input.files.length > app_limit || input.files.length > php_limit )
+    {
+        var error;
+        if( input.files.length > app_limit )
+        {
+            error = "No more than " + app_limit + " files may be uploaded.";
+        }
+        else
+        {
+            error = "No more than " + php_limit + " files may be uploaded at a time.  You may upload additional files in a separate request.";
+        }
+        FormBoxes[div_id].displayError( STATUS_CRITICAL_ERROR, error );
+
+        clear_upload_files( div_id );
+
+    }
+    else
+    {
+        FormBoxes[div_id].reset();
+        if( input.files.length > 0 )
+        {
+            //for every file...
+            for (var x = 0; x < input.files.length; x++) 
+            {
+                //add to list
+                var li = document.createElement('li');
+                li.innerHTML = input.files[x].name;
+                list.appendChild(li);
+            }
+            document.getElementById(div_id + "_list_div").style.display = "";
+        }
+        else
+        {
+            add_dummy_li( list );
+        }
+    }
+
+} // process_multiple_uploads
+
+function areAllChecked( group_id )
+{
+    var allChecked = "checked";
+    for( var ii = 1; document.getElementById( group_id + "_" + ii ); ii++ )
+    {
+        if( !document.getElementById( group_id + "_" + ii ).checked )
+        {
+            allChecked = "";
+            break;
+        }
+    }
+
+    document.getElementById(group_id + "_all").checked = allChecked;
+}
+
+function checkAll( group_id )
+{
+    var allCheck = document.getElementById( group_id + "_all" );
+    if( allCheck )
+    {
+        for( var ii = 1; document.getElementById( group_id + "_" + ii ); ii++ )
+        {
+            document.getElementById( group_id + "_" + ii ).checked = allCheck.checked;
+        }
+    }
+}
+
+function areAllSelectsSame( group_id )
+{
+    var allSelection = -1;
+    for( var ii = 1; document.getElementById( group_id + "_" + ii ); ii++ )
+    {
+        var thisSelection = document.getElementById( group_id + "_" + ii ).selectedIndex;
+        if( ii == 1 )
+        {
+            allSelection = thisSelection;
+        }
+        else if( allSelection != thisSelection )
+        {
+            allSelection = -1;
+            break;
+        }
+    }
+
+    if( allSelection != -1 )
+    {
+        document.getElementById( group_id + "_all").selectedIndex = allSelection;
+    }
+    else
+    {
+        document.getElementById( group_id + "_all").selectedIndex = 0;
+    }
+}
+
+function updateAll( group_id )
+{
+    var allSelect = document.getElementById( group_id + "_all" );
+    if( allSelect )
+    {
+        for( var ii = 1; document.getElementById( group_id + "_" + ii ); ii++ )
+        {
+            document.getElementById( group_id + "_" + ii ).selectedIndex = allSelect.selectedIndex;
+        }
+    }
+}
+
+function toggleMultiday( id )
+{
+    if( document.getElementById(id + "_MultiDay").checked )
+    {
+        document.getElementById(id + "_EndField").style.display = "inline";
+    }
+    else
+    {
+        document.getElementById(id + "_EndField").style.display = "none";
+    }
+}
+
+// URL encoding
+function encodeUrl( url, limit )
+{
+    url = encodeURIComponent( url.toLowerCase().replace(/[ \/]/g, "_") );
+    if( limit )
+    {
+        url = url.substring(0, limit);
+        lastPct = url.lastIndexOf( "%" );
+        if( -1 != lastPct && lastPct >= ( limit - 2 ) )
+        {
+            // Incomplete % encoding; truncate to exclude that
+            url = url.substr( 0, lastPct );
+        }
+    }
+    return url;
+}

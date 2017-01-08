@@ -1,0 +1,31 @@
+NewTrier Varsity 2006  Round 8, Page 10 
+
+
+TIEBREAKERS/REPLACEMENTS: 
+
+Tossup 21: Math (Geometry) - Computational (30 Seconds) 
+You want to find the total number of oranges in a square pyramid of oranges five levels high with
+base length of five oranges. The number of oranges in each level is an integer, and the topof the 
+pyramid has one orange, because it’s a square with side length of one orange. What is the total 
+number of oranges in this square pyramid? 
+Answer: 55 
+
+Bonus 21: Math (General)
+Solve the folowing problems that involve the numbers 5, 13, 16, 19 and the leter A. 
+A: What is the second leg of a right triangle with first leg 5 and hypotenuse 13? 
+B: What is the value of A in the conjugate of 13 plus 16i? 
+C: What is theabsolute value of the diference between A, base16, and one, three, base 16? 
+D: What is thesecond term of the expansion of the quantity x to the thirteenth power plus y tothe 
+sixteenthpower, quantity raised to the fifth power? 
+Answers: A: 12 B: 13 C: 9 D: 5 times x to the 52nd power times y to the 16th power 
+
+ 
+
+ 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

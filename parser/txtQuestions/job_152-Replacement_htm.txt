@@ -1,0 +1,170 @@
+REPLACEMENT 1. Earth Science/Geography/Astronomy
+Which mountain range’s highest peak is Aneto? It stretches from Cap de Creus to the Bay of Biscay, which
+are arms, respectively, of the Mediterranean Sea and Atlantic Ocean. It contains the Principality of Andorra
+and for the most part forms the boundary between France and Spain.
+
+ANSWER: Pyrenees (or Pirinioak) (Mountains)
+
+REPLACEMENT 2. Language Arts
+Easy as pie, shoot the breeze, on the phone, cut two ways, and take it easy. These are all expressions whose
+meanings cannot be inferred from the meanings of the words that make them up. What word beginning with
+the letter I is used to describe such expressions?
+
+ANSWER: Idiom(s)
+
+REPLACEMENT 3. Geometry/Trigonometry (30 Seconds)
+Use radians. Give the x- and y-coordinates for the highest point of the standard graph of the function y
+equals the arcsine of x.
+
+ANSWER: (1,pi/2) (accept x=1 and y=pi/2)
+
+REPLACEMENT 4. United States History
+It accomplished little at first because its first meeting was cut short by an outbreak of malaria. Also, its
+actions were subject to vetoes by either the governor or directors in London. After being dissolved in 1774,
+it met illegally during the Revolutionary War. Name the first elected legislative assembly in the New World;
+it represented Virginia.
+
+ANSWER: (House of) Burgesses
+
+REPLACEMENT 5. World Literature
+Who wrote The Search and Children of Gebelawi? During the 1950s, he wrote a collection of novels known
+as The Cairo Trilogy. Some people consider him an inspiration for Salman Rushdie, and there was an
+th
+assassination attempt against him in 1994. However, he is planning to soon celebrate his 94 birthday.
+Name this Egyptian who won the 1988 Nobel Prize.
+
+ANSWER: (Naguib) Mahfouz
+
+
+
+
+
+
+
+REPLACEMENT 6. Chemistry (10 Seconds)
+You can answer this question by naming a letter, an equation, or a person. Which constant is equal to the
+Boltzmann Constant times Avogadro’s Number? Using standard English units, this has a value of 10.73.
+Most often, the value and units used are 8.314 Joules per Kelvin mole. Name this constant used to relate
+pressure, volume, moles, and absolute temperature.
+
+ANSWER: (Universal or Ideal) Gas (Law Constant) (accept R or Rydberg)
+
+REPLACEMENT 7. Pop Culture
+Which main character is associated with Mary Goodnight, Sylvia Trench, Kissy Suzuki, Plenty O’Toole,
+Anya Amasova, Elektra King, and May Day? His opponents have included Nick Nack, Jaws, Oddjob,
+
+Ernst Blofeld, and Dr. No.
+
+ANSWER: (James) Bond (accept 007)
+
+REPLACEMENT 8. Calculus/Combinatorics (30 Seconds)
+Give your answer as a fully reduced fraction. If you flip a coin six times, what is the probability of getting at
+least two heads?
+
+ANSWER: 57/64
+
+REPLACEMENT 9. Nonfiction
+Who is the Sterling Professor of the Humanities at Yale University? He gained a public following in 1990
+when he suggested that much of the Torah was written by a woman. Since then, his books have included
+The Western Canon, Stories and Poems for Extremely Intelligent Children of All Ages, The Best Poems of
+the English Language, and Where Shall Wisdom Be Found?
+
+ANSWER: (Harold) Bloom
+
+REPLACEMENT 10. Technology
+Often used in quartz crystal oscillators, its applications are in computer clocks, accelerometers, and sonar.
+What is defined as the generation of voltage differences in dielectric crystals subjected to mechanical stress?
+
+ANSWER: Piezoelectric(ity)
+
+
+
+
+
+
+
+
+
+REPLACEMENT 11. Music
+Who testified before Congress about the phonograph: “When I was a boy ... in front of every house in the
+summer evenings, you would find young people together singing the songs of the day or old songs. Today
+you hear these infernal machines going night and day. We will not have a vocal cord left. The vocal cord will
+be eliminated by a process of evolution, as was the tail of man when he came from the ape.” He is the
+composer of King Cotton, Hands Across The Sea, Semper Fidelis, The Liberty Bell, and Stars And Stripes
+Forever. Name The March King.
+
+ANSWER: (John Philip de) Sousa
+
+REPLACEMENT 12. Physics (10 Seconds)
+What is defined as the study of motion apart from considerations of mass and force? It is often, though not
+always, the first subject studied in an introductory physics course.
+
+ANSWER: Kinematics
+
+REPLACEMENT 13. United States Literature
+Give the first name of the character who is married to Roskus, has children named Versh, Frony, and T.P,
+and has a grandson named Luster. On April 8, 1928, she takes Benjy to church with her. Name this maid of
+the Compson family portrayed in William Faulkner’s The Sound And The Fury.
+
+ANSWER: Dilsey (Gibson)
+
+
+REPLACEMENT 14. Art/Architecture
+Which structure, completed in 1958, looks very much like a famous structure completed in 1889? Visited by
+almost four million people each year, it contains an aquarium and wax museum near its base and
+observatories at heights of 150 and 250 meters. Name this building of the Far East that reminds people of
+Paris.
+
+ANSWER: Tokyo Tower
+
+REPLACEMENT 15. World History
+It was caused in part by a false Soviet intelligence report, and the crisis leading up to it involved the first use
+of the red telephone connecting the White House to the Kremlin. The result was a change in possession of a
+lot of sparsely populated territory. It began with an attack on Egypt’s air force and ended with an offensive
+in the Golan Heights. Name this war which gave Israel the West Bank and Sinai Peninsula. It lasted from
+June Fifth to June Tenth in 1967.
+
+ANSWER: Six Day(s War) (prompt June War or 1967 Arab-Israeli War)
+
+
+
+
+REPLACEMENT 16. Biology
+What term applies to tumors or other abnormal growths from the surface of a mucous membrane? They
+usually affect people over fifty years old. Most are benign, but some, especially larger ones, are cancerous.
+These usually appear in the large intestine and are associated with colon cancer.
+
+ANSWER: Polyp(us)
+
+REPLACEMENT 17. Religion/Mythology
+“The Lord is my shepherd, I shall not be in want. He makes me lie down in green pastures, he leads me
+beside quiet waters, he restores my soul…Even though I walk through the valley of the shadow of death, I
+will fear no evil, for you are with me.” Give the number of this Psalm.
+
+ANSWER: (Psalm) 23 (prompt on Psalms)
+
+REPLACEMENT 18. Algebra (30 Seconds)
+3
+Give your answer in a+bi form. Other than x=2i, find either of the other solutions to the equation x = -8i.
+
+
+ANSWER: -Root 3 – i (or Root 3 – i)
+
+REPLACEMENT 19. Current Events
+You must get both pieces of information correct. There have been a lot of natural disasters in the news this
+year, but not all disasters are equally disastrous. Give the month and most affected nation of the deadliest
+disaster of 2005. It was an earthquake registering 7.6 on the Richter scale that killed tens of thousands of
+people.
+
+ANSWER: October Pakistan (either order)
+
+REPLACEMENT 20. British Literature
+Which writer started out as a poet, writing “Snake” and “How Beastly the Bourgeoisie is”? His first novel,
+published in 1911, was about a tragic marriage and titled The White Peacock. His most famous novel was
+banned in the United Kingdom until thirty years after his death. Name this author of The Trespasser, Sons
+And Lovers, and Lady Chatterley’s Lover.
+
+
+ANSWER: (David Herbert) Lawrence
+
+

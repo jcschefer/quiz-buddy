@@ -1,0 +1,513 @@
+2008-2009
+ACF-Format Set #3
+Round 8
+Tossups
+
+1. An algorithm that uses this data structure can be used to do a topological sort and has an iterative
+deepening form. Divide and conquer algorithms can be implemented iteratively using one of these,
+and the alternative to heap-based memory allocation is based on one of these. They are used to
+implement Reverse Polish notation calculations as well as the aforementioned (*) depth-first search,
+and their fundamental operations are push and pop. For 10 points, name this last-in, first-out data
+structure, in which adds and removes both occur on the “top.”
+ANSWER: stacks
+2. This man lost his 1980 gubernatorial reelection bid to Frank White, and he signed the Family and
+Medical Leave Act into law. His commerce secretary Ron Brown died in a plane crash. This president
+launched Operation Desert Fox due to Iraq's interference with United Nations inspectors, and signed
+(*) NAFTA into law, though his presidency was plagued by the Whitewater affair. For 10 points, name
+this man who defeated Ross Perot and George H.W. Bush to win the presidential election of 1992.
+ANSWER: William Jefferson “Bill” Clinton
+3. Genoese rule of this polity came following a nationalist rebellion led by Sampiero Corso, and
+Andrea Doria quelled a revolt here. James Boswell wrote "An Account of" this place, where Seneca
+the Younger was exiled after being implicated in Piso's Conspiracy. Democracy was established and
+the vendetta was suppressed here under the liberal rule of Pascquale Paoli. A man (*) born here went
+on to win at Austerlitz before his exile to St. Helena. For 10 points, name this Mediterranean island, the
+birthplace of Napoleon Bonaparte.
+ANSWER: Corsica
+4. The first of these compositions was controversial for beginning with a B-F tritone. One of them was
+the first orchestral work to have a separate line for the double bass, and an unofficial one is called
+Wellington’s Victory. Brahms’ first symphony is often called the (*) tenth of these pieces, and one of
+them in D minor sets the poem “An die Freude.” One begins with three Gs followed by an E flat, while
+another was originally dedicated to Napoleon, the Eroica. For 10 points, name these works that include
+the Pastoral and the Choral, a set of nine works by a deaf composer.
+ANSWER: Ludwig von Beethoven’s symphonies [prompt on symphonies; or works of Beethoven; or
+word equivalents]
+5. Stock nomenclature is used to designate this value for the central atom of a complex. Latimer and
+Frost-Ebsworth diagrams represent the potential difference between atoms with different values of
+this number. Due to the presence of an oxygen-oxygen bond, this value is (*) negative one for oxygen
+in hydrogen peroxide. When this number decreases for a species, reduction has occurred. For 10 points,
+name this number that represents the number of electrons an atom gains or loses when forming a
+chemical bond, which is useful when balancing redox reactions.
+ANSWER: oxidation number [or oxidation state]
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 1 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+6. This theory was modified by Clayton Alderfer in his essay “Existence, Relatedness, and Growth.” Put
+forth in Toward a Psychology of Being, its creator studied “exemplary people” such as Eleanor
+Roosevelt. Typically represented pictorially by a (*) pyramid, its originator claims that lower levels must
+be reached before one can begin to reach higher levels. Its highest level is achieved when one becomes
+all he is capable of being and is known as self-actualization. For 10 points, name this organization of
+human requirements first postulated by Abraham Maslow.
+ANSWER: Maslow’s hierarchy of needs
+7. The base of one work by this artist is inscribed with "The victor is whoever defends the fatherland."
+Another work by this man is located in front of the Church of Saint Anthony in Padua, and features a
+man nicknamed "Honeyed Cat." His other works include a wood statue of (*) Mary Magdalene, and a
+relief that used the technique stiacciato, St. George and the Dragon. For 10 points, name this Italian
+sculptor of Gattamelata who depicted a figure wearing a laurel-trimmed hat and standing near the
+severed head of Goliath in his bronze statue of David.
+ANSWER: Donatello [or Donato di Niccolò di Betto Bardi]
+8. This author fictionalized himself as a novelist who uses the poetry of Blake to help teach his son
+Eeyore in Rouse Up O Young Men of the New Age. In another of his novels, Takashi trains young men
+to play soccer, before leading them in a rebellion against a Korean known as "The Emperor." This
+author of (*) Nip the Buds, Shoot the Kids won the Akutagawa prize for his story "The Catch." For 10
+points, name this Nobel Prize-winning Japanese author of The Silent Cry and A Personal Matter.
+ANSWER: Oe Kenzaburo [accept in reverse order]
+9. They are located on structures whose types include foliate, fungiform, and circumvallate, the last
+type of which are associated with Ebner's glands, and are localized to areas in front of the sulcus
+terminalis. A person typically has between 2,000 and 5,000 of these barrel-shaped structures, which
+are located on (*) papillae and can be used to detect umami. For 10 points, name these clusters of cells
+that are found on the lining of the mouth and on the tongue, used for detecting gustatory sensations
+such as bitterness, sourness, sweetness, and saltiness.
+ANSWER: taste buds
+10. After being defeated at Sar-e Pol, this man lost Samarkand and Fergana, and he seized Kabul in
+1504. At Agra, this man created the Ram Bagh garden along the Yamuna River, and on the invitation
+of Alam Khan and Dawlat Khan, this man defeated Ibrahim Lodi at (*) Panipat. He left the empire he
+founded to his son Humayun, and he was the grandfather of Akbar the Great. For 10 points, name
+descendant of Timur the Lame and Genghis Khan, the founder of the Mughal Dynasty.
+ANSWER: Babur [or Babar; or Baber]
+11. Its music video contains an image of a dove destroyed by a wrecking ball and an actual dove being
+killed by a hawk. The speaker can “design an engine/sixty-four miles to a gallon of gasoline” and
+“hand out a million vaccinations” and earlier states that he “knows all the words to (*) ‘De Colores.’”
+The speaker begs “look at me, look at me” and later says that he can “guide a missile by satellite” as well
+as “end the planet in a holocaust,” all because he can ride a bike without using the title objects. For 10
+points, name this single from Fight With Tools by Flobots.
+ANSWER: “Handlebars”
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 2 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+12. “The Myth of the Given” is discussed in a work by one philosopher of this school, Wilfrid Sellars,
+and a proponent of it wrote Philosophy of the Mirror of Nature. In addition to Richard Rorty, it was
+espoused in a work attacking tenets of the logical positivists, Quine’s Two Dogmas of Empiricism. (*)
+Democracy and Education was written by John Dewey, a proponent of it, and it was outlined in How to
+Make Our Ideas Clear by Charles Peirce. For 10 points, name this philosophy that seeks truth in practical
+experience, discussed in a tract by William James.
+ANSWER: pragmatism [accept pragmaticism]
+13. One episode of this novel sees a zealous man named Joseph sic his dogs on a character who
+borrows his lantern. This novel’s story is partly recounted by Ellen Dean after one character is startled
+to grasp the cold hand of a girl after trying to break a fir branch. One character is brought home from
+(*) Liverpool along with a whip and a violin, much to Hindley’s chagrin. This novel is told to Mr.
+Lockwood, the renter of Thrushcross Grange. For 10 points, name this novel in which Heathcliff loves
+Catherine Earnshaw, a work of Emily Bronte.
+ANSWER: Wuthering Heights
+14. One god who took this form possessed the thirteen-thousand-pound Compliant Rod and became
+angry when he learned that his title meant “stable-boy.” After stealing the peaches of immortality
+from the Jade Emperor, that god was assigned to guard the monk Tripitaka during a trip to India.
+Another god who took the form of this animal jumped from (*) India to Sri Lanka during his time
+fighting the demon Ravana in alliance with Rama. For 10 points, the Chinese figure Sun Wukong and the
+Indian deity Hanuman both appeared as what sort of primate?
+ANSWER: monkeys
+15. The transverse type of this effect was used in the Ives-Sitwell experiment and is a relativistic
+phenomenon attributable to time dilation. Its classical form is responsible for its namesake
+broadening in spectral lines, and involves multiplication by a factor of v over v plus v sub s, where v is
+absolute velocity and v sub s is the relative speed of the (*) source. Applied to light to explain the redshift of distant galaxies, for 10 points, name this effect in which the observed frequency of a wave is
+shifted by relative motion between the source and observer.
+ANSWER: Doppler effect [accept Doppler shift; do not accept “redshift” or “blueshift”]
+16. This author created the characters of Robert de Saint-Loup, who marries Gilberte, and the violinist
+Charles Morel, who has an affair with the Baron de Charlus. Another of this author's characters
+becomes obsessed with Albertine Simonet, and is shocked to discover that the Prince of (*)
+Guermantes is a Dreyfusard. This author's magnum opus begins with the narrator recalling his childhood
+after tasting a madeleine. For 10 points, name this author whose novels Sodom and Gomorrah, Time
+Regained, and Swann's Way are included in his In Search of Lost Time.
+ANSWER: Marcel Proust
+17. This river passes through the Thal and Thar deserts, and the Khyber Pass runs parallel to one of its
+tributaries. It is fed by the confluence of the Chenab and Sutlej rivers, and, along with the
+Brahmaputra, it flows from Mount Kailash. The city of Hyderabad lies near this river’s delta on the (*)
+Arabian Sea. It is spanned by the Tarbela Dam near Islamabad and passes through the Punjab plain and
+Kashmir. For 10 points, name this river that originates in Tibet and flows through Pakistan, the
+namesake of the earliest known civilization of the Indian subcontinent.
+ANSWER: Indus River [or Sindhu; or Abasin; or Nilou; or Sengge Chu; or Yìndù Hé]
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 3 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+18. This man’s venture into newspapers was countered by John Fenno’s publication. The title creature
+was “born to sip the lake or spring” in his “To a Honey-Bee,” and this author lamented the “frail
+duration of flower” in writing of the “comely” buds of “The Wild (*) Honey-Suckle.” He addressed the
+title people as “traitors” in writing of “the various horrors” of “The British Prison-Ship,” and another of
+his poems discusses the “soul’s eternal sleep.” For 10 points, name this author of “The Indian Burying
+Ground,” known as the poet of the American Revolution.
+ANSWER: Philip Morin Freneau
+19. One person in this painting writes against her knee while a woman and bearded man look on. In
+the bottom left of this work, a turbaned man looks over the shoulder of another man reading. Donato
+Bramante served as the model for another figure in this work, who is drawing on a slate tablet. That
+person, (*) Euclid, stands in the bottom left of this painting with Ptolemy and Zoroaster. Diogenes lies in
+the center, while the two most prominent figures wear contrasting pink and blue clothes. For 10 points,
+name this Raphael fresco featuring Aristotle and Plato.
+ANSWER: The School of Athens
+20. A papal approval for a crusade prompted the Desmond rebellion in this polity. Its National Land
+League sought rights for tenant farmers, and its “National Invincibles” killed Thomas Henry Burke and
+Lord Cavendish in this country’s Phoenix Park murders. One event here hit its low point during “Black
+’47” and saw its citizens escape via (*) “coffin boats.” The Troubles, a terrorist struggle over six counties
+in its north, led to the formation of its namesake Republican Army. For 10 points, name this island,
+home to the Easter Uprising and a namesake potato famine.
+ANSWER: Ireland
+21. After an unsuccessful invasion attempt, this man was forced to stay at the so-called “University of
+Ham.” He was exiled to America after an attempt to lead a coup at the Strasbourg garrison, and Felice
+Orsini’s assassination attempt inspired him to ally his nation with Piedmont in the war for (*) Italian
+independence from Austria. Cinco de Mayo celebrates the driving out of his puppet Maximilian from
+Mexico, and he disastrously lost the Battle of Sedan. For 10 points, name this French emperor during the
+Franco-Prussian War, a relative of the loser at Waterloo.
+ANSWER: Napoleon III [or Charles Louis-Napoleon Bonaparte; prompt on Napoleon]
+22. In one section of this work, an angel carves the letter "P" on the narrator's forehead seven times.
+In another section, the narrator rides Geryon to Malebolge, where flatterers walk in excrement. This
+poem's narrator encounters Count Ugolino, Guido de (*) Montefeltro, and Francesca de Rimini after
+being lost in a dark wood and passing through a gate inscribed "Abandon all hope, ye who enter here."
+The narrator is led through Hell and Purgatory by Virgil and through Heaven by Beatrice in, for 10 points,
+what epic poem by Dante?
+ANSWER: The Divine Comedy [or La Divina Commedia; accept Purgatorio before Geryon]
+23. This man concluded that adding dehydrated salts to a solution does not increase the volume of
+solution in a paper grouped with “On Microcosmic Salt.” He concluded that when pressure and
+temperature are held constant, the heat of a fluid is proportional to its weight, in a section of A New
+System of Chemical Philosophy. The unit of (*) atomic mass is named for this man, who concluded that
+all elements are made of atoms and that atoms combine to form chemical compounds. For 10 points,
+name this chemist with a namesake law of partial pressures.
+ANSWER: John Dalton
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 4 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+ACF-Format Set #3
+Round 8
+Bonuses
+
+1. Name some authors from the Hoosier state, for 10 points each.
+[10] This author of the Penrod series of novels penned Alice Adams and The Magnificent Ambersons.
+ANSWER: Newton Booth Tarkington
+[10] This “Hoosier Poet” wrote about “The Old Swimmin’ Hole” in addition to “’Leven Other Poems”
+before he hit it big with a poem about a lovable parent-less girl, Little Orphant Annie.
+ANSWER: James Whitcomb Riley
+[10] This author told of Frank Cowperwood in The Bulwark and The Financier, and also wrote Sister
+Carrie and a novel about Clyde Griffiths killing Roberta Alden, An American Tragedy.
+ANSWER: Theodore Herman Albert Dreiser
+2. The center of this painting depicts a dog looking at a man dressed in red and holding a walking stick.
+For 10 points each:
+[10] Name this painting featuring flying cherubs and numerous people preparing to board a boat to take
+the titular trip.
+ANSWER: Embarkation for Cythera [accept any answer including the word Cythera and the concept of a
+trip]
+[10] Embarkation for Cythera, by Jean-Antoine Watteau, is a work from this art genre of the eighteenth
+century whose name comes from a French word meaning “shell-covered rockwork.”
+ANSWER: Rococo
+[10] This other Rococo artist depicted a woman in a pink dress flinging a slipper into the air in his The
+Swing.
+ANSWER: Jean-Honoré Fragonard
+3. The rate of cooling and temperature of magma determines chemical composition and texture of the
+resulting rock. For 10 points each:
+[10] Name the Y-shaped chart geologists use to predict which minerals can form and how large the
+crystals can be when magma solidifies.
+ANSWER: Bowen’s reaction series
+[10] This green mineral is at the top of the leftward “discontinuous branch” of Bowen’s reaction series. It
+comes in forsterite and fayalite varieties and is known as peridot when of gem quality.
+ANSWER: olivine
+[10] This mineral at the bottom of Bowen’s reaction series consists of silicon dioxide. It is a seven on the
+Mohs scale.
+ANSWER: quartz
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 5 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+4. Indonesia is the world’s largest archipelago. Identify these Indonesian islands, for 10 points each.
+[10] This most populous Indonesian island is also the most populous island in the world. It is home to the
+capital of Jakarta.
+ANSWER: Java [or Jawa]
+[10] The eastern half of this Indonesian island, which was a Portuguese colony until 1975, was granted
+independence in 2002 after several decades of guerrilla warfare.
+ANSWER: Timor
+[10] This oddly-shaped Indonesian island lies across the Makassar Strait from Borneo. It is sometimes
+referred to as Sulawesi.
+ANSWER: Celebes
+5. Minor members of this group included Argestes, a northwesterly one who helped the Argonauts. For
+10 points each:
+[10] Name these sons of Astraeus, including Zephyrus and Boreas.
+ANSWER: the winds
+[10] This Thessalian king was made ruler of the winds and kept them in a bag on his floating island.
+ANSWER: Aeolus
+[10] Aeolus gave the bag of winds to this hero, who was trying to reach Ithaca in his namesake epic, but
+this man’s crew thought the bag contained treasure and opened it at sea.
+ANSWER: Odysseus [or Ulysses]
+6. For 10 points each, name these nineteenth century European authors.
+[10] This French poet spurred the Symbolist movement with his poetry collection The Flowers of Evil.
+ANSWER: Charles Baudelaire
+[10] This Frenchman wrote about Javert’s search for Jean Valjean in Les Miserables.
+ANSWER: Victor-Marie Hugo
+[10] This nineteenth century Italian romantic poet wrote collections like Zibaldone and Pensieri as well
+as poems like "All'Italia" and "The Infinite."
+ANSWER: Giacomo Leopardi
+7. During this novel, the title character's bride Elizabeth is murdered on their wedding night. For 10
+points each:
+[10] Name this novel subtitled "the modern Prometheus," written about a scientist who succeeds in
+animating matter to life at Ingolstadt.
+ANSWER: Frankenstein, or, The Modern Prometheus
+[10] This author of Valperga wrote Frankenstein.
+ANSWER: Mary Wollstonecraft Shelley [prompt on "Shelley"]
+[10] Frankenstein is framed by the letters of this scientist to his sister. He rescues Victor Frankenstein
+and brings him aboard his ship in the Arctic.
+ANSWER: Robert Walton [either or both names acceptable]
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 6 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+8. Its founder’s writings are known as the Gathas, and his posthumous sons, Oshetar, Oshetarmah, and
+Saoshyans, are the three saviors that will appear at the Endtime. For 10 points each:
+[10] Name this religion founded by an Iranian prophet that became the official religion of the Persian
+Empire.
+ANSWER: Zoroastrianism
+[10] According to Zoroaster, this supreme god created the spirits Spenta Mainyu and Angra Mainyu as
+well as the universe.
+ANSWER: Ahura Mazda [or Ormizd; or Ormazd]
+[10] This sacred book of Zoroastrianism contains the teachings of Zoroaster and is composed of the
+Gathas, Yasna, and Vendidad.
+ANSWER: Avesta [or Zend-avesta]
+9. It is typically measured with units of Newtons over Coulombs, showing that this quantity times charge
+yields electric force. For 10 points each:
+[10] Identify this vector function whose “lines” always point away from positive charges and toward
+negative charges. Placing an object in it causes birefringence in the Kerr effect.
+ANSWER: electric field [prompt on E]
+[10] This related quantity is equal to the integral of electric field dotted with area, and measures how
+much electric field “passes across” a surface. It appears in Gauss’ Law.
+ANSWER: electric flux [prompt on flux; prompt on psi]
+[10] Electric field also appears multiplied by charge in the formula for this force, which sums the electric
+and magnetic forces experienced by a particle as q times E plus q times v cross B.
+ANSWER: Lorentz force
+10. He was the leader of the Black Consciousness movement and the subject of the film Cry Freedom.
+For 10 points each:
+[10] Name this South African activist who became a martyr for the anti-apartheid movement after dying
+from injuries suffered while under police custody in 1977.
+ANSWER: Stephen Biko
+[10] Biko’s Black Consciousness movement inspired the 1976 protest in this township. Police here fired
+on children who were protesting school taught in English instead of Afrikaans.
+ANSWER: Soweto [accept Soweto Uprising/Massacre/other equivalents]
+[10] Five former police officers confessed to killing Stephen Biko in 1997 while testifying before the
+Truth and Reconciliation commission, which was led by this South African cleric.
+ANSWER: Bishop Desmond Mpilo Tutu
+11. Some of the NBA’s best franchises have tall, sharp-shooting redheads at the end of their benches.
+For 10 points each:
+[10] Along with teammate Roger Mason Jr., this redheaded center has lit up the NBA’s three-point
+percentage leaderboard in 2008-09.
+ANSWER: Matt Bonner
+[10] Bonner plays for this NBA team, whose coach Gregg Popovich usually inserts star Manu Ginobili off
+the bench.
+ANSWER: San Antonio Spurs [accept either]
+[10] Another redheaded three-point specialist is Brian Scalabrine, a fan-favorite benchwarmer who gets
+garbage-time minutes for this NBA franchise, whose namesake “Threeparty” consists of Garnett, Pierce,
+and Allen.
+ANSWER: Boston Celtics [accept either]
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 7 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+12. This genetic disorder arises from the body’s inability to synthesize tyrosinase, and those who have
+the related disease vitiligo suffer more localized effects. For 10 points each:
+[10] Name this autosomal recessive trait in which the absence of pigment in the choroid results in red
+pupils, while the absence of pigment elsewhere results in white skin and hair.
+ANSWER: albinism [prompt on “albino”]
+[10] The inability to synthesize tyrosinase results in a failure to produce this dark biological pigment.
+Increase of this pigment in the epidermis due to exposure to sunlight causes tanning.
+ANSWER: melanin
+[10] Much like dominant alleles of genes, which only mask their recessive counterparts, the gene for
+albinism is an example of this type of gene that masks the phenotype of other genes.
+ANSWER: epistatic gene [or epistasis]
+13. Nicholas I personally intervened to allow the performance of this play. For 10 points each:
+[10] Name this Nikolai Gogol satire about Khlestakov, who is given thousands of rubles after being
+mistaken for the title government official.
+ANSWER: The Inspector General [accept The Government Inspector; or Revizor]
+[10] In the fourth act of this Russian play, Lopakhin is unable to propose to Varya, and orders his workers
+to chop down the titular forest of Madame Ranevskaya.
+ANSWER: The Cherry Orchard [or Vishniovy Sad]
+[10] This author contrasted Belaev with Rakitin, a type of superfluous man, in his play A Month in the
+Country. He also wrote a novel about the nihilist Bazarov.
+ANSWER: Ivan Turgenev
+14. Henry Hobson Richardson designed the Marshall Field Wholesale Store in this city, whose namesake
+school of architecture included Louis Sullivan as a member. For 10 points each:
+[10] Name this city that is home to the Frank Lloyd Wright designed Robie House, in addition to the
+Sears Tower skyscraper.
+ANSWER: Chicago
+[10] The city of Chicago is home to a large red stable entitled Flamigo that was created by this man, who
+also created the mobile Lobster Trap and Fish Tail.
+ANSWER: Alexander Calder
+[10] An artist named Judy Chicago created this installation that features a triangular table with 39 place
+settings, and a porcelain floor that is inscribed with 999 women's names.
+ANSWER: The Dinner Party
+15. His contributions to mathematics include his namesake embedding theorem, though he is better
+known for his contributions to game theory. For 10 points each:
+[10] Name this subject of A Beautiful Mind whose namesake equilibrium is central in the study of game
+theory, work which won him the 1994 Economics Nobel.
+ANSWER: John Forbes Nash
+[10] This Indian economist is best known for his work Collective Choice and Social Welfare.
+ANSWER: Amartya Sen
+[10] This other economist published his namesake theorem dealing with externalities in his “The
+Problem of Social Cost,” and also wrote “The Nature of the Firm.”
+ANSWER: Ronald Coase
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 8 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+16. They form through a condensation reaction, and their resonance gives them roughly forty percent
+double bond character. For 10 points each:
+[10] The C-terminus and N-terminus of an amino acid are linked by what type of bond?
+ANSWER: peptide bond
+[10] Catecholamines like epinephrine and dopamine are synthesized from this aromatic amino acid. PKU
+sufferers cannot convert phenylalanine into this amino acid.
+ANSWER: tyrosine
+[10] Peptide chains can be cleaved at the carbonyl side of tyrosine and phenylalanine residues by this
+enzyme.
+ANSWER: chymotrypsin
+17. Many settings of this religious ritual involve the cantus firmus L’homme arme, and it is made up of
+the Kyrie, Gloria, Credo, Sanctus, and Agnus Dei. For 10 points each:
+[10] Name this Catholic ritual that is frequently set to music. The Requiem is a specific kind for the dead.
+ANSWER: the Mass [or Messa; or Messe]
+[10] This composer of a mass based on his own O Magnum Mysterium motet also wrote a mass named
+for Pope Marcellus.
+ANSWER: Giovanni Pierluigi da Palestrina
+[10] This composer of the Mass of the Chapel is better known for writing the massive madrigal The
+Combat of Tancred and Clorinda and one of the earliest operas, L’Orfeo.
+ANSWER: Claudio Monteverdi
+18. They lost their national identity when the Byzantine general Narses defeated their leader Totila in
+552 CE. For 10 points each:
+[10] Name this eastern Germanic group who were led at one point by Odoacer.
+ANSWER: Ostrogoths [prompt on Goths; prompt on Eastern Goths]
+[10] This king of the Ostrogoths conquered Italy and murdered Odoacer, and he had the philosopher
+Boethius executed on suspicion of treason.
+ANSWER: Theodoric I [or Theodoric the Great]
+[10] This Italian city was the capital for Odoacer and Theodoric, and Honorius made it the capital of the
+Western Empire in 402 CE.
+ANSWER: Ravenna
+19. This document was issued on August 14, 1941, off the coast of Newfoundland by Winston Churchill
+and Franklin Roosevelt. For 10 points each:
+[10] Name this charter that called for, among other things, freedom of the seas and freedom from want
+and fear. This document was incorporated by the 1942 Declaration of the United Nations.
+ANSWER: Atlantic Charter
+[10] The United Nations was established at this 1945 conference, which built upon earlier objectives set
+forth at Yalta and Dumbarton Oaks. It ended with the signing of the U.N. Charter.
+ANSWER: San Francisco Conference
+[10] This temporary secretary-general at the San Francisco Conference was later accused of giving
+Whittaker Chambers classified documents that were to be transferred to a Soviet Agent.
+ANSWER: Alger Hiss
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 9 of 10
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+20. The Stefan-Bolzmann law relates their radiant flux to temperature. For 10 points each:
+[10] Identify these hypothetical objects, common in physics, which absorb all light that falls on them.
+ANSWER: perfect black body
+[10] Two approximations to the intensity of a black body's radiation at an arbitrary temperature were
+given by Planck's Law and the Rayleigh-Jeans law. This third law predicted that the wavelength of peak
+intensity was inversely proportional to temperature.
+ANSWER: Wien's displacement law
+[10] One of the downfalls of the Rayleigh-Jeans law was that it predicted that intensity would increase
+without bound at small wavelengths, a phenomenon known as this.
+ANSWER: ultraviolet catastrophe
+21. It is divided into acts entitled “Daily Life,” “Love and Marriage,” and “Death and Loss.” For 10 points
+each:
+[10] Name this play set in Grover’s Corners, which revolves around George Gibbs marrying Emily Webb.
+When Emily dies, she finds she can only pity the living for not valuing life.
+ANSWER: Our Town
+[10] This author of a work in which Samuele gets involved with a group of pagan gods entitled The
+Cabala wrote Our Town as well as The Bridge of San Luis Rey and The Skin of Our Teeth.
+ANSWER: Thornton Niven Wilder
+[10] In this novel by Thornton Wilder, Clodia Pulcher hates Julius Caesar for pardoning her of blasphemy,
+and it deals with the lead-up to Caesar’s assassination on the title day.
+ANSWER: The Ides of March
+22. Named for a Bohemian spa town, these resolutions were issued following the assassination of
+August Kotzebue by Karl Sand. For 10 points each:
+[10] Name these 1819 decrees that attempted to repress liberal political activities.
+ANSWER: Carlsbad Decrees [accept reasonable equivalents for "decrees"]
+[10] This conservative Austrian foreign minister was the instigator of the Carlsbad Decrees. He was
+driven from power by the Revolution of 1848.
+ANSWER: Klemens von Metternich
+[10] Metternich was one of the key figures at this meeting, which met from September 1814 to June
+1815 and attempted to establish a balance of power following the Napoleonic Wars.
+ANSWER: Congress of Vienna
+
+2008-2009 ACF-Format Set #3
+
+Round 8
+
+Page 10 of 10 © 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+

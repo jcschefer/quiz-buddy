@@ -1,0 +1,419 @@
+VHSL States
+Round 2
+First Period, Fifteen Tossups
+1. A recently developed one of these with a good proven competitive ratio is called tango. One of these that
+operates on a restricted key set with log log n performance is named after van Emde Boas (vahn EM-dah
+BOH-az). The zig-zag step is one of the steps which can be used in creating the splay type of these. A set of
+coloration rules are used in the red-black type, which is an example of the balanced binary search class of
+these. Their topmost nodes are known as root nodes. For 10 points, name these data structures whose
+terminal nodes are called leaves.
+ANSWER: trees
+024-09-9-02101
+
+2. Black snakes float down from the heavens as a warning in this novel's opening location of Wen-Te Hall.
+One character in this work pretends to be drunk to surprise his enemies. That character is Chang Fei (chahng
+fay). Ssu-ma Yen ("sue"-mah yen) is the emperor at the end of this work. In this work, Liu Pei (LEE-oo
+PAY) captures two of the title political entities and General Cao Cao ("sow" "sow") is portrayed as a villain.
+For 10 points, name this work by Luo Guanzhong (LEW-oh GWAN-zong) that describes a tumultuous
+period in Chinese history.
+ANSWER: Romance of the Three Kingdoms [or Sanguozhi Yanyi]
+030-09-9-02102
+
+3. Explanations for this event include encephalitis, ergot poisoning, and a ploy by religious leaders such as
+Samuel Parris to increase church membership. Sarah Good was the first victim. Cotton Mather advised
+caution and rejected spectral evidence, but the depositions of Mary Walcott and Ann Putnam led to
+convictions in the namesake town and village as well as in nearby Andover. Giles Corey was pressed to
+death when he refused to enter a plea. Fifty people, including the slave Tituba, confessed. For 10 points,
+name this incident in Massachusetts that sent nineteen people to the gallows for alleged Satanic communion.
+ANSWER: Salem Witch Trials
+063-09-9-02103
+
+4. This element, whose most stable form is the rhombic (ROM-bick) allotrope (AL-oh-trope), is extracted by
+pumping superheated steam into deposits in the Frasch (FRASH) process. Thiols (THY-olls) are alcohol
+analogs with oxygen replaced by this element. A platinum or vanadium (vuh-NAY-dee-um) catalyst is used
+in the contact process, which synthesizes a compound consisting of oxygen, hydrogen, and this element.
+Although blue in flame test, it is yellow as a solid and a liquid. This element forms cross-links in rubber
+vulcanization. For 10 points, name this element with atomic number 16.
+ANSWER: sulfur [or S]
+034-09-9-02104
+
+5. This composer was named in a set of variations on St. Anthony's chorale by Brahms. This man used the
+melody of "Deutschland Uber Alles" (DOYTCH-lahnd OO-bear ALL-less) in his "Emperor" string quartet.
+His 45th symphony was written to have the performers leave the stage in protest of his employers, who were
+the Esterhazy (ESS-tair-HAH-zee) family. His 94th symphony includes an extremely loud chord in an
+otherwise quiet passage. For 10 points, name this prolific composer of over a hundred symphonies, including
+the "Farewell" and "Surprise."
+ANSWER: Franz Joseph Haydn
+023-09-9-02105
+
+VHSL States Round 2 Page 1 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. During this conflict, one side's forces were repulsed in the Battle of Queenston Heights, though the other
+side suffered the loss of their general Isaac Brock. Brock earlier refused to give ground in confronting Isaac
+Hull, leading to Hull's surrender of Detroit and the subsequent Battle of Fort Dearborn. The only permanent
+territorial gain for the United States was the port of Mobile, Alabama. All other gains and losses in this war
+were nullified by the Treaty of Ghent. For 10 points, name this war with the battles of Lundy's Lane and
+New Orleans, which was named for the year in which it began.
+ANSWER: War of 1812
+040-09-9-02106
+
+7. It can be divided into thirty ajza (AJ-zah) each containing two ahzab (AH-zahb), or into seven stations
+called manazil (MAH-nah-zeel). Translated by Salman the Persian and Robert of Ketton, it is analyzed
+spiritually through tawil (tah-WEEL) and its commentary is known as tafsir (TAHF-seer). Its second chapter
+tells of how Samiri constructed the golden calf and was banished after Moses's return. Each of its chapters
+except the ninth opens with the basmala (bahs-MAHL-lah); those 114 chapters are known as suras. For 10
+points, name this holy text of Islam.
+ANSWER: Koran [or Qur'an]
+040-09-9-02107
+
+8. The final ruler of this civilization was held at the so-called "Ransom Room" before being suffocated to
+death. This empire's downfall came after its royal procession was ambushed at the Battle of Cajamarca
+(KAH-hah-MAR-kah). The ruler of this civilization was known as Sapa. Its semi-legendary first ruler was
+Manco Capac. It ruled from the Kingdom of Cuzco until its final ruler, Atahualpa (AHT-ah-HWALL-pah),
+was captured. For 10 points, name this civilization that built the mountain fortress of Macchu Picchu and
+was conquered by Francisco Pizarro.
+ANSWER: the Incans [or Kingdom of Cuzco before it is read]
+026-09-9-02108
+
+9. This figure is sometimes depicted holding a book on the 'seat of wisdom.' In one painting, this figure
+stands on a base decorated with sphinxes, which were wrongly identified by Vasari as harpies. Caravaggio’s
+("CARE"-ah-VAH-jee-ohs) depiction of this figure's death depicts her swollen feet and belly. A man in the
+lower right unfurls a scroll while this woman totes a large baby in a painting by Parmigianino
+(PAR-meh-JEE-ah-NEE-no), in which she is "of the long neck." For 10 points, name this Biblical woman
+who looks over the infant Jesus and John the Baptist near "the rocks" in a painting by da Vinci.
+ANSWER: Mary [or the Madonna; or Virgin Mary; prompt on Mother of Jesus; prompt on Our Lady]
+034-09-9-02109
+
+10. Monomitic systems occur when only the generative type of these structures is present. Other types of
+them include the elongated and thick walled skeletal type and the multi-branching binding variety. Their tips
+are sometimes the site of haustoria (how-STOR-ee-uh) in parasites. Those tips are the source of their
+expansion through an organelle known as the spitzenkorper (SPIT-zen-kor-per). Most of them are divided
+into cells by barriers called septa. A collection of these structures is known as a mycelium
+(my-SEEL-ee-um). For 10 points, name these structures that make up most of a fungus.
+ANSWER: hyphae
+040-09-9-02110
+
+VHSL States Round 2 Page 2 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+11. One character in this work kneels to pay homage to a one hundred year old cupboard. That character
+frequently references billiards and is named Gayef (GAH-yeff). One character's son Grisha (GREE-shah)
+drowned, leading to that character's departure for France. That character rejects a suggestion to build and
+rent out villas to pay a mortgage. At one point, the servant Firs claims that he is ready to die now that
+Madame Ranevsky has returned home. At a party late in this work, Lopakhin ("LOW"-pah-keen) announces
+that he has purchased the title estate. For 10 points, name this final play by Anton Chekhov.
+ANSWER: The Cherry Orchard [or Vishniovy Sad]
+022-09-9-02111
+
+12. This law's integral and differential forms can be related by the Kelvin-Stokes Theorem. The original
+formulation of this law broke the rule that the divergence of a curl must be zero; that flaw was corrected with
+the addition of a displacement current by James Maxwell. In cases with the requisite symmetry, this law is
+used in place of the more cumbersome Biot-Savart (BEE-oh suh-VAR) Law. For 10 points, name this law
+that states that the line integral of the magnetic field around a closed loop is proportional to the current
+passing through it.
+ANSWER: Ampere's Law
+040-09-9-02112
+
+13. The highest point of this nation is only 103 meters and is located on the Jebel Dukhan (JEH-bell
+DO-kahn). Its capital city is the site of the current WTO Development Round. The Inland Sea is in the
+southeast of this nation. The Hawar Islands are off its western coast. Ruled by Hamad bin Khalifa Al-Thani
+(kah-LEE-fah all TAH-nee), it currently boasts the second highest GDP per capita in the world because of its
+rich oil and natural gas deposits. Located to the south east of Bahrain, for 10 points, what small peninsular
+nation bordering Saudi Arabia has its capital at Doha?
+ANSWER: State of Qatar [or Dawlat Qatar]
+034-09-9-02113
+
+14. One pope of this name supported the Second Desmond Rebellion, one of two measures he advocated to
+overthrow Elizabeth's rule in Ireland. Urban II called the Council of Piacenza (pee-uh-CHEN-zah) to flesh
+out a controversy that occurred during the rule of one pope of this name, for whom Henry IV did penance at
+Canossa after the Investiture Controversy. The seventh pope of this name was born Hildebrand and the first
+sent Augustine to England to spread Christianity. For 10 points, give this papal name whose holders
+popularized a namesake calendar and chant.
+ANSWER: Gregory [or Gregory XIII; or Gregory VII; or Gregory I]
+020-09-9-02114
+
+15. This mythical figure used the story of “turning an old ram into a young ram” in order to convince
+Pelias’s daughters to kill Pelias. She also killed the bronze giant Talos by driving him insane. At one point,
+this character was taken to her aunt, Circe (SEER-cee), to receive cleansing after she chopped her brother
+into pieces. She also killed Glauce (GLAU-see) and her own children to enact revenge upon her former
+husband, who was protected from some fire-breathing oxen and a sleepless dragon with her help. For 10
+points, name this sorceress who aided Jason.
+ANSWER: Medea
+052-09-9-02115
+
+VHSL States Round 2 Page 3 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL States
+Round 2
+Directed Round
+1A. English monarchs have been crowned in this building for centuries, and it also houses many of their
+burial sites. Geoffrey Chaucer is among those buried in the Poet's Corner of what London landmark?
+ANSWER:
+Westminster Abbey
+1B. It causes difficulty at the task of identifying a color in which a word is written, when the word spells out
+the name of another color. Name this psychological effect.
+ANSWER:
+Stroop Effect
+2A. What condiment takes its name from a Latin term meaning "sour wine"?
+ANSWER: vinegar
+2B. Name the American regionalist painter who used his sister as a model in his American Gothic.
+ANSWER:
+Grant DeVolson Wood
+3A. Name the metrical foot which was used in The Song of Hiawatha and includes a stressed syllable
+followed by an unstressed syllable.
+ANSWER:
+trochee [or trochaic]
+3B. Name the diagram used to predict the probability of certain genotypes manifesting in offspring by
+crossing a paternal allele with a maternal allele.
+ANSWER:
+Punnett square
+4A.This is a 10-second calculation question. Find the center and radius of the circle with equation x2 - 12x +
+y2 + 4y = 41.
+ANSWER: center (6, -2) and radius 9
+4B.This is a 10-second calculation question. Find the least common multiple of 6, 12, 15, and 40.
+ANSWER: 120
+5A. Name the large depression formed at the top of volcanoes when an eruption causes the volcano to
+collapse.
+ANSWER:
+calderas
+5B. Name the type of five line poem which follows an AABBA rhyme scheme and takes its name from a
+town in Ireland.
+ANSWER:
+limerick
+6A.This is a 20-second calculation question. Simplify the expression (x2+11x+24)/(x2-9).
+ANSWER: (x+8)/(x-3)
+VHSL States Round 2 Page 4 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6B.This is a 20-second calculation question. Evaluate (2/15)2 times 25 plus 3 times 4/7.
+ANSWER: 136/63 [or 2 10/63]
+7A. Name the type of wave that falls between radio and infrared on the electromagnetic spectrum.
+ANSWER:
+microwaves
+7B. Name the ABC sitcom that stars Portia di Rossi and concerns life at a massive corporation called
+Viridian Dynamics.
+ANSWER:
+Better Off Ted
+8A. What French author opened his Remembrance of Things Past series with the novel Swann’s Way?
+ANSWER:
+Marcel Proust
+8B. Name the Virginian inventor whose mechanical reaper revolutionized farming.
+ANSWER:
+Cyrus Hall McCormick, Sr.
+9A.This is a 30-second calculation question. In a population with a mean height of 67 inches and a standard
+deviation of 2.5 inches, find the standard score (or z-score) of a person with a height of 71 inches.
+ANSWER: 1.6
+9B.This is a 30-second calculation question. Using 3.14 as the value for pi, give the volume of a cylinder
+with radius 7 inches and height 4 inches.
+ANSWER: 615.44 cubic inches
+10A. She created a dance work called Deuce Coupe that was the first to combine modern dance and ballet
+techniques. In 2005, she created the show The Times, they Are a-Changin', which featured the music of Bob
+Dylan. Name this American choreographer who won a Tony award in 2003 for Movin' Out.
+ANSWER:
+Twyla Tharp
+10B. Name the former governor of Arizona and current Secretary of Homeland Security who was criticized
+for saying “the system worked” following a Christmas Day bombing attempt.
+ANSWER:
+Janet Napolitano
+
+VHSL States Round 2 Page 5 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL States
+Round 2
+Third Period, Fifteen Tossups
+1. Marc-Joseph du Fresne was killed in this nation that was originally called Staten Landt by the first
+European to land here at Murderer's Bay. During the 1830s, it was home to a series of Musket Wars that led
+to the enslavement of many of the people of the Chatham Islands. In 1835, it saw a declaration of
+independence signed under the auspices of James Busby. William Hobson oversaw what was in effect its
+annexation into Great Britain via the 1840 Treaty of Waitangi. Home to the Maori (may-"OAR"-ee), this is,
+for 10 points, what nation with North and South islands home to the cities of Auckland and Wellington?
+ANSWER: New Zealand
+040-09-9-02117
+
+2. In September 2009, Los Angeles mayor Antonio Villaraigosa criticized this company's decision to fire
+one fourth of its laborers during an illegal immigration investigation. In 2007, this company was sued by
+Woody Allen for using two images from the film Annie Hall on billboards without permission. A "fake"
+arbitration hearing designed to obscure a settlement was one outcome of the sexual harassment lawsuits filed
+against its CEO, Dov Charney, who claimed that wearing pants should be optional at a company that makes
+underwear. For 10 points, identify this clothing manufacturer that uses amateur fashion models in its ads and
+boasts of its "sweatshop-free," made-in-the-U.S. products.
+ANSWER: American Apparel
+019-09-9-02118
+
+3. In one novel by this author, Paul D travels to Cincinnati in his search for Baby Suggs and the mother of
+Denver. This author wrote about the navel-less Pilate, who is the aunt of Macon. In one novel by this author,
+Nel Wright’s best friend seduces her husband Jude. That work by this author is titled Sula. This author
+wrote about the slave Sethe’s escape over the Ohio river, which happened before she murdered her two year
+old daughter. This author created the character Milkman Dead. For 10 points, name this author of Song of
+Solomon and Beloved.
+ANSWER: Toni Morrison [or Chloe Anthony Wofford]
+027-09-9-02119
+
+4. An outdated model for the structure of this entity was proposed by Davson and Danielli. Enzymes such as
+flippases ("FLIP"-"aces") move molecules within this structure. It contains glycolipids (GLY-ko-LIP-idz)
+such as gangliosides (GANG-lee-oh-"sides"). The fluidity of this structure is regulated by the amount of
+cholesterol within it. The fluid mosaic model of this structure holds that proteins and lipid rafts are
+embedded in a freely moving phospholipid (FOSS-fo-LIP-id) bilayer. For 10 points, name this structure that
+encloses the cell and separates it from the outside environment.
+ANSWER: cell membrane
+032-09-9-02120
+
+5. In one of this author's short stories, Mahony meets a "queer old josser." The narrator of another of one of
+his novels becomes fixated with the word "paralysis" after the death of Father Flynn. This author of "Araby"
+and "The Sisters" wrote about Morkans’ annual dance and Michael Furey’s tragic death in a story about
+Gabriel Conroy. That work, "The Dead," is the final piece in the short story collection Dubliners. For 10
+points, Stephen Dedalus appears in both A Portrait of the Artist as a Young Man and Ulysses by what Irish
+author?
+ANSWER: James Augustine Aloysius Joyce
+034-09-9-02121
+
+VHSL States Round 2 Page 6 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. Russia destroyed this empire's navy at the Battle of Chesma, after which this country was forced to sign
+the humiliating treaty of Kuchuk-Kainarji (kuh-NAR-juh). One battle involving this empire saw it opposed
+by Prince Lazar, who died during that loss to this empire. King Louis II of Hungary died at the hands of this
+empire at the 1526 Battle of Mohacs (MO-hotch). For 10 points, name this empire that clashed with Europe
+under such leaders as Mehmet II and Suleiman the Magnificent.
+ANSWER: the Ottoman Empire [or Turkish Empire; or Turkey; or Osmanli Imparatorlugu; or Osmanli
+Devleti]
+026-09-9-02122
+
+7. In this work, the central family is told by Monsiuer Loyal that they must move out of their home. One of
+the central characters in this work fears prosecution for treason due to incriminating papers from his friend
+Argus that are being used as blackmail. Elmire's illness is ignored by her husband in this play. Cleante warns
+of the title character's machinations throughout this work. Valere and Mariane are married in this work. In
+this play, Orgon hides under a table and learns about the true nature of the title character. For 10 points,
+name this work about the title religious hypocrite written by Moliere.
+ANSWER: The Tartuffe, or the Impostor [or Le Tartuffe, ou L'Imposteur]
+030-09-9-02123
+
+8. This function's Taylor series approximation begins 1 - X2/2! + X4/4! ("One minus X squared over two
+factorial plus X to the fourth over four factorial"). In Euler's Formula, this function added to i(sin(x)) ("I
+times the sine of X") is equal to eix ("E to the I X"). This function is also equal to the square root of 1-sin2
+(theta) ("One minus sine squared of theta") and approaches zero as theta approaches p/2 ("pi over two").
+Name this function equal to a triangle's adjacent side over its hypotenuse.
+ANSWER: cosine
+059-09-9-02124
+
+9. Cimon ("SIGH"-moan) was sent to fight a war this group initiated after a massive earthquake. These
+people were policed by the krypteria, a secret dagger wielding force with the authority to kill members of
+this group caught wandering at night. These people’s chief responsibility was tilling a piece of land called
+the 'klaros.' Members of this group could become neodamodes (nee-odd-ah-modes) by extensive military
+services. Members of this group had fewer rights than the perieoki (PAIR-ee-OH-kee), and every year the
+ephors (eff-FORS) declared war on them. For 10 points, name this low class of Spartan laborers.
+ANSWER: helots
+015-09-9-02125
+
+10. A missive written to these people by St. Clement outlines the division of ministerial orders and the
+doctrine of apostolic succession. In earlier texts, they are asked "If the whole body were an eye, where were
+the hearing?" and told that "when I became a man, I put away childish things," shortly before the declaration
+"For now we see through a glass, darkly." Other advice to these people approves the eating of meat offered
+to idols and suggests that women be silent in church. For 10 points, identify these Christian inhabitants of a
+certain Greek city who received two namesake Pauline epistles in the New Testament.
+ANSWER: the Corinthians
+019-09-9-02126
+
+VHSL States Round 2 Page 7 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+11. This writer coined the term "Boston Brahmin" in his novel Elsie Verner. One of this poet's poems
+described a man as "the last leaf upon the tree in the Spring" and is titled "The Last Leaf." Another poem
+described how a title entity will no more feel the victor's tread but that it's better that it will sink beneath the
+wave. A third poem by this man describes a title entity's construction of "stately mansions...as the swift
+seasons roll." For 10 points, name this American Fireside Poet who wrote "Old Ironsides" and "The
+Chambered Nautilus."
+ANSWER: Oliver Wendell Holmes, Sr.
+059-09-9-02127
+
+12. In 2005, Burger King stopped serving ice cream cones in the United Kingdom because a swirl on the
+cone allegedly spelled out this word. A similar situation with this word led to a recall of Nike Air shoes in
+1998. In January 2010, several churches in Malaysia were firebombed in opposition to Christians using this
+word. For 10 points, what is this word that most Arabic speakers of any religion use to mean "God," but
+which is most frequently used to refer to the supreme figure of Islam?
+ANSWER: Allah
+019-09-9-02128
+
+13. In one sonnet, this poet remembers pausing in the morning to feel a "calm so deep" caused by "all that
+mighty heart...lying still." In addition to "Sonnet Composed upon Westminster Bridge," this poet wrote that
+he'd rather "be a pagan, suckled in a creed outworn" in another sonnet. In one poem, this poet claims that a
+"green pastoral landscape" is "more dear...for thy sake" when addressing his sister Dorothy. That poem
+begins "five years have passed." This poet of "The World is Too Much with Us" wrote that he "wandered
+lonely as a cloud" in "Daffodils." For 10 points, name this British poet of "Tintern Abbey."
+ANSWER: William Wordsworth
+026-09-9-02129
+
+14. One model for the formation of these regions was proposed by John T. Wilson. One of these regions,
+nicknamed the "Great Meteor," may be responsible for diamond-containing kimberlite deposits. Rhyolites
+(RYE-oh-lites) are formed when basaltic magma from these regions bubbles under a continental crust. One
+of them created the Galapagos island chain. A currently active one resulted in the formation of the Hawaiian
+island chain. For 10 points, name these areas on the earth's crust where very hot plumes of magma result in
+unusually high levels of volcanic activity.
+ANSWER: hotspots [or mantle plumes]
+032-09-9-02130
+
+15. A bust of one person with this last name, who defeated Chief Cornstalk at the Battle of Point Pleasant,
+was placed in the Old Hall of the Virginia House of Delegates in 2009. Another person with this last name
+was assassinated in Grinder's Stand, Tennessee, after being appointed governor of the Louisiana Territory in
+1806. That person was the personal secretary to Thomas Jefferson, who nominated that man with this last
+name to an expedition to reach the Pacific Ocean. For 10 points, identify this surname shared by the
+eighteenth century general Andrew and Meriwether, the partner of William Clark.
+ANSWER: Lewis [or Andrew Lewis; or Meriwether Lewis]
+045-09-9-02131
+
+VHSL States Round 2 Page 8 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL States
+Round 2
+Tiebreaker Questions
+1. The protagonist of this novel mixes lemonade and Coca-Cola at a drugstore and later works as a bell-hop.
+Its author was inspired to write it when he read about the execution of Chester E. Gillette. The protagonist's
+parents were Kansas City street preachers. That character chooses to buy Hortense a coat rather than help his
+sister. The protagonist idealizes Sondra and takes Roberta Alden out on a canoe with disastrous
+consequences. Partly set in the factory-filled city of Lycurgus, for 10 points, name this novel about Clyde
+Griffiths that was written by Theodore Dreiser.
+ANSWER: An American Tragedy
+063-09-9-02132
+
+2. This man wrote a symphony containing one adagio lamenting women standing in line at the store and
+another adagio denouncing a massacre of Jews, which were both settings of Yevgeny Yevtushenko
+(YEV-"two"-SHANE-koh) poems. He composed two cello concertos for Mstislav (MIS-ti-slav)
+Rostropovich. This composer of the Babi Yar symphony wrote an earlier work that had the opening
+movement feature a tranquil melody interrupted by the invasion theme. For 10 points, name this composer
+whose experience during the Nazi invasion of Russia inspired his Leningrad symphony.
+ANSWER: Dmitri Dmitriyevich Shostakovich
+052-09-9-02133
+
+3. In a book subtitled "the Puzzle of the Bomb," William Poundstone applied this construct to nuclear
+warfare. The iterated form of this construct was the subject of a tournament held by Robert Axelrod, which
+held that "tit for tat" was the best strategy for approaching it. The only Nash Equilibrium in the iterated form
+of this game is to defect every time. In the most common formulation of this game, players receive six
+months if both stay loyal but ten years if their partner enters a plea bargain. For 10 points, name this
+common situation in game theory.
+ANSWER: prisoner’s dilemma
+015-09-9-02134
+
+4. A form of these substances that marks a shift to a specific electric potential is known as the redox type.
+The most notable type of these substances includes chemicals like cresol (KREE-sol) red and bromothymol
+(BRO-mo-THY-moll) blue and demonstrates the endpoint of an acid-base titration. For 10 points, name
+these chemicals that reversibly change color at a certain chemical point and include acid-base examples like
+phenolphthalein (FEE-nolf-THALE-een).
+ANSWER: indicator [or pH indicator; or acid-base indicator]
+032-09-9-02135
+
+5. A disease related to this organelle is caused by a lack of hexosaminidase (HEX-ose-am-IN-ih-dace) A,
+characterized by a red spot in the iris, and called Tay-Sachs disease. Mannose-6-phosphate tags proteins
+destined for this organelle. This organelle contains namesake hydrolases and can absorb material via
+autophagy. This organelle's V-class proton pumps create an acidic environment to carry out its main
+function. For 10 points, name this organelle that breaks down macromolecules and cellular waste.
+ANSWER: lysosome
+032-09-9-02136
+
+VHSL States Round 2 Page 9 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

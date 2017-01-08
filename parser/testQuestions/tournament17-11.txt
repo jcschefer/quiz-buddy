@@ -1,0 +1,490 @@
+Tournament 17
+Round 11
+Tossups
+1. This type of method can be optimized by reusing the stack frame of the previous function call; that
+is known as tail optimization. Functions that commonly use this method include the
+divide-and-conquer solution to Towers of Hanoi and mergesort. A function that uses this procedure
+without a (*) base case will run forever. Commonly used in binary tree traversals, for 10 points, name this
+method where a function references itself in its definition.
+ANSWER: recursion [or recursive functions]
+093-11-29-11102
+
+2. At this story's end, the narrator attempts to calm down his friend by reading a story about a
+knight named Ethelred who kills a dragon to obtain a large amount of gold called The Mad Trist.
+Earlier, one character in this work sings about “evil things, in robes of sorrow” which “assailed the
+monarch’s high estate” in a poem titled “The Haunted Palace.” The end of this work sees the death
+of (*) Madeleine and the narrator’s friend Roderick. For 10 points, name this Edgar Allan Poe short story
+which ends with the collapse of the title estate.
+ANSWER: “The Fall of the House of Usher”
+064-11-29-11103
+
+3. One of these objects could not be moved without the help of the giantess Hyrrokin. Another one of
+them made of fingernails will appear at Ragnarok; those objects are Hringhorni and Naglfar. The
+Sons of Ivaldi made another one of these objects for Freyr which could be folded and put in a pocket
+and float through the air called Skidbladnir. In Greek myth, one of these (*) vessels was made out of
+sacred oak, transported Jason to retrieve the Golden Fleece, and was named the Argo. For 10 points, name
+this form of water transportation.
+ANSWER: ships [or boats]
+083-11-29-11104
+
+4. One solo by this man was immediately followed by the best-known solo of Jess Stacy and was
+played over a tom-tom accompaniment by Gene Krupa. In addition to Krupa, Teddy Wilson and
+Lionel Hampton were part of this man’s namesake Quartet, one of the first integrated groups in
+jazz. This man's concert at Carnegie Hall culminated in the tune (*) "Sing, Sing, Sing." For 10 points,
+name this "Patriarch of the Clarinet" and "King of Swing."
+ANSWER: Benjamin David "Benny" Goodman
+003-11-29-11105
+
+5. This man pirated Georges Méliès film A Trip to the Moon and sold it in hundreds of theatres. He
+demonstrated the use of alternating current on stray animals and advocated for its use in electric
+chairs as part of his smear campaign against it during the “War of the Currents” against George
+Westinghouse. He used the term (*) “filament” to describe the innovative glowing strand that made the
+first commercially successful incandescent lamp possible. For 10 points, name this “Wizard of Menlo
+Park,” inventor of the phonograph and a practical light bulb.
+ANSWER: Thomas Edison
+015-11-29-11106
+
+Tournament 17 Round 11 Page 1 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. One holder of this name became the Red Hood after he returned from the dead. One character to
+operate under this name faked an engagement to Tamara Fox. Holders of this name have
+traditionally been leaders of the Teen Titans, but the current holder of this title has refused to join
+that group. The first man to hold this title later took the name (*) Nightwing, and won the “Battle for
+the Cowl” after the disappearance of Bruce Wayne. For 10 points, name this sidekick of Batman, a role
+most famously filled by Dick Grayson.
+ANSWER: Robin (accept Red Robin until “Teen Titans”)
+002-11-29-11107
+
+7. This man appointed a Secretary of Energy to replace Georgina Kessel, in an effort to boost his
+country’s economy. Before assuming his current office, he himself had served as Secretary of Energy
+under his predecessor before winning a highly contested election in 2006 against Roberto Madrazo
+(mah-DRAH-zoe) and Andrés Obrador (ahn-DRAYS OH-brah-DORE). This man has been heavily
+criticized for his failure to end the war between his country and (*) several violent drug cartels. For 10
+points, name this current President of Mexico.
+ANSWER: Felipe de Jesús Calderón (cahl-day-ROAN) Hinojosa
+083-11-29-11108
+
+8. This nation contains the once nominally independent Bantustans of Transkei, Venda, Ciskei, and
+Bophuthatswana. This nation’s currency is the Rand, and its largest city lies in Gauteng province.
+Cape Agulhas is the southernmost point in this nation. The (*) Orange river defines part of its border
+with Namibia. Two of its capitals are Pretoria and Bloemfontein. For 10 points, name this country whose
+largest cities are Cape Town and Johannesburg, which hosted the 2010 World Cup.
+ANSWER: South Africa
+027-11-29-11109
+
+9. This man wrote the definitive biography of the duke of Marlborough. He introduced labor
+exchanges and industry-specific minimum wages as president of the Board of Trade. That led to his
+promotion to First Lord of the Admiralty, where he orchestrated the disastrous Gallipoli campaign.
+During his "wilderness years," he denounced the Munich Pact, which lent him credibility when he
+promised to (*) "fight them on the beaches." For 10 points, name this Prime Minister who succeeded
+Neville Chamberlain and led the U.K. for most of World War II.
+ANSWER: Winston Leonard Spencer Churchill
+019-11-29-11110
+
+10. This philosopher's rule-following paradox was elaborated on by Saul Kripke, and it occurs in a
+work featuring the "beetle-in-a-box" thought experiment and a discussion of the private language
+argument and duckrabbits. He published only one book in his lifetime, a set of seven propositions the
+final of which reads (*) "Whereof one cannot speak, thereof one must be silent". For 10 points, name this
+German philosopher influential in the development of logical positivism, who wrote Philosophical
+Investigations and Tratatus Logico-Philosophicus.
+ANSWER: Ludwig Wittgenstein
+082-11-29-11111
+
+Tournament 17 Round 11 Page 2 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+11. The compound AZT is typically used to inhibit one specific example of this group. Members of
+this group can replicate using either the lysogenic or lytic cycles. One member of this group named
+T4 is known for attacking E. coli. These entities have a protein coat called a capsid. Members of this
+group that attack bacteria are called (*) bacteriophages (back-TEER-ee-oh-FAY-jezz). For 10 points,
+name this group of infectious agents, which includes the tobacco mosaic and influenza varieties.
+ANSWER: viruses [or HIV before "example" is read; or human immunodeficiency virus before
+"example" is read; or AIDS before "example" is read; or acquired immunodeficiency syndrome before
+"example" is read]
+064-11-29-11112
+
+12. The original score of this work included several holes which were filled by improvisation at this
+work's premiere, and it was orchestrated three times by the composer of the Grand Canyon Suite,
+Ferde Grofe. This piece was written for a concert at Aeolian Hall entitled "An Experiment in
+Modern Music" by Paul Whiteman, and opens with a trill and (*) 17-note glissando for solo clarinet.
+For 10 points, name this 1924 work for piano and orchestra which blended classical and jazz elements, by
+George Gershwin.
+ANSWER: Rhapsody In Blue
+082-11-29-11113
+
+13. This character discovers that John Openshaw was murdered by the Ku Klux Klan in "The Five
+Orange Pips." In another work, this man proves that Jack Stapleton has been conniving to obtain the
+title family's fortune. He often infuriates Inspector Lestrade and the other detectives of Scotland
+Yard. This protagonist of (*) The Hound of the Baskervilles is the nemesis of Professor Moriarty. For 10
+points, name this Arthur Conan Doyle creation, a detective who lives on Baker Street with his assistant,
+Watson.
+ANSWER: Sherlock Holmes [or Sherlock Holmes]
+080-11-29-11114
+
+14. His political career began after he met Zakaria Mohieddine and Abd al-Hakim Amir in the
+Sudan. Eighteen years later, he sparked international controversy through a secret arrangement
+with Czechoslovakia for weapons. During that controversy, this leader reacted to John Foster
+Dulles's withdrawal of funding for a dam project by (*) nationalizing and instituting tolls on the Suez
+Canal. For 10 points, name this predecessor of Anwar Sadat as the president of Egypt.
+ANSWER: Gamal Abdel Nasser
+019-11-29-11115
+
+15. These numbers can be expressed using Binet's formula with a multiplier of one. Four of these
+numbers make up a Q-matrix. They were first described as the solution to a problem involving
+multiplying rabbits in the book Liber Abaci. Like Lucas numbers, these numbers share a recurrence
+relation, namely that the nth of these numbers is the (*) sum of the previous two. For 10 points, name
+these numbers found in a sequence beginning 1, 1, 2, 3, 5.
+ANSWER: Fibonacci numbers [or Fibonacci sequence]
+003-11-29-11116
+
+Tournament 17 Round 11 Page 3 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+16. This man wrote a play in which a noblewoman, the lover of the poet Aleel, offers her soul to the
+devil in exchange for money to feed the poor. In addition to The Countess Cathleen, this man wrote a
+poem in which "the ceremony of innocence is drowned." In that poem by this man, "the falcon
+cannot hear the falconer," and it asks "what rough beast ... slouches towards Bethlehem to be
+born?" That poem is this man's (*) "The Second Coming." For 10 points, name this Irish poet who wrote
+"Sailing to Byzantium."
+ANSWER: William Butler Yeats
+030-11-29-11117
+
+17. Léon Gambetta attempted to organize one side's defenses in this war, but fled in a hot air balloon.
+The Treaty of Frankfurt ended this war, in which the Battle of Sedan was fought. One cause of this
+war was the possibility of Leopold of Hohenzollern gaining the Spanish throne. Another cause of this
+war was an edited letter between the ambassador of one country in this war and Wilhelm I. That (*)
+Ems Dispatch was used to advance the goals of Otto von Bismarck. For 10 points, name this 1870-1871
+war between two European nations that led to German unification.
+ANSWER: Franco-Prussian War [or Franco-German War]
+001-11-29-11118
+
+18. A depiction of this scene by William-Adolphe Bouguereau (boo-ger-OH) shows two men blowing
+conch shells. A better known depiction of this scene features flowers floating through the air while a
+man produces wind from his mouth. That depiction also features a woman handing a (*) pink cloak to
+the main figure, who stands nude on a conch shell. Sandro Botticelli painted a well known version of, for
+10 points, what mythological scene which shows the conception of a certain Roman goddess?
+ANSWER: The Birth of Venus [or Nascita di Venere; or La Naissance de Vénus]
+040-11-29-11119
+
+19. One person thought to have been involved in this event was Rudolph Schnaubelt. Louis Lingg
+committed suicide in the aftermath of this event. John Altgeld pardoned three people who were
+implicated in this event, including Samuel Fielden and Michael Schwab, but four men were hanged,
+including August Spies. This event occurred during a (*) rally for striking workers when a bomb was
+thrown at the police by an unknown person. For 10 points, name this 1886 riot which took place in
+Chicago.
+ANSWER: Haymarket Square Riot
+024-11-29-11120
+
+20. This man wrote about three imaginary dialogues between himself and St. Augustine in his My
+Secret Book. The brother of a Carthusian monk, he also wrote two books of biographies on Roman
+and Biblical leaders and an unfinished biography of Scipio Africanus. This author of On Illustrious
+Men and Africa is best known for (*) Il Canzoniere, a collection of 366 poems dedicated to his lifelong
+love, who died from the plague in 1348. For 10 points, name this 14th-century Italian poet who wrote to a
+mysterious Laura.
+ANSWER: Petrarch [or Francesco Petrarca]
+083-11-29-11121
+
+Tournament 17 Round 11 Page 4 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+21. One novel by this author has a love interest who might be Joaquin Murieta. A sequel to that novel
+is narrated by Aurora and follows Clara, a clairvoyant mute who leaves notebooks her
+granddaughter Alba finds in another work. Her works Daughter of Fortune and Portrait in Sepia can
+be read as part of a trilogy following the del Valles. One of her works chronicles life at (*) Tres
+Marias, the Trueba family hacienda, before and after a military coup. For 10 points, name this Chilean
+author of The House of the Spirits.
+ANSWER: Isabel Allende Llona
+003-11-29-11122
+
+22. One figure in this war had his power cemented by his victory at Mortimer's Cross. This war
+began with the First Battle of St. Albans. One leader in this war was Richard Neville, known as the
+kingmaker. The origins of this war go back to the overthrow of Richard II. The Battle of(*) Bosworth
+Field saw the death of Richard III and the rise of Henry Tudor at the end of this war. For 10 points, name
+this war between the House of Lancaster and the House of York named for the different colored flowers
+representing the houses.
+ANSWER: Wars of the Roses
+001-11-29-11123
+
+23. In 1961, Claus Jönsson (CLOWS YUHN-sun) reproduced the set up of this experiment with
+electrons. The set up for this experiment when using only one particle gives the same results as the
+original, except when a detector is used. That detector being used causes a pair of (*) bands to be
+formed instead of the usual pattern caused by interference. For 10 points, name this experiment first carried
+out by Thomas Young sending light through a pair of openings, which showed light has a wave nature.
+ANSWER: Young's double slit experiment [or Young's experiment before it is read]
+023-11-29-11124
+
+Tournament 17 Round 11 Page 5 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+Tournament 17
+Round 11
+Bonuses
+1. One rendition of this work was titled “The Wine of Nishapur.” For the stated number of points:
+[10] Name this work consisting of such quatrains as “The Moving Finger writes; and, having writ, Moves
+on: nor all thy Piety nor Wit/Shall lure it back to cancel half a Line, Nor all thy Tears wash out a Word of
+it.”
+ANSWER: Rubayyat of Omar Khayyám [don't read the full title]
+[10] The Rubayyat was written by this Persian astronomer and polymath.
+ANSWER: Omar Khayyám
+[5/5] The most well-known poem from Omar Khayyám's Rubayyat situates the speaker with “a Book of
+Verses underneath the Bough,” these two items, and “Thou.”
+ANSWER: a jug of wine and a loaf of bread [we just want wine and bread, since the exact container
+varies from translation to translation]
+020-11-29-11201
+
+2. A function is bijective if it is both surjective and possesses this property. For 10 points each:
+[10] Name this property which can be determined using the horizontal line test.
+ANSWER: one to one or injective
+[10] In a one to one function, every single member of this set maps to a unique member of the
+corresponding range. For the square root function, this set is equal to all numbers greater than or equal to
+zero.
+ANSWER: domain
+[10] If two functions are both one to one, applying this operation will result in a one to one function.
+Applying this operation to two functions f and g involves using the output of g as the input of f.
+ANSWER: function composition
+064-11-29-11202
+
+3. Name these larger-than-life figures from American folklore, for 10 points each.
+[10] This fictional lumberjack usually depicted accompanied by a blue ox.
+ANSWER: Paul Bunyan
+[10] Talcott, West Virginia is typically considered the place where this man’s famous action occurred. This
+railroad worker defeated a steam-powered hammer in a race to make a tunnel, but died of exhaustion.
+ANSWER: John Henry
+[10] This legendary cowboy painted the Painted Desert, rode a horse that ate dynamite, and courted the
+lovely Slue-Foot Sue. He was raised by coyotes after falling out of a wagon near his namesake river.
+ANSWER: Pecos Bill
+002-11-29-11203
+
+Tournament 17 Round 11 Page 6 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+4. Answer these questions about the works of an American author, for 10 points each.
+[10] In this short story, Peyton Farquhar imagines a daring escape when he is about to be hanged for
+interfering with the railroads.
+ANSWER: "An Occurrence at Owl Creek Bridge"
+[10] "An Occurrence at Owl Creek Bridge" was written by this author who also wrote the stories
+"Chickamauga" and "A Horseman in the Sky."
+ANSWER: Ambrose Gwinnett Bierce
+[10] Bierce also wrote this satirical dictionary, which defines a bore as "a person who talks when you wish
+him to listen."
+ANSWER: The Devil's Dictionary
+024-11-29-11204
+
+5. For 10 points each, answer these questions about some interesting things people do with their food.
+[10] Adding this brand of mints to Diet Coke causes a rather violent explosion of liquid due to the release
+of carbon dioxide.
+ANSWER: Mentos
+[10] Crushing the Wint-O-Green flavor of this candy in your mouth and observing the pieces in a darkened
+room will cause them to fluoresce.
+ANSWER: Life Savers
+[10] In a 2010 experiment, photographer Joann Bruso photographed a meal from this restaurant after
+leaving it on a counter for a year. The meal showed surprisingly little sign of decay.
+ANSWER: McDonald’s
+064-11-29-11205
+
+6. This man wrote a short story about prisoners in the Spanish Civil War entitled "The Wall". For 10 points
+each:
+[10] Name this French existentialist author of Being and Nothingness and No Exit.
+ANSWER: Jean-Paul Sartre
+[10] In this novel by Sartre, Antoine Roquentin is researching a biography of Marquis de Rollebon when he
+experiences the title feeling.
+ANSWER: Nausea
+[10] In Sartre's play No Exit, this character is a postal worker who is attracted to Estelle, but Estelle stabs
+her near the end of the play.
+ANSWER: Inez Serrano [accept either]
+001-11-29-11206
+
+7. In this musical, Bernardo sings, "Better get rid of your accent," after Anita claims, "I'll get the terrace
+apartment." For 10 points each:
+[10] Name this musical which, in addition to "America," contains tunes such as "Tonight" and "Maria."
+ANSWER: West Side Story
+[10] West Side Story was composed by this man, who also composed Chichester Psalms and also served as
+conductor of the New York Philharmonic.
+ANSWER: Leonard Bernstein
+[10] Bernstein promoted the music of this onetime conductor of the New York Philharmonic who
+composed the Titan symphony and Symphony of a Thousand.
+ANSWER: Gustav Mahler
+030-11-29-11207
+
+Tournament 17 Round 11 Page 7 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+8. This notation expresses an algorithm's upper bound of computational resources as a function of the size
+of the input. For 10 points each:
+[10] Name this notation used in computer science.
+ANSWER: Big O notation
+[10] This problem can be solved in Big O of n factorial using brute force. It involves finding the shortest
+tour that visits each of a group of cities exactly once.
+ANSWER: traveling salesman problem
+[10] The nearest neighbor algorithm, which can approximate a solution to the traveling salesman problem,
+is an example of this type of algorithm, which always makes the locally optimal choice.
+ANSWER: greedy algorithm
+024-11-29-11208
+
+9. The speaker of this poem exclaims that "the afternoon, the evening, sleeps so peacefully!" and observes
+"the yellow fog that rubs its back upon the window-panes". For 10 points each:
+[10] Name this poem in which the speaker has "heard the mermaids singing, each to each".
+ANSWER: "The Love Song of J. Alfred Prufrock"
+[10] "The Love Song of J. Alfred Prufrock" was written by this poet also known for Four Quartets and The
+Waste Land.
+ANSWER: Thomas Stearns Eliot
+[10] This other poem from T. S. Eliot's Prufrock and Other Observations is in four sections, one of which
+opens "The morning comes to consciousness / Of faint stale smells of beer."
+ANSWER: "Preludes"
+082-11-29-11209
+
+10. At one point, Jews in this country were scheduled to be killed as revenge for the fictitious Doctors' Plot.
+For 10 points each:
+[10] Name this former country which also targeted groups such as the "kulaks" for liquidation.
+ANSWER: USSR [or Union of Soviet Socialist Republics; or Soviet Union; or CCCP; or Soyuz
+Sovetskikh; do not accept or prompt on "Russia"]
+[10] The USSR went to war with this country twice on the eve of World War II, in the Winter War and
+Continuation War.
+ANSWER: Republic of Finland [or Suomi; or Suomen Tasavalta; or Republiken Finland]
+[10] During the Winter War, Soviet forces breached the defensive line named for this longtime leader of
+the Finnish army, who became president after World War II.
+ANSWER: Carl Gustav Mannerheim
+019-11-29-11210
+
+11. This man is depicted shortly before his death in the work Phaedo. For 10 points each:
+[10] Name this philosopher who names a method of learning which consists of asking questions in order to
+stimulate critical thinking.
+ANSWER: Socrates
+[10] Socrates is depicted in works like Phaedo and Gorgias which were written by this student who also
+wrote of the allegory of the cave in The Republic.
+ANSWER: Plato
+[10] In this other Platonic dialogue, Socrates refuses an offer by a friend to escape from jail, stating that
+injustice is not a valid response to an unjust action.
+ANSWER: The Crito
+064-11-29-11211
+
+Tournament 17 Round 11 Page 8 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+12. This man composed the opera Vanessa. For 10 points each:
+[10] Name this composer of Adagio for Strings.
+ANSWER: Samuel Barber
+[10] This man wrote the libretto for Vanessa. His compositions include the music for the operas Amelia
+Goes to the Ball and The Consul.
+ANSWER: Gian Carlo Menotti
+[10] Menotti is perhaps best known for this originally televised opera. The title cripple is healed after he
+offers his crutch as a gift for the infant Jesus.
+ANSWER: Amahl and the Night Visitors
+001-11-29-11212
+
+13. For 10 points each, answer these questions about Bernoulli’s principle.
+[10] The principle states that lowering this quantity will raise a fluid’s speed. This quantity is often
+measured in units of torrs or pascals.
+ANSWER: pressure
+[10] Bernoulli’s principle works best for liquids moving slower than this point. Moving faster than this
+point will produce a sonic boom.
+ANSWER: speed of sound (accept equivalents)
+[10] Bernoulli’s principle is often generalized for a liquid in this kind of field, in which the work needed to
+move from point A to point B is independent of the path taken.
+ANSWER: conservative field
+064-11-29-11213
+
+14. One of its members, Frederic Church, painted The Heart of the Andes. For 10 points each:
+[10] Name this Romantic school of American painting whose members often depicted the Catskills,
+Adirondacks, and other mountains near the valley of the namesake New York river.
+ANSWER: Hudson River School
+[10] This founder of the Hudson River School painted such series as The Course of Empire and The Voyage
+of Life.
+ANSWER: Thomas Cole
+[10] Thomas Cole was painted standing next to William Cullen Bryant in the Catskills in this painting by
+Asher Durand, a later member of the Hudson River School.
+ANSWER: Kindred Spirits
+079-11-29-11214
+
+15. This man was imprisoned at Robben Island during his 27 year prison term. For 10 points each:
+[10] Name this Nobel Peace Prize laureate who became the first black president of South Africa in 1994.
+ANSWER: Nelson Rolihlahla Mandela
+[10] Mandela was a leader of this party, which is currently led by Jacob Zuma.
+ANSWER: African National Conference [or ANC]
+[10] Mandela was imprisoned for leading this militant arm of the African National Conference.
+ANSWER: Spear of the Nation [or Umkhonto we Sizwe; or MK]
+015-11-29-11215
+
+Tournament 17 Round 11 Page 9 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+16. This trademarked brand name is owned by BCP Imports, the same company that sells Livestrong
+products. For 10 points each:
+[10] Name these pieces of shaped rubber which became popular in 2010 despite several news stories about
+adolescents causing permanent damage by covering their entire arms in them.
+ANSWER: Silly Bandz
+[10] In March 2011, this chain of sandwich shops announced a partnership with Silly Bandz. It was
+founded on the shore of its namesake state in 1956 and offers such menu items as the Big Kahuna Cheese
+Steak and the "sub in a tub."
+ANSWER: Jersey Mike's
+[10] Silly Bandz also introduced a line in the shape of these three people in February 2011. One of their
+previous ventures, a debit card with high fees, led to lawsuits in December 2010.
+ANSWER: the Kardashians [or the Kardashian sisters; or Kim, Khloe, and Kourtney Kardashian]
+019-11-29-11216
+
+17. For 10 points each, answer these questions about the Grant presidency.
+[10] During his presidency, a bill was passed to help protect freed slaves from this group founded by
+Nathan Bedford Forrest in the aftermath of the Civil War.
+ANSWER: Ku Klux Klan [or KKK]
+[10] Grant defeated this man to win his second term. This abolitionist was the editor of the New York
+Tribune.
+ANSWER: Horace Greeley
+[10] This first Vice President under Grant was forced to resign following allegations of corruption during
+the Credit Mobilier Scandal.
+ANSWER: Schuyler Colfax
+064-11-29-11217
+
+18. The Battle of the Windmill occurs in this book, in which Boxer learns the first four letters of the
+alphabet and is sent to the knacker's. For 10 points each:
+[10] Name this George Orwell "fairy-story" in which the rise of Joseph Stalin is allegorized through the pig
+Napoleon.
+ANSWER: Animal Farm
+[10] This rival of Napoleon is driven from the farm early on, and is used to represent Leon Trotsky.
+ANSWER: Snowball
+[10] The Orthodox Church is represented in Animal Farm by this raven, who tells the other animals stories
+about "Sugarcandy Mountain".
+ANSWER: Moses
+082-11-29-11218
+
+19. This enzyme is used in a namesake chain reaction technique. For 10 points each:
+[10] Name this enzyme that copies DNA.
+ANSWER: DNA polymerase
+[10] DNA replication occurs during this phase of the cell cycle.
+ANSWER: S phase [or Synthesis phase]
+[10] Since Okazaki fragments are created in DNA replication, this enzyme is required to join together
+fragments via a phosphodiester bond.
+ANSWER: DNA ligase
+001-11-29-11219
+
+Tournament 17 Round 11 Page 10 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+20. This country is home to the Great Dividing Range and the Great Sandy Desert. For 10 points each:
+[10] Name this country made up of six states and two territories that has a capital at Canberra.
+ANSWER: Commonwealth of Australia
+[10] This part of the Great Dividing Range is the tallest peak on Australia and was named after a Polish
+hero from the American Revolutionary War.
+ANSWER: Mount Kosciuszko
+[10] This formation in the Northern Territory is over two hundred miles away from the nearest city, Alice
+Springs.
+ANSWER: Ayers Rock [or Uluru]
+023-11-29-11220
+
+21. France, under Napoleon III, allied with Sardinia to defeat the Austrians at this 1859 battle. For 10
+points each:
+[10] Name this battle, which took place days after Magenta and was a successful part of the attempt to free
+northern Italy from Austrian rule.
+ANSWER: Battle of Solferino
+[10] Swiss observer Henri Dunant was so appalled at the carnage of Solferino that he founded this
+organization, which helps wounded soldiers and provides disaster relief.
+ANSWER: Red Cross [or the International Federation of Red Cross and Red Crescent Societies]
+[10] Dunant also worked to ratify the first of these agreements, in 1864; it bound countries to treat sick or
+wounded opponents as neutrals.
+ANSWER: Geneva Conventions
+019-11-29-11221
+
+Tournament 17 Round 11 Page 11 of 11
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

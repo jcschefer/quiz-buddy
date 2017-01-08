@@ -1,0 +1,58 @@
+NewTrier Varsity 2006  Round 5, Page 7 
+
+
+Bonus 13: Science (Physics)
+Al scientists know that imperial units are prety awful. Given a non-SI unit,state the physical quantity 
+it measures. 
+A: Slug 
+B: Pound 
+C: Pole 
+D: Kenning 
+Answers: A: Mass (do not accept weight) B: Force (accept weight, do not accept mass) C: Length 
+(accept distance) D: Volume 
+
+
+Tossup 14: Miscelaneous (Interdisciplinary)
+The leter's the same. The ticker symbol for U.S. Steel Corporation,the symbol used in chemistry to 
+designate a generic halogen, the symbol for birth and death in Kabbalah, a windowing system for 
+Posix systems,the symbol for 50-proof alcohol, the prefix of experimental U.S. aircrafts, the 
+surname of members of the Nation of Islam, the first leter of a two-leter Coldplayalbum, the 
+repetition operator in Perl, a measurement of optical disc drive speeds, an abbreviation for the 
+prefixes "trans," "cross," and "Christ," and the female chromosomein the human sex-determination 
+system. Name this leter. 
+Answer: X 
+
+Bonus 14: Literature (Literature) 
+Given a description, identifythe work by Tennessee Wiliams. 
+A: In this playsetin Mexico, a former Priest-turned-tour bus driver named Shannon is accused of 
+raping a teenager. 
+B: Many people, including Brick Polit, arevying for the fortune of Big DaddyPolit in this Wiliams 
+play. 
+C: Tom and Laura Wingfield are main characters in this playabout a group of prized possessions 
+that includes a unicorn.
+D: In this play, Blanche DuBois is raped by Stanley Kowalski. 
+Answers: A: Night of the Iguana B:Cat on a Hot Tin Roof C: The Glass Menagerie D: A 
+Streetcar Named Desire 
+
+Tossup 15: Social Studies (World History) 
+In 1810, this man joined Chilean nationalist rebels fighting for independence from Spain. The rebels 
+were defeated in 1814, but 1817 they went back on the ofensive defeating the Spanish with the help 
+of Argentine general José de San Martín. Name this liberator andfirst head of state of Chile,a man 
+with an unusual name due to his joint Spanish and Irishheritage. 
+Answer: Bernardo O'Higgins 
+
+Bonus 15: Math (Geometry)
+Find the volumes of the folowing cubes. 
+A: The cube whose circumscribed sphere has a surface area of 48 pi square inches. 
+B: The cube whose inscribed sphere has a volume of 8 pi cubic inches. 
+C: The cube whose great diagonal has a length of root 147 inches. 
+D: The cube whose total length of edgesequals 60 inches. 
+Answers: (accept "inches cubed" for "cubic inches", prompt for units) A: 64 cubic inches B: 48 
+cubic inches C: 343 cubic inches D: 125 cubic inches 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

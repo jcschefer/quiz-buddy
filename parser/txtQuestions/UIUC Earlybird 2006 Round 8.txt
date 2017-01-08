@@ -1,0 +1,327 @@
+UIUC Earlybird 2006 - Round 8
+(Tossups by UIUC Academic Buzzer Team)
+1. This person’s works Eugenia and Bethena probably bemoan his bad fortune with wives. Though this
+artist’s A Guest of Honor is no longer extant, the Pulitzer Prize-winning Treemonisha has experienced a
+considerable revival, though its initial failure and syphilis cost this composer his sanity. Compositions in
+his characteristic style include the “Paragon”, “Magnetic”, “Weeping Willow”, and “Pineapple”. FTP,
+name this writer of “Elite Syncopations,” “The Entertainer,” and “Maple Leaf Rag;” an American
+composer known as the “king of ragtime.”
+ANSWER: Scott Joplin
+2. This being’s daughter Pyrrha married Deucaleon, thereby surviving the deluge. After being fashioned
+from clay, this person was given a gift by each of the gods and was given in marriage to Epimetheus, the
+brother of Prometheus. With a name meaning “all-gifted,” she was the first woman in Greek myth. FTP,
+name this Greek woman who is most famous for the gift given her by Zeus, her namesake box, which she
+opened, releasing all of life’s horrors.
+ANSWER: Pandora (accept Epimetheus before “clay”)
+3. It arises from the off-diagonal terms in the fluctuation dot-product moment and, as such, is an inherently
+dissipative effect. It has two types, dynamic and kinematic, the latter being the former divided by the fluid
+density. Measured in cgs units in poise or stokes, a fluid is said to be ideal if this property is zero for it.
+FTP, name this fundamental property of fluid flow; the internal resistance of a fluid to flow.
+ANSWER: viscosity
+4. This person recounts a dying man’s looking back on his own life in Krapp’s Last Tape which, like the
+novel Watt, was notably not written in French. This author’s novel trilogy Molloy, Malone Dies, and The
+Unnamable preceded his one-act play about the end of the relationship between Hamm and Clov, Endgame.
+FTP, name this Irish author and winner of the 1969 Nobel Prize in Literature probably known best for the
+absurdist Waiting for Godot.
+ANSWER: Samuel Barclay Beckett
+5. The four sections of this publication include the Extensions of Remarks and the Daily Digest, the former
+of which was once the appendix and consists of remarks not actually uttered during proceedings. First
+published in 1879, it is published daily when its namesake body is in session. Its accuracy is sometimes at
+question – for example, it quoted a moving speech by Hale Boggs that it claims occurred after Boggs’
+death. FTP, name this publication, the official government report of all the comings and goings of the
+United States Congress.
+ANSWER: the Congressional Record
+6. This person’s portrait was painted by Eugene Delacroix as a pendant to the portrait of his companion in
+1838 and his tandem lessons with Alkan [al-KHAN] supported Alkan for many years. His many one-off
+genre works include the Opus Fifty-Seven Berceuse, Opus Forty-Nine Fantasia, and Opus Sixty Barcarolle,
+but this composer is much better known for his twenty-six preludes, four impromptus, and especially fiftyfive mazurkas and sixteen polonaises. FTP, name this Polish-born Romantic composer of works for piano
+and lover of George Sand.
+ANSWER: Frédéric Francois Chopin (or Fryderyk Franciszek Szopen)
+7. This person was compelled to flee Rome in 1606 after killing a man because that man beat him at tennis.
+This artist’s allegorical Amor Vincit Omnia is a harangue against pederasty, while works in his
+characteristic style include The Deposition of Christ and The Supper at Emmaus. However, this painter’s
+tenebrism is most famously exhibited in the revolutionary The Calling of St. Matthew. FTP, name this early
+baroque Italian artist born Michelangelo Merisi who is known for the drastic lighting gradients in his
+works.
+ANSWER: Caravaggio (accept Michelangelo Merisi before it’s mentioned)
+
+8. Derived by equating partial current densities for reacting species, this physical law has a ratio of activity
+coefficients as a crucial parameter. Derived with a simplification of Goldman’s model, the standard form of
+this relation contains a logarithmic pre-factor of the kinetic temperature over the number density times
+Faraday’s constant. FTP, name this equation that gives the electrode potential in terms of a standard
+electrode potential; a fundamental equation of electrochemistry named for a German.
+ANSWER: the Nernst equation
+9. The “Girl From Ipanema” is, ipso facto, a girl from this city of five point six million people. It has the
+distinction of being the only city outside Europe to have been a European capital as, in 1808, the
+Portuguese royal family fled here escape Napoleon’s imminent siege of Lisbon. Landmarks include the
+thirty-eight-meter-tall statue “Christ the Redeemer” that sits atop Corcovado Mountain and the Maracanã
+Stadium, one of the largest soccer stadiums in the world. FTP, name this Brazilian locale, home to
+Copacabana beach.
+ANSWER: Rio de Janeiro (prompt on “Rio”)
+10. Pencil and Paper Ready. A set of ten elements has how many subsets? This problem can be best
+approached as a counting problem. Every element of the set can either be in a subset or absent; thus, in a
+given subset, there are two possibilities for each element. FTP, what the number of subsets, equal to two to
+the tenth power?
+ANSWER: 1024 (accept two to the tenth power or equivalents before “FTP”)
+11. This person took great advantage of his father’s alliance with Tyre by working closely with its King
+Hiram and received Gezer as a wedding gift from a Pharaoh. This ruler overcame the intrigue of Haggith,
+Joab, and Adonijah by having himself anointed in his father’s lifetime and “completely satisfied” the
+Queen of Sheba according to First Kings. FTP, name this king of Israel proverbial for his wisdom and
+noted for building the first Temple of Jerusalem, which was known by his name.
+ANSWER: Solomon (or Shlomo)
+12. Columbia professor James Shotwell initially met with one of its namesakes and suggested what would
+become this treaty and in the Senate it was championed by William Borah of Idaho. Problems with it
+stemmed from the facts that it had no means of amendment, no expiration date, and no mechanism to
+enforce its own provisions. FTP, identify this treaty drafted by and named for the U.S. Secretary of State
+and Foreign Minister of France a decade after World War I; a pact that sought to end war by rendering it
+illegal.
+ANSWER: the Kellogg-Briand Pact (prompt on "Pact of Paris")
+13. This person was once denied reentry into the United States because, when asked “What do you think of
+Karl Marx?” at customs, he replied “I have never met him, but no doubt he is a great man.” He lived
+entirely out of the goodwill of his colleagues since he never had a home and carried all of his belongings
+with him in a suitcase. In his own personal lingo, children were epsilons and God was the Supreme Fascist.
+He was extremely prolific, in part because he frequently took amphetamines so he could put in seventeenhour days doing math. FTP, name this eccentric Hungarian mathematician.
+ANSWER: Paul Erdıs
+14. The organizer of the Autumn Harvest Uprising, he was ousted from the Kuomintang, and retreated to
+the country along with Zhu De. It was during the May Revolutions that this man began to learn of Marxist
+ideologies; this led him to lead the so-called Long March from 1934. Late in life, he attempted to break
+away from the Russian model by first promoting, then crushing the Cultural Revolution. FTP, name this
+man, the architect and first leader of the People's Republic of China.
+ANSWER: Mao Tse-Tung (or Mao Zedong)
+
+15. This document's Preamble features four goals, including “saving succeeding generations from the
+scourge of war” and it has 111 articles among nineteen chapters. Article Sixty-One established the fiftyfour-member Economic and Social Council, while Article Ninety-Two established the International Court
+of Justice. FTP, name this document that established a major international organization currently headed by
+Kofi Annan.
+ANSWER: the United Nations Charter
+16. In 1768, this person was accused of transporting contraband goods on the Liberty and a group of
+citizens burned the ship in protest. He took over as president of the Second Continental Congress after
+Peyton Randolph resigned, but retired a year later due to health problems. After performing his most
+famous action, he commented “The British ministry can read that name without spectacles; let them double
+their reward.” FTP, name this man, the first signer of the Declaration of Independence.
+ANSWER: John Hancock
+17. The narrative voice of this collection’s first work addresses the reader in the first line, calling him a
+hypocrite, his likeness, and his brother; it later accuses the reader of reaching for fantasy. This work is
+made up of three sections, including “Wine, Death, and Revolt,” where the speaker uses wine to bring
+together his spleen world and ideal world. FTP, name this most famous poetry collection by Charles
+Baudelaire.
+ANSWER: The Flowers of Evil (or Le Fleurs du Mal)
+18. This person claims to have no politics to speak of as he is a Liberal Unionist. In Hertfordshire, this
+character is known by his real name, but he pretends to have a younger brother in London whom is really
+himself. Left in a handbag in a cloakroom as a baby, he was found by Thomas Cardew, who made him
+guardian to his granddaughter, Cecily. He encounters trouble when he falls for his friend’s cousin, as she is
+in love with the name of his and Algernon’s alter ego. FTP, name this protagonist in The Importance of
+Being Ernest by Oscar Wilde.
+ANSWER: Jack (John) Worthing, J. P. (accept any underlined answer; prompt on “Earnest”)
+19. Book 7 of Diogenes Laertius’ Lives of Eminent Philosophers deals with practitioners of this way of
+thinking. Early practitioners included Chrysippus of Soli and Cleanthes of Assos, who were influenced by
+lectures delivered near a colonnade, for which this philosophy is named; those lectures were delivered by
+this school’s founder, Zeno of Citium. FTP, name this school of philosophy prominent in ancient Greece
+and Rome, exemplified by the Meditations of Marcus Aurelius, and stressing perception, materialism,
+reason, and freedom from emotion.
+ANSWER: stoicism
+20. This work’s main character aims to become a successful writer, but his love Nina Zarechnaya leaves
+with his rival after his first play fails. The main character then kills the title animal and lays it at Nina’s
+feet. Trigorin then casts Nina aside and, after she leaves Trepilov again, he kills himself. FTP, name this
+play by Anton Chekhov in which Trigorin likens himself to the title bird.
+ANSWER: The Seagull (or Chayka)
+21. This engagement began with the transfer of the control of Bohemia to ten governors, of whom seven
+were Catholic. During its the Danish period, Schleswig and Holstein were conquered, then handed back to
+Christian IV via the Treaty of Lubeck. Tilly and Wallenstein were opposed by Gustavus Adolphus, who
+entered the war to protect the Protestants, but was killed at the Battle of Lutzen. All these events transpired
+during, FTP, what war, ended by the Treaty of Westphalia in 1648?
+ANSWER: the Thirty Years’ War
+
+UIUC Earlybird 2006 - Round 8
+(Bonuses by UIUC Academic Buzzer Team)
+1. Name each of the following about an American composer and his works FTP.
+[10] This ballet written for Martha Graham tells the story of a common wedding in rural Pennsylvania. Its
+most famous section is a set of variations on the Shaker hymn “Simple Gifts.”
+ANSWER: Appalachian Spring, ballet for 13 instruments
+[10] This man composed Appalachian Spring, which he knew as “Ballet for Martha,” along with some
+Music for Theater, a Lincoln Portrait, and Rodeo.
+ANSWER: Aaron Copland [COPE-land]
+[10] Copland made extensive use of variations on cowboy songs for this earlier ballet, in which the shots in
+a gunfight that the title character loses to Pat Garrett are depicted by various drums.
+ANSWER: Billy the Kid, ballet
+2. Answer each of the following about some constants FTP.
+[10] This constant multiplies the numerical entropy to give the thermodynamic entropy; this makes sense as
+it has units of entopy.
+ANSWER: Boltzmann’s constant (prompt on “k”)
+[10] Boltzmann’s constant is equal to this other notable constant divided by Avogadro’s number, which
+makes sense since this constant has units of energy per unit temperature per mole.
+ANSWER: the ideal gas constant (or universal gas constant or perfect gas constant; prompt on “R”)
+[10] The gas constant for a particular gas is therefore related to the ratio of constant-volume and constantpressure version of this, which C. That ratio, called the adiabatic ratio, is symbolized gamma.
+ANSWER: specific heats
+3. Answer each of the following about a work of Shakespeare and a character therein FTP.
+[10] In this play, Sebastian, Olivia’s brother is really alive and is getting ready to go to Illyria. Malvolio is
+discontent throughout.
+ANSWER: The Twelfth Night
+[10] This character from The Twelfth Night ends-up marrying Duke Orsino.
+ANSWER: Viola
+[10] Viola disguises herself as this page boy to spy on the court of Orsino. To the delight of just about
+everyone, Olivia finds Viola irresistibly attractive in this disguise.
+ANSWER: Cesario
+4. South Africa may be free, but these points are not. Answer these questions about South Africa FTPE.
+[10] This city serves as the administrative capital of the country.
+ANSWER: Pretoria
+[10] Though this city is not one of the three capitals, it is the most populous in South Africa.
+ANSWER: Johannesburg
+[10] This small country is completely surrounded by South Africa.
+ANSWER: Lesotho
+5. Name each of the following people with various gifts for prophecy FTP.
+[10] This complex bricolage Greek god has complete knowledge of the future; as such, he is the patron of
+prophecy, often gifting various mortals with it.
+ANSWER: Phoebus Apollo
+[10] This Trojan princess and prophetess was taken home by Agamemnon, who refused to believe her
+prophecies. This was the result of a curse Apollo placed on her for spurning his advances.
+ANSWER: Cassandra
+[10] This seer was struck blind when he saw Athena naked and had an odd penchant for changing sexes due
+to striking mating snakes with a staff. Odysseus seeks-out his shade in the Hades.
+ANSWER: Tiresias
+
+6. Answer the following concerning ancient Greece FTPE.
+[10] This period, occurring between the Bronze Age and the Hellenistic period, is the golden age of ancient
+Greece, containing most of the civilization's great accomplishments.
+ANSWER: the Hellenic period
+[10] Alcibiades and Themistocles both were targets of this process, by which were exiled from Athens for
+ten years if more than six thousand people wanted them out.
+ANSWER: ostracism
+[10] First formed in 478 BCE, this confederation was made up of the city-states of Asia Minor and its
+primary goal was the defeat of the Persians. It lost its popularity when Athens began forcing members to
+maintain allegiance and ended with the Second Peloponnesian War.
+ANSWER: the Delian League
+7. Answer each of the following about a playwright FTP.
+[10] Classical sources attribute one hundred twenty-three plays to this great rival of Æschylus. Among
+those extant today are Ajax, The Trachinian Women, The Trackers, Philoctetes, and Electra.
+ANSWER: Sophocles
+[10] This second work in the Theban cycle follows Oedipus Rex and finds Oedipus and his daughter
+wandering to a sacred grove.
+ANSWER: Oedipus at Colonus (or Oidipous epi Kolono)
+[10] This final play of the Theban cycle sees the title daughter of Oedipus sentenced to death by Creon for
+burying her brother Polynices. In the end, she, Haemon, and Euridyce all kill themselves.
+ANSWER: Antigone
+8. Identify the following about wars in which France, shockingly, lost FTPE.
+[10] At the end of this War, France was allowed to keep St. Pierre and Miquelon, but was forced to ceede
+all its other territories.
+ANSWER: the Seven Years’ War (or the French and Indian War)
+[10] This conflict pitted Louis XIV's France against the namesake alliance, led by England, the
+Netherlands, and Austria. A prelude to the War of the Spanish Succession, it was ended by the Treaty of
+Rijswijk [RISS-wick].
+ANSWER: the War of the Grand Alliance (or the War of the League of Augsburg)
+[10] During World War II, after France was conquered by Germany, the puppet state of Vichy was
+established and headed by this hero of World War I.
+ANSWER: Henri-Philippe Pétain
+9. Identify these parts of the brain FTPE.
+[10] This brain structure connects the two hemispheres.
+ANSWER: the corpus callosum
+[10] This small structure in the hypothalamus is responsible for generating the body’s circadian rhythms.
+ANSWER: the suprachiasmatic nucleii
+[10] These almond-shaped bundles of neurons are located deep within the lobes. There are believed to be
+responsible for emotional memory.
+ANSWER: amygdalae
+10. Given a work by a German author, name the man who wrote it FTPE.
+[10] The Caucasian Chalk Circle.
+ANSWER: Bertolt Brecht
+[10] Die Buddenbrooks.
+ANSWER: Thomas Mann
+[10] Der Steppenwolf.
+ANSWER: Herman Hesse
+
+11. Answer the following about the failures of Napoleon FTPE.
+[10] On November 21, 1806, Napoleon issued the Berlin decrees which effectively began this attempt to
+destroy British trade.
+ANSWER: the continental system
+[10] When Napoleon tried to enforce the continental system in Spain, it set off this disastrous conflict.
+ANSWER: the Peninsular War
+[10] Napoleon defeated but failed to crush this Prussian marshal and paid the price at Waterloo when he
+came to the aid of Wellington.
+ANSWER: Gebhard Blücher [BLUE-kerr]
+12. Answer each of the following about some energy in motion FTP.
+[10] Usually symbolized Q, this is simply energy associated with the motion of various particles that travels
+from one body to another.
+ANSWER: heat transfer
+[10] This is the mechanism of heat transfer relevant to a fluid cooling a metal surface, for example. It is
+first-order in that the rate of heat transfer by this mechanism is proportional to the temperature difference
+between the cooling fluid and body being cooled.
+ANSWER: convection (or convective heat transfer)
+[10] This law discovered by a rather famous British scientist states that the rate of convection is
+proportional to the temperature difference or, symbolically, Q equals h delta T.
+ANSWER: Newton’s law of cooling
+13. Answer each of the following about a literary work FTP.
+[10] This play centers around the scheme of the title fox-like Venitian nobleman to exploit people’s greed
+by faking his own death.
+ANSWER: Volpone
+[10] This English Stuart dramatist wrote Volpone.
+ANSWER: Ben Jonson
+[10] This character in Volpone made to wear ass’s ears for trying to bewhore his wife, who was accused by
+Lady Politic of trying to seduce her husband.
+ANSWER: Corvino
+14. Answer the following about the Unification of Italy FTPE.
+[10] After becoming Prime Minister of Piedmont in 1852, this conservative allied himself with Napoleon
+III and intentionally started a war with Austria.
+ANSWER: Camillo di Cavour
+[10] This man worked as a candle-maker in New York and in armies in South America before returning to
+Italy to found the Redshirts and agitate for unification.
+ANSWER: Giuseppe Garibaldi
+[10] In 1860, Garibaldi gathered thousands of soldiers and conquered this corrupt kingdom before moving
+on to the mainland.
+ANSWER: Kingdom of the Two Sicilies
+15. Consider a standard deck of playing cards. FTPE:
+[10] This is the probability of pulling a red card or a jack.
+ANSWER: seven-thirteenths (accept equivalents)
+[10] You draw one card. It is red. What is the probability that it is an eight?
+ANSWER: one-thirteenth (accept equivalents)
+[10] This is the probability that a card is red given that it is a jack.
+ANSWER: one-half (accept equivalents)
+
+16. Name these countries connected to the European Union FTPE.
+[10] This applicant country signed an Association Agreement in 1963, but has yet to join because of its
+poor human rights record and the fact that it does not recognize the government of Cyprus, an EU member.
+ANSWER: Turkey
+[10] This Atlantic island nation withdrew from the European Union in 1980 when it gained independence
+from Denmark.
+ANSWER: Greenland
+[10] All or nothing, these two countries are slated to become members on January 1, 2007.
+ANSWERS: Romania and Bulgaria
+17. Answer each of the following about a book of the Bible FTP.
+[10] Written on Patmos in the 90’s CE, this book of the New Testament is addressed “to the seven
+Churches that are in Asia.” The author claims it was brought to him on a little scroll brought him by an
+angel.
+ANSWER: The Revelation to John (or The Book of Revelation or The Apocalypse of John)
+[10] Revelation’s eighth and ninth chapters deal with six of these, which are sounded after the seventh seal
+is opened. A seventh one is sounded in chapter eleven to herald the coming of the “kingdom of the Lord.”
+ANSWER: trumpets
+[10] This is the name of the allegorical creature who “sits on many waters.” This “MOTHER OF
+HARLOTS AND OF THE ABOMINATIONS OF THE EARTH” appears in chapter 17 of Revelation.
+ANSWER: Babylon the Great
+18. Answer the following about a colonial South American dispute FTPE.
+[10] This imaginary boundary was first placed one hundred leagues west of the Cape Verde Islands but,
+after an agreement, it was displaced 370 leagues west.
+ANSWER: the Line of Demarcation
+[10] The Line of Demarcation was placed at 370 leagues after this agreement was signed between Spain
+and Portugal.
+ANSWER: Treaty of Tordesillas [tore-duh-SEA-us]
+[10] The boundary of one hundred leagues was created by this pope, a Spaniard by birth.
+ANSWER: Alexander VI
+19. Name each of the following from population genetics FTP.
+1. This is the random statistical change in allele frequencies in a population over time due to the
+population’s finite size.
+ANSWER: genetic drift
+2. In this type of event, almost a whole population is killed-off in a short time, crimping-off the amount of
+genetic diversity that survives. An event of this type introduces enormous genetic drifts.
+ANSWER: bottlenecking
+3. This familiar relation states that, in the absence of genetic drift and certain other factors, the allele
+frequencies in a population will be given by p2 [pee-squared], pq [pee-queue], and q2 [queue-squared],
+where p and q are the original probability of a dominant and recessive homozygote, respectively.
+ANSWER: Hardy-Weinberg equilibrium (or Hardy-Weinberg equation or Hardy-Weinberg principle)
+20. Name each of the following branches of philosophy FTP.
+[10] This type of philosophy proposes to determine the properties of being as such and is sometimes known
+as “first philosophy.” Its name relates it to the scientific study of observable phenomena.
+ANSWER: metaphysics
+[10] This is simply the study of beauty or taste.
+ANSWER: aesthetics
+[10] From the Greek for “study of reason,” this branch of philosophy studies the nature of knowledge.
+ANSWER: epistemology
+
+

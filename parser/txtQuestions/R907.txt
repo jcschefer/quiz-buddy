@@ -1,0 +1,155 @@
+1. Pop Culture
+He won the American League Triple Crown in 1956. Though he had a great career, many
+people think he would have been even better if he had not injured his knee chasing a
+Willie Mays fly ball when they were both rookies in the 1951 World Series. He also
+drank heavily, which probably contributed to his death at the age of 63. Name this
+Yankee centerfielder from the 1950s and ‘60s who hit 536 home runs, which was
+considered a lot at the time.
+ANSWER: (Mickey) Mantle
+2. World Literature
+Near the beginning of this play, a character tells The Manager that he doesn’t want to
+wear a cook’s cap, and The Manager complains that nobody in France is writing good
+comedies. The rehearsal is soon interrupted by a family who spend the day trying to
+convince The Manager to make a play about them. Name this 1921 work by Luigi
+Pirandello.
+ANSWER: Six Characters In Search of an Author (or Sei personaggi in cerca d'autore)
+3. Algebra (10 Seconds)
+Yuri Matiyasevich connected these to recursively enumerable sets, which meant that
+there was no algorithm to solve all of them. Named after a 3rd Century mathematician,
+one example is the equation in Fermat’s Last Theorem, though many people associate
+them with linear equations. Name these equations, often with more than one solution, that
+can only be solved using integers.
+ANSWER: Diophantine (Equations) (accept Diophantus)
+4. Art/Architecture
+One of his pictures, which might be a self-portrait, shows a man wearing a wide red
+turban. He also completed a work begun by his brother Hubert called The Adoration of
+the Mystic Lamb; it is better known as The Ghent Altarpiece. Name this 15th Century
+Dutch artist who painted The Arnolfini Wedding.
+ANSWER: (Jan van) Eyck
+5. Chemistry (30 Seconds)
+For this problem, use the approximation that Planck's constant is 6.63x10-34 Joule
+seconds, and include units in your answer. Find the de Broglie wavelength of a particle
+with a mass of 6.63x10-40 kilograms moving at a velocity of ten thousand meters per
+second.
+ANSWER: 100 meters (accept equivalents such as 102 m)
+
+6. Religion/Mythology
+Translated literally into English, this term means ‘instrument of thought’. Sometimes,
+japa malas are used to keep track of them. A famous example can be translated as ‘Hail
+the jewel in the locus,’ but many examples cannot be translated. They often are based on
+Sanskrit. Name these short statements often chanted by followers of Eastern religions.
+ANSWER: Mantra(s)
+7. US History
+He served as Andrew Jackson’s 2nd Attorney General and 4th Secretary of the Treasury,
+but he did not stay long in the latter position because the Senate refused to confirm him.
+The Senate also refused to confirm him as a Supreme Court Associate Justice, but it later
+allowed him to become the Chief Justice. Two of the early cases he presided over were
+Charles River Bridge and The Amistad. Name this Judge who wrote the majority opinion
+in the Dred Scott case.
+ANSWER: (Roger) Taney
+8. Geometry/Trigonometry (30 Seconds)
+Give your answer in simple radical form. What is the tangent of theta if it is an acute
+angle and the cosine of theta is 2/3?
+ANSWER: Root 5 Over 2
+9. Language Arts
+Sometimes pluralized, this word can refer to land and the buildings on it. It comes from
+Latin words meaning ‘things mentioned before’, and it sometimes refers to the
+preliminary statements in a legal document. It used to commonly be preceded by the
+words Major or Minor. Name this synonym of Assumption which is used in logical
+arguments.
+ANSWER: Premise(s)
+10. Astronomy/Earth Science/Geography
+(Note to moderator: Manitoulin is pronounced ‘Man-it-too-lin’. Sault is pronounced
+‘Soo’.) Towns on this body of water include Sarnia and Bay City. It also contains
+Manitoulin Island, which is the largest island in a freshwater lake. It drains into the Saint
+Clair River and receives water from Sault Sainte Marie. Name this Great Lake between
+the province of Ontario and the Lower Peninsula of Michigan.
+ANSWER: (Lake) Huron
+
+11. World History
+His last name was changed at the age of forty because he was good at finding openings in
+enemy lines. He at first defeated the French Army, then joined forces with it to defeat the
+Spanish and British, and finally was opposed by the French and died in a French prison.
+His main goal was accomplished in 1804, one year after he died. Born a slave, he fought
+hard to end slavery on his native island, Hispaniola. Name this leader of Haiti.
+ANSWER: (Francois-Dominique Toussaint) L’Ouverture (accept Toussaint or Breda)
+12. Calculus/Combinatorics (10 Seconds)
+(Note to moderator: f(C) is pronounced ‘f of C’.) This theorem is used to prove Rolle’s
+Theorem and is only true for closed and bounded intervals. It is similar to the
+boundedness theorem but is more specific. One way to state it is that in any closed
+interval A B, there exist values C and D such that for all values of x in A B the quantity
+f(C) is less than or equal to f(X), which is less than or equal to f(D). This is equivalent to
+saying that the function has a minimum and maximum. Name this theorem abbreviated
+EVT.
+ANSWER: Extreme Value (Theorem) (prompt EVT)
+13. British Literature
+This collection contains forty-four poems, the last of which begins: “Belovèd, thou hast
+brought me many flowers Plucked in the garden, all the summer through And winter, and
+it seemed as if they grew In this close room, nor missed the sun and showers.” The one
+before that ends: “and, if God choose, I shall but love thee better after death.” Name this
+collection first published in 1850 that was written by Elizabeth Barrett Browning.
+ANSWER: Sonnets from the Portuguese
+14. Music
+(Note to moderator: Andante is three syllables, and Eroica has four syllables.) This term
+sometimes precedes the term sostenuto, as it does for the first movement of the
+Moonlight Sonata. In Latin, it means At Ease, and it is often used in the second
+movements of pieces, including the Eroica. Identify this tempo that is faster than largo
+and slower than andante.
+ANSWER: Adagio
+15. Biology
+(Note to moderator: Monogenea is pronounce Mahn-eh-JEE-nee-ah.) This is the most
+primitive phylum with bilateral symmetry and with a mesoderm. If you include
+Monogenea, it contains four classes, three of which are always parasitic. Name this
+phylum which consists of flukes, tapeworms, and flatworms.
+ANSWER: Platyhelminthes (accept different word forms, accept Flatworms before they
+are mentioned)
+
+16. Technology
+(Note to moderator: Kinescope is pronounce KIN-uh-scope.) Give a three-word answer,
+not an abbreviation. Some people claim that the first one was invented by Karl Ferdinand
+Braun in 1897. Over the next few decades, it was used to make fundamental scientific
+discoveries, and in 1929 a Russian used the same basic design to build a kinescope. One
+end contains a negatively charged electrode, while the other end contains a fluorescent
+screen. Name this device used for years to build television sets.
+ANSWER: Cathode Ray Tube(s) (do not accept CRT)
+17. Current Events
+This Senator is working with Senator Leahy on Identity Theft legislation and with
+Senator Bingaman to control carbon emissions. A few months ago, he claimed that thenAttorney General Gonzales defied logic and plain English. He has also worked closely
+with Senator Casey, the junior Senator from his state. Actions like these have led to him
+being called a Republican in Name Only. Name this Senator from Pennsylvania.
+ANSWER: (Arlen) Specter
+18. Nonfiction
+His best-known work is written in the third person, but it describes how he led an effort
+to stop a Swiss migration and later ended a revolt in his conquered territories. The other
+history attributed to him is Commentaries on the Civil War. Name this Roman emperor
+who wrote Commentaries on the Gallic War and was later assassinated.
+ANSWER: (Gaius) Julius Caesar (prompt Caesar)
+19. Physics (30 Seconds)
+A three kilogram mass is attached to a one kilogram mass by a string, and they are sitting
+on a frictionless surface. The three kilogram mass is pulled so that the one kilogram mass
+follows it. What is the tension in the string if the three kilogram mass is pulled with a
+force of one Newton?
+ANSWER: ¼ Newtons (or .25 Newtons)
+20. US Literature
+He worked as an auto mechanic in Chicago while writing his first novel, The Orchard
+Keeper. In 1979, he completed a novel he had been working on for a long time about a
+fisherman in Knoxville named Cornelius Suttree. He then switched to writing Westerns
+such as Blood Meridian and the Border Trilogy, which was completed by Cities of the
+Plain. Name this reclusive author who in 2005 completed No Country for Old Men.
+ANSWER: (Cormac) McCarthy
+
+Tiebreakers:
+This is a computational tossup, so you are allowed 30 Seconds. What is the length of a
+segment connecting the vertex of the parabola y=x2-4x+3 to either one of its x-intercepts?
+ANSWER: Root 2
+Many of his drawings were collected in the Wasmuth Portfolio, and he sometimes used
+the adjectives Usonian and Organic to describe his work. Some of his notable designs
+include Price Tower, Ennis House, and Pfeiffer Chapel. He is also known for the studios
+he designed in Spring Green, Wisconsin and Scottsdale, Arizona. Name this architect
+who designed The Imperial Hotel, the New York Guggenheim, Robie House, Taliesin
+East and West, and Fallingwater.
+ANSWER: (Frank Lloyd) Wright
+Give the word that completes this Ben Franklin quote: “Time is…
+ANSWER: Money
+
+

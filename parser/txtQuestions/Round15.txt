@@ -1,0 +1,660 @@
+The Illinois Mathematics and Science Academy of Aurora, IL presents
+
+IMSANITY 4
+-ROUND 15Editors
+
+Writers
+
+Noah Prince
+
+Waleed Ali
+Willie Chang
+Lael Costa
+Siva Gangavarapu
+Anton Karpovich
+Sabrina Lato
+
+Sabrina Lato
+Saieesh Rao
+
+Rajiv Patel-O’Connor
+Dan Pechi
+Noah Prince
+Saieesh Rao
+Andrew Salij
+
+with special contributions from. . .
+Jonah Greenthal
+Eric Ordonez
+
+IMSANITY 4
+
+Tossups
+(1)
+
+The Borsuk-Ulam Theorem describes continuous functions with one of these
+shapes as their domain. This shape is the one-point compactification of a
+plane. The densest possible way to arrange these shapes is the subject of
+Kepler’s Conjecture. These shapes are mapped onto planes by stereographic
+projections, a technique used in(∗ ) cartography. The surface area of this shape is four
+times the area of one of its great circles, and its volume can be computed as four-thirds pi
+r-cubed. For ten points, name this shape consisting from all points in three-dimensional
+space whose distance from the center is a fixed radius.
+
+ANSWER: sphere
+
+(2)
+
+In one work by this author, the “Red Fox” Colin Roy dies. This author wrote
+“Fair the day shine as it shone on my childhood,” in a poem that begins “Home,
+no more home to me, whither must I wander?” and was collected in Song of
+Travel and Other Verses. In a novel by this author, the protagonist stays
+with Alan Breck after Ebenezer sells Hosean his nephew,(∗ ) David Balfour. Mr.
+Utterson finally discovers that the two title characters are the same in one work, and
+another novel follows Jim Hawkins and Long John Silver. For ten points, identify this
+author of Kidnapped, Dr. Jekyll and Mr. Hyde, and Treasure Island.
+
+ANSWER: Robert Louis (Balfour) Stevenson
+
+(3)
+
+In one of this composer’s collections, the third piece in D flat major is played
+legato and staccato simultaneously by the left hand. This man dedicated his
+Opus 40 to Jules Fontana. This man was the dedicatee of Robert Schumann’s
+Kreisleriana, and this composer of the Grande Valse Nouvelle used a repeated
+A flat to evoke the title objects in his Raindrop Prelude. He also wrote a solo
+piano piece that remembers the November Uprising, his(∗ ) Revolutionary Étude.
+For ten points, name this composer of nocturnces, mazurkas, and polonaises, a PolishFrench composer.
+
+ANSWER: Frédéric Francois Chopin (accept Fryderyk Franciszek Chopin)
+
+Round 15- Page 1
+
+IMSANITY 4
+
+(4)
+
+The amount of this element in a substance can be determined by passing heated
+gases over columns that absorb carbon dioxide and water in a method named
+for Dumas. Although not oxygen, one compound used to power space satellites
+in the 1960s contains two atoms of this element. Reacted with calcium carbide
+in the Frank-Caro process, this element was called(∗ ) “fixed air” by its discoverer,
+Daniel Rutherford. This pnictogen is synthesized by the fusion of carbon and hydrogen
+in supernovae and is found in hydrazine and the azide ion. Existing in oxidation states
+ranging from -3 to +5, for ten points, name this most abundant element in the atmosphere
+with chemical symbol N.
+
+ANSWER: Nitrogen (accept N before mention)
+
+(5)
+
+One political cartoon of this man shows him as a puppet with cymbals reading
+“prosperity” and “good wages,” and another cartoon of this politician shows
+him as a snake eating a donkey. This man founded a newspaper called The
+Commoner. This man resigned as Woodrow Wilson’s Secretary of State after
+the sinking of the Lusitania, and he opposed(∗ ) Clarence Darrow in the Scopes
+Monkey Trial. One speech this politician gave proclaimed that “you shall not crucify
+mankind upon” the titular object. For ten points, name this orator of the Cross of Gold
+speech, a populist bimetallism proponent who lost the presidential election of 1896.
+
+ANSWER: William Jennings Bryan
+
+(6)
+
+This figure employed two-thousand pound ants which only ate Swedish snuff.
+During one project, this figure worked with seven people all named Elmer.
+Companions of this figure included the creator of the donut as well as a chef who
+lost an arm and leg when a barrel blew up, Ole the Blacksmith and Sourdough
+Sam. He shoveled the center of the Round River in order to create the(∗ ) Round
+Lake, and it took five storks to deliver this figure as a baby. Minnesota’s lakes were formed
+by the footprints of this figure and his companion, Babe the Blue Ox. For ten points name
+this giant lumberjack from American folklore.
+
+ANSWER: Paul Bunyan
+
+Round 15- Page 2
+
+IMSANITY 4
+
+(7)
+
+The participants in this event had to clear a faucet tampered with by “vandals”,
+and they later voted to watch Treasure Island instead of Kidnapped. During
+the second stage of this event, the winning team earned a trophy and a pocket
+knife. At the end of this event, a five dollar reward was used to buy malts for
+all participants. This experiment supported realistic conflict theory, divided its
+participants into groups called(∗ ) “The Rattlers” and “The Eagles”, and demonstrated
+that teamwork reduces tension. For ten points, name this experiment conducted by Muzafer
+Sherif at a summer camp near the namesake Oklahoma state park.
+
+ANSWER: Robbers Cave experiment
+
+(8)
+
+Forces under this commander freed the Republic of Uzice, and this man was
+accused of poisoning the bishop Aloysius Stepinac. Along with Milovan Dilas,
+this politician sponsored a profit sharing initiative about “self-management”,
+and his security agency was known as the UDBA. He led his country through
+the Informbiro period, and this man told Stalin to “stop sending people to kill
+me”. This European politician was instrumental in creating the(∗ ) Non-Aligned
+Movement, becoming its first Secretary General. Succeeded by Lazar Kolisevski, for ten
+points, name this longtime Communist leader of Yugoslavia.
+
+ANSWER: Josip Broz Tito
+
+(9)
+
+The Cauchy-Riemann equations are necessary for a complex function to have
+this property. One hypothesis of the Mean Value Theorem is that the function
+have this property on the interior of its domain. The Weierstrass [READ:
+“VY-ur-shtrass”] Function does not have this property but is continuous.
+Candidates for extrema include endpoints, stationary points, and points where
+the function(∗ ) lacks this property. The composition of functions with this property
+also have it according to the Chain Rule. The absolute value function has this property
+everywhere except when x is zero. For ten points, name this property in which a function
+has a well-defined slope.
+
+ANSWER: differentiability (accept word forms like differentiable, prompt on answers containing
+the word “derivative”)
+
+Round 15- Page 3
+
+IMSANITY 4
+
+(10) One villanelle in this work is built around the lines “Are you not weary of
+ardent ways? / Tell no more of enchanted days.” One character in this novel
+thinks of the hands of a girl to understand the meaning of “Tower of Ivory.”
+The protagonist speaks to a rector about his glasses being broken, which had
+brought unjust treatment from(∗ ) Father Dolan. Charles Parnell’s death leads to a
+vicious argument between Mr. Casey and Dante Riordan, and Father Arnall gives a vividly
+descriptive sermon on the horrors of hell. Stephen Dedalus is the protagonist of, for ten
+points, what James Joyce novel?
+ANSWER: A Portrait of the Artist as a Young Man
+
+(11) This man’s first recorded solo was on Dizzie Gillespie’s We Love to Boogie. This
+man’s first quartet included Elvin Jones and Jimmy Garrison. A set of alternate
+jazz chord progressions are this man’s namesake changes. An album that this
+man recorded with Paul Chambers contained the tracks Countdown and its title
+song Giant Steps. This musician, whose improvisation was dubbed(∗ ) “sheets
+of sound”, divided his most famous album into the sections Acknowledgment, Resolution,
+Pursuance, and Psalm. For ten points, identify this jazz saxophonist who recorded the
+song My Favorite Things and the album A Love Supreme.
+ANSWER: John (William) Coltrane
+
+(12) Darier’s disease and squamous cell carcinoma affect one structure of this name.
+Trichomes can be found on a structure with this name, which also refers to a
+layer that consists of stratum granulosum and spinosum. The cork cambium
+produces material that replaces this structure, which borders palisade and
+spongy cells and is the location of (∗ ) guard cells that flank stomata. Desmosomes
+cross-link keratinocytes in this structure, which in other organisms is located above the
+mesophyll and covered by a cuticle. For ten points, identify this term applied to the outer
+protective sheath of plants and the outermost layer of skin in animals.
+ANSWER: epidermis
+
+Round 15- Page 4
+
+IMSANITY 4
+
+(13) This figure had commonly been depicted as a tree until the Gandharan art
+school personified this figure. The Toba rulers claimed to be incarnations of
+this figure. This figure is not Christ, but the Feast of All Souls is a festival
+in a religion venerating this figure. Some made Mani known as this figure “of
+the Light”, and this figure notably encountered a corpse, and ascetic, and a
+diseased man in his travels. He took the(∗ ) Middle Way and sat under a Bodhi tree
+in order to experience an awakening. For ten points, name this figure who championed the
+Eightfold Path in response to the Four Noble Truths and achieved Enlightenment.
+ANSWER: Gautama Buddha (accept Siddhartha Gautama or Shakyamuni)
+
+(14) A proverb of this location says “in seed time learn, in harvest teach, in winter
+enjoy” and was written by William Blake in a collection that described a
+marriage of this location. A statue describes this as a place “where you have
+nothing to do but amuse yourself” in the part of George Bernard Shaw’s
+play Man and Superman, which describes Don Juan in this place. This
+location titles a collection which includes The Alchemy of the Word, Arthur
+Rimbaud’s(∗ ) A Season in [this place], and Garcin says that this place “is other people”
+in John Paul Sartre’s No Exit. For ten points, identify this location which Virgil brings
+Dante to in the first section of The Divine Comedy.
+ANSWER: Hell (accept Inferno or l’enfer, accept Heaven before the end of the Shaw quote)
+
+(15) This man explained that those with the “moral courage to go to jail” allowed
+humanity out of the jungles. This man wrote a book explaining the deficiencies
+in the American prison system called Walls and Bars. This man founded a
+group whose motto was “an injury to one is an injury to all” with Bill Haywood,
+and he led an event that obstructed U.S. mail since it protested a luxury(∗ ) train
+car company. His speech in Canton, Ohio led to a sedition trial in which he was sentenced
+to ten years in prison, from where he ran for president. For ten points, name this founder
+of the Industrial Workers of the World who led the Pullman Strike.
+ANSWER: Eugene Victor Debs
+
+Round 15- Page 5
+
+IMSANITY 4
+
+(16) Most of the information we have on this ruler comes from Priscus. The son of
+Mundzuk, this ruler along with his older brother signed the Treaty of Margus.
+In order to escape having to marry a Roman nobleman, Honoria sent this man
+a ring, which he mistook for a sign of marriage. Pope Leo I negotiated to stop
+this man from attacking Rome, and after marrying Ildico, he died due to a(∗ )
+nosebleed. His brother Bleda supposedly died in a hunting accident. Defeated by Theodoric
+I and Flavius Aetius at the Battle of Chalons, for ten points, name this “Scourge of God,”
+who led the Huns.
+ANSWER: Attila the Hun
+
+(17) The spin-transfer form of this phenomenon is the namesake of a form of
+magnetic RAM currently in development. The Trouton-Noble experiment
+attempted to measure this phenomenon for a parallel-plate capacitor in the
+presence of a luminiferous aether. A system free of this phenomenon makes
+the right hand side of Euler’s equations equal zero. In an electric field, it is
+equal to the dipole moment crossed with(∗ ) field strength. A source of precession,
+this phenomenon, symbolized tau, it is calculated as the cross product of force and length
+of the lever arm. Equal to the time derivative of angular momentum, for ten points, name
+this rotational analogue of force.
+ANSWER: torque
+
+(18) This man painted his father Benjamin in The Writing Master, and in another
+work, a man in a wood-panelled room watches the title figures, The Chess
+Players. This artist portrayed three young nude figures playing pipes in
+Arcadia. He included himself upriver while the title figure looks over his
+shoulder sitting in a boat on the Schuyllkill River in(∗ ) Max Schmitt in a Single
+Scull. This artist showed six figures bathing in The Swimming Hole and painted the title
+man treating a case of osteomyelitis of the femur in a surgical theater at Jefferson Medical
+College. For ten points, identify this American painter of The Gross Clinic.
+ANSWER: Thomas (Cowperthwait) Eakins
+
+Round 15- Page 6
+
+IMSANITY 4
+
+(19) One character in this series played guitar alongside Lulu and Evan as a member
+of the Indigo-Go’s and dies after washing up on Great Bay Coast. In this series,
+the protagonist goes to the Stock Pot Inn to reunite Kafei with Anju and the
+Great Deku tree survives a flood. The timeline of this series splits into three
+parts due to time travel and the hero’s success rate.(∗ ) Princess Ruto and King Zora
+XVI lead one faction in this series, and Tetra and Sheik are alter egos of its eponymous
+character. For ten points, name this video game series in which Ganondorf is defeated by
+Link, who saves the title princess.
+ANSWER: The Legend of Zelda
+
+(20) This author wrote about an “old man” in Lofoten who watched both his
+brothers drown before appreciating the beauty of a whirlpool in A Descent
+into the Maelstrom. In another story by this man, Kate and Bobby get to
+marry when two circumnavigators meet and experience three Sundays in a
+week. In one story, Lady Rowena transforms into the title character, and in
+another, Prince Prospero throws a ball to guests trying to escape from a plague.
+This author of Ligeia and(∗ ) The Masque of the Red Death wrote a short story in which
+the narrator visits Madeleine and Roderick and sees the title structure fall. For ten points,
+identify this author of The Fall of the House of Usher.
+ANSWER: Edgar Allan Poe
+
+(21) A former Minister of Culture and Communication from this nation explained
+how he frequented male brothels in Bangkok in his The Bad Life. One person
+from this country stated that, due to tax evasion, she expected payback for
+the Greeks. This nation recently aided Ibrahim Keita by fighting jihadists in
+Mali. A proposed tax increase on millionaires in this country led one of its
+actors to seek Russian citizenship, and the current leader of the(∗ ) IMF is from
+this country. In 2010, this country passed a burqa ban. For ten points, name this country
+that was formerly led by Nicolas Sarkozy and whose current leader is Francois Hollande.
+ANSWER: France (accept French Republic or République francaise)
+
+Round 15- Page 7
+
+IMSANITY 4
+
+Bonuses
+(1)
+
+One man with this last name taught the Bluth children lessons using a fake arm. For ten
+points each:
+[10] Name this word that is also the title of Henry Bendix, the man who leads the
+Stormwatch.
+ANSWER: Weatherman
+[10] The weatherman Brick Tamland, played by Steve Carell, appears in this movie that
+focuses on the KVWN news show. Its climactic scene involves the dog Baxter pacifying a
+Kodiak bear.
+ANSWER: Anchorman: The Legend of Ron Burgundy
+[10] The protagonist Ron Burgundy in Anchorman is played by this actor, who also
+starred as Buddy in Elf. This SNL veteran also played the villainous Jacobim Mugatu in
+Zoolander.
+ANSWER: Will Ferrell
+
+(2)
+
+This man founded the Down-with-Imperial Union, and he tried to unify his country with
+its southern neighbor with the Koryo Confederation. For ten points each:
+[10] This man founded the Down-with-Imperial Union, and he tried to unify his country
+with its southern neighbor with the Koryo Confederation. For ten points each:
+ANSWER: Kim Il-Sung (prompt on Kim)
+[10] Kim Il-Sung was the longtime ruler of this country, which is separated from its
+southern neighbor by the DMZ. It was led for seventeen years by Kim Il-Sung’s son, Kim
+Jong-Il, and is currently led by his grandson, Kim Jong-Un.
+ANSWER: North Korea (accept Democratic People’s Republic of Korea or DPRK
+or Choson Minjujuui Inmin Konghwaguk, do NOT prompt on or accept “Korea” or
+“Republic of Korea”)
+[10] North Korea runs on this ideology first formulated by Kim Il-Sung. It literally means
+“mainstream” or “subject” and advocated for a country being self-reliant.
+ANSWER: Juche
+
+Round 15- Page 8
+
+IMSANITY 4
+
+(3)
+
+In this novel, a newspaper predicts events, like a poet’s reading of his newest poem and
+the on-stage death of Zaim, so that the morning editions can be extremely timely. For ten
+points each:
+[10] Identify this novel in which Ka comes to Kars and re-unites with Ipek, who, like her
+sister Kadife, are both involved with Blue. Kadife is initially forced, then chooses, to
+remove her headscarf on television.
+ANSWER: Snow (or Kar)
+[10] This Turkish man was the narrator and author of Snow. He also wrote The Black
+Book and The Museum of Innocence.
+ANSWER: (Ferit) Orhan Pamuk
+[10] After meeting with Sheikh Sadettin, Ka believes that his poems were inspired by this
+figure, despite a previous nonbelief. Necip imagines a terrifying landscape if this being
+didn’t exist.
+ANSWER: God (or Allah)
+
+(4)
+
+Quantum tunneling between the n-p junction of certain diodes allows them to exhibit the
+negative form of this quantity. For ten points each:
+[10] Name this quantity that measures a circuit’s opposition to a passing current.
+Impedance is the sum of both this quantity, which only applies to DC currents, and
+reactance.
+ANSWER: resistance
+[10] One way to calculate the resistance of a wire is by multiplying this value, the inverse of
+conductivity, by the length of the wire over its cross sectional area. This value is constant
+for a material no matter the size of the wire.
+ANSWER: resistivity
+[10] This circuit arrangement uses three resistors with known resistances in order to
+measure the resistance of a fourth unknown resistor. These devices, invented by Samuel
+Christie, were modified for lower resistances by Lord Kelvin.
+ANSWER: Wheatstone bridge
+
+(5)
+
+This figure became immortal after the river god Numicus cleansed him and bathed him
+with Ambrosia and Nectar. For ten points each:
+[10] Name this hero who led the Dardanians during the Trojan War. The exploits of this
+eventual founder of Rome were narrated in an epic poem by Virgil.
+ANSWER: Aeneas
+[10] One of Aeneas’s lovers was this daughter of Belus II. This woman covered the Hill of
+Byrsa with oxhide and killed herself on a pyre after Aeneas left.
+ANSWER: Dido (also accept Elissa)
+[10] Aeneas declares war on and eventually slays this king of the Rutili for the hand of
+Lavinia, the daughter for Latinius. During the war, this man killed Evander’s son, Pallas.
+ANSWER: Turnus
+
+Round 15- Page 9
+
+IMSANITY 4
+
+(6)
+
+One character rescues Mrs. Waters from Ensign Notherton, sleeps with her, and later finds
+out that she’s his mother. For ten points each:
+[10] Identify this novel named for the title foundling who is looked after by Squire
+Allworthy and falls in love with Sophia Western.
+ANSWER: The History of Tom Jones, a Foundling
+[10] Tom Jones is a novel by this author, who adapted his play about Tom Thumb into
+Tragedy of Tragedies.
+ANSWER: Henry Fielding
+[10] Henry Fielding wrote about this character trying to seduce Squire Booby in one
+work, and about her brother in Joseph Andrews. In the novel named for her, written by a
+different author, her master Mr. B is the one trying to seduce her, but she refuses until he
+proposes, allowing her virtue to be rewarded.
+ANSWER: Pamela or Shamela
+
+(7)
+
+Its Modoki variant is believed to be caused by global warming. For ten points each:
+[10] Name this periodic warming of the Pacific Ocean off the coast of South America.
+Peruvian fisheries are often devastated by this event.
+ANSWER: El Niño (or ENSO, accept El Niño-Southern Oscillation but DO NOT reveal
+this alternate answer unless given)
+[10] El Niño, along with La Niña, is paired with this atmospheric system involving
+fluctuation in air pressure. Its strength is measured on a namesake index as the difference
+in air pressure between Tahiti and Darwin.
+ANSWER: Southern Oscillation
+[10] El Niño is caused when this system of air movement weakens, causing trade winds not
+to converge on northern Australia but rather on the eastern Pacific. Part of the Hadley
+circulation, it models the air flow in the troposphere of the tropics.
+ANSWER: Walker circulation (accept Walker cell)
+
+(8)
+
+This artist’s early Cubist influence can be seen in his Portrait of Zinoviev. For ten points
+each:
+[10] Name this artist who depicted a man in a white suit and a yellow sombrero in The
+Flower Carrier. Mexico City is home to a series he painted on Aztec civilization.
+ANSWER: Diego Rivera
+[10] This medium, which involves painting directly onto a ceiling or wall, was used by
+Rivera for his Detroit Industry and Man at the Crossroads.
+ANSWER: mural (prompt on “fresco”)
+[10] Rivera’s Man at the Crossroads was removed from the Rockefeller Center for depicting
+this person holding hands with a group of people at a May Day parade.
+ANSWER: Vladimir Ilyich Lenin
+
+Round 15- Page 10
+
+IMSANITY 4
+
+(9)
+
+This paradigm was preceded by functional and structured programming. For ten points
+each:
+[10] Identify this programming paradigm, exemplified by C++ and Java, which focuses on
+encapsulation and inheritance in its namesake entities.
+ANSWER: object-oriented programming
+[10] Another common feature of object-oriented programming is this one in which methods
+act differently based on their input types. Overloading is a special example of this
+phenomenon.
+ANSWER: ad hoc polymorphism
+[10] An example of polymorphism in Java is that this symbol is used to concatenate
+strings, although it has a different effect on numerical data types.
+ANSWER: addition sign or plus sign (accept equivalents)
+
+(10)
+
+This man fought in the Farroupilha rebellion as well as serving in the Uruguayan Navy.
+For ten points each:
+[10] Name this soldier who fought for Italian unification, commander of the “red shirts”
+who led the Expedition of the Thousand to the Kingdom of Two Sicilies.
+ANSWER: Giuseppe Garibaldi
+[10] Another leading figure during the Risorgimento was this Italian politician who allied
+with Urbano Rattazzi. He was appointed as the first Prime Minister of Italy by Victor
+Emmanuel II.
+ANSWER: Camillo Benso, Count of Cavour (accept either)
+[10] This other Italian politician served as the Prime Minister of Italy from 1963 to 1968
+and later from 1974 to 1976. He was killed after 55 days of being held hostage by the Red
+Brigades.
+ANSWER: Aldo Moro
+
+(11)
+
+This man traveled on five Udasis. For ten points each:
+[10] Name this man who was the first guru of a religion that he founded, whose current
+guru is the Adi Granth. HIs teachings are found in the Gurmukhi.
+ANSWER: Guru Nanak
+[10] Guru Nanak was the founder of this monotheistic religion that requires its followers
+to wear uncut hair and a sword as part of its “Five K’s”.
+ANSWER: Sikhism
+[10] Sikhism has this symbol that represents God’s unity. This word is also near the
+beginning of many Sihk texts.
+ANSWER: Ik Onkar
+
+Round 15- Page 11
+
+IMSANITY 4
+
+(12)
+
+In one scene of this play, Moss threatens to turn in Aaronow if he doesn’t commit a
+robbery and the alibi-less Moss is caught. For ten points each:
+[10] Identify this play, in which Shelley Levene steals the leads from Mitch and Murray
+and sells them to Graff.
+ANSWER: Glengarry Glen Ross
+[10] Glengarry Glen Ross was written by this playwright, who wrote about Don, Teach,
+Bobby, and an under-priced nickel in American Buffalo.
+ANSWER: David Alan Mamet
+[10] Mamet collaborated with this other author on Things Change. This author is probably
+best known for children’s stories like The Giving Tree and poems like A Light in the Attic
+and Where the Sidewalk Ends.
+ANSWER: Sheldon Allan “Shel” Silverstein
+
+(13)
+
+This organization utilized Kontors, or counting houses, and was expelled from England by
+Elizabeth I. For ten points each:
+[10] Name this medieval trade union, centered around cities such as Visby and Lubeck,
+whose decline later gave way to the Kalmar Union.
+ANSWER: Hanseatic League (or Hanse or Hansa)
+[10] The Hanseatic League was often harassed by this group of former privateers turned
+pirates. These successors to the Victual Brothers had a leader, Klaus Störtebeker, who
+got his name from his ability to drink four litres of ale in one gulp.
+ANSWER: Likedeelers
+[10] The aforementioned Victual Brothers were hired to attack Queen Margaret I of this
+country, which had to give the Hanseatic League fifteen percent of its shipping profit after
+the signing of the Treaty of Stralsund. The League desired sea access around this country
+on the Jutland Peninsula.
+ANSWER: Kingdom of Denmark
+
+(14)
+
+The Hammond-Leffler Hypothesis concerns the energy of these entities, which are local
+maxima on reaction coordinate diagrams. For ten points each:
+[10] Identify these entities which cannot be isolated because they only have partial bonds.
+They are sometimes known as the activated complex.
+ANSWER: transition states
+[10] This value can be found by subtracting the starting energy of the reaction from the
+energy of the transition state. Catalysts modify the transition state in order to lower this
+value for a reaction.
+ANSWER: activation energy
+[10] In one form of this equation, the activation energy is divided by the Boltzmann
+constant multiplied by temperature to give the rate constant of a reaction. Plotting the
+natural log of the rate constant obtained from this equation against one over T gives a
+line.
+ANSWER: Arrhenius equation
+
+Round 15- Page 12
+
+IMSANITY 4
+
+(15)
+
+This work argues against suicide and uses the argument of opposites to show the infinite
+cycle between life and death. For ten points each:
+[10] Name this work that details the last dialogues of Socrates before his death. It provides
+arguments for the immortality of the soul and includes the Theory of Forms.
+ANSWER: Phaedo
+[10] Phaedo is a work by this student of Socrates, who outlined the Allegory of the Cave
+in his Republic.
+ANSWER: Plato
+[10] This other Platonic dialogue discusses the nature of friendship. In it, Socrates educates
+the title boy and his friend Menexenus, and this work rejects that desire and evil are the
+motivating cause of friendship.
+ANSWER: Lysis
+
+(16)
+
+Answer the following questions about the geography of the British isles for ten points each:
+[10] This country’s highest point lies at Snowdon, and it is bordered by the Bristol Channel
+to its south and the Irish Sea to its northwest.
+ANSWER: Wales
+[10] This river is the longest that lies entirely in England. The city of London is located
+on the banks of this river, which empties into the North Sea.
+ANSWER: Thames
+[10] This name is given to the range of low lying mountains and hills that run through
+central England. The Aire Gap lies in this range, which joins the Cheviot Hills along the
+Scottish border.
+ANSWER: Pennines
+
+(17)
+
+Hieronymous Bosch’s The Adoration of the Magi is the basis for this opera. For ten points
+each:
+[10] Name this NBC Christmas opera about the titular crutch-wielding boy, the first opera
+specifically composed for television in the United States. In it, the Mother tries to steal
+gold from a group of men returning from Jesus’s birth.
+ANSWER: Amahl and the Night Visitors
+[10] This American composer of Amahl and the Night Visitors also wrote the libretto for
+a work set in 1950’s Little Italy about Annina titled The Saint of Bleecker Street.
+ANSWER: Gian Carlo Menotti
+[10] Menotti composed the libretto for this composer’s opera about the lover of Anatol,
+Vanessa. The death of Franklin Delano Roosevelt saw this American composer’s Adagio
+for Strings broadcast over the radio.
+ANSWER: Samuel (Osborne) Barber II
+
+Round 15- Page 13
+
+IMSANITY 4
+
+(18)
+
+This character narrates the story of Flora de Barral in Chance and the shipwreck of the
+Judea in Youth. For ten points each:
+[10] Identify this character, a ship captain who hears the story of a British seaman who
+abandons the S.S. Patna and willingly takes a bullet for the death of Dain Waris.
+ANSWER: Charles Marlow
+[10] Marlow most notably appeared in this novella, where he travels down the Congo and
+lies to a widow that Kurtz’s last words were her name, and not “The horror! The horror!”
+ANSWER: Heart of Darkness
+[10] Heart of Darkness and Lord Jim were works by this author, who wrote a novel in
+which Charles Gould mistakenly trusts the title character to take silver out of Costaguana,
+Nostromo.
+ANSWER: Joseph Conrad (or Jozef Korzeniowski)
+
+(19)
+
+This equation only holds true in populations not subject to migration or non-random
+mating. For ten points each:
+[10] Name this doubly-eponymous equation in evolutionary biology which in its expanded
+form states p squared plus 2 p q plus q squared equals one.
+ANSWER: Hardy-Weinberg equation or law or theorem or model or rule
+[10] In the Hardy-Weinberg equation, the p and q each represent the frequency of one of
+these entities appearing in the given population. Dominant ones are represented with a
+capital letter, while recessive ones are represented with a lowercase letter.
+ANSWER: alleles (do not accept genes)
+[10] The Hardy-Weinberg equilibrium fails when a population experiences this phenomenon,
+a form of genetic drift in which population size sharply declines in response to a destructive
+event and allele frequencies change dramatically.
+ANSWER: population bottleneck (or bottleneck effect)
+
+(20)
+
+This proposal for the structure of the new United States Government was presented by
+William Paterson. For ten points each:
+[10] Name this plan giving one vote per state in a unicameral legislature. It was supported
+by the small states.
+ANSWER: New Jersey Plan
+[10] The New Jersey Plan was opposed by this man, who formulated the Virginia Plan
+and who served as the first United States Attorney General.
+ANSWER: Edmund Jennings Randolph
+[10] The New Jersey and Virginia plans were both competing to replace this document
+which established the early American government. It was written by the Continental
+Congress, but this precursor to the Constitution failed to stop Shay’s Rebellion.
+ANSWER: Articles of Confederation and Perpetual Union
+
+Round 15- Page 14
+
+IMSANITY 4
+
+(21)
+
+This composer used Hermann Mueller’s The Hurdy-Gurdy Man in his lieder cycle
+Winterreise. For ten points each:
+[10] Name this composer of Rosamunde whose Eighth Symphony is also referred to as his
+Unfinished Symphony.
+ANSWER: Franz Peter Schubert
+[10] Johann Hummel rearranged a septet for the instrumentation in this Schubert work,
+which features a piano, violin, viola, cello, and double bass. The song Die Forelle [READ:
+“dee for-ELL-uh”] is used in this work’s fourth movement.
+ANSWER: Trout Quintet or Piano Quintet in A Major
+[10] This lieder composed by Schubert starts with the title figure claiming that “My peace
+is gone/ My heart is heavy” in response to the temptations of Faust.
+ANSWER: Gretchen at the Spinning Wheel (or Gretchen am Spinrad)
+
+Round 15- Page 15
+
+

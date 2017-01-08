@@ -1,0 +1,493 @@
+California Academic Learning Initiative 2015 - 2016
+ 
+       Round 5 
+Written by Ankit Aggarwal, Hidehiro Anto, P.C. Chauhan, Jason Cheng, Boyang Jiao, Aseem Keyal, Eddie Kim, Bruce Lou, 
+Charlie Mann, Kevin Wang, Corry Wang, Kion You 
+ 
+TOSSUPS 
+ 
+1. This leader was nearly assassinated by a settler terrorist group known as the Secret Army Organization in 1962. In 
+response to a comment by this leader, Lester Pearson replied "Canadians do not need to be liberated" in 1967. His 
+administration was briefly challenged by massive student protests and a wildcat general strike in May 1968. He 
+arranged the Evian Accords, in which the FLN received control of the colony of (*) Algeria, while he was serving as 
+the first president of the French Fifth Republic. For 10 points, name this French president who had previously led the Free 
+French during World War II. 
+ANSWER: Charles de Gaulle 
+ 
+2. The subjects of this ritual are obligated to lay tefillin after it occurs. Although it is increasingly uncommon, this 
+ritual may also be practiced by 83-year old men. After this ritual, its subjects must follow 613 holy laws. Monetary 
+gifts that are multiples of 18 are favored during this ritual. While some modern branches require this ritual's 
+participants to (*) write a research paper, its subject is usually called upon to recite parts of the Torah. It occurs on the first 
+Shabbat after its subject's 12th or 13th birthday. For 10 points, name this Jewish coming-of-age ritual. 
+ANSWER: bar mitzvah [accept bat mitzvah, b'nay mitzvah, b'not mitzvah] 
+ 
+3. This family of musical instruments can produce intense, stressed sounds in a technique called martelé 
+(MAR-tuh-LAY). Performers can lightly depress their fingers on this class of instruments to produce natural 
+harmonics. These instruments often have four small metal screws on the tailpiece used for fine-tuning. The sound 
+of these instruments can be improved by applying a brittle substance called (*) rosin ("RAW"-zin). Smaller 
+instruments in this family can be gripped comfortably using a shoulder rest. They can be plucked using pizzicato, a technique 
+contrasted with arco, or using the bow. For 10 points, name this group of instruments which includes cellos and violins. 
+ANSWER: string instruments [or violin; or viola; or cello; or double bass] 
+ 
+4. The interior of these objects can be created by iterating the index of a pointer by a fixed value. The "append" 
+operation can be used to increase the size of the dynamic variety of these objects. Though they are not lists, one 
+can experience an off-by-one error when attempting to access these objects, and in C, strings can be represented as 
+one of these objects filled with chars ("cares"). The index for (*) rows always comes before columns when representing 
+the two-dimensional examples of these objects, which can be used to represent matrices. For 10 points, name these objects in 
+computer science which are initialized with square brackets and store a list of elements. 
+ANSWER: arrays [prompt on "vectors"] 
+ 
+5. A group from this continent was described by Marshall Sahlins as the "original affluent society." In the 1930s E. 
+E. Evans-Pritchard conducted fieldwork on this continent's Nuer people. In 1938 a future political leader from this 
+continent published an anthropological study of his native (*) Kikuyu people, who always built their houses facing a 
+certain mountain. Due to large scale migrations starting about 3000 years ago, a majority of this continent is now dominated 
+by the Bantu language group. In 1974 a specimen of Australopithecus (aw-STRAY-loh-PITH-eh-kuss) nicknamed Lucy was 
+discovered on this continent. For 10 points, name this continent where humans originated. 
+ANSWER: Africa 
+ 
+ 
+ 
+ 
+
+6. Several Egyptian gods possess a protective object of this kind known as the Wadjet. The Hindu god Kama is 
+burned to ashes using one of these items belonging to the meditating Shiva. After fleeing from the underworld, 
+Izanagi (ee-zah-nah-gee) washes two of them to produce the siblings Amaterasu (ah-MAH-tay-RAH-soo) and 
+Tsukuyomi (SOO-koo-YOH-mee). It's not an ear, but drinking from the well of (*) Mimir requires one of these body 
+parts to be sacrificed by Odin. In Greek myth, the tail of the peacock is covered in one hundred of these body parts taken 
+from the watchman Argus Panoptes (pan-OP-teez), who uses them to never fully fall asleep. For 10 points, identify this 
+body part of which cyclopes possess only one. 
+ANSWER: eye [or eyeball] 
+ 
+7. One disease in this organ can calcify to form Ghon's complex, and can progress to a miliary form in 
+immunocompromised people. Cancers in this organ are divided into the two general categories "small-cell" and 
+"non-small-cell". Its Clara cells secrete uteroglobin, which may play a role in the synthesis of DPPC in its type II 
+cells. The veins leading to these organs are the only ones to carry (*) oxygenated blood, and diseases like emphysema 
+(EM-fuh-ZEE-muh) obstruct its functions. This organ contains sacs called alveoli, which are fed by the bronchi 
+(BRON-kye). For 10 points, name these respiratory organs that exchange carbon dioxide and oxygen with the bloodstream. 
+ANSWER: lungs 
+ 
+8. A stream of consciousness monologue in this novel continually repeats the phrase "A hot thing." Due to his 
+experiences working in a chain gang, a man in this novel describes his heart as a "tobacco tin box." In this novel, 
+the hair ribbon of a dead black girl is found in a river by a man named Stamp Paid, who hesitates to knock on the 
+door of (*) 124 Bluestone Road. This novel's main narrative is interspersed with flashbacks to the Sweet Home Plantation, 
+where Sixo and three slaves named Paul once lived. This novel's title character comes back from the dead to haunt her sister 
+Denver and her mother, the escaped slave Sethe (SETH-uh). For 10 points, name this novel by Toni Morrison. 
+ANSWER: Beloved 
+ 
+9. In the 1890s W. E. B. Du Bois (doo BOYCE) went door-to-door through this city to collect data for a landmark 
+sociological study titled after its namesake "Negro." In 1985, the local leader John Africa was killed in this city after 
+a police helicopter dropped a bomb onto a row house occupied by a black liberation group known as MOVE. The 
+First and Second Banks of the United States were based in this city, which was also the meeting place of both the 
+First and Second (*) Continental Congresses. In 1787, the Constitutional Convention met in its Independence Hall. For 10 
+points, name this largest city in Pennsylvania. 
+ANSWER: Philadelphia [accept The Philadelphia Negro] 
+ 
+10. In Islamic tradition, a mountain on this island is where Adam fell to Earth, leaving a prominent footprint on the 
+peak. This island is connected to the mainland by a series of shallow limestone shoals, which people were able to 
+walk across until the 15th century, known as Adam's Bridge. On this island, the sacred tooth of Buddha is currently 
+housed in the former royal palace of the Kingdom of Kandy. The (*) Tamil Tigers were a separatist group that once 
+operated on this island, which was known as Ceylon during the British colonial era. For 10 points, name this island country 
+south of India. 
+ANSWER: Sri Lanka [or the Democratic Socialist Republic of Sri Lanka or Shri Lamka or Ilankai; accept Ceylon before 
+mentioned] 
+ 
+
+HALFTIME 
+ 
+11. One of this author's characters asks to be forgotten in his will and instructs that no one hold a funeral for him. 
+In another novel by this author, the protagonist falls asleep on her way to the market, leading to the death of 
+Prince, her family's horse. That title character of a novel by this author is arrested at Stonehenge for killing her (*) 
+rapist Alec. This author set many novels in the fictional county of Wessex, including a novel which begins with the sale of 
+Susan and Elizabeth-Jane to a sailor by Michael Henchard. For 10 points, name this author of many depressing novels 
+including The Mayor of Casterbridge and Tess of the D'urbervilles. 
+ANSWER: Thomas Hardy 
+
+ 
+12. A pilot from this family was killed while test-driving an explosives-filled, remote-controlled airplane in 1944. A 
+woman named Rosemary from this family was sent to a mental hospital after she received a lobotomy in 1941. In 
+1969 a senator from this family accidentally drove his car off a bridge and killed Mary Jo Kopechne (ko-PECK-nee) 
+in the Chappaquiddick (chap-uh-KWID-ick) incident. A former Attorney General from this family was shot by (*) 
+Sirhan Sirhan while campaigning to become the 1968 Democratic presidential nominee. For 10 points, name this American 
+political family whose members included the brothers Ted, Robert, and a president named John. 
+ANSWER: Kennedy family 
+ 
+13. This word titles a 2003 Baby Bash hit featuring Frankie J that was sampled by Robin Schulz in a song asking 
+how a girl with this nickname "get so fly?" This substance appears in the title of a song which instructs its listener 
+to “take a bottle, shake it up.” That song by Def Leppard asks for some of this substance to be poured on the 
+singer. Fall Out Boy tells a person named after this word that "we’re going down swinging." This substance 
+appears in title of a song in which (*) Adam Levine sings "you got me begging / Begging, I’m on my knees." For 10 
+points, name this substance, which according to a Maroon 5 song would bring "sweetness in my life." 
+ANSWER: sugar [accept "Suga Suga" or "Sugar" or "Pour Some Sugar on Me" or "Sugar Ray Leonard"] 
+ 
+14. This procedure can be modeled visually using a series of horizontal lines drawn to represent the number of 
+stages needed. A Perkin triangle is used in the vacuum variant of this procedure, and the number of theoretical 
+plates that it needs can be calculated with the McCabe-Thiele method. One form of this procedure is used to split 
+up large hydrocarbons, and it is unable to completely separate water from (*) alcohol because they form an azeotrope. 
+Raoult's law relates vapor pressure to mole fraction, and is used to calculate the results of this process. For 10 points, name 
+this procedure of boiling a liquid to separate it from others. 
+ANSWER: distillation [accept any specific types such as vacuum distillation] 
+ 
+15. Genres of literature from this country include the naturalistic I-Novel ("eye-novel"). A poetic form from this 
+country requires two juxtaposing ideas separated by a "cutting" word, along with a kigo, or seasonal reference. A 
+traditional form of theater from this country requires the use of puppeteers, chanters, and shamisen musicians. This 
+country is home to a genre of theater plays categorized as (*) "love suicides." A frog serves as a seasonal reference to 
+spring and jumps into a pond in a poem from this country written by Matsuo Basho. For 10 points, name this home country 
+of the bunraku playwright Chikamatsu Monzaemon and origin of the seventeen-syllable haiku. 
+ANSWER: Japan [accept Nippon-koku or Nihon-koku] 
+ 
+16. This phenomenon can be modeled by considering material imperfections, or asperities, in a surface. A change 
+in fluid velocity can be used to calculate this quantity using the Darcy-Weisbach equation. It can induce an electric 
+current in the triboelectric effect, and its dry form was modeled by Coulomb. Amontons' laws state that this force is 
+independent of contact area and is proportional to the (*) normal force. A slipless rotating wheel will experience its static 
+form, while a sliding box will undergo its kinetic form. For 10 points, name this force with a namesake coefficient that 
+opposes motion. 
+ANSWER: friction [accept friction factor; accept static friction before "static" is read; accept kinetic friction before 
+"kinetic" is read] 
+ 
+17. In order to support this country's president José Balmaceda, James G. Blaine prevented an arms shipment on 
+the Itata from reaching this country's rebellious navy in 1891. From the 1950s to 1970s this country nearly fought its 
+eastern neighbor multiple times over the disputed Beagle Channel. In 1883 it acquired valuable nitrate deposits in 
+the Antofagasta region after it defeated (*) Peru and Bolivia in the War of the Pacific. This country gained permanent 
+independence from Spain in 1817, after Bernardo O'Higgins recaptured its capital of Santiago. For 10 points, name this South 
+American country with a long Pacific coast. 
+ANSWER: Chile (CHEE-lay) [or Republic of Chile or Republica de Chile] 
+ 
+
+18. This company recently underwent a reorganization that divided it into, among other things, a semi-secret 
+research division that produces "moonshots" known as "X." In April 2015 this company introduced a low-cost 
+wireless service known as Project Fi (fye), and regulators in the European Union filed an (*) antitrust suit against this 
+company for discriminating against the travel and shopping sites of competitors. In 2014 a European court ordered this 
+company to grant its users the "right to be forgotten." In 2013 it introduced its namesake Fiber service to Kansas City. For 10 
+points, name this search engine company. 
+ANSWER: Google [accept Alphabet Inc.] 
+ 
+19. This author wrote a children's book whose title character fights Khattam-Shud in a "Sea of Stories." In a novel 
+by this author, an orphan girl eats butterflies and leads a march of pilgrims to the sea. One of this author's 
+characters hopes to rearrange the Qur'an into chronological order and fathers a (*) supernatural child who loses his 
+abilities after a sinus surgery. In that novel by this author, a character sprouts wings and a halo while another grows horns and 
+a tail after surviving a plane hijacking. For 10 points, name this author of Midnight's Children, against whom the Ayatollah 
+Khomeini issued a fatwa for writing The Satanic Verses. 
+ANSWER: Sir Ahmed Salman Rushdie 
+ 
+20. An artist from this country produced a documentary about the street art of Thierry Guetta. Charles Saatchi 
+funded another artist in this country to produce an artwork in which a tiger shark is suspended in a vitrine. A work 
+from this country's This Is Tomorrow exhibition shows a woman vacuuming at the top of a set of stairs to the left of 
+a bodybuilder holding a giant lollipop. This country is home to the creator of Exit Through the Gift Shop, as well as 
+Damien Hirst and (*) Richard Hamilton. An album cover from this country features four men walking down a crosswalk 
+on Abbey Road. For 10 points, name this country home to the graffiti artist Banksy and The Beatles. 
+ANSWER: United Kingdom [or UK; or Great Britain; or the United Kingdom of Great Britain and Northern Ireland; 
+accept England] 
+ 
+
+END OF REGULATION, PROCEED ONLY IF TIED 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+21. One definition of this quantity can be modeled as a line inversely proportional to the square of covalent radius, 
+and has a y-intercept, or minimum value, of 0.744. This quantity is equalized in the Sanderson method of 
+calculating this quantity, which considers the effect of atomic size on the Mulliken form of this quantity. The most 
+common (*) scale for this quantity was named after Linus Pauling. Differences in this quantity across covalent bonds 
+determine whether they are polar. For 10 points, name this tendency of an atom to attract electrons, which is maximized for 
+fluorine. 
+ANSWER: electronegativity [accept Allred-Rochow electronegativity, Sanderson electronegativity equalization, Mulliken 
+electronegativity, or Pauling electronegativity] 
+ 
+22. A John Milton closet drama set in one of these locations inspired the title for Aldous Huxley's Eyeless in Gaza. A 
+poem titled after one of these locations states that "alien tears will fill for him" because "outcasts always mourn" 
+and bemoans the fact that "each man kills the thing he loves." Oscar Wilde's epitaph is drawn from that poem 
+titled after one of these places. Richard Lovelace addressed a poem to Althea from one of these places that states 
+(*) "stone walls do not" one of these places "make, / Nor Iron bars a cage." For 10 points, name these locations which 
+include one in Reading ("redding") that held Oscar Wilde after he was convicted of homosexuality charges. 
+ANSWER: prisons [accept jails; accept gaols ("jails")] 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BONUSES 
+ 
+1. Answer some questions about iconic locales from American horror films, for 10 points each: 
+[10] In Alfred Hitchcock's Psycho, Norman Bates is the proprietor of one of these establishments, where he dresses up in his 
+dead mother's skin and stabs Marion Crane while she's showering.  
+ANSWER: Bates Motel [or hotel; do not accept "Bates Hotel"] 
+[10] Jack Torrance types out several pages of "All work and no play makes Jack a dull boy" and puts an axe through a door in 
+this other hotel from Stanley Kubrick's The Shining.  
+ANSWER: Overlook Hotel 
+[10] This Los Angeles road names a David Lynch film in which Diane shoots herself after finding a blue key. 
+ANSWER: Mulholland Drive 
+ 
+2. Answer the following about Abraham Lincoln in poetry. For 10 points each: 
+[10] Walt Whitman wrote "Rise up--for you the flag is flung" in this shorter elegy for Lincoln. Several students use this elegy 
+to address Robin Williams' character in the film Dead Poet's Society. 
+ANSWER: "O Captain! My Captain!" 
+[10] Anne Rutledge claims that Lincoln's forgiveness towards the Confederacy stemmed out of his earlier love for her in this 
+collection of fictional epitaphs written by Edgar Lee Masters. 
+ANSWER: Spoon River Anthology 
+[10] This poet wrote "Abraham Lincoln Walks at Midnight," as well as a poem which repeats "Boomlay, boomlay, boomlay, 
+BOOM" and whose speaker sees "THE CONGO, CREEPING THROUGH THE BLACK." 
+ANSWER: Vachel Lindsay [or Nicholas Vachel Lindsay] 
+ 
+3. During a battle in this war, Robert Capa photographed a loyalist militiaman being shot in The Falling Soldier, which might 
+actually have been a staged scene. For 10 points each: 
+[10] Name this European civil war of the 1930s, which was won by a right-wing Nationalist coalition of Carlists and 
+Falangists (fah-LAHN-jists). 
+ANSWER: Spanish Civil War 
+[10] The Republicans in the Spanish Civil War received substantial financial support from this Communist country, which 
+was led by Joseph Stalin. 
+ANSWER: Soviet Union [or U.S.S.R. or Union of Soviet Socialist Republics or Sovietsky Soyuz or S.S.S.R. or Soyuz 
+Sovietskikh Sotsialisticheskikh Respublik; prompt on "Russia"] 
+[10] Meanwhile, the Nationalists in the Spanish Civil War were aided by this volunteer "legion" of the German Luftwaffe 
+(LOOFT-vah-fuh). 
+ANSWER: Condor Legion 
+ 
+4. For 10 points each, answer the following about government buildings in London. 
+[10] In 1732 George II bequeathed Robert Walpole this house, which is now the official residence of the Prime Minister of 
+the United Kingdom. 
+ANSWER: Number 10 Downing Street [prompt on "Number 10"] 
+[10] 10 Downing Street is situated near this palace, which is the London residence of the British royal family. 
+ANSWER: Buckingham Palace 
+[10] To the south of Buckingham Palace and 10 Downing Street is Vauxhall (vox-"hall") Cross, a busy intersection near the 
+headquarters of this British foreign intelligence agency.  
+ANSWER: MI6 [or Military Intelligence, Section 6; or SIS; or Secret Intelligence Service] 
+ 
+ 
+ 
+ 
+ 
+
+5. This trophic level is at the base of the energy pyramid, and is composed primarily of phytoplankton in oceanic ecosystems. 
+For 10 points each: 
+[10] Name this ecological role, which is filled by plants on land. Organisms in this group create carbon compounds 
+independently, relying only on outside energy sources like the sun. 
+ANSWER: primary producers [prompt on, but do not reveal, "autotrophs"] 
+[10] Producers use carbon fixation to produce their own energy, making them this kind of organism. They are contrasted with 
+heterotrophs, which must consume other creatures to survive. 
+ANSWER: autotrophs 
+[10] Some communities have bacteria with this ability as their primary producers; bacteria with this ability use molecules like 
+methane and hydrogen sulfide instead of oxygen. 
+ANSWER: chemosynthetic [accept word forms] 
+ 
+6. During this war, Stephen Decatur was forced to burn down the USS Philadelphia after it was captured by enemy forces in 
+Tripoli (TRIP-uh-lee) Harbor. For 10 points each: 
+[10] Name this war that began in 1801 after the U.S. refused to pay tribute to the Pasha of Tripoli. 
+ANSWER: First Barbary War 
+[10] The First Barbary War was launched by this U.S. president, who had succeeded John Adams a year earlier. 
+ANSWER: Thomas Jefferson 
+[10] Jefferson later stoked anti-British sentiments after several crew members from an American warship were impressed into 
+the British navy during this "affair." 
+ANSWER: Chesapeake-Leopard Affair 
+ 
+7. Monogatari are traditional Japanese prose narratives from the Heian period. For 10 points each: 
+[10] In one monogatari, a man of this profession finds the sparkling infant Kaguya next to some gold and raises her as his 
+daughter, in an early example of proto-science fiction. It turns out Kaguya is a princess from the moon. 
+ANSWER: a bamboo cutter [accept The Tale of the Bamboo Cutter or Taketori Monogatari] 
+[10] In The Tale of the Bamboo Cutter, a heartbroken Emperor burns the Elixir of Immortality on top of this mountain near 
+Tokyo that is ubiquitous in Japanese culture. 
+ANSWER: Mount Fuji [accept Fujisan] 
+[10] This other Heian period monogatari chronicles its protagonist's many affairs with women in its depiction of courtly life. 
+The death of this tale's title character is represented by a blank chapter named "Vanished into the Clouds." 
+ANSWER: The Tale of Genji [or Genji Monogatari] 
+ 
+8. One of these creatures named Litr is kicked onto a funeral pyre at Baldr's funeral; another, Alviss, is turned into stone by 
+the morning sunlight. For 10 points each: 
+[10] Name these diminutive human-like creatures from Norse mythology, known for forging treasures such as the necklace 
+Brisingamen. 
+ANSWER: dwarf [or dwarves; or svartalf; or svartalfar] 
+[10] This hammer of Thor ends up with a short handle when its forgers, the dwarves Brokkr and Eitri, are distracted by Loki 
+in the form of a stinging gadfly. 
+ANSWER: Mjölnir (mee-YOHL-"near") 
+[10] The dwarf Andvari is the original owner of Andvaranaut, a magical gold-producing variety of this object. Another 
+dwarf-forged type of this item creates eight copies of itself every nine nights. 
+ANSWER: ring 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9. During the Classical period, this musical form was divided into four movements comprising a fast movement, a slow 
+movement, a minuet and trio, and a rondo. For 10 points each: 
+[10] Name this genre of orchestral music, whose name derives from the Greek words for "together" and "sound." 
+ANSWER: symphony [do not accept "symphonic poem"] 
+[10] The second-to-last of Joseph Haydn's symphonies begins with a quiet solo for this instrument, whose pitch can be 
+altered using foot pedals. 
+ANSWER: timpani [or kettledrum; prompt on drum] 
+[10] This European city lends its name to both Haydn's very last symphony and to the collective set of his last twelve 
+symphonies. 
+ANSWER: London 
+ 
+10. This element's isotope 40 is one of the most commonly encountered radioactive substances in everyday life. For 10 points 
+each: 
+[10] Name this element, whose prevalence in a certain curved fruit inspired the unit of dosage BED, or banana equivalent 
+dose. 
+ANSWER: potassium [accept K] 
+[10] This quantity for potassium-40 is 1.2 billion years, meaning the trace amounts of potassium in your body right now will be 
+there for quite a while. 
+ANSWER: half-life [prompt on "lambda"] 
+[10] The half-life of a radioactive material can be found by modeling its decay as a reaction of this order. Reactions of this 
+order are linear when the natural logarithm of concentration is plotted against time. 
+ANSWER: first [accept one] 
+ 
+11. The walls of Vincent Van Gogh's The Night Cafe are this color, which forms most of the sky along with yellow in Edvard 
+Munch's The Scream. For 10 points each: 
+[10] A maid arranges fruit inside a room of this color in a painting titled Harmony in this color, whose dull tone produces a 
+lack of three-dimensional depth. 
+ANSWER: red 
+[10] This leader of Fauvism painted Harmony in Red. He depicted his wife in The Green Stripe and scenes of leisure in The Joy of 
+Life and The Dance. 
+ANSWER: Henri-Émile-Benoît Matisse 
+[10] At one of these events, art critic Louis Vauxcelles (LOO-ee voh-sell) labeled Matisse and Andre Derain as "wild beasts," 
+or fauves. That annual "Autumn" one was paired with another one of these events for "Independent artists" in the 
+springtime. 
+ANSWER: salons [prompt on English language equivalents like "exhibitions" by asking for the French word] 
+ 
+12. Throughout the Obama administration, this think tank has opposed health care reform but backed legalization of same 
+sex marriage. For 10 points each: 
+[10] Name this prominent libertarian "institute." 
+ANSWER: Cato Institute 
+[10] The Cato Institute was founded in 1974 with financial backing from these brothers, a pair of billionaire industrialists 
+known for their support of libertarian and conservative causes. Only last name is required. 
+ANSWER: Koch ("Coke") brothers [accept Charles [de Ganahl] and David [Hamilton] Koch in either order] 
+[10] Every two years, the Cato Institute awards a prize named after this conservative economist, who wrote Capitalism and 
+Freedom and led the so-called Chicago school of economics. 
+ANSWER: Milton Friedman 
+ 
+ 
+ 
+ 
+ 
+
+ 
+13. For 10 points each, answer the following about walls of the ancient world: 
+[10] This Roman wall was built in AD 122 to protect the northern border of Britannia. It lies south of the smaller Antonine 
+Wall, which was built two decades later. 
+ANSWER: Hadrian's Wall 
+[10] From the 5th century onwards, the double line of the Theodosian Walls provided the main defense for this historic city, 
+which was captured by Mehmet II in 1453. 
+ANSWER: Constantinople [accept Istanbul or Byzantium] 
+[10] The 30 foot-high walls of this ruined city's "Great Enclosure" were first built in the 11th century by ancestors of the 
+Shona people. Until the 1980s, the Rhodesian government denied that this city had been built by Africans. 
+ANSWER: Great Zimbabwe [prompt on "Zimbabwe"] 
+ 
+14. Eliphaz, Bildad, and Zophar assume that this man's suffering is the result of his sin, although Elihu attributes it to the 
+infinite wisdom of God. For 10 points each: 
+[10] Name this character from the Bible, an inhabitant of Uz who questions the benevolence of God when he is suddenly 
+struck with misfortune. 
+ANSWER: Job [or Iyyov; or Ayyub] 
+[10] In the Book of Job, Job's wealth and his ten children are taken away by this adversary of God and inhabitant of hell. 
+ANSWER: Satan [or Ha-Satan; or the Devil; prompt on "Lucifer"] 
+[10] Job is compared to righteous men such as Noah and Daniel by this prophet, who goes into a valley and brings dry bones 
+back to life. 
+ANSWER: Ezekiel 
+ 
+15. For 10 points each, name these poems by Rudyard Kipling: 
+[10] This infamous Kipling poem about imperialism tells readers to "Send forth the best ye breed / Go bind your sons to 
+exile, to serve your captives' need," as part of a title "Burden." 
+ANSWER: "The White Man's Burden" 
+[10] In 1910 Kipling was inspired by the life of Leander Starr Jameson, the British colonial politician who led the failed 
+Jameson Raid before the Boer War, to write this poem that ends with the line "you'll be a Man, my son." 
+ANSWER: "If--" 
+[10] After visiting Burma in 1889, Kipling wrote this other poem that described the Irrawaddy River as the "road to" this 
+poem's title city. 
+ANSWER: Mandalay 
+ 
+16. A particle in a box is modeled by confining it to a specific region surrounded by areas with infinite values of this quantity. 
+For 10 points each: 
+[10] Name this quantity, whose gravitational form can be calculated as mass times g times height, and is contrasted with 
+kinetic energy. 
+ANSWER: gravitational potential energy [accept PE or U] 
+[10] Gravity is this kind of force, meaning that gravitational potential is only dependent on height. Forces of this kind act 
+independently of path. 
+ANSWER: conservative 
+[10] This force sets a lower limit on the speed of an object at the top of a loop, raising it above what would be expected if 
+potential energy was purely converted into kinetic. 
+ANSWER: centripetal force [prompt on "centripetal acceleration"; prompt on "gravity"; do not accept "centrifugal force" or 
+"centrifugal acceleration"] 
+ 
+ 
+ 
+ 
+ 
+
+ 
+17. This event occurred several months after the Cowboys Tom McLaury, Frank McLaury, and Billy Clanton attempted to 
+rob a stagecoach. For 10 points each: 
+[10] Those Cowboys were shot and killed in what 1881 gunfight, the most famous in the history of the "Wild West"? 
+ANSWER: Gunfight at the O.K. Corral [accept descriptions that mention the O.K. Corral] 
+[10] The O.K. Corral was located within this Arizona frontier town, which was renowned for its lawlessness. 
+ANSWER: Tombstone, Arizona 
+[10] The Gunfight at the O.K. Corral occurred between the Cowboys and three brothers from this family of lawmen. 
+ANSWER: Earp family 
+ 
+18. Name these thinkers who wrote philosophical critiques, for 10 points each. 
+[10] This thinker wrote about the "categorical imperative" in his Groundwork for the Metaphysics of Morals and extended that 
+concept in his Critique of Practical Reason. 
+ANSWER: Immanuel Kant 
+[10] This ex-Young Hegelian criticized the influence of Ferdinand Lassalle while commenting on the platform of the 
+Eisenachers in his Critique of the Gotha Program and famously stated that religion is "the opium of the people". 
+ANSWER: Karl Heinrich Marx 
+[10] This author's shift towards Marxism is evident in his Critique of Dialectical Reason, which came after his Search for a Method. 
+He used the examples of a waiter and a women being complimented to describe "bad faith." 
+ANSWER: Jean-Paul Sartre (SAR-truh) 
+ 
+19. These shapes can be formed by a plane intersecting a cone parallel to its sides, a visual representation of how much they 
+deviate from circles. For 10 points each: 
+[10] Name these conic sections that always have an eccentricity of one and consequently always look the exact same, because 
+they can be formed from transformations of x squared. 
+ANSWER: parabolas 
+[10] A parabola can be constructed as the locus of all points equidistant from the focus and this line on the opposite side. The 
+minimum distance between this line and the vertex equals one over four a. 
+ANSWER: directrix 
+[10] Parabolas with this property can exist as a single parallel line. A hyperbola with this property can simply be two 
+intersecting lines, while an ellipse with this property can be a single point. 
+ANSWER: degenerate [accept word forms] 
+ 
+20. God uses this Hebrew word during a conversation in which He had earlier said "sin crouches at the door." For 10 points 
+each: 
+[10] Give this word which Adam Trask tells his son Cal, after Aron dies fighting overseas. According to a council of elders in 
+Chinatown, this word most accurately translates into English as "thou mayest." 
+ANSWER: timshel 
+[10] Timshel is a theme in this John Steinbeck novel about the parallel lives of the Trasks and the Hamiltons. Much of it is set 
+in Salinas Valley. 
+ANSWER: East of Eden 
+[10] These two Biblical brothers are a central motif in East of Eden, as their story parallels the lives of Charles and Adams, and 
+later Cal and Aron. The older of these two brothers is considered the first murderer. 
+ANSWER: Cain and Abel [both names required; accept in either order] 
+ 
+ 
+ 
+ 
+
+21. This country's army employed a sniper nicknamed "White Death" who had over 500 confirmed kills. For 10 points each: 
+[10] Name this Scandinavian country that was invaded in 1939 by the Soviet Union, during the Winter War. 
+ANSWER: Finland [or Suomi; or Republic of Finland; or Suomen tasavalta; or Republiken Finland] 
+[10] One year after the end of the Winter War, Finland counter-invaded the Soviet Union and aided the German assault on 
+this major city in northwest Russia, which was besieged for 872 days of World War II. 
+ANSWER: Leningrad [prompt on "Petrograd" or "St. Petersburg"] 
+[10] After the tide turned against Germany during World War II, the Finnish government was forced to expel the German 
+army through this northernmost region of Finland, as part of a namesake 1944 to 1945 war. 
+ANSWER: Lapland [accept Lapland War; accept Sápmi] 
+
+

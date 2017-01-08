@@ -1,0 +1,215 @@
+OAC 2013
+Extras
+
+1. In one scene in this novel, a commander is hindered by the Stone Sentinel Maze. Several characters in it
+take a pledge in the Oath of the Peach Garden. In this novel, the marriage of Lady Sun to Liu Bei is
+planned by Sun Quan after he wins the Battle of Red Cliffs, and the tyranny of Dong Zhou is ended by Lu
+Bu. Name this classic Chinese novel which details the turmoil towards the end of the Han Dynasty,
+including a split into multiple realms.
+ANSWER: The Romance of the Three Kingdoms [or San Guo Yan Yi]
+192-13-81-19101
+
+2. This scientist invented an analog computer called the Monte Carlo trolley in order to facilitate his studies
+of neutron transport, and charged particles reflected off a magnetic mirror undergo his namesake
+acceleration. Perturbation theory uses his "golden rule." A facility named for him is the location of the
+DZero and CDF experiments, which discovered the top quark in 1995. That facility, which is home to the
+Tevatron particle accelerator, is located in Batavia, Illinois. Particles named for this man have half-integer
+spin and include leptons and quarks. Identify this Italian-American physicist.
+ANSWER: Enrico Fermi
+189-13-81-19102
+
+3. This man's government created Project Merlin to increase lending to small businesses in 2011. In 2012,
+he met with Alex Salmond to discuss a possible devolution that Salmond advocates. In January 2013, he
+claimed he didn't want to "pull up the drawbridge" in a speech that proposed holding a referendum by 2017
+on whether his country should remain in the EU. This man's party formed a coalition with the Liberal
+Democrats led by Nick Clegg after the 2010 general election. Name this prime minister of the United
+Kingdom.
+ANSWER: David Cameron
+121-13-81-19103
+
+4. A graph can be represented by storing the adjacencies of each vertex in one of these data structures. A
+skip is made from layers consisting of this data structure. The last element of these data structures is usually
+NULL, but can be changed to reference their first element to form a "circular" one. They're not trees, but
+operations on these structures can be made easier by adding sentinel nodes. They are often used to
+implement stacks and queues. Name this data structure whose "doubly" form consists of nodes with
+pointers to their next node and previous node.
+ANSWER: linked list [prompt on list]
+201-13-81-19104
+
+5. This thinker discussed the role of names as marks which aid one's memory in his De Corpore. His
+best-known book contains a chapter on the "Kingdom of Darkness." He delineated the concept of the "war
+of all against all." His magnum opus describes life as being "solitary, poor, nasty, brutish, and short."
+Identify this English philosopher who advocated for absolute sovereignty in his Leviathan.
+ANSWER: Thomas Hobbes
+189-13-81-19105
+
+OAC 2013
+
+19
+
+Page 1 of 5
+
+OAC 2013
+Extras
+
+1. In Islam, this man is credited with having built the current Kaaba with one of his sons. That son received
+water from the nearby Zamzam Well, after this man brought him and his mother Hagar to Mecca. This
+man's other son had a name meaning “he laughs” after the reaction of this man and his wife to the news
+that she would have a child in her old age. This man was commanded to sacrifice that son on Mount
+Moriah as a proof of his love for God, but was stopped at the very last moment by an angel. Name this first
+patriarch, the father of Isaac.
+ANSWER: Abraham [or Abram; or Ibrahim]
+121-13-81-19101
+
+2. One catalyst used to form this substance contains two iodine and two carbonyl ligands attached to an
+iridium atom in a square planar arrangement. That is the Cativa catalyst, which forms this substance via the
+carbonylation of methanol. At 16.6 degrees Celsius, crystals of the anhydrous form of this substance can be
+isolated in the "glacial" form of it. Name this substance with formula CH3COOH, which is the primary
+component of vinegar.
+ANSWER: acetic acid [or acetate]
+140-13-81-19102
+
+3. According to one story, this god trapped Theseus and Pirithous (PEE-rih-THOO-us) in their chairs after
+offering them a feast. He owns an invisible helmet that was made for him by the Cyclopes. This god split
+the three realms with his brothers Poseidon and Zeus. In one story, he uses some pomegranate seeds to
+force Persephone to be with him for part of the year after abducting her from Demeter. Name this owner of
+the three-headed dog Cerberus and Greek god of the underworld.
+ANSWER: Hades [or Pluto]
+015-13-81-19103
+
+4. This state's Pennyroyal Region is located on the north of the Highland Rim, a plain that surrounds its
+second-largest city. That city, in this state, is combined with Davidson in a metropolitan area. This state is
+the location of the Oak Ridge National Laboratory and Clingman’s Dome, the highest peak in the Great
+Smoky Mountains. The original name of this state was Franklin, and it is now home to Murfreesboro.
+Name this state whose flagship university is found in Knoxville.
+ANSWER: Tennessee
+019-13-81-19104
+
+5. The synthesis of this compound requires tyrosine-194 to bind to its single reducing end. The synthesis of
+this compound uses UDP-conjugated monomers to form alpha-1,4-linkages, and a branching enzyme to
+generate alpha-1,6 linkages. This compound is broken down in response to glucagon, and it provides
+energy for about 6 hours during a fast. Name this polymer of glucose, which is stored in the liver and often
+called animal starch.
+ANSWER: glycogen
+048-13-81-19105
+
+OAC 2013
+
+19
+
+Page 2 of 5
+
+OAC 2013
+Extras
+
+1. At St. Augustine's Church, this organization initiated its Free Breakfast for Children program. One leader
+of this organization described how he raped women as an act of rebellion in his book Soul on Ice. This
+group used the phrase "What We Want What We Believe" to preface their Ten-Point program. This
+organization was led for a time by Eldridge Cleaver and was founded by Huey Newton and Bobby Seale in
+Oakland. Name this radical black nationalist organization.
+ANSWER: Black Panther Party for Self-Defense
+020-13-81-19101
+
+2. Antoine-Jean Gros painted this man visiting plague victims at Jaffa. A depiction of this man commonly
+shown in biographies includes a clock displaying the time of 4:13 AM and a ruffled white-on-blue outfit,
+suggesting that this man has been working through the night. In another painting, he is pointing to the left
+while looking towards the viewer and riding a bucking horse in rocky terrain. Identify this historical figure
+depicted "in his study at the Tuileries" and “crossing the Alps” by Jacques-Louis David.
+ANSWER: Napoleon Bonaparte [or Napoleon I; or Napoleon Bonaparte]
+019-13-81-19102
+
+3. This character was raised by his Aunt Clara and hallucinates her scolding him at the end of the novel he
+appears in. This man was chased out of Weed on accusations of rape and is given a puppy by the “jerkline
+skinner” Slim. This figure’s fate is foreshadowed by the death of Candy’s dog. Constantly dreaming of
+being able to take care of the rabbits, he loves to pet soft things and accidentally breaks the neck of
+Curley’s wife. For 10 points, name this mentally disabled ranch hand who is shot by his friend George at
+the conclusion of Of Mice and Men.
+ANSWER: Lennie Small [or Lennie Small]
+052-13-81-19103
+
+4. One portion of this document concerned the removal of fish-weirs from waterways, and another portion
+of this document concerns the levying of "scutage" money. This document was signed a year after the
+Battle of Bouvines, and one of its clauses led to the First Barons' War. This document codified the right of
+habeas corpus and limited the power of the English throne. For 10 points, identify this document signed by
+King John at Runnymeade in 1215 that has a name in Latin meaning "Great Charter."
+ANSWER: Magna Carta [or Great Charter before read]
+189-13-81-19104
+
+5. One of the earliest structures of this kind was excavated at Dura-Europos. The Vikings constructed
+"stave" ones and Ethiopians built many rock-hewn ones. The Cenacle, or the Upper Room, is often touted
+as the first one. In these buildings, several aisles all meet up at a nave, the central approach to the front.
+Roman marketplaces and courthouses provided the model for a specific type of these buildings, known as
+basilicas. The lectern and pulpit are stands that may be found in these buildings. A cathedral is a specific
+type of what buildings, Christian places of worship?
+ANSWER: churches [or abbeys; or basilicas until it is read; or house churches; or cathedrals until it is
+read]
+020-13-81-19105
+
+OAC 2013
+
+19
+
+Page 3 of 5
+
+OAC 2013
+Extras
+
+1. The discoverer of these functions is John Napier. This function of a root of x is equal to this function of x
+divided by the order of the root. Without a horizontal shift, these functions all possess a vertical asymptote
+at x equals zero. This function of a quotient is equal to this function of the numerator minus this function of
+the denominator. e is the base of the "natural" one of these functions, written as ln (L N). Ones that do not
+specify a base are assumed to be base 10. For 10 points, name these functions which can be thought of as
+reverse exponents.
+ANSWER: logarithms
+020-13-81-19101
+
+2. This controversy grew from violations of the Boland Amendment and was first reported by Lebanon's
+Ash-Shiraa magazine. One man who lied to Congress during this scandal later hosted a show about "War
+Stories" on cable TV. The Tower Commission outed Oliver North's role in this scandal, which revealed the
+source of funds for anti-Sandinista Nicaraguan rebels. Name this scandal stemming from the Reagan
+administration's illegal sale of arms to a hostage-holding Islamic Republic.
+ANSWER: Iran-Contra affair [or obvious equivalents involving arms sales to Iran to fund the Contras]
+104-13-81-19102
+
+3. One approximation related to these objects states that the index of refraction minus one times the
+difference between the reciprocal of the radii of curvature equals the inverse of a certain quantity. That
+approximation is the thin "this device" approximation. When an object is placed off their primary axis they
+create comas. Their focal length over their focal length minus their distance from an object is equal to their
+magnifying power. For 10 points, name these optical devices that refract light and come in concave and
+convex forms.
+ANSWER: lens
+149-13-81-19103
+
+4. This country had a dispute with a neighboring country over Tuzla Island in the Kerch Strait, which
+connects the Sea of Azov and the Black Sea. The 2004 Orange Revolution occurred in this country. The
+Dnieper (NEE-pur) river flows from the north to south in this country, and an autonomous republic within
+this country lies on the Crimean peninsula. For 10 points, name this country in Eastern Europe which
+borders Russia and whose city of Pripyat was the site of the 1986 Chernobyl nuclear disaster.
+ANSWER: Ukraine
+194-13-81-19104
+
+5. These languages have, in addition to "voiced" and "voiceless" consonants, "emphatic" consonants
+pronounced deep in the throat. Verbs and nouns in these languages are formed by inserting vowels into
+roots of three consonants. The only language in this group written in the Latin script is Maltese. The second
+most-spoken language in this group is the official language of Ethiopia, Amharic; it also includes the dead
+languages Akkadian, Phoenician, and Aramaic. For 10 points, name this set of languages that includes
+Hebrew and Arabic.
+ANSWER: Semitic languages [prompt on Afro-Asiatic languages]
+080-13-81-19105
+
+OAC 2013
+
+19
+
+Page 4 of 5
+
+OAC 2013
+Extras
+
+OAC 2013
+
+19
+
+Page 5 of 5
+
+

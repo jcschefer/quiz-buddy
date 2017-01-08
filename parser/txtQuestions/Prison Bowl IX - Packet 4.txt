@@ -1,0 +1,360 @@
+PRISON BOWL IX
+Questions written and edited by Hunter College High School (Gilad Avrahami, Sam Brochin, Christopher Chilton, David Godovich,
+Lily Goldberg, Ada-Marie Gutierrez, Diane Hwangpo, Joshua Kwan, Chloe Levine, Alice Lin, Brian Lu, Helen Lyons, Daniel Ma,
+Albert Tai, Luke Tierney, Rachel Yang), with contributions from Rohan Nag and Jeff Xie
+Round 04
+Tossups
+1. The difference of two arctan functions is related to this value by Machin’s formula. That algorithm was derived from the GregoryLeibniz series, which converges to this number. While solving the Basel problem, Euler discovered that this number squared over six
+equaled the sum of the reciprocal squares. This number can be calculated via an algorithm contingent on the number of sides of a
+regular polygon. The cosine of this number of radians is negative 1, and it is equal to 180 degrees. For 10 points, name this
+transcendental number which is the ratio of a circle’s circumference to its diameter, approximately equal to 3.14.
+ANSWER: pi (accept clearly equivalent answers like 3.1415926535, reprimand any players who provide any more digits) <AT>
+2. A clearing system named TARGET2 was established in 2007 for large-scale transactions using this currency, and the earliest coins
+to become non-convertible to this currency were known as escudos. The ERM II keeps other currencies “semi-pegged” to this one.
+The “big bang” nicknames a scenario where this currency is suddenly adapted. The five “convergence criteria” that dictate when the
+currency is adopted were set by the Maastricht treaty. The symbol for this currency has two parallel lines meant to represent its
+stability, and it has fallen in value since 2009 in Spain and Greece. For 10 points, name this currency which replaced the mark and
+franc.
+ANSWER: euro
+3. The founder of this dynasty cemented his power by defeating the Western Chu power at the Battle of Gaixia (“guy-SHEE-uh”).
+This dynasty was the first to incorporated The Five Classics in training state officials. Records of the Great Historian was written
+during this dynasty by Sima Qian (“chee-AHN”). This dynasty heavily fortified its first capital of Chang’an. Four commanderies in
+Korea were created during the reign of Emperor Wu of this dynasty. This dynasty, whose leaders practiced “Imperial Confucianism,”
+was founded a by Liu Bang. For 10 points, name this Chinese dynasty that succeeded the Qin.
+ANSWER: Han <DM>
+4. This composer of a notable trombone concerto created the “musical tableau” Sadko. Another of this composer’s works adapted a
+play by Alexander Ostrovsky featuring characters like Frost, Spring, and the Wood-Sprite. This composer of The Snow Maiden
+included tunes from the liturgical Obikhod in his Russian Easter Festival Overture. Another of his works features movements like
+“The Kalendar Prince” and “The Sea and Sinbad’s Ship;” that symphonic poem was based off of One Thousand and One Nights and is
+titled Scheherazade. For 10 points, name this composer whose Tale of Tsar Sultan includes “Flight of the Bumblebee.”
+ANSWER: Nikolai Rimsky-Korsakov <AT>
+5. Specific types of these organisms are named Wistar and Sprague Dawley. Richard Morris names an apparatus for testing their
+memory that includes a transparent platform submerged in water. Tap water and a morphine-laced solution were fed to these
+organisms in an experiment titled for a “park” of them. In another experiment, testers struck a steel bar with a hammer each time a
+subject touched one of these animals, conditioning the subject to fear them. That subject was nicknamed “Little Albert.” For 10 points,
+name these mammals that are frequently used in lab experiments, which are larger than mice.
+ANSWER: lab rats (accept rattus, do not accept “mice”) <AT>
+6. One character in this novel says, “We can know only that we know nothing… [a]nd that is the highest degree of human wisdom,”
+and that character later observes the Great Comet of 1811-1812 “which was said to portend all kinds of woes.” In this novel, one
+character challenges Dolokhov to a duel over Pierre’s wife Helene, and Prince Andrei is wounded at the Battle of Borodino. In this
+novel, Pierre Bezhukov [be-ZHU-kov] befriends the prisoner Platon after failing in his mission to assassinate Napoleon. For 10
+points, name this super long Tolstoy novel about Russian aristocrats.
+ANSWER: War and Peace [accept Vayna i mir] <AG>
+
+7. The Amana settlements were founded by Pietists from this nation. John Law’s Company of the Indies used immigrants from what is
+now this country to settle part of Louisiana. Along with Irish Catholics, Catholics from this country participated in New York City’s
+1863 draft riot. One immigrant from this country criticized New York governor William Cosby in 1733. That man was John Peter
+Zenger. “Liberty cabbage” and “liberty sausage” were Americanized terms for this nation’s sauerkraut and hot dogs, respectively. For
+10 points, name this nation whose immigrants were targeted during World War I and may have come from cities such as Hamburg and
+Munich.
+ANSWER: Germany <LT>
+
+8. This action was done in the Mahabharata by a character who impersonated the dance teacher Brihannala. Hercules performed this
+action under the service of Queen Omphale as punishment for killing a man who had stolen his cattle. Achilles performed this action
+in the court of Lycomedes of Skyros in order to escape the Trojan War, and following Loki’s advice, Thor performed this action in
+order to retrieve Mjolnir from Thrym. The cult of Aphroditus celebrates, for 10 points, what action in which a person impersonates the
+other gender, exemplified in the legend of Hua Mulan?
+ANSWER: crossdressing <JK>
+9. The density of this quantity can be expressed as the negative divergence of polarization. A type of symmetry exhibited by this
+quantity and parity states that replacing a particle with its antiparticle will maintain the laws of physics, while a property named for
+this quantity designates each particle red, blue, or green. Faraday cages take advantage of the fact that this quantity is zero at the center
+of metal enclosures, and two objects’ force of attraction can be found by dividing the product of two values of this quantity by
+distance squared. This quantity may be transferred by rubbing amber with silk. For 10 points, name this quantity that is measured in
+coulombs.
+ANSWER: charge (accept specific types, like electric charge, bound surface charge, or color charge) <AT>
+10. T. H. White depicted this character as a young boy with the nickname “Wart.” In another story, though he does not do so, this
+character is prepared to play a “Christmas game” in exchange for an axe. In a work b6 Sir Thomas Malory, this character defeats the
+Roman Emperor Lucius and has a son with his half-sister. This character was first introduced to non-Welsh speakers in Geoffrey of
+Monmouth’s History of the Kings of Britain, and according to legend, Mordred took advantage of a civil war caused by an affair
+between Lancelot and this character’s wife, Guinevere. The title character of The Once and Future King, is, for 10 points, what
+legendary king of Britain who kept court at Camelot?
+ANSWER: King Arthur Pendragon <CC>
+11. Belterra was a notable site for the production of this raw material. A company that is most famous for producing a product made
+from this raw material administered a plantation for its production based in Liberia. That company, based in Akron, Ohio, was
+founded by Harvey Firestone. Roger Casement investigated the practices of the Force Publique, which oversaw the production of this
+resource in the Congo Free State. One commercially unsuccessful center for this raw material’s production, Fordlandia, was in Brazil.
+A game with vertical round hoops from Mesoamerica used balls of this material. For 10 points, name this product that is vulcanized
+and used to make tires.
+ANSWER: rubber or latex or even neoprene
+12. It’s not Jainism, but followers of one branch of this religion carry brooms to signify their cleanliness. A trance drum owned by
+queen Nyabinghi in this religion was said to have inspired its meditative practices. This religion’s followers are grouped into
+“mansions,” which include the Bobo Ashanti and Twelve Houses of Israel. The Holy Piby is a religious text of this religion, whose
+adherents refer to all material pleasures as Babylon. The official colors of this religion were derived from the Ethiopian flag. Haile
+Selassie is deified in, for 10 points, which religion, whose followers wear dreadlocks and smoke ganja?
+ANSWER: Rastafarianism <JK>
+13. This musician received success with his re-workings of the Hoagy Carmichael songs “Stardust” and “Lazy River.” His
+international popularity inspired the musical The Real Ambassadors, and he allegedly began improvising lyrics after dropping his
+music in “Heebie Jeebies.” This man famously recorded the “West End Blues” and pioneered scat singing with his wife Lil Hardin
+and the rest of his Hot Five. His recording of “Hello, Dolly!” made him the oldest person to have a No. 1 hit in the US, and he sang
+about “trees of green” and “red roses” in “What a Wonderful World.” For 10 points, name this African-American jazz trumpeter
+famous for his iconic gravelly voice.
+ANSWER: Louis Armstrong [accept Satchmo or Pops] <GA/AT>
+14. This writer retired from a post as the Secretariat of Foreign Affairs after the publication of Where the Air Is Clear and wrote only
+with pen, ink, and paper. A notable work by this man was inspired by the disappearance of Ambrose Bierce and focuses on Harriet
+Winslow and an American. This writer shifts between the 16th and 20th centuries in a work which recounts Philip II’s construction of
+El Escorial, Terra Nostra. In another novel by this man, a tycoon recounts the events of his life, including the development of the PRI.
+For 10 points, name this Mexican writer of The Old Gringo and The Death of Artemio Cruz.
+ANSWER: Carlos Fuentes (Macías) <CL>
+15. It’s not the Neckar, but a city on this river was captured in a 1622 battle led by Count Tilly. Caesar notably built a bridge across
+this river in only ten days. Adolphe Thiers (“tea-AIRS”) argued for the use of this river as a natural border with his country’s western
+neighbor. The creation of the Deutsche (“DOY-cheh”) Mark began a so-called “miracle” on this river. A union of French client states
+along this river was formed by Napoleon after the Battle of Austerlitz, and it was known as this river’s namesake “confederation”. The
+France-Germany border is partially formed by, for 10 points, what river that protected the north of the Roman Empire from Germanic
+tribes?
+ANSWER: the Rhine River
+
+16. Charles Peirce described this process as three kinds of inference used cyclically: abduction, deduction, and induction, and some
+scholars claim that its first formulation was made by the Arab philosopher Ibn al-Haytham in the eleventh century. Karl Popper
+promoted the idea of empirical falsification in the use of this process, rejecting the inductivism of Francis Bacon, who formulated one
+version of it in the Novum Organum. This process begins with a hypothesis and prediction, which is often tested by experimentation.
+For 10 points, name this process of investigating natural phenomena.
+ANSWER: scientific method [prompt on science]
+17. Parts of one of these things in Lisbon are named for a seagull, a caravel, a sunflower, and the Orient. The Koltsevaya part of one of
+these things in Moscow is a perfect circle. Ray LaHood mediated arguments about recent modifications to one of these things in
+Washington, D.C.. Vienna has two of these things, one of which includes the Stammstrecke; those are the S-Bahn and the U-Bahn.
+The IRT was once in control of one of these things, which is located in New York and includes lines named after numbers and letters.
+Exemplified by the Tube in London, for 10 points, name these systems of usually underground trains.
+ANSWER: subway systems [accept metro; prompt on trains or railroads, prompt on public transport and equivalents, prompt on
+underground before mention, never accept “U-Bahn” because the Lisbon one is not] <CL>
+18. The ratio of the concentration of different phases in this state is given by the partition coefficient. The derivative of the natural log
+of a constant named for this state with respect to time equals delta H over RT squared, as stated by the Van’t Hoff equation, while the
+bottom row of ICE tables indicates the amount of substance in this state. The numerator of this state’s namesake constant equals the
+products raised to the number of moles. A system in this state will readjust itself to counter changes, as stated by Le Chatelier’s
+principle. For 10 points, name this chemical state, where the forward and reverse rates of a reaction are the same.
+ANSWER: equilibrium <AT>
+19. One structure in this painting based on sketch F1541v is a conflation of the Provencal and Dutch styles. This painting is part of a
+series that includes Cafe Terrace at Night and a painting of the Rhone river, both which feature similar backgrounds to this painting.
+The Alpilles Mountains form a notable diagonal in the background of this painting, while the brightest object in its background is
+probably Venus. This painting depicts a view from the Saint-Remy-de-Provence asylum, and features some “funereal cypresses” on its
+left. For 10 points, name this painting featuring an idealized village and swirling sky by Vincent van Gogh.
+ANSWER: The Starry Night [accept De sterrennacht; do not accept “Starry Night Over the Rhone”] <CL>
+20. This author of “The Geranium” wrote of the Shortleys’ murder of Guizac, a Polish refugee, with a tractor in “The Displaced
+Person.” A novel by this author features a zookeeper named Enoch Emery, who befriends Hazel Motes, and is titled Wise Blood. A
+story about Julian was included by this author in the collection Everything That Rises Must Converge, and this author’s most famous
+story features a cat named Pitty Sing owned by the grandmother. At the end of that story, she and Bailey are killed by the Misfit. For
+10 points, identify this Southern Gothic author of short stories like “A Good Man Is Hard to Find.”
+ANSWER: (Mary) Flannery O’Connor <CL>
+TB: One reaction that produces these compounds is named after Steglich, while the Baeyer-Villiger Oxidation uses a peroxyacid
+oxidant to convert a ketone into one of these substances. The cyclic forms of these compounds are called lactones. Direct acylation
+can be used to produce these compounds, but water must be separated from the yield via distillation. Arthur Speier and Emil Fischer
+name a method of producing these compounds via an acid catylist, and they are represented by the formula RCOOR-prime. For 10
+points, name these compounds notable for their fruity odors.
+ANSWER: esters <AT>
+Bonuses
+1. He declared a four-day banking holiday and established the Tennessee Valley Authority. For 10 points each:
+[10] Name this president, whose four terms in office saw the creation of the New Deal.
+ANSWER: Franklin Delano Roosevelt (or FDR, prompt on Roosevelt)
+[10] The New Deal included this 1933 law that allowed the President to regulate industry. Its constitutionality was debated in the case
+Schechter (“SHECK-ter”) Poultry Corp. v. United States. It was ultimately struck down.
+ANSWER: National Industrial Recovery Act (or NIRA)
+[10] Roosevelt also created this agency, which designed and implemented Federal Project Number One and other public infrastructure
+projects. Harry Hopkins notably administered it.
+ANSWER: WPA or Work Projects Administration <AT>
+
+2. This author discussed the experience of accepting his brain-damaged son, Hikari, in A Personal Matter. For 10 points each:
+[10] Identify this contemporary author of political works like Okinawa Notes and The Death of a Political Youth. This author also
+wrote a novel about fifteen boys’ experiences on Shikoku, Nip the Buds, Shoot the Kids.
+ANSWER: Kenzaburo Oe [accept names in reverse order]
+[10] This Oe work features the brothers Mitsusaburo and Takashi. Takashi uses football to unite village youths in this work, while the
+kura-yashiki is eventually destroyed by The Emperor.
+ANSWER: The Silent Cry [accept Man’en Gannen no Futtoboru; accept Football in the First Year of Man’en]
+[10] Kenzaburo Oe is from this country, which awards the Tanizaki Prize for literature. Another author from this country, Yukio
+Mishima, publically attempted seppuku after a failed coup d’etat (coo-de-TA).
+ANSWER: Japan [accept Nippon-koku or Nihon-koku] <CL>
+3. You are Isaac Newton, and are firing an upwards-angled cannon from the top a hill in the English countryside. For 10 points each:
+[10] Because of gravity, the path of your cannonball will most resemble this shape. A reflector shaped like this conic section can also
+be used to concentrate light into a single focal point.
+ANSWER: parabola (accept parabolic)
+[10] To calculate the horizontal distance that your cannonball will travel, you can use the range equation, where this function is
+multiplied by initial velocity squared over g.
+ANSWER: sine two theta (accept 2 sine theta times cosine theta or any clear knowledge equivalents, prompt on sine, do not accept
+“sine theta”)
+[10] If your cannonball is fired at a high enough speed, it might be able to break free from Earth’s gravitational pull and travel into
+space indefinitely. This term describes the necessary velocity to perform such a feat.
+ANSWER: escape velocity <AT>
+4. Joy to the world! Or Hollywood, at least. Answer some questions about characters named Joy in Oscar-nominated films in 2016, for
+10 points each:
+[10] Joy is one of the 5 emotions in this Oscar-winning Pixar film, joined by Anger, Fear, Sadness, and Disgust in the control panel of
+Riley’s mind. In this film, Amy Poehler voices Joy.
+ANSWER: Inside Out
+[10] This actress played Miracle Mop inventor Joy Mangano in Joy, once more starring with her Silver Linings Playbook co-star
+Bradley Cooper.
+ANSWER: Jennifer Lawrence (or J-Law)
+[10] This actress played Joy “Ma” Newsome in the movie Room, and won an Oscar for Actress in a Leading Role for the part. This
+actress also received acclaim playing Grace in Short Term 12.
+ANSWER: Brie Larson <RY>
+5. It ends with the protagonist exiting with a razor Jean gave her, probably to commit suicide. For 10 points each:
+[10] Name this naturalistic play about an evening the title character and Jean spend together. The title character is drawn to and falls in
+love with Jean, though he calls her “too stuck-up in some ways and not proud enough in others.”
+ANSWER: Miss Julie
+[10] Miss Julie is a work by this naturalist, symbolist, and expressionist, as are The Ghost Sonata and The Red Room. This playwright
+strived to achieve “greater Naturalism” through a “battle of brains,” instead of a “slice of life” or exposition.
+ANSWER: August Strindberg [accept Johan August Strindberg]
+[10] Strindberg hailed from this country, also the setting of “Miss Julie,” and The Red Room is considered its first modern novel. Miss
+Julie was first performed in its capital, Stockholm.
+ANSWER: Sweden <CL>
+6. To achieve a fade-out ending in one of his pieces, this composer placed a women's’ choir in an adjoining chamber and slowly
+closed the doors to the room. For 10 points:
+[10] Name this composer who included movements like “The Mystic” and “The Bringer of Jollity” in The Planets. His St. Paul’s
+Suite was named after an English girls’ school of the same name, where he was director of music.
+ANSWER: Gustav (Theodore) Holst
+[10] This movement from The Planets features a distinct 5/4 melody comprised of a triplet quarter quarter eighth eighth quarter
+motief. It’s the first movement in the suite.
+ANSWER: Mars, the Bringer of War (accept either underlined portion)
+[10] Later in his career, Holst set this British patriotic poem to music. The narrator in this Cecil Spring Rice poem expresses his
+devotion to his nation and “all earthly things above.”
+ANSWER: “I Vow to Thee, My Country” <AT>
+
+7. This term first appeared in Aristotle’s On the Soul, where he wrote that mind “actually is nothing until it is thought.” For ten points:
+[10] Give this term in philosophy which describes the idea that human beings are born without mental content, and that all knowledge
+comes through perception or experience. It translates literally to “blank” or “erased slate.”
+ANSWER: tabula rasa
+[10] This Enlightenment Philosopher wrote that, “If we will attentively consider new born children, we shall have little reason to think
+that they bring many ideas into the world with them.” His Essay Concerning Human Understanding defends the idea of the tabula
+rasa from the rationalist concept of “innate ideas.”
+ANSWER: John Locke
+[10] This German philosopher and mathematician wrote a chapter-by-chapter critique of Essay Concerning Human Understanding
+called New Essays on Human Understanding. Along with Descartes and Spinoza, this philosopher was one of the foremost
+rationalists of the 17th century.
+ANSWER: Gottfried Wilhelm Leibniz
+8. This prime minister established the same voting requirements for urban and rural men in an 1884 Reform Act. For 10 points:
+[10] Name this prime minister who introduced the Forster reforms in 1870. He lost public support following General Gordon’s death
+in Khartoum.
+ANSWER: William Gladstone
+[10] William Gladstone was the Liberal rival of this Jewish British Conservative Prime Minister. He notably purchased a share of the
+Suez Canal.
+ANSWER: Benjamin Disraeli
+[10] Disraeli opposed this movement in Ireland, arguing instead for constructive unionism, while Gladstone supported it. This
+movement formed in reaction to the Acts of Union in 1800.
+ANSWER: Irish Home Rule movement [prompt on getting an Irish legislature for domestic affairs and clear knowledge
+equivalents; do not accept or prompt on “freedom” or “independence]
+9. The question writer was having an egg-celent time when she hatched these questions. Have a crack at them, for 10 points each:
+[10] This artist portrayed a singer so focused on pointing towards his music that he completely misses the lute player robbing him in
+his Concert in the Egg. He also painted Ship of Fools.
+ANSWER: Hieronymous Bosch [accept Jheronimus van Aken]
+[10] This Russian jeweller created many intricately decorated eggs, including his Imperial ones created for Alexander III and Nicholas
+II. 43 of his eggs have survived.
+ANSWER: Carl Fabergé
+[10] This man painted a Still Life with Eggs in the impressionist style, which he helped found. He’s more famous for his paintings of
+waterlilies and the painting Impression, Sunrise.
+ANSWER: Claude Monet [accept Oscar-Claude Monet] <CL>
+10. The Hohokam lived in what is now this state. For 10 points each:
+[10] Name this state, home to the Yuma and Apache which had copper as its major industry until the 1950s. Its cities include Tuscon
+[TOO-sawn] and Phoenix.
+ANSWER: Arizona
+[10] These other Southwest Indians were named for their connected, apartment-like adobe houses in places like Chaco Canyon and
+Mesa Verde. These people included the Hopi and Zuni, and they revolted against Spain under Popé in 1680.
+ANSWER: Pueblo [accept Anasazi]
+[10] This religious sect carried out “reductions” in the Southwest, as well as with the Guarani of Paraguay and the Hurons in Canada.
+ANSWER: Jesuits or Society of Jesus (prompt on “Catholic”) <RY>
+11. One law developed by this man relates groups of elements to their similar chemical properties. For 10 points each:
+[10] Name this Russian chemist, who anticipated the existence of gallium and named it eka-aluminum.
+ANSWER: Dmitri Ivanovich Mendeleev
+[10] Mendeleev organized the known elements into chemical groups, therefore creating a prototypical version of this entity. Elements
+in its columns have similar electron configurations, and therefore similar chemical properties.
+ANSWER: periodic table of elements
+[10] This British chemist greatly contributed to the modern periodic table by using element amalgams to discover many alkaline and
+alkali earth metals. He discovered that a substance owned by Bernard Courtois was actually the element iodine.
+ANSWER: Humphry Davy <JK>
+
+12. This woman’s namesake dance technique involves the “contraction and release” of the body. For 10 points:
+
+[10] Name this modern dancer, who choreographed and starred in the ballet Clytemnestra. She set a dance to five variations on the
+Shaker hymn “Simple Gifts” in a production that featured set pieces by Isamu Noguchi.
+ANSWER: Martha Graham
+[10] Graham danced to Simple Gifts in Appalachian Spring, a ballet with music by this composer. This man also incorporated
+American folk songs into a ballet about Billy the Kid.
+ANSWER: Aaron Copland
+[10] Aaron Copland enlisted the help of this other American dancer to choreograph the ballet Rodeo. After achieving notability, she
+choreographed the musical Oklahoma!.
+ANSWER: Agnes de Mille (accept Agnes George de Mille) <AT/CL>
+13. The most famous words in this boy’s vocabulary are “goddam” and “phony.” For 10 points each:
+[10] Name this iconically rebellious character. This edgelord almost cries when he breaks Phoebe’s record of “Little Shirley Beans” in
+Central Park, but is elated when he takes her to the carousel in the rain.
+ANSWER: Holden Caulfield [prompt on Caulfield]
+[10] In J.D. Salinger’s The Catcher in the Rye, Holden visits this New York City museum and contemplates how though his life has
+changed, the Eskimo exhibit has not.
+ANSWER: American Museum of Natural History [accept American Natural History Museum; accept AMNH]
+[10] This author also explored adolescent rebellion in New York City with his books The Chosen and My Name Is Asher Lev, which
+focus on Orthodox Jewish teenagers grappling with their family’s expectations in Brooklyn.
+ANSWER: Chaim Potok <CL>
+14. The kingdoms of Sheba and Himyar in Yemen profited from trading these sacred substances, giving Arabia Felix its name. For 10
+points each:
+[10] Name these resins, which are in Torchwood trees in parts of Arabia and Somalia.
+ANSWER: incense
+[10] This civilization’s dead were covered in incense before funerals or cremations. Their Emperor Nero burned a year’s harvest of
+frankincense at Poppea’s funeral.
+ANSWER: Rome or the Roman Empire
+[10] This ancient city in Jordan was on both the incense and spice trade routes. This “New Wonder of the World” was partly carved
+into a sandstone cliff and contains royal tombs.
+ANSWER: Petra <AG>
+15. The highest point in this region is on Emi Koussi, which is part of the Tibesti Mountains. For 10 points each:
+[10] Name this region, whose northwest contains the Atlas Mountains. Most of it is actually rocky hamada, not ergs.
+ANSWER: Sahara Desert
+[10] Some Saharan nomads like the Zaghawa herd and ride this animal, including its dromedary type. Tribes like the Touaregs have
+exploited their ability to last without water.
+ANSWER: camels
+[10] This mostly-Moroccan and Algerian ethnic group includes the Tuaregs and “Moors”. The Romans intermixed with them when
+they were called Numidians, and they indirectly name the Barbary Coast.
+ANSWER: Berbers or Amazighs <GA>
+16. As a mischievous child, this blue-skinned figure stole butter from neighboring houses and herded cattle with his flute. For 10
+points:
+[10] Name this ninth avatar of Vishnu in Hindu myth. A “Great Mantra” concerning consciousness and life goals addresses this figure
+after the word “Hare” (HAH-rey).
+ANSWER: Krishna
+[10] Krishna appears in the Mahabharata as the charioteer and advisor of this man, a member of the Pandava family. Along with the
+other Pandavas, this expert bowman fights against his cousins, the Kauravas.
+ANSWER: Arjuna
+[10] Arjuna is persuaded by Krishna to fulfill his duty as a kshatriya in this section of the Mahabharata, in which Krishna famously
+states the line “I am become Death, destroyer of Worlds.”
+ANSWER: Bhagavad Gita <AT/JK>
+
+17. This entity apparently resolves the black hole information paradox, for information can escape a black hole in the form of it. For
+10 points:
+[10] Name this type of energy that is released by particle-antiparticle pair production. Black holes are predicted to dissolve into it.
+ANSWER: Hawking radiation
+[10] Theories suggest that Hawking radiation is emitted due to quantum effects that occur in this region. The gravitational force of a
+black hole is so powerful in this region that light cannot escape from it.
+ANSWER: event horizon
+[10] Strong evidence suggests that supermassive black holes are located in the centers of these things, which can be classified as spiral
+or elliptical. Hubble’s law states that they are constantly moving away from one another.
+ANSWER: galaxies (or galaxy) <AT>
+18. This novel begins when the prophetic rabbit Fiver sees a vision foretelling the destruction of his warren. For 10 points:
+[10] Identify this novel in which a group of rabbits abandon their home, famous for its description of the rabbits’ unique culture,
+language, and mythology. The rabbits, including Fiver, Hazel, and Bigwig, ultimately settle at the title location.
+ANSWER: Watership Down
+[10] Watership Down was written by this British author of Shardik and The Plague Dogs.
+ANSWER: Richard Adams
+[10] This storyteller wrote about Flopsy, Mopsy, and Cottontail in The Tale of Peter Rabbit, which is one of the four children’s books
+she wrote about rabbits.
+ANSWER: Beatrix Potter
+19. Wanna play a game? Name these concepts from game theory, for 10 points each:
+[10] In this game, one criminal is freed for betraying his accomplice. If both the accused betray each other, they are given a sentence
+twice as long as if they had both remained silent.
+ANSWER: prisoner’s dilemma
+[10] In a non-cooperative game, this equilibrium occurs when decision makers account for others’ decisions. Its namesake was the
+subject of A Beautiful Mind.
+ANSWER: Nash equilibrium
+[10] This famous game theory problem involves choosing one of three doors, one which hides a car while the others hide goats. It says
+that one should always switch doors if they know that one of the doors they didn’t choose contains a goat.
+ANSWER: Monty Hall problem [prompt on Hall]
+20. These cells are densely packed in the fovea centralis, which is located in the center of the macula lutea. For 10 points:
+[10] Name these cells responsible for color vision.
+ANSWER: cones (accept cone cells)
+[10] Photoreceptor cells like rods and cones function via this class of vitamin A-binding proteins, which are light-sensitive. L-cones,
+M-cones, and S-cones contain the red, green, and blue types of these proteins.
+ANSWER: opsins (accept rhodopsins or photopsins)
+[10] This structure in the eye helps focus light onto the retina, where rods and cones are located. This biconcave structure’s shape can
+be changed via ciliary muscle contraction, which changes its focal power.
+ANSWER: crystalline lens <AT>
+TB. He dedicated his Piano Sonata in F minor to Countess Ida von Hohenthal. For 10 points each:
+[10] Identify this composer of A German Requiem and a symphony often nicknamed “Beethoven’s Tenth.”
+ANSWER: Johannes Brahms
+[10] Brahms wrote this piece in response to receiving an honorary doctorate from the University of Breslau. It uses one of Brahms’
+largest ensembles, including a contrabassoon and a tuba.
+ANSWER: Academic Festival Overture
+[10] Brahms also wrote a work in this specific genre to celebrate the birth of Bertha Faber’s son. The lyrics to the first verse are taken
+from Des Knaben Wunderhorn.
+ANSWER: Brahms’ lullaby [accept Cradle Song; prompt on song; prompt on descriptive answers about children or sleep] <CL>
+
+

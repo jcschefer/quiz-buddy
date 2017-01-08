@@ -1,0 +1,323 @@
+UIUC Earlybird 2006 - Round 10
+(Tossups by UIUC Academic Buzzer Team)
+1. This person stays at the Edmont Hotel and hears Buddy Singer play in the Lavender Room. He wanted to
+go to Massachusetts or Vermont to live in a cabin with Sally until their money ran out, but she refused. Mr.
+Spencer yells at him for not knowing anything about the Egyptians in history class. His favorite short story
+is The Secret Goldfish by his brother D.B. He likes talking to his sister Phoebe because she isn’t a phony.
+FTP, name this protagonist of The Catcher in the Rye.
+ANSWER: Holden Caulfield (accept either name)
+2. Pencil and Paper Ready. Let A be the 2 by 2 matrix with top row one three, bottom row two four. Let B
+be the inverse of A. What is the determinant of B? This can be done simply by recalling that the
+determinant of an inverse is equal to the reciprocal of the determinant. FTP what is the reciprocal of one
+times four minus three times two?
+ANSWER: negative one half
+3. In this work, the part of Thyrsis is sung by Cleantes as he pretends to be a music teacher. Monsieur
+Bonnefoy suggests for a will to be altered in favor of Belina after her husband’s death. Thomas Dyafoirus
+believes in the ancients but not the circulation of blood. Toinette pretends to be a doctor, claims to be more
+than eighty years old, and advises that an arm and an eye should be removed from Argan. FTP, name this
+French play about a man who thinks he is constantly ill.
+ANSWER: The Hypochondriac (or The Imaginary Invalid or Le Malade imaginaire)
+4. Comprising the beginning third of The Contest of Harmony and Invention, this work was famously first
+recorded in the modern era by Bernardino Molinari and the Academy of Sta. Cicilia [SAN-tuh cheeCHEEL-yuh]. Exemplary of the grosso form in each of its components, this musical work was originally
+published with series of sonnets, one of which was meant to read before each movement was played,
+making it among the earliest overtly programmatic pieces. FTP, name this work consisting of “La
+Primavera”, “L'estate” [LESS-tay], “L'autunno” [law-TWO-no], and “L'inverno” [lin-VER-no]; a sequence
+of four concerti for violin by Antonio Vivaldi.
+ANSWER: Violin Concerti, for violin, strings & continuo (The Four Seasons; "Il cimento”), Op. 8 (or
+Le quattro stagioni; accept any underlined part)
+5. In this engagement, the leader of the losing side was off recruiting Creeks in the South, but his brother
+decided to proceed with an attack. Before the battle, The Prophet exhorted his men with a rousing speech,
+including the promise that they couldn’t be harmed by bullets. After a two-hour battle, the Indians fled
+Prophet’s Town and the soldiers destroyed it; this led to Tecumseh’s decision to fight alongside the British
+in the War of 1812. FTP, name this battle that took place in the wilds of Indiana and in which the winning
+side was led by Governor William Henry Harrison.
+ANSWER: the Battle of Tippecanoe
+6. A little-known sequel to this work, Ah, But Your Land Is Beautiful, was published in 1996. This book’s
+twenty-fourth chapter begins with a father investigating his son’s desk and finding typewritten articles on
+“The Need for Social Centres” and “Birds of a Parkwold Garden.” Its final chapter finds the protagonist
+“going up into the mountain” to pray for the salvation of a condemned man; that man, his son, is to be
+executed for the murder of Arthur Jarvis’ son. FTP, name this novel centering on the tragic misadventures
+of Stephen Kumalo, a South African preacher; the magnum opus of Alan Paton.
+ANSWER: Cry, the Beloved Country
+7. This deity resurrected his uncle or father after his aunt collected all but one of the pieces of her
+husband’s dismembered body. He then invented the process of mummification, placing the first mummy,
+Osiris, in charge of the underworld. FTP, name this Egyptian god who had the head of a jackal and was the
+son of Nephthys and either Osiris or Set.
+ANSWER: Anubis
+
+8. This group’s founder only recently died, though he had been unable to work for several decades. That
+founder appears only “Corporal Klegg” and on the band’s first album, The Piper at the Gates of Dawn,
+which is rather different cry from such fare is Atom, Heart, Mother and The Division Bell, which were
+created without Syd Barrett. However, this band is best known for a string of multiple-platinum concepts
+album in the 70’s, ending with The Final Cut. FTP, name this paradigm of progressive rock responsible for
+Animals, Wish You Were Here, The Wall, and Dark Side of the Moon.
+ANSWER: the Pink Floyd Sound
+9. After the end of WWII, this person claimed to have led the Maharlikas, a guerrilla unit, against invading
+Japanese, but this claim later proved bogus. When he ran for President in 1965, the Liberal Party refused to
+back him, so he ran for the Nationalista Party and won. In 1972, he declared martial law and the next year,
+he had himself made president for life. His primary opponent, Benigno Aquino, was assassinated on
+returning from the U.S., but Benigno's widow Corazon would be sworn in after this man left office. FTP,
+name this infamous Philippine dictator.
+ANSWER: Ferdinand Marcos
+10. Maderno’s plan to add a series of campaniles to this structure was a notorious failure, though the
+executor of that plan did design its famous bronze Baldachino. The plan for this structure was adapted from
+Bramante’s Greek cross to a Latin Cross by Giuliano da Sangallo. FTP, name this massive church that
+contains a statue of St. Longinus, the tomb of Urban VIII, and Michelangelo’s Pietà; the current church of
+the Pope.
+ANSWER: Saint Peter’s Basilica
+11. This order is characterized by facultative sex determination, as the reproducing members utilize a
+reservoir known as a spermatheca to determine the gender of offspring. As noted by Lorenz, some
+members communicate through dances, and most species are characterized by a very high degree of sexual
+dimorphism, so that males are usually called drones and females queens. FTP name this order with a name
+meaning “membrane-winged” which includes chalcids, wasps, bees, and ants.
+ANSWER: hymenoptera
+12. In this religion’s code of discipline, the Rehat Maryada, followers should wake up between 3 and 6 in
+the morning to meditate. Followers must remove their shoes and cover their hair when entering this
+religion’s place of worship, and are to learn Punjabi to fully understand the scriptures. Key elements of this
+religion are social equality through refusal of the caste system and support of the community. FTP, name
+this religion founded in the fifteenth century by Guru Nanak; a major religion of India along with
+Hinduism, Islam, and Jainism.
+ANSWER: Sikhism
+13. According to the Clausius-Clapeyron equation, this property is the numerator in the pressure derivative
+at a coexistence curve. Defined by Joseph Black in about 1750, this energetic may be divided by a sensible
+heat transfer to yield the inverse of Bowen’s ratio. Fundamentally, this quantity exists because there is
+some potential energy change to changing the phase of a material, even at constant conditions. FTP,
+identify this quantity from thermal chemistry; the amount of energy required to cause a material to change
+phase.
+ANSWER: latent heat (or latent enthalpy; prompt on things like “heat of fusion”, “heat of melting”, “heat
+of evaporation”, etc.)
+14. Positing the pineal gland as the resolving his namesake dualism problem, this person derived the result
+known as Snell’s law independent of Snell. Known for the Meditations on First Philosophy that he
+produced in 1641, this thinker’s four-part major work, Essais philosophiques, was published in 1637 and
+included the notable Discourse on Method. FTP, name this French mathematician and philosopher who
+coined the saying “Cogito Ergo Sum,” “I think, therefore I am.”
+ANSWER: Rene Descartes
+
+15. This person’s attempts to write for the stage ended with the failure of Guy Domville. Milly Theale’s
+illness turns the plot of this author’s The Wings of the Dove, which joins The Golden Bowl among his later
+novels. Lambert Strether is sent to Paris after Chad Newsome in this writer’s The Ambassadors, while a
+love story set against the women’s suffrage movement is told in The Bostonians. FTP, name this AngloAmerican author best known for Daisy Miller, The Turn of the Screw, and The Portrait of a Lady.
+ANSWER: Henry James
+16. This city of 30,000 residents is the largest in it the country in that it serves as one of the four quartiers;
+that country has no official capital. It boasts a major Formula One Grand Prix, and a major tennis
+tournament that was won in 2006 and 2005 by Rafael Nadal. FTP, name this Mediterranean resort city, a
+favorite vacation spot of James Bond, which is currently overseen by its Crown Prince Albert II of Monaco.
+ANSWER: Monte-Carlo
+17. This vector field is obtained by operating on the auxiliary field known as H with the permeability tensor
+or by operating on the vector potential with the curl. This vector field is identically divergence-free by
+Gauss’ law, as no monopole sources of this field exist. The laws of Biot [bee-YO] and Savart [suh-VAR]
+and Ampere may be used to calculate this field in free space due to some current distribution. FTP, name
+this field from physics that deflects currents, has SI units of Tesla, and points away from the North pole.
+ANSWER: the magnetic field density (or magnetic flux density or magnetic induction or B)
+18. This 1939 film had at least four directors work in it over the course of its production. It has been rereleased several times following its initial release; once in 1967 and again in 1998. Though it lost the Best
+Picture Oscar to Gone With the Wind, it did win for Best Score and Best Song. Featuring Ray Bolger, Burt
+Lahr, and Jack Haley, it has some differences to the book and stage play, including a change of color for
+one important prop. FTP, name this Judy Garland film that took audiences “over the rainbow.”
+ANSWER: The Wizard of Oz
+19. The bill was sponsored by Dorman Eaton and he was made the first head of the commission created by
+it. When first passed, it only protected ten percent of federal workers, but now it protects ninety percent
+from such practices as being fired due to political affiliation. It also prevented political parties from
+demanding a percentage of federal workers’ salaries. FTP, name this 1883 act that started to put an end to
+the spoils system.
+ANSWER: Pendleton Civil Service Reform Act
+20. The general version of this physical lemma is relation between the stress and strain with a tensor of
+proportionality known as Young’s modulus. Harmonic oscillators obey this law to a linear approximation,
+so it is useful in quantum mechanics, and it does not apply above a point known as the elastic limit because
+it models reversible, elastic displacements. FTP, name this physical law that is usually given as simply F
+equals minus k delta x, or the restoring force is proportional to the distance of displacement.
+ANSWER: Hooke’s law
+21. As a teenager he led “Ezra”, a Zionist youth group, and, after arriving in Israel, he established the selfdefense group “Hashomer.” In the 1920's, he dominated the Histadrut and in 1935 was elected chairman of
+the World Zionist Organization. He presided over various projects including “Operation Magic Carpet,”
+which was aimed at developing the newly created nation of Israel. FTP, name this first Israeli Prime
+Minister.
+ANSWER: David Ben-Gurion (or David Gruen)
+
+UIUC Earlybird 2006 - Round 10
+(Bonuses by UIUC Academic Buzzer Team)
+1. Given the state, name the most recent United States Vice President to call it his home state while running
+for office.
+[10] Wyoming.
+ANSWER: Richard Cheney
+[10] Indiana.
+ANSWER: J. Danforth Quayle
+[10] Minnesota.
+ANSWER: Walter Mondale
+2. Answer each of the following about the English Civil Wars FTP.
+[10] The Civil War began over the fate of this king of England, who was eventually executed by Parliament
+on January 30, 1649.
+ANSWER: Charles I (prompt on "Charles")
+[10] This force of Roundheads was highly disciplined and professional. Commanded by Thomas Fairfax, it
+defeated Prince Rupert's Cavaliers at the Battle of Naseby, doing much to win the English Civil Wars.
+ANSWER: the New Model Army
+[10] This second-in-command of the New Model Army went-on to infamy as England's Lord Protector
+following the Civil Wars.
+ANSWER: Oliver Cromwell
+3. Name these people executed in literature FTPE.
+[10] In The Executioner’s Song by Norman Mailer, he is the man being executed for murder in Utah.
+ANSWER: Gary Gilmore
+[10] This Dickens character ends his life with meaning by switching places with and being executed instead
+of Charles Darnay.
+ANSWER: Sidney Carton
+[10] In An American Tragedy, he is tried for letting his pregnant girlfriend Roberta Alden drown. He is
+convicted and then electrocuted.
+ANSWER: Clyde Griffiths
+4. Answer each of the following about a Greek hero FTP.
+[10] This hero was fond of wearing the impenetrable skin of the Nemean lion, which he killed as the first of
+the Twelve Labors that he performed for his half-brother Eurystheus after killing his wife.
+ANSWER: Heracles (or Herakles or Hercules)
+[10] Though Heracles was the son of Zeus by Alcmene, this man, Alcmene’s husband and the king of
+Tiryns, raised him.
+ANSWER: Amphitryon
+[10] This second wife of Heracles proved his undoing after the centaur Nessus tricked her into poisoning
+him, which hurt so much that he immolated himself.
+ANSWER: Deianeira
+5. Identify the following groups from the American Revolution FTPE.
+[10] The first of these groups, created in Boston, originally called themselves the Loyal Nine and their first
+victim was Andrew Oliver. Contrary to popular belief, Sam Adams was not among their ranks.
+ANSWER: the Sons of Liberty
+[10] Many members of the Sons of Liberty were also members of these groups, who originally formed to
+oppose the Currency Act. Sam Adams was among their chief propagandists.
+ANSWER: Committees of Correspondence
+[10] This body convened in Philadelphia’s Carpenters Hall on September 5, 1774, and Georgia was the
+only colony not to send a delegate to it . It did not want independence, but rather a voice in London.
+ANSWER: the First Continental Congress (prompt on "Continental Congress" or "Congress")
+
+6. Name each of the following realms of the Christian afterlife FTSNOP.
+[5] Christ’s absolution of your sin and maybe being good or something like that will get your soul to this
+eternal paradise, where god is, etc. Aquinas claims one can see hell from here.
+ANSWER: heaven
+[10] Cribbed from the Eastern idea of Hamestagan, this is a place for elect souls to work-off their venial
+sins by temporal punishment. It is notable for being dogma in spite of never being mentioned in the Bible at
+all.
+ANSWER: purgatory
+[15] Likewise never mentioned in the Bible is this home of souls of the innocent but un-elect, such as dead
+babies. On account of the Pope having recently said so, it does not actually exist anymore.
+ANSWER: limbo
+7. Name the following people who were involved in the Watergate scandal FTPE.
+[10] He resigned as Attorney General in 1972 and was named chairman of CREEP.
+ANSWER: John Mitchell
+[10] This judge presided over the trial of the Watergate Seven.
+ANSWER: John Sirica
+[10] After Richard Kleindienst resigned as Attorney General, this man was designated as Attorney General,
+but resigned rather than to fire Special Prosecutor Archibald Cox.
+ANSWER: Elliot Richardson
+8. Given a quote, identify the Robert Frost Poem in which you would find it FTPE.
+[10] “He never did a thing so very bad / He don’t know why he isn’t quite as good / As anyone. He won’t
+be made ashamed / To please his brother, worthless though he is.”
+ANSWER: Death of the Hired Man
+[10] “My little horse must think it queer / To stop without a farmhouse near / Between the woods and
+frozen lake / The darkest evening of the year.”
+ANSWER: Stopping by Woods on a Snowy Evening
+[10] “He is all pine and I am apple orchard. My apple trees will never get across / And eat the cones under
+his pines, I tell him. He only says, ‘Good fences make good neighbors.’”
+ANSWER: Mending Wall
+9. Answer the following about a branch of philosophy in American FTPE.
+[10] From the Greek word meaning “action” or “affair,” this school of philosophy emphasizes action and
+experience over doctrine and principles, focusing on practicality of ideas.
+ANSWER: pragmatism
+[10] This leader of the pragmatist movement wrote 1890’s Principles of Psychology among other works.
+ANSWER: William James
+[10] This Pragmatist was noted for his significant contributions to physics, logic, and philosophy. His
+philosophical contributions include the “categories” of quality, relation, and representation.
+ANSWER: Charles Saunders Pierce [PURSE]
+10. Answer the following about an epic FTPE.
+[10] In this poem, sometimes called the Indian Kalevala, the title figure revenges his mother Wenonah
+against his father the West Wind.
+ANSWER: The Song of Hiawatha
+[10] When this character, Hiawatha’s his wife, falls ill, he goes with her to the land of the Northwest Wind.
+ANSWER: Minnehaha
+[10] Hiawatha had four magical articles of clothing made from deerskin. Identify any of them.
+ANSWERS: a pair of mittens or a pair of moccasins (accept a pair of gloves or a pair of shoes)
+
+11. Name each of the following particles FTP.
+1. This neutral nucleon is the basis of nuclear fission power and was discovered by Chadwick.
+ANSWER: neutron
+2. This particle, a quantum of luminous energy, can undergo a number of fascinating scattering processes
+including Compton scattering.
+ANSWER: photon
+3. Interaction with fields of this as-yet-undiscovered boson is posited to provide the symmetry breaking that
+gives particles mass. CERN’s LHC will begin searching for it soon.
+ANSWER: Higgs boson (or Higgs particle)
+12. Name these photographers from description FTPE.
+[10] This American-born surrealist is best known for Le Violin d’Ingres and his trademark technique, the
+rayograph.
+ANSWER: Emmanuel Radnitzky
+[10] Best known for her photographs of dwarfs and other freaks from the 1960’s, this artist committed
+suicide in 1972.
+ANSWER: Diane Arbus
+[10] The founder of Gallery 291, which introduced the European avant-garde to America, this photo
+pioneer and was married to Georgia O’Keefe, whom he photographed several times.
+ANSWER: Alfred Steiglitz
+13. Name the position next in the Presidential succession order after the given position FTPE.
+[10] Vice President.
+ANSWER: Speaker of the House
+[10] Speaker of the House.
+ANSWER: President Pro Tempore of the Senate
+[10] Secretary of Veteran's Affairs.
+ANSWER: Secretary of Homeland Security
+14. Answer each of the following about an event from French history FTP.
+[10] This captain was found guilty of espionage in 1894 and sent to Devil’s Island while the Army tried to
+cover-up the affair. When Emile Zola found out about this, he published a denunciation, J'accuse.
+ANSWER: Alfred Dreyfus
+[10] J'accuse was published in Aurore, a daily owned by this future premier of France.
+ANSWER: Georges Clemenceau
+[10] Georges Picquart eventually discovered that this officer was guilty of the crimes that Dreyfus had been
+convicted of, and he himself eventually admitted that this was the case, after fleeing to London to live as
+the Comte de Voilemont.
+ANSWER: Marie-charles-ferdinand Walsin Esterhazy
+15. In dishonor of the White Sox recent failure to make the playoffs, name these players who were on the
+2005 White Sox, but not the 2006 White Sox, all of whom replaced one another in some sense, FTPE.
+[10] The most notable loss is this designated hitter, recently voted greatest player in Sox history, who has
+gone on to help Oakland win the AL West.
+ANSWER: Frank Edward Thomas
+[10] This somewhat erratic DH/outfielder was brought in largely to replace an injured Thomas. He has a
+crazy batting stance, doesn’t believe in dinosaurs, and eventually wound-up with Seattle.
+ANSWER: Carl Edward Everett
+[10] This double-flap-helmet-wearing, bench-warming infielder pinch-ran for Everett in the decisive Game
+4 of the World Series and scored the winning run, but was let go to Boston so he could get a chance to start
+(which he didn’t.)
+ANSWER: William Charles Harris
+
+16. Given the head of a state, name the capital of the country he or she serves FTPE.
+[10] Angela Merkel.
+ANSWER: Berlin
+[10] Stephen Harper.
+ANSWER: Ottawa
+[10] Giorgio Napolitano.
+ANSWER: Rome (or Roma)
+17. Consider a plane triangle vertices at (0,0) [zero zero], (0, 4) [zero four], and (2,0) [two zero]. FTPE:
+[10] These are the coordinates of the midpoint of the hypotenuse.
+ANSWER: (1, 2)
+[10] This is the area of the triangle.
+ANSWER: four
+[10] These are the coordinates of the centroid of the triangle.
+ANSWER: (2/3, 4/3) [two thirds four thirds]
+18. Answer each of the following about biochemical lab techniques FTP.
+[10] Tollen’s reagent can qualitatively detect the presence of these formyl-containing compounds, which it
+can differentiate from the related ketones.
+ANSWER: aldehydes
+[10] Performing a similar function to Tollen’s reagent is this solution, which forms a red cuprous oxide
+precipitate if aldehydes are present, but does nothing for ketones.
+ANSWER: Fehling’s solution
+[10] Like Fehling’s solution, Benedict’s reagent produces a precipitate of cuprous oxide; however,
+Benedict’s reagent turns red in the presence of these simple sugars, examples of which include glucose,
+fructose, galactose, and ribose.
+ANSWER: monosaccharides (prompt on “saccharides”)
+19. Identify each of the following about an opera FTP.
+[10] In this opera, a beautiful gypsy seductress trades the affections of Don Jose [joe-SAY] for those of a
+bullfighter, Escamillo [ess-cuh-ME-yo], with tragic results… for her.
+ANSWER: Carmen
+[10] This Frenchman created The Pearl Fishers and two Symphonies, but is by far more famous for having
+composed Carmen.
+ANSWER: Georges Bizet (or Alexandre-César-Léopold Bizet)
+[10] In Carmen, Carmen is employed in a factory that produces these.
+ANSWER: cigarettes
+20. Given a biographical novel by Irving Stone, identify its subject FTPE.
+[10] Sailor on Horseback.
+ANSWER: Jack London
+[10] The Agony and the Ecstasy.
+ANSWER: Michelangelo di Lodovico Buonarroti Simoni
+[10] Adversary in the House.
+ANSWER: Eugene Victor Debs
+
+

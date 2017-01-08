@@ -1,0 +1,375 @@
+Bergen Academies Spring Quizbowl Tournament 2016
+Written by Zachary Stier, Rebecca Rosenthal, David Song, Alon Millet, Ryan Murphy, Michael Gleyzer, Bergen Academies
+Quizbowl Team; Trent Kannegieter, Bayside Academy; Alex Katz, Massachusetts Institute of Technology.
+Special thanks to Alex Dzurick, Ben Zhang and Jon Pinyan.
+
+Round 6: Tossups
+1. In a short story by this author, a wish-granting vessel once owned by Napoleon and Captain Cook must be sold
+for less than Keawe paid for it. That story, “The Bottle Imp”, was first published in the collection South Sea Tales,
+which was inspired by this author’s (*) travels to New Zealand and Samoa. The narrator of one of this author’s works
+investigates the murder of a little girl who was “trampled”, and his client, Sir Danvers Carew. That novella by this author
+ends when Mr. Utterson discovers his friend’s dual alternate identity as the title characters. Another novel by this author
+features Jim Hawkins and Long John Silver. For ten points, name this Scottish author of Treasure Island and Dr. Jekyll
+and Mr. Hyde.
+ANSWER: Robert Louis Stevenson
+2. Benoit Mandelbrot [“ben-WAH MAN-dell-brah”] worked early in his career at this company, where he noticed
+self-similarity in signal transmissions. The Zurich research center for this company saw the development of the
+Nobel Prize-winning scanning tunneling microscope. This company’s logo was famously designed by Paul (*) Rand,
+and features stripes across the letters. A computer built by this company that currently operates at two healthcare facilities
+is named for this company’s first CEO, Thomas Watson, and beat Ken Jennings at Jeopardy!. For ten points, name this
+multinational computer company once known as “Big Blue.”
+ANSWER: IBM (International Business Machines)
+3. Invented by James Devonshire, John Jaques III trademarked one commonly used name for this game. In 1971,
+the United States team playing this game crossed from Hong Kong to the Chinese mainland, becoming the first
+Americans to do so since the Communist revolution. Ma Lin, a Chinese player of this game, is known for a (*) serve
+that spins backwards, away from the opponent; that is his “Ghost Serve.” One notable doubles pairing is Timo Boll and
+Ma Long, both of whom are ranked in the top 10 in the world by the ITTF. For ten points, name this game played with a
+paddle, small plastic ball and a net on a flat surface.
+ANSWER: table tennis or ping pong
+4. The TUNEL assay can be used to detect the fragments produced by this process. The Annexin V assay detects
+the occurrence of this phenomenon, which is inhibited during late stages of herpes simplex virus infections. This
+process can begin with the binding of Fas ligands released by a class of T cells, an event that forces the cell
+membrane to form (*) blebs. Proteins that mediate this are themselves regulated by the Bcl2 class of proteins. It occurs
+exactly 131 times during the development of C. elegans, and its failure in the human body causes webbed fingers and
+toes. For ten points, the mitochondrial release of cytochrome c can trigger what process of programmed cell death?
+ANSWER: apoptosis (prompt on “programmed cell death” before mention)
+5. This man’s friendship with Carlos Chávez formed a deep influence on his understanding of musical tone,
+inspiring his first ever international success. Chávez also conducted that piece at its premiere and gave it the name
+El Salón México. He composed suites like (*) Billy the Kid and Rodeo before composing a work choreographed by
+Martha Graham. That ballet was only exceeded in popularity by his Fanfare for the Common Man. For ten points, name
+this American composer of the ballet Appalachian Spring, which has a movement inspired by the Shaker hymn “Simple
+Gifts”.
+ANSWER: Aaron Copland
+6. This man’s service during World War II inspired his novel Love the Revolution! and the poem “Prussian
+Nights”. Another of his novels features the intellectual Tsezar, who receives food from his family and gives some to
+the main character. In a related book by this author, he writes that (*) labor camps were in existence since Lenin’s
+time and their cruelty was simply amplified during Stalin's dictatorship. Another of his works is the semi-autobiographical
+allegorical novel Cancer Ward. For ten points, name this author of One Day in the Life of Ivan Denisovich and The Gulag
+Archipelago.
+ANSWER: Aleksandr Solzhenitsyn
+
+1
+
+7. This mathematical branch shares a name with a type of structure that satisfies the Jacobi identity. One of its
+sub-branches is based on Hilbert’s nullstellensatz, and another, which uses eigenvalues in such processes as shear
+transformations, is motivated by solving (*) matrix and vector relations. One of its abstract sub-branches studies sets
+with operations known as groups, rings and fields. Its fundamental theorem states that every non-constant complex
+polynomial has at least one root. For ten points, name this branch of mathematics, which may be summarized by “find x”.
+ANSWER: algebra, or algebraic geometry, or linear algebra, or abstract algebra
+8. This body came under controversy in 2007 when it instituted a rule banning certain activities at above 2.5
+kilometers. David Nakhid ran for the leadership of this body, which with the IFAB is jointly responsible for the
+Laws of the Game. In 2015, this organization’s Ethics Committee banned Jack Warner for life in a case that also
+resulted in the suspension of President (*) Sepp Blatter for 90 days. A concurrent investigation concerns this
+organization’s role in awarding events to Russia in 2018 and Qatar in 2022. For ten points, what governing body of
+soccer organizes the World Cup every four years?
+ANSWER: FIFA (accept Fédération Internationale de Football Association or International Federation of
+Association Football)
+9. During Reconstruction, D.N. Cooley sought out ways to cause factions to form in this group, and the United
+Keetoowah Band of these people is headquartered in Tahlequah, Oklahoma. This member of the “Five Good
+Tribes” were the plaintiffs in (*) Worcester v. Georgia, and a silversmith of this tribe worked for a year until he had
+developed an 86-character system. For ten points, name this Native American tribe whose writing system was invented by
+Sequoia.
+ANSWER: Cherokee Tribe
+10. This figure killed Halirrhothius, who was the rapist of his daughter Alcippe. This lover of Enyo also killed
+Adonis while disguised as a boar. Hermes rescued this god after he was trapped by the Aloadae in a bronze urn.
+During the Trojan War, he was stabbed by (*) Diomedes, and his scream stopped battles from both sides. In one story,
+this god was caught by Hephaestus while having an affair with his wife. Phobos and Deimos were the result of that affair
+with Aphrodite. For ten points, name this Greek god of war.
+ANSWER: Ares (do not accept or prompt on “Mars”)
+11. This philosopher explored the experimental writing of Raymond Roussel in Death and the Labyrinth. An
+analysis of Las Meninas opens a work by him that describes the relationship between language and the “return of
+man”. This author of The History of Madness described the use of the “medical gaze” by doctors to subtract
+patients’ humanities from their bodies. Another work of his described the (*) Great Confinement while criticizing
+insanity. He famously used the image of Jeremy Bentham’s Panopticon to describe society as a prison. For ten points,
+name this French postmodernist author of Madness and Civilization and Discipline and Punish.
+ANSWER: Michel Foucault
+12. Quintessence and phantom energy are theoretical phenomena that attempt to describe this quantity’s effects
+cosmologically. Its time derivatives include jounce, snap, crackle and pop, though its first time derivative is called
+jerk. Velocity squared divided by radius gives its (*) centripetal form, while Newton’s Second Law dictates that it
+force is equal to mass times this quantity, most commonly measured in meters per second squared. For ten points, name
+this kinematic quantity, the rate of change of velocity.
+ANSWER: acceleration
+13. This city’s Metropolitan Crest is a monochromatic sun emanating six beams of light. Coronet was the
+codename for an abandoned plan to invade this location as part of Operation Downfall. This place’s 5 machi and 8
+mura form part of its metropolis, and in 1947, this city’s 35 (*) wards were merged into 22, with the 23rd, Nerima,
+being added in August of that year. This host of the 1964 and 2020 Summer Olympics became the de facto national
+capital when Emperor Meiji relocated. For ten points, name this largest city in Japan, its capital.
+ANSWER: Tokyo
+
+2
+
+14. In one story in this text, Caesar’s daughter refutes his claim that God is a thief by arguing that it is better that
+Adam’s rib was taken in his sleep. In another story, the only blessing a man can provide to a bountiful tree is
+equally bountiful offspring. A 14-volume codification of this text was composed by (*) Maimonides, and notable
+contributions included editing by Judah and scholarship by Rashi. This work is often paired with the Midrash, and
+consists of the Mishna and Gemara. For ten points, name this commentary on and interpretation of Jewish jurisprudence.
+ANSWER: Talmud (accept Talmud and Midrash before the latter’s mention, at no point accept just “Midrash”)
+15. The Black Tom munitions explosion occurred on an island named for this concept. One work titled for this
+concept argues that despots like Charlemagne benefit “barbarian” nations, and denounces the “tyranny of the
+majority”. That work was heavily influenced by its author’s wife and is a (*) Utilitarian essay was written by John
+Stuart Mill. Rand and Ron Paul are proponents of a political ideology named for this concept, and this concept is included
+in the French national motto along with “égalité” and “fraternité”. Patrick Henry asked for this “or … death”. For 10
+points, name this concept whose “Statue” and “Bell” are American landmarks.
+ANSWER: liberty (or On Liberty or liberté, prompt on “libertarian” or “libertarianism”)
+16. This artist painted a portrait of a man in a brown coat and white collar, his Moorish assistant who also went on
+to have a painting career, Juan de Pareja. That painting’s composition parallels the red-toned portrait of Pope
+Innocent X this artist later painted. Cupid holds a (*) mirror in front of the nude title goddess in this painter’s Rokeby
+Venus. In his most famous painting, a nun and a man on a stairwell appear in the background, while a large dog and two
+dwarves stand beside the title ladies-in-waiting. For ten points, name this Spanish painter of Las Meninas.
+ANSWER: Diego Rodríguez de Silva y Velázquez
+17. The surface of Io is colored by the presence of compounds of this element. On Earth, those compounds are
+produced by active volcanoes and fumaroles, making Sicily a hotspot of mining this element. The most common
+allotrope of this element is a crown-shaped ring containing (*) 8 atoms. It is produced synthetically by extraction from
+petroleum and natural gas, and amino acids containing this element form namesake “bridges” in proteins. It is critical in
+rubber production due to its role in vulcanization. For ten points, name this element, called brimstone in the Bible, that is
+known for its distinctive yellow color and for smelling like rotten eggs.
+ANSWER: sulfur, prompt on “S”
+18. The protagonist of this story was once called the “Golden Cicada”, and is reunited with his mother after she
+promises to donate one hundred pairs of shoes. Another character is banished after he flirts with the moon
+goddess, and lives in the Cloud Pathway Cave. The conclusion of this novel sees a monk and his disciples receive
+scriptures from the (*) Buddha on Vulture Peak. One of those students wields the Ruyi Bang, a staff that can change its
+length; that character is also King of the Monkeys. For ten points, name this Great Classical Novel of China where
+Xuanzang and Sun Wukong travel to India.
+ANSWER: Journey to the West (accept Xi You Ji)
+19. One pioneer of the bebop style who played this instrument was a member of the “Trio” and “Quintet,” Max
+Roach. One player of this instrument led the Jazz Messengers and enabled many young musicians to develop; that
+player was Art Blakey. As a child, bandleader (*) Buddy Rich was known as “Traps” because of his “wonder”ous
+ability to play this instrument. Jo Jones, a member of the rhythm section who played this instrument, threw his cymbal at
+Charlie Parker’s feet. For ten points, name this instrument that may be played with sticks.
+ANSWER: drums or drum kit or drum set, etc.
+20. This author asserted that it was “dreary” to be “public – like a Frog” and “somebody” in one poem. Her works
+were not originally titled and many were published posthumously by her family. Along with “I’m nobody! who are
+you?”, in another poem this author described (*) “the School, where Children strove / at Recess” that the speaker
+passed with the title character. She noted that the “Stillness in the Room / was like the Stillness in the Air” after doing the
+title action in “I heard a Fly buzz”. For ten points, name this solitary “Belle of Amherst” who wrote the poem “Because I
+could not stop for death”.
+ANSWER: Emily Dickinson
+
+3
+
+Tiebreaker Question:
+The Battle of the Allia in the late 4th century led to one instance of this event. In 1527, Duke Charles III of
+Bourbon was forced by his as-of-yet unpaid troops to perform this action. Robert Guiscard performed this action
+on Hildebrand’s behalf in 1084 in order to counter a coup by Henry IV of Germany. Geiseric led the (*) Vandals in
+this action in 455, while Totila and Alaric led Gothic groups in this action in the 5th and 6th centuries. For ten points,
+Pope Leo I talked Attila the Hun out of performing what action involving destruction of an empire’s capital?
+ANSWER: invading Rome, or sacking Rome, or any equivalent having to do with capturing Rome
+
+4
+
+Round 6 Bonuses
+1. This modern-day nation is home to the region of Navarre, which lost its independence in the Convention of Vergara.
+For ten points each:
+[10] Name this European nation, home to cities such as Balboa and Pamplona in the separatist Basque Country.
+ANSWER: The Kingdom of Spain
+[10] This Basque separatist organization is known for its violent tactics, and notably assassinated Prime Minister Luis
+Carrero Blanco with a car bomb in 1973.
+ANSWER: Euskadi Ta Askatasuna (ETA)
+[10] The ETA’s logo features a snake, representing politics, around one of these objects, representing armed struggle.
+ANSWER: axe
+2. For ten points each, name these birds that appear in poetry:
+[10] This creature, a “light-winged Dryad of the trees” is never actually mentioned in the John Keats poem it titles.
+ANSWER: the nightingale (from “Ode to A Nightingale”)
+[10] The only thing moving in this Wallace Stevens poem was the eye of the title bird. The speaker observes that this
+coal-colored avian “sat / In the cedar-limbs”.
+ANSWER: “Thirteen Ways of Looking at a Blackbird”
+[10] This large seabird titles a poem from Charles Baudelaire’s Les Fleurs du mal.
+ANSWER: “The Albatross”
+3. For ten points each, name the following science fiction novels:
+[10] Ford Prefect, who took his name from a car model, Marvin the Paranoid Android, and Arthur Dent travel to
+Betelgeuse in this Douglas Adams series.
+ANSWER: The Hitchhiker’s Guide to the Galaxy, prompt on just “Hitchhiker’s Guide”
+[10] In this novel, Alex DeLarge has a predilection for “ultraviolence” and frequents the Korova Milk Bar, where he and
+his “droogs” drink laced refreshments.
+ANSWER: A Clockwork Orange (by Anthony Burgess)
+[10] In this novel, the mantra is “everyone belongs to everyone else”, and is set in the year 632 “After Ford”.
+ANSWER: Brave New World (by Aldous Huxley)
+4. Franz Boas was her doctoral advisor at Columbia University. For ten points each:
+[10] Name this author of Sex and Temperament in Three Primitive Societies.
+ANSWER: Margaret Mead
+[10] Mead’s most famous work comes from studies done on the island of Ta’u in this location.
+ANSWER: (Coming of Age in) Samoa, or Samoan Islands, etc.
+[10] This anthropologist published two books criticizing Coming of Age in Samoa, including The Fateful Hoaxing of
+Margaret Mead.
+ANSWER: Derek Freeman
+5. This man’s policies concerning circumcision sparked the Bar Kokhba Revolt. For ten points each:
+[10] Name this “good” Roman emperor who built a namesake wall in Britain.
+ANSWER: Publius Aelius Hadrianus Augustus
+[10] In the Bar Kokhba Revolt, Hadrian sent his general Julius Severus to this Roman province. It was the birthplace of
+the historian Josephus.
+ANSWER: Judea, do not accept or prompt on “Israel”
+[10] 58 years before the Bar Kokhba Revolt began, the First Jewish-Roman War ended at what location, where the
+remaining members the the Sicarii killed themselves?
+ANSWER: Masada
+
+5
+
+6. Trisecting an arbitrary angle is an impossible challenge using these objects. For ten points each:
+[10] What two instruments are used in classical constructions, and allow you to draw circles and straight lines?
+ANSWER: compass and straightedge (or ruler and compass)
+[10] Compass-and-straightedge constructions cannot solve equations of degree 3 or higher, which is why this problem
+cannot be solved with only the two. It is equivalent to finding the one-third power of 2.
+ANSWER: doubling the cube (accept equivalents such as “constructing a cube with twice the area”)
+[10] This area of mathematics was used to show that trisection and cube-doubling are impossible. It was also used to show
+that there is no generic formula for the roots of a fifth-degree polynomial.
+ANSWER: Galois theory
+7. Answer these questions about 19th century Russian literature, for ten points each:
+[10] This title character of a novel by Leo Tolstoy falls in love with Count Vronsky to the dismay of her husband, Alexei
+Alexandrovich.
+ANSWER: Anna Karenina
+[10] Alexander Pushkin wrote about this character who kills Lensky in a duel and is rejected by his earlier love Tatiana in
+a novel in verse. The character came to title the “stanza” of rhyme scheme and meter used in the novel.
+ANSWER: Eugene Onegin
+[10] This author of A Hero of Our Time succeeded Pushkin following the latter’s death as a leading Russian poet. Like
+Pushkin, he also died as a result of a duel.
+ANSWER: Mikhail Lermontov
+8. His namesake “folly” pertained to a purchase of land from Russia. For ten points each:
+[10] Name this member of the Abraham Lincoln and Andrew Johnson cabinets who was almost assassinated on the same
+day as Lincoln.
+ANSWER: William Henry Seward
+[10] Seward held this role under both Lincoln and Johnson. Other holders of this office included the first, Thomas
+Jefferson, as well as Henry Clay.
+ANSWER: Secretary of State of the United States of America
+[10] This Secretary of State under Grover Cleveland issued his “Corollary” during a border dispute between Britain and
+Venezuela.
+ANSWER: Richard Olney
+9. It’s time to Duel! For ten points each:
+[10] Dark Magician and Blue-Eyes White Dragon are characters in Duel Monsters, which is the basis of this anime and
+manga series. It is also the name of a popular trading card game.
+ANSWER: Yu-Gi-Oh!
+[10] This monster, called “the Forbidden One”, is split into five pieces. If a Duelist has all five in his hand, then he
+automatically wins the Duel.
+ANSWER: Exodia
+[10] The Millennium Objects, including the Millennium Puzzle, feature this Egyptian symbol of protection. It is an
+emblem of a falcon-headed Egyptian god.
+ANSWER: The Eye of Horus (accept Wdjat or Wadjet)
+10. This man’s Hannibal Crossing the Alps shows very little of the title figure, instead focusing a looming snowstorm. For
+ten points each:
+[10] Name this British painter who portrayed a rabbit and an oncoming train in Rain, Steam, and Speed.
+ANSWER: J(oseph) M(allord) W(illiam) Turner
+[10] Another staple of Turner’s paintings were these objects, often shown battling great waves on the open ocean, or in
+the case of Calais Pier, docking. He also painted the sick and dying being thrown from a “slave” one of these vehicles.
+ANSWER: boats (or ships)
+[10] Although not showing a ship per se, this Théodore Géricault painting shows the aftermath of a shipwreck of the coast
+of Mauritania.
+ANSWER: The Raft of the Medusa
+
+6
+
+11. When Amulius seized the throne of Alba Longa from Numitor, this woman was forced to become a Vestal Virgin. For
+ten points each:
+[10] Name this woman, who gave birth to two boys while serving as priestess but claimed Mars was their father.
+ANSWER: Rhea Silvia
+[10] One of those boys went on to found this city on seven hills adjacent to the Tiber after killing his brother Remus.
+ANSWER: Rome (or Roma)
+[10] Romulus and Remus descended indirectly from this Trojan who carried his father Anchises on his back while fleeing
+the city.
+ANSWER: Aeneas
+12. Despite the immense variety of life, almost all organisms follow similar routes to genetic reproduction. For ten points
+each:
+[10] Name this concept in biology that describes the path of genetic information of DNA to RNA to protein.
+ANSWER: central dogma of biology
+[10] Some viruses, including the retrovirus family, use this protein to go backwards - from RNA to DNA. This protein
+thus allows them to have an RNA genome.
+ANSWER: reverse transcriptase
+[10] Prions are pathogens that don’t even use nucleic acids at all. Instead, they cause debilitating diseases by causing
+surrounding proteins to misfold, including this affliction that causes sheep to itch so hard they break their skin.
+ANSWER: scrapie (accept spongiform encephalopathy)
+13. At Columbia University, he worked to preserve the folk music of Serbia and Croatia. For ten points each:
+
+[10] Name this musician who wrote the ballet The Wooden Prince.
+ANSWER: Béla Bartók
+[10] Bartók hailed from this European nation with capital Budapest. Other composers of that same nationality included
+Gyorgy Ligeti and Franz Liszt.
+ANSWER: Hungary
+[10] Bartók’s only opera was this one, based on a Hungarian folk tale, which tells of an aristocrat shunned because of his
+distinctive facial hair.
+ANSWER: Duke Bluebeard’s Castle
+14. In this novel, a servant named Lee discusses the meaning of “timshel” and the brothers Charles and Adam live near
+Cathy Ames. For ten points each:
+[10] Name this novel set in California’s Salinas valley that centers on several generations of the Trask family’s lives.
+ANSWER: East of Eden
+[10] East of Eden was described as the “most ambitious novel” written by this 1962 Nobel Prize winner.
+ANSWER: John Steinbeck
+[10] Steinbeck also penned this novel, which chronicles the Joad family’s journey from Oklahoma to California in search
+of work during the Dust Bowl.
+ANSWER: The Grapes of Wrath
+15. For ten points each, give the following about two Allied generals during World War II:
+[10] In August 1943, American General George S. Patton captured this Northeastern Sicilian city, having taken a
+roundabout route from the landing point. This city served as a key entry point to the Italian mainland.
+ANSWER: Messina
+[10] Patton won the “Race to Messina” against this British general, who often clashed with Patton. He was successful at
+the Second Battle of El Alamein, a victory which led to his being named a Viscount.
+ANSWER: General Bernard Law Montgomery,
+[10] This German general, nicknamed the “Desert Fox,” was vanquished by Montgomery at El Alamein and Patton at El
+Guettar.
+ANSWER: Erwin Rommel
+
+7
+
+16. Her ferocious forms include Durga and Kali. For ten points each:
+[10] Name this Hindu goddess of love and fertility, regarded as the supreme Shakti. She forms a trinity with Lakshmi and
+Saraswati.
+ANSWER: Parvati
+[10] Parvati is the consort as well as the feminine energy of this blue-skinned Hindu god of destruction, last in the
+Trimurti.
+ANSWER: Shiva
+[10] Shiva and Parvati are popularly thought to be the parents of this deity of art and wisdom. In one version of his origin,
+he gained his elephant head after Shiva beheaded him in anger.
+ANSWER: Ganesha
+17. It’s a small world after all -- or, at least, a tightly packed one. For ten points each:
+[10] Cape Prince of Wales, Alaska, is 51 miles away from Cape Dezhnev, Russia across this strait connecting the Pacific
+and Arctic Oceans.
+ANSWER: Bering Strait
+[10] At 20 miles, the distance between Yemen and Djibouti is even shorter; the Arabian Peninsula is separated from the
+Horn of Africa by this strait.
+ANSWER: Bab-el-Mandeb or the Mandeb Strait
+[10] One of the shortest, however, is the distance between Morocco and Spain. Africa and Europe are separated by less
+than 9 miles across this strait, which are marked by the Pillars of Hercules.
+ANSWER: Strait of Gibraltar
+18. Electrons are very small particles, which can make them hard to find. Luckily, they are localized in specific areas. For
+ten points each:
+[10] Give the name of these areas where electrons are likely to reside. They can have designations like “p” and “s”.
+ANSWER: orbitals
+[10] This theory uses orbital conformation to determine the three-dimensional shape of molecules. It is often combined
+with molecular orbital theory.
+ANSWER: valence shell electron pair repulsion theory, accept vsepr [“vesper”]
+[10] Orbitals of different varieties can combine to form new ones via this process. The same term also describes a
+technique used to determine similarity of DNA.
+ANSWER: hybridization (accept orbital hybridization or DNA hybridization)
+19. The “Radiant Baby” became this artist’s signature image. For ten points each:
+[10] Name this New York City based pop artist and muralist known for his simple, stick-figuresque figures and bold
+colors. He established Pop Shops to display his work.
+ANSWER: Keith Haring
+[10] Haring painted this mural on a wall visible from the Harlem River Drive, inspired by an assistant who was struggling
+with cocaine addiction.
+ANSWER: Crack is Wack
+[10] The HIV-positive Haring suffered from this disease, which was the subject of later works such as Silence=Death. In
+that work, a pink triangle is superimposed on black figures that represented the stigma associated with this condition.
+ANSWER: AIDS (accept acquired immune deficiency syndrome)
+20. The lever and the inclined plane are examples of these. For ten points each:
+[10] Name this group of objects commonly used to increase mechanical efficiency.
+ANSWER: simple machines
+[10] Archimedes’ variant of this simple machine was designed for transferring water uphill, although evidence suggests
+that it was in use in Assyria 350 years before Archimedes’ conception of it.
+ANSWER: screw
+[10] The pulley is a central part of the design of this apparatus, designed in 1784 by an English physicist who sought to
+demonstrate the laws of classical mechanics. It can be used to model string tension.
+ANSWER: Atwood machine
+
+8
+
+21. This author wrote of Basil Miller and Olive Chancellor in The Bostonians. For ten points each:
+[10] Name this American-British author who used his heritage to contrast the two sides of the Atlantic in works such as
+The Portrait of A Lady.
+ANSWER: Henry James
+[10] James often told his stories through these characters whose descriptions cannot be trusted by the reader. Other
+examples of these characters include Humbert Humbert and Holden Caulfield.
+ANSWER: unreliable narrators
+[10] In this Henry James novella, the title character is courted by Winterbourne, who finds her sitting in the center of the
+Colosseum with Giovanelli.
+ANSWER: Daisy Miller
+
+9
+
+

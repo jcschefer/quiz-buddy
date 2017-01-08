@@ -1,0 +1,505 @@
+Fall 2008
+NSC-Format Set
+Round 12
+Related Tossups &
+Bonuses
+
+1. In one of his works, Dianello loves Aurelio Costa, and her father Flaminio tries to starve Sicilian
+workers by shutting down a mine. In another work of his, the title character hears his wife has identified
+him as dead so he takes the name Adriano Meis. In addition to The Old and the Young and The Late
+Mattia Pascal, this man created Madame Pace, who is introduced during a rehearsal of Mixing it Up, and
+an insane man who loves Matilda and believes he is a German king. For 10 points, name this author of
+Henry the Fourth, the creator of a living fictional family in Six Characters in Search of an Author.
+ANSWER: Luigi Pirandello
+In this play, Rebecca Kroll leads Beata to suicide by lying that she is with child. For 10 points each:
+[10] Name this play about the former clergyman Johannes, who becomes a freethinker and commits
+suicide himself in response to Rebecca’s suicide.
+ANSWER: Rosmersholm
+[10] This author wrote Rosmersholm, as well as a play about the wife of George Tessman who burns her
+suitor Eilert Lovborg’s manuscript before shooting herself, Hedda Gabler.
+ANSWER: Henrik Ibsen
+2. Vlasov’s equation is a special case of an equation named after this man in which collisions are
+neglected, while another equation named after this man describes “almost rigid motion.” An equation
+inscribed on his tombstone reads “S = k log W”, where k is his namesake constant. A law stating that the
+energy radiated by a black body is proportional to the fourth power of temperature is named for Stefan
+and this man. For 10 points, name this Austrian scientist, one of the founders of statistical mechanics.
+ANSWER: Ludwig Boltzmann
+It is often used for genomic libraries as it contains no introns. For 10 points each:
+[10] Name this type of DNA that is transcribed from mRNA.
+ANSWER: cDNA [or complementary DNA]
+[10] cDNA libraries are often made using this enzyme, which synthesizes a complementary strand of
+DNA from an RNA molecule.
+ANSWER: reverse transcriptase
+3. A fleet of twenty-one ships under Jacob Binckes installed Anthony Colve as governor of this entity six
+years after its dissolution, and Peter Plockhoy founded a utopian community here. First led by Cornelius
+May, the idea for this entity may have been originated by William Usselincx and it was ruled by the
+Council of Twelve Men. Victors over the Wappani in Kieft’s War, this entity was given to England
+through the Treaty of Breda in 1667. For 10 points, name this entity with leaders including Peter Minuit
+and Peter Stuyvesant, a Dutch colony in America whose capital was New Amsterdam.
+ANSWER: New Netherland
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 1 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Following the assassination of Jean-Jacques Dessalines, this was divided into two parts ruled by
+Alexandre Pétion and Henry Christophe. For 10 points each:
+[10] Name this country, which was later ruled by the dictators “Papa Doc” and “Baby Doc” Duvalier.
+ANSWER: Haiti
+[10] Dessalines, Pétion, and Christophe had all risen to power under this leader of the Haitian
+independence movement, who ruled until Charles Leclerc’s invasion in 1802.
+ANSWER: François Dominique Toussaint Louverture
+4. A green door can be seen in a back room in this painting, and to the left a man in a white hat talks to
+woman in a blue dress and red shawl. A bunch of white flowers in a vase stands next to bottles on a
+yellow-green bar, and near the center stands a white-haired man wearing a cream suit. The clock
+hanging on one of the red walls places the time at a quarter past midnight, and the center is dominated
+by a billiard table. For 10 points, name this painting featuring three glowing orange lamps and a yellow
+floor, an Impressionist take on an eatery by Vincent van Gogh.
+ANSWER: The Night Café
+Giacomo Balla was a member of this movement, whose manifesto was written by the poet Filippo
+Marinetti. For 10 points each:
+[10] Name this Italian movement of around 1910, whose common themes include speed, technology,
+industry, and youth.
+ANSWER: Futurism
+[10] This member of the Futurism movement is responsible for the painting The City Rises and the
+sculpture Unique Forms of Continuity in Space.
+ANSWER: Umberto Boccioni
+5. The tutor Jacques Bossuet was influential in the policies of this man, whose reign saw the visit of Shen
+Fuzong as well as the signing of the Truce of Ratisbon. Michel le Tellier and Nicolas Fouquet both served
+as advisors to this ruler, whose foreign wars were ended by the treaties of Ryswick, the Pyrenees and
+Utrecht. Through the Edict of Fontainebleau, this man revoked the Edict of Nantes, and his ministers
+included Jean-Baptiste Colbert and Cardinal Mazarin. For 10 points, identify this French monarch from
+1643 to 1715, known as the Sun King.
+ANSWER: Louis XIV of France
+The Ridolfi Plot, the Babington Plot, and the Throckmorton Plot were attempts to kill this ruler in order
+to put Mary, Queen of Scots on the throne. For 10 points each:
+[10] Name this monarch who died a natural death and was followed by James I.
+ANSWER: Elizabeth I [prompt on "Elizabeth"]
+[10] William Watson attempted to kidnap this monarch in the Bye Plot, and William Ruthven led a
+namesake raid that was successful in capturing this monarch in 1582.
+ANSWER: James I of England [or James VI of Scotland; prompt on "James"]
+6. One process that occurs in this structure is divided into O-linked and N-linked varieties. The
+chaperone BiP is localized to this structure's lumen, and in liver cells, it detoxifies hydrophobic
+chemicals. Other functions of this organelle include the breakdown of glycogen, lipid synthesis, and
+disulfide bond formation. It consists of a network of vesicles and channels, which are sometimes
+covered by ribosomes. For 10 points, name this cell organelle that comes in smooth and rough varieties.
+ANSWER: endoplasmic reticulum [or ER]
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 2 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+For bubble sort, it is n-squared, as for straight insertion. For 10 points each:
+[10] Name this term for the estimate of the number of operations needed to perform a certain
+algorithm.
+ANSWER: order (or big O; or running time]
+[10] The quicksort method often makes use of these two operations. One of them suspends operations
+and moves to a new task; the other closes those operations and returns to the next highest level.
+ANSWER: push and pop
+This figure cut off the head of an individual for some actions involving a copper fishhook, and
+subsequently Hathor had to help him with some gazelle milk after his eyes got gouged out. This figure
+goes blind during the new moon since his eyes represent the moon and sun. He put plaster around a
+boat of wood to win a contest for control of Egypt, and he fights a war to avenge the murder of his
+father. For 10 points, name this son of Osiris and Isis, an Egyptian god depicted with a falcon’s head.
+ANSWER: Horus [accept Haru]
+During the Isra, he rode on a steed known as Buraq, and during the Mi'raj, is taken to the heavens. For
+10 points each:
+[10] Name this prophet whose wives included Khadijah and Aisha.
+ANSWER: Muhammad ibn ‘Abdullāh
+[10] The Five Pillars of Islam are found mentioned in the Koran, but in this collection of commentaries on
+the life and actions of Muhammad.
+ANSWER: Hadith
+8. Philip Nelson classified these entities into search, experience, and credence types. Demerit ones are
+considered intrinsically bad by an external authority, and public ones are non-excludable and nonrivalrous. For the normal type of these entities, demand increases when income increases, unlike the
+inferior or Giffen types of them. Substitute ones, such as coal and oil, can be used in place of one
+another. For 10 points, name these economic entities which people buy to satisfy a want or need.
+ANSWER: goods
+He proposed the absolute income hypothesis, and represented the United Kingdom at the Bretton
+Woods Conference. For 10 points each:
+[10] Name this economist who argued for government intervention in the economy, and wrote The
+General Theory of Employment, Interest, and Money.
+ANSWER: John Maynard Keynes
+[10] This Austrian economist was a longtime opponent of Keynes and wrote The Road to Serfdom. He
+was a co-winner of the 1974 Nobel with Gunnar Myrdal.
+ANSWER: Friedrich August von Hayek
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 3 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+2008-2009
+NSC-Format Set #1
+Round 12
+Category Quiz
+Bonus Choices
+
+Arts
+Current Events
+Geography
+History
+Literature
+Math Calculation
+Religion
+Social Science
+
+Arts
+Current Events
+Geography
+History
+Literature
+Math Calculation
+Religion
+Social Science
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 4 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Fall 2008
+NSC-Format Set
+Round 12
+Category Quiz Tossups
+
+9. The kinin system was discovered upon realization that injection of it leads to low blood pressure, and
+the surface tension of it is measured in the Hay test. One disease affecting it in infants is a result of a
+mutation in the BCKDHA gene, prevents the breakdown of leucine, isoleucine, and valine, and results in
+it smelling like maple syrup. Albumen is found in it in sufferers of Bright's disease, and it normally
+contains hippuric acid, creatinine, urea, and other nitrogenous compounds. For 10 points, name this
+liquid waste product that is excreted by the kidneys, stored in the bladder, and discharged through the
+urethra.
+ANSWER: urine [or pee; or other synonyms]
+10. His fourth string quartet’s fourth movement is entirely pizzicato and uses “hora lunga” rhythms in
+the third movement. Tibor Serly helped complete his viola concerto, and his 153 solo piano works are
+collected in Mikrokosmos. This composer of the five-movement Concerto for Orchestra also wrote Music
+for Strings, Percussion, and Celesta. For 10 points, name this composer of the opera Duke Bluebeard’s
+Castle, a composer who often used folk tunes and songs from his native Hungary.
+ANSWER: Bela Bartok
+11. In this novel, a duel takes place in which Settembrini refuses to fire at a Jesuit who was converted
+from Judaism, thus leading the character Naphta to shoot himself. The Dutch planter Mynheer
+Peeperkorn comes to the title location after working in Java, and he loves Clavdia Cauchat. Joachim
+Ziemssen is the cousin of the main character, who visits for three weeks and discovers that he has
+tuberculosis, before going skiing against doctor’s orders. For 10 points, name this Thomas Mann novel
+about Hans Castorp’s stay in a Swiss sanatorium.
+ANSWER: The Magic Mountain [or Der Zauberberg]
+12. In the Senate, he was responsible for the Civil Aeronautics Act, and he led the Special Committee
+Investigating National Defense, which exposed graft in arms production. While as a judge, he gained a
+reputation for honesty despite his association with the Pendergast political machine. The subject of a
+biography by David McCullough, this man issued Executive Order 9981 to desegregate the military, and
+his Fair Deal program was largely voted down. For 10 points, name this president from Missouri who
+defeated John Dewey in the 1948 election.
+ANSWER: Harry Truman
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 5 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+13. Prince of Wales is the largest of its Alexander Islands, whose eastern shores contain part of the Inside
+Passage. Other mountain ranges include the Wrangell Mountains and the Brooks Range, and its
+Malaspina Glacier extends from Mount St. Elias to its namesake Gulf. Its islands of Kiska and Attu were
+occupied by Japan during World War II, and Unimak is the easternmost of those Aleutian Islands. For 10
+points, name this U.S. state whose cities include Ketchikan, Sitka, Nome, Fairbanks, Anchorage, and the
+capital, Juneau.
+ANSWER: Alaska
+14. This video’s creator has also made a video that includes a song about eugenics and leaving a body in
+a landfill entitled “Ferrets.” The sequel to this video features a character claiming “tonight we dine on
+turtles” in Spanish while talking to a giant letter Z, and ends with the title character becoming the
+Banana King. The original has the title character being informed he is on a bridge after being shown the
+way by a “magical leopleuridon.” For 10 points, name this video about a trip to Candy Mountain by a
+mythical horned creature.
+ANSWER: Charlie the Unicorn
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 6 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Fall 2008
+NSC-Format Set
+Round 12
+Category Quiz
+Bonuses
+
+Arts
+This man painted a Jesus-like image of himself in the Self-Portrait in a Furred Coat; his later copper
+engravings include Melancholia I and St. Jerome in His Study. For 15 points, name this German
+Renaissance artist of the woodcut The Four Horsemen of the Apocalypse.
+ANSWER: Albrecht Dürer
+Current Events
+This man's brother Ari is alleged to have inspired the main character of the TV show Entourage. For 15
+points, name this Illinois Congressman, the son of an Israeli immigrant, who was named Barack Obama's
+White House Chief of Staff.
+ANSWER: Rahm Emanuel
+Geography
+Beginning in the Kachin state, tributaries of this river include the Mali Hka and N’Mai Hka rivers, and it
+flows through the cities of Myitkyina and Bhamo. For 15 points, name this river on which Mandalay lies,
+the largest in Myanmar.
+ANSWER: Irrawaddy River [or Ayeyarwady River]
+History
+It saw the introduction of Mahayana Buddhism, and it is traditionally divided into the Kofun and Asuka
+periods. For 15 points, name this period of Japanese history that preceded a period named for Nara, and
+is best known for Prince Shotoku's reforms.
+ANSWER: Yamato period [or Yamato-jidai]
+Literature
+In this novel, the title character stays with Lucas Asphalter, who gave mouth-to-mouth to his pet
+monkey. For 15 points, name this Saul Bellow novel about a man who writes letters to people like his
+dead mother and Dwight Eisenhauer.
+ANSWER: Herzog
+Math Calculation
+For 15 points, what is the period of the function f(t) = cos^2 (t) - sin^2 (t)?
+ANSWER: pi
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 7 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Religion
+It takes its name from the “supreme being” of Taoism, and it counts Victor Hugo and Jesus Christ among
+its saints. For 15 points, name this syncretic religion based in Vietnam.
+ANSWER: Cao Dai [or High Tower]
+Social Science
+It posited that one of the basic functions of mind is to detect patterns and regularities in the world
+around us. For 15 points, identify this school of psychology known for postulating the phi phenomenon,
+founded by Koffka and Wertheimer.
+ANSWER: Gestalt school
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 8 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Fall 2008
+NSC-Format Set
+Round 12
+Stretch Phase
+
+15. Superatoms are considered to be “pseudo” varieties of them, and one compound consisting of two
+of them notably cleaves carbon-silicon bonds in organic reactions. The Tyrian purple dye features two of
+them at the ends of benzene rings, and a radioactive one was synthesized by barraging bismuth with
+alpha particles. Hypocalcaemia results from a spill of an acid of one, which is in both Freon and Teflon.
+Consisting of astatine, bromine, and the most electronegative element, for 10 points, name this
+chemical group also containing iodine and fluorine.
+ANSWER: halogens
+This novel begins with characters swearing an oath in a peach garden, and describes the
+Battle of Red Cliffs. For 10 points each:
+[10] Name this 15th century novel about the conflict between the Wei, Shu, and Wu dynasties.
+ANSWER: Romance of the Three Kingdoms
+[10] This Asian country is the setting of Romance of the Three Kingdoms, and has produced four major
+classical novels, including Dream of the Red Chamber.
+ANSWER: China
+[10] This other classic Chinese novel describes one hundred and eight characters, who eventually are
+destroyed by the conniving official Gao Qiu.
+ANSWER: Outlaws of the Marsh [or Water Margin; or All Men Are Brothers]
+16. One of its chief supporters was the Prince of Hohenlohe, while one of its main opponents was
+Ludwig Windthorst. This term was coined by the scientist Rudolf Virchow, and it resulted in the rapid
+growth of the Centre Party. Its pinnacle came when civil marriages were made obligatory, and Adalbert
+Falk’s May Laws also exacerbated it. For 10 points identify this fight between the Roman Catholic Church
+and Otto von Bismarck over the church’s role in the state.
+ANSWER: Kulturkampf
+This man received an Academy Award nomination for playing the mutineer Fletcher Christian in 1935’s
+Mutiny on the Bounty. For 10 points each:
+[10] Name this man, known as the “King of Hollywood”, whose final film, The Misfits, was also the final
+film for Marilyn Monroe.
+ANSWER: Clark Gable
+[10] Clark Gable is perhaps best known for portraying this Civil War blockade runner and love interest of
+Scarlet O’Hara in Gone With the Wind.
+ANSWER: Rhett Butler [accept either name individually]
+[10] One of Clark Gable’s most popular films is this 1934 movie in which Gable plays Peter Warne, an
+unemployed newspaper reporter who meets Ellie Andrews, an heiress whose father disapproves of her
+marriage to King Westley.
+ANSWER: It Happened One Night
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 9 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+17. While in London, this architect worked with Maxwell Fry, and his first major work was a building with
+metal spandrels called the Fagus Factory. His works together with the Architects Collaborative include
+the U.S. Embassy in Athens, and part of the University of of Baghdad. His work in Dessau was showcased
+as examples of the International Style, and in 1918, he became director of the Weimar School of Art, but
+reorganized it with a different name. Also known for creating flat-roof canopies for the Harvard
+Graduate Center, for 10 points, identify this architect who founded the Bauhaus.
+ANSWER: Walter Gropius
+This work was continued in the posthumous American Hunger. For 10 points each:
+[10] Name this autobiography, which attacks not only racism but also narrow-minded family members,
+teachers, and clergymen who sought to silence the author.
+ANSWER: Black Boy: A Record of Childhood and Youth
+[10] This author of Pagan Son, Savage Holiday, and Uncle Tom’s Children wrote about the first half of his
+life in Black Boy.
+ANSWER: Richard Wright
+[10] This protagonist of the Richard Wright novel Native Son kills Mary Dalton, and is defended in court
+by Boris Max.
+ANSWER: Bigger Thomas [accept either]
+18. He wrote about Gottfried Wolfgang, who studies at the Sorbonne during the Reign of Terror, in
+“Adventure of the German Student.” Old Scratch meets a miser, who he tries to make a bargain with to
+reveal the place of Captain Kidd’s treasure in his “The Devil and Tom Walker.” For 10 points, name this
+author of Tales of the Alhambra who wrote about Brom Bones trying to scare off a teacher who loves
+Katrina von Tassel named Ichabod Crane in The Legend of Sleepy Hollow.
+ANSWER: Washington Irving [or Jonathan Oldstyle; or Geoffrey Crayon]
+This man's forces won the "war for Amphipolis" against a coalition led by Athens, and he allied with
+Thebes to destroy Phocis in the Third Sacred War. For 10 points each:
+[10] Name this conqueror of Greece, who was notably opposed in some namesake speeches by
+Demosthenes, and was the father of Alexander the Great.
+ANSWER: Philip II [or Philip of Macedon; prompt on Philip]
+[10] Philip and Alexander were both kings of this land to the north of Greece.
+ANSWER: Macedonia
+[10] In this 338 BCE battle, Philip, assisted by a teenaged Alexander, defeated the Sacred Band to end
+the resistance of Thebes.
+ANSWER: Chaeronea
+19. This book features the killing of the prophet Balaam and a war with the Midianites that results in
+their destruction. This book also includes a section in which a bronze snake known as Nehushtan is
+constructed. In this book, the Levites are given command of the Tabernacle, and Miriam is punished
+with leprosy after speaking out against Moses. For 10 points, name this fourth book of the Old
+Testament that opens with a census to discover how many men are able to serve in the military.
+ANSWER: Numbers
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 10 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+Answer the following about plant anatomy, for 10 points each.
+[10] These cluster of unspecialized cells come in two main types: lateral and apical, the later type of
+which is responsible for growth in the length of roots and stems.
+ANSWER: meristems
+[10] This plant tissue transports water and minerals from the roots.
+ANSWER: xylem
+[10] Located within the endodermis of plants is this single-layer of parenchyma cells that remains
+meristematic and produces new cells when needed.
+ANSWER: pericycle
+20. A novel written in this language contains ninety-nine "expendable" chapters, and can be read by
+jumping back and forth between chapters. This language was also used to write a poetry collection that
+begins with “Body of a Woman.” In the 1960s and 70s, a "boom" of novels in this language were written,
+such as Hopscotch and Aunt Julia and the Scriptwriter. For 10 points, name this language used by Julio
+Cortázar and Mario Vargas Llosa, as well the author of Twenty Love Poems and a Song of Despair, Pablo
+Neruda.
+ANSWER: Spanish [or Espanol]
+She helped the man she loved outwit her father, King Aeëtes. For 10 points each:
+[10] Name this woman who killed her own children after she was spurned by Jason.
+ANSWER: Medea
+[10] Out of jealousy over Jason's new love interest, Medea gave a poisoned dress to this priestess of
+Hecate.
+ANSWER: Glauce [or Creusa]
+[10] Medea, by demonstrating the rejuvenation of a ram through cutting it up and boiling the pieces,
+convinced the daughters of this man to do the same to him.
+ANSWER: Pelias
+21. Holes in these objects are known as anti-meatball, anti-spaghetti, or anti-lasagna, depending on
+density, and the upper bound to their mass is given by the Tolman-Oppenheimer-Volkov limit. Upon
+reaching a density of approximately 400 billion grams per cubic centimeter, white dwarfs may begin to
+turn into them. First discovered in standalone form by Jocelyn Bell, for 10 points, name these extremely
+dense stars often formed as a result of supernovae, which contain lots of the namesake neutrallycharged subatomic particle.
+ANSWER: neutron stars
+John Brooks Henderson was hired as special prosecutor to investigate it. For 10 points each:
+[10] Name this scandal that was discovered by Treasury secretary Benjamin Bristow, and involved a
+group of Republican politicians stealing money from alcohol taxes.
+ANSWER: Whiskey Ring
+[10] The Whiskey Ring took place during this President's administration, which also saw a Black Friday
+caused by Jay Gould and James Fisk, in addition to the Panic of 1873.
+ANSWER: Ulysses Simpson Grant
+[10] Another scandal during the Grant administration saw this man, the Secretary of War, be implicated
+in a graft scandal.
+ANSWER: William Worth Belknap
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 11 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+22. This king allied with the counts of Boulogne, Portugal, and Flanders, as well as Holy Roman Emperor
+Otto IV, in an attempt to defend the Angevin Empire against Philip Augustus of France that led to his
+total defeat at Bouvines. His refusal to accept Stephen Langton as Archbishop of Canterbury led
+Innocent III to lay an interdict on England. For 10 points, name this king who served in between Richard
+the Lion-Hearted and Henry III, and was noted for ending a civil war at Runnymede by signing the Magna
+Carta.
+ANSWER: King John I [or John Lackland; or Jean Sans Terre]
+Their stability is described by DLVO theory, and types of them include aerosols and foams. For 10 points
+each:
+[10] Name these suspensions in which a solute-like phase is dispersed throughout a solvent-like phrase.
+ANSWER: colloids
+[10] Milk is an example of this type of colloid, in which a liquid is dispersed in another liquid.
+ANSWER: emulsion
+[10] Colloids scatter incoming light, which results in this eponymous effect.
+ANSWER: Tyndall effect
+
+2008-2009 NSC-Format Set #1
+
+Round 12
+
+Page 12 of 12
+
+© 2009 HSAPQ
+
+These questions will not be licensed to any future tournament and may henceforth be used for practice purposes only.
+It is prohibited to use these questions for any purpose of financial gain or to remove the attribution of these questions to HSAPQ.
+
+

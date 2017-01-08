@@ -1,0 +1,329 @@
+HSAPQ State Series - 2014 State Finals
+Round 2
+First Period: Tossups with Bonus
+
+1. A specialized type of this organelle found in plants is the site of the glyoxylate (glai-OCK-sul-ate)
+cycle. Acatalasia (UH-cat-uh-LAHZ-ee-uh) results when this organelle lacks a key enzyme. Most
+disorders involving this organelle, such as infantile Refsum disease, result from mutations in PEX
+genes. A sharp reduction in the number of this organelle is observed in patients with (*) Zellweger
+syndrome. This organelle contains the enzyme catalase (CAT-uh-layz). For 10 points, name this organelle
+that decomposes its namesake compound into oxygen and water.
+ANSWER: peroxisome
+127-14-102-02101
+
+BONUS: What Frenchman created an international incident in 1793 when he traveled through the U.S.
+trying to raise anti-British sentiment and arm privateers to fight with the French?
+ANSWER: Edmond-Charles Genet [or Citizen Genet]
+015-14-102-0210-11
+
+2. This mountain was first climbed by Edwin James, who described seeing the blue columbine during
+the climb. Its namesake was killed in the Battle of York during the War of 1812 and had previously
+explored the west on orders of James Wilkinson. Katharine Lee (*) Bates wrote the song "America the
+Beautiful" after admiring the view from this mountaintop. During the "Fifty-Niner Gold Rush," miners
+used a slogan advocating this mountain "or bust." For 10 points, name this peak in the Rocky Mountains,
+which is named for an explorer whose first name was Zebulon.
+ANSWER: Pike's Peak
+052-14-102-02102
+
+BONUS: What first-in-first-out data structure comes in a "priority" variety?
+ANSWER: queue
+014-14-102-0210-11
+
+3. This speech praises John Serrano for giving one of his pizzeria employees a raise, and it compares
+bad workplace policies to an episode of Mad Men. This speech ends with a long story about wounded
+soldier Cory Remsburg, and it begins by claiming that America, not China, is now "the world's
+number one place to invest." It was (*) responded to by multiple people, including Cathy McMorris
+Rodgers and, representing the Tea Party, Mike Lee. For 10 points, name this January 28, 2014, speech
+given to a joint session of Congress by Barack Obama.
+ANSWER: the 2014 State of the Union Address
+052-14-102-02103
+
+BONUS: What kind of bond formed between metals and nonmetals involves the complete transfer of one
+or more electrons from one atom to another?
+ANSWER: ionic
+014-14-102-0210-11
+
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 1 of 8
+
+4. This man became a starting player in college after injuries to future Colorado Rockies star Todd
+Helton. After he threw four interceptions in a game, his coach, Jim Mora, told the media "Don't talk
+about playoffs." In 2003, this player referred to a teammate as "our idiot kicker who got liquored up
+and ran his mouth off." This man attracted attention for saying (*) "Omaha" numerous times before
+snaps in the most recent NFL playoffs. He threw for a record fifty-five touchdown passes in the 2013
+season. For 10 points, name this quarterback of the Denver Broncos.
+ANSWER: Peyton Manning [prompt on Manning]
+052-14-102-02104
+
+BONUS: What German playwright and friend of Goethe (GUR-tuh) wrote The Robbers and William Tell?
+ANSWER: Friedrich Schiller
+014-14-102-0210-11
+
+5. This novel opens by describing a rosebush outside a prison door, which another character claims
+she was plucked from when asked about her origins. The protagonist of this novel is married to the
+crippled doctor Roger (*) Chillingworth and has an illegitimate child named Pearl. The protagonist of this
+novel has an affair with the minister Dimmesdale and is forced to wear an article of clothing. For 10 points,
+name this novel about Hester Prynne, written by Nathaniel Hawthorne.
+ANSWER: The Scarlet Letter
+015-14-102-02105
+
+BONUS: What Confederate general who commanded a corps under Lee was known as "Old Pete" and
+"Lee's War Horse?"
+ANSWER: James Longstreet
+015-14-102-0210-11
+
+6. This man championed the "Planning, Programming, and Budgeting System" which brought
+computer-based systems analysis to the federal government for the first time. He was one of the
+"Whiz Kids" for Ford before becoming that company's president, and he was later the president of
+the World Bank from 1968 to 1981. While serving under (*) Lyndon Johnson and John Kennedy, he
+made decisions that he later expressed regret for in the documentary The Fog of War. For 10 points, name
+this Secretary of Defense during the escalation of the Vietnam War.
+ANSWER: Robert Strange McNamara
+088-14-102-02106
+
+BONUS: What American singer-songwriter has recorded the hits "Grenade," "The Lazy Song," and
+"Locked Out of Heaven"?
+ANSWER: Bruno Mars
+015-14-102-0210-11
+
+7. A document central to this case contained part of the Thirteenth Amendment and implored the
+reader to "Assert your rights." This case's holding was replaced by Whitney v. California's "bad
+tendency" test and Brandenburg v. Ohio's "imminent lawless action" test. The defendant in this case
+was arrested for mailing (*) leaflets against the draft, and Oliver Wendell Holmes's holding in this case
+created the "clear and present danger" test. For 10 points, name this Supreme Court case which stated that
+there is no right to actions such as "shouting fire in a crowded theatre."
+ANSWER: Schenck v. U.S.
+048-14-102-02107
+
+BONUS: This is a 20-second calculation question. Give all the values of x between zero and pi, inclusive,
+where the tangent of quantity x over pi radians is undefined.
+ANSWER: 1/2, 3/2, and 5/2 [do not accept or prompt on fewer or more answers]
+003-14-102-0210-11
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 2 of 8
+
+8. One of this author's narrators revels in his toothache and liver problems, explaining the joy that
+smart men find in inertia before recalling a night with the prostitute Liza. In another novel by him,
+an atheist college student tells of Jesus's imprisonment in the parable of the (*) Grand Inquisitor. This
+author of Notes from Underground also created Smerdyakov (SMUR-juh-koff), who lives with his
+legitimate brothers Dimitri, Ivan, and Alyosha. For 10 points, name this Russian author of The Brothers
+Karamazov and Crime and Punishment.
+ANSWER: Fyodor Dostoevsky
+104-14-102-02108
+
+BONUS: What first Guru founded the religion of Sikhism?
+ANSWER: Guru Nanak
+014-14-102-0210-11
+
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 3 of 8
+
+Second Period: Directed Round
+
+SET A:
+1. BONUS: This is a 30-second calculation question. If you repeatedly roll two fair dice, what is the
+probability of rolling a seven before rolling a six?
+ANSWER: 6/11
+003-14-102-0210-12
+
+2. BONUS: What English mathematician formulated a "law of cooling" and developed calculus in his
+Principia Mathematica?
+ANSWER: Isaac Newton
+014-14-102-0210-12
+
+3. BONUS: What opera's most famous aria is sung by Escamillo (ess-cah-MEE-yoh), a toreador who wins
+the love of a Spanish gypsy?
+ANSWER: Carmen
+190-14-102-0210-12
+
+4. BONUS: The main character's brother Evgraf agrees to care for the main character's daughter Tania at
+the conclusion of what novel about a physician and his love interest Lara, by Boris Pasternak?
+ANSWER: Doctor Zhivago
+030-14-102-0210-12
+
+SET B:
+1. BONUS: This is a 30-second calculation question. What is the domain of the function f of x equals the
+quantity x squared plus 4 x plus 3, all over the quantity x squared minus 6 x minus 7?
+ANSWER: x equals all numbers other than -1 and 7 [do not accept any domain that just excludes 7]
+003-14-102-0210-12
+
+2. BONUS: Name the element that is required for the synthesis of thyroxine, and whose isotope 131 is used
+to treat thyroid cancer.
+ANSWER: iodine [or I]
+239-14-102-0210-12
+
+3. BONUS: What early English novelist wrote Captain Singleton and Moll Flanders?
+ANSWER: Daniel Defoe
+014-14-102-0210-12
+
+4. BONUS: What instrument was primarily played by Thelonious Monk, Count Basie, and Fats Waller?
+ANSWER: piano
+015-14-102-0210-12
+
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 4 of 8
+
+Third Period: Tossups With Bonus
+
+9. This man showed the limitations of rationalism with self-evident contradictions he called
+"antinomies." He claimed rationalists and empiricists were unable to account for synthetic and "a
+priori" truths, whose existence he defended with transcendental arguments. In the (*) Groundwork of
+the Metaphysics of Morals, he said that all moral actions should be such that we could will them to be
+universal laws, his categorical imperative. For 10 points, name this author of Critique of Pure Reason, a
+German transcendenttalist philosopher.
+ANSWER: Immanuel Kant
+121-14-102-02109
+
+BONUS: What leader of the Green Mountain Boys teamed with Benedict Arnold to take Fort Ticonderoga?
+ANSWER: Ethan Allen
+015-14-102-0210-11
+
+10. This poet's lines, "Thou mastering me God! giver of breath and bread," open his poem dedicated
+to nuns lost in the sinking of a ship. He wrote, "There lives the dearest freshness deep down things,"
+in another poem. Much of this poet's characteristic style imitates the alliterative-accentual verse of
+Old English, which he termed (*) "sprung rhythm,' as seen in "The Wreck of the Deutschland." For 10
+points, name this Jesuit poet of "God's Grandeur" and "The Windhover.”
+ANSWER: Gerard Manley Hopkins
+121-14-102-02110
+
+BONUS: What American economist and proponent of monetarism wrote Capitalism and Freedom?
+ANSWER: Milton Friedman
+014-14-102-0210-11
+
+11. For Raman scattering, this person names the lines caused by the positive and negative wavelength
+shifts. A law named for this scientist states that the drag force on a particle in a fluid is proportional
+to six pi times the velocity. He is the second namesake of a set of very difficult to solve partial (*)
+differential equations that describe fluid flow, which he names with Navier (NAH-vee-ey). For 10 points,
+name this British physicist who generalized Green's theorem to relate surface integrals and volume
+integrals.
+ANSWER: George Gabriel Stokes
+048-14-102-02111
+
+BONUS: What 2013 Disney film concerns the princess Elsa, who uses her powers to animate a snowman
+and create an eternal winter?
+ANSWER: Frozen
+015-14-102-0210-11
+
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 5 of 8
+
+12. Scott Sakaluk studied the chase-away form of this process, whose runaway form was proposed by
+Fisher, and confirmed by Kirkpatrick and Lande, when high genetic covariance was present.
+Bateman's principle states that it is dependent on gamete investment. Bowerbirds build elaborate
+structures in this process, which is prevalent in (*) polygynous (pall-IDGE-in-iss) societies. Male-male
+competition and female choice are the two main forms of this process. For 10 points, name this process in
+which organisms compete for and choose mates, which can be thought of as a special case of natural
+selection.
+ANSWER: sexual selection [prompt on natural selection]
+124-14-102-02112
+
+BONUS: What mountain range that runs along the Mediterranean coast of Northern Africa has its highest
+point at Toubkal (toob-KAHL)?
+ANSWER: Atlas Mountains
+015-14-102-0210-11
+
+13. These things are divided into monolithic and micro types, the latter of which is exemplified by the
+as-yet-unfinished GNU Hurd (NEW HERD). Programs request service from these things by
+executing a system call. A BSD-based example of these things was originally used in OS X. The (*)
+Tanenbaum-Torvalds debate concerned the implementation of a type of these things for Linux. For 10
+points, identify this component of an operating system that serves as an interface between hardware and
+software applications.
+ANSWER: kernel [prompt on operating system]
+081-14-102-02113
+
+BONUS: What simple animal phylum contains sponges?
+ANSWER: Porifera
+014-14-102-0210-11
+
+14. A seventy-four-minute Wilhelm Furtwangler recording of this symphony is sometimes cited as
+the specific reason why CDs have a seventy-four-minute playing time. Leonard Bernstein conducted
+a version of it at the Brandenburg Gate to celebrate the fall of the (*) Berlin Wall. This symphony ends
+with lyrics referencing a "beautiful spark of divinity" and "daughter from Elysium," performed by vocalists
+singing words taken from Friedrich Schiller's poem "Ode to Joy." For 10 points, name this final complete
+symphony of Ludwig van Beethoven.
+ANSWER: Choral symphony [or Beethoven's Ninth Symphony; Beethoven is not needed after being
+mentioned; do not accept or prompt on "Ode to Joy"]
+052-14-102-02114
+
+BONUS: What novel-in-verse by Alexander Pushkin describes an aristocrat who kills his friend Lensky in
+a duel?
+ANSWER: Eugene Onegin
+014-14-102-0210-11
+
+15. This concept is the first word in the title of a Sigmund Freud book that explains why the
+homosexual Dora feels revolted by Herr K. The "latent" form of this concept results from exposure
+to the conditioned stimulus before beginning a classical conditioning experiment. Clark Hull
+theorized a "reactive" form of this concept. If an animal learns that the presence of a (*) conditioned
+stimulus signifies the lack of the unconditioned stimulus, this form of conditioning is said to have occurred.
+For 10 points, name this suppression of behavior that is contrasted in conditioning with excitation.
+ANSWER: inhibitions [or inhibitory]
+003-14-102-02115
+
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 6 of 8
+
+BONUS: What name was given to the subjugated slave-like class of people who did most of the
+agricultural work in ancient Sparta?
+ANSWER: helots
+015-14-102-0210-11
+
+16. One of this author's characters is infuriated to lose a literary competition to the incompetent poet
+Carlos Daneri. In another story, this author imagined a building containing every permutation of
+twenty-two characters arranged into 3,200 characters per page, with 410 pages per book. (*) Yu Tsun
+narrates a story by this author that philosophizes about a labyrinth where each path represents the potential
+outcomes from a decision. For 10 points, name this Argentinian author who wrote "The Library of Babel"
+and "The Garden of Forking Paths."
+ANSWER: Jorge Luis Borges
+190-14-102-02116
+
+BONUS: What state was the namesake of a plan that favored small states and rivaled the Virginia Plan at
+the Constitutional Convention, prior to the two ideas being joined in the Connecticut Compromise?
+ANSWER: New Jersey
+015-14-102-0210-11
+
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 7 of 8
+
+Tiebreakers/Extras
+
+17. A portrait of this monarch was painted by Jean Clouet (cloo-EY). He was criticized for allying his
+country with the Ottoman Empire, the first European to do so. This king successfully invaded Italy
+by defeating Swiss pikemen at the Battle of Marignano (MAH-rin-YAH-no), but he was captured ten
+years later at (*) Pavia (pah-VEE-uh). This monarch failed to strike an alliance with Henry VIII at the
+Field of the Cloth of Gold, but was successful in cultivating the French Renaissance. For 10 points, name
+this Valois (val-WAH) King of France who often fought against Holy Roman Emperor Charles V.
+ANSWER: Francis I [prompt on Francis]
+140-14-102-02117
+
+BONUS: "A Perfect Day for Bananafish" is part of what reclusive author’s collection Nine Stories?
+ANSWER: J. D. Salinger
+014-14-102-0210-11
+
+HSAPQ State Series - 2014 State Finals
+
+2
+
+Page 8 of 8
+
+

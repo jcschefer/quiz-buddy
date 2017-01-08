@@ -1,0 +1,485 @@
+TOSSUPS - ROUND FOUR
+Dennis Haskins Open High School Quizbowl 2006 -- UT-Chattanooga
+Questions by Oklahoma with Georgia Tech, Illinois, Bevill State, Florida State, Case Western, Noah Rahman,
+Dave Leach, John Kilby, Bob Kilner, Brett Norris, Michael Bentley, Dren Rollins, Shawn Pickrell, and Charlie
+Steinhice
+
+1.
+(DR) Named for a 170-mile-long river, it was fought at the present day town of Battle Ground. It pitted Shawnee
+forces led by Tenskwatawa, a.k.a. "The Prophet", against the then-governor ofIndiana. Starting when the governor
+marched against the village of Prophetstown, it virtually eliminated the threat of organized Native American resistance in
+the Northwest Territory. FTP, identify this 1811 battle that allowed for William Henry Harrison's political star to rise.
+Answer:
+Battle of Tippecanoe
+2.
+(BKlCS) His given first name is Troyal; he named a child after one of his idols, James Taylor. His first single to
+hit the charts was the fairly traditional "Much Too Young to Feel This Damn Old.," But other songs have drawn from
+more diverse inspirations such as the fall of the Berlin Wall, the end of apartheid, and his lesbian sister, as well as the
+1995 bombing in his native Oklahoma City which inspired his song "The Change." FTP identify this country star, famous
+for his albums No Fences, Ropin' the Wind and Scarecrow, who recently married Trisha Yearwood .
+Answer:
+Garth Brooks
+3.
+Father Giulio Savoldi is the official one for Milan and Gabriele Amorth is the official one for Rome. The
+Athenaeum Pontificium Regina Apostolorum began training new ones in early 2005 with courses that included studies in
+psychology and law in addition to classes on the history of Satanism. Before Vatican II it was an official minor order in
+the Roman Catholic church and in which capacity Pope John Paul II served three times. FTP, name this function which
+addresses the problem of demonic possession.
+Answer:
+Exorcist
+4.
+(SP!JK) In chapter 45, he realizes that his story might be hard to believe and attempts to boost his credibility
+while in chapter 32 he shows off his knowledge of cetology. While he takes center-stage in those chapters, he often acts
+as an omniscient being who can see into the motivations of characters and sometimes he presents the story like a playas
+he does with Stubb's soliloquy in chapter 39. Early in the story, he spends the night at the Spouter-Inn with Queequeg and
+by the end of the story, he is the lone survivor from the crew of the Pequod. Famous for his opening line of "call me
+(BLANK), " FTP, this is what narrator of the novel Moby Dick?
+Answer:
+Ishmael
+
+5.
+Willoughby Smith discovered in 1873 that selenium was subject to it. Heinrich Hertz noticed it while working
+with a coil with a spark gap, but made no attempts to explain it or to investigate it further. Investigating ultraviolet
+radiation in Crookes Tubes, J.J. Thomson discovered the electron. In one of his "Annus Mirabilis Papers", Einstein
+described this phenomenon mathematically, earning the 1921 Nobel Prize in Physics. FTP, identify this emission of
+electrons caused by the absorption of electromagnetic radiation.
+Photoelectric Effect
+Answer:
+6.
+He witnesses the crash of a small craft on some rocks during stormy weather and secures passage on another ship
+by claiming to be the sole survivor from the wrecked vessel. He soon learns that he is on a smuggling ship and makes
+himself useful until he can manage to make his way to the island of which Abbe Faria had told him. FTP, so begins the
+rebirth of what man, the title character of a novel by Alexandre Dumas, pere?
+Answer:
+The Count of Monte Cristo or Edmond Dantes
+7.
+The chief architect, a former New Mexico Senator, had first been elected to Congress through a political alliance
+and subsequently associated himself with the so-called Ohio Gang, which included Edwin Denby, the Secretary of the
+Navy. Denby granted Secretary of the Interior Albert Fall control of two oil reserves, which Fall then leased to Pan
+American Petroleum and Mammoth Oil illegally. Resulting in a landmark case, which exposed governmental corruption
+to the public on a national level for the first time, this is, FTP, what scandal from the Harding administration?
+Teapot Dome Scandal
+Answer:
+
+8.
+(BKlCS) One of its co-discoverers was purely a mathematician with no knowledge of the subject area until he
+was approached by a sometime cricket playing partner, Reginald Punnett. E .. B. Ford's study of the scarlet tiger moth
+provided data for one key test of this hypothesis. It states that where there is no mutation, no immigration or emigration,
+random mating, random reproductive success and a large population, that both phenotypic and allele frequencies remain
+constant from generation to generation in sexually reproducing populations. Represented as p-squared plus q-squared
+plus 2p q = 1, FTP identify this law of population genetics named for its two discoverers.
+Answer:
+Hardy-Weinberg Law
+9.
+The development and spread ofthe Chancery Standard, thanks in large part to the influence of William Caxton's
+printing press, marked the end of this language. It is noted for the simplification of Germanic inflections both in verbs and
+nouns. For the most part all of the syllables of the written language were pronounced, unlike its modern derivative. FTP,
+what is this outmoded language, writers of which included William Langland, John Gower, and Geoffrey Chaucer?
+Middle English
+Answer:
+10.
+Version 1.5 added the enum keyword that creates an ordered list of values, as well as Generics which reduce the
+need for many forms of type casting. It is very portable because it compiles to a byte code which can be run on a native
+language virtual machine. FTP, name this object oriented programming language developed by Sun Microsystems that
+shares a name with a popular morning beverage.
+Java
+Answer:
+11.
+(BK) Born in Nigeria in 1960, this actor spent years doing bit parts and playing in TV movies. He played the
+voice of Rex, the male sheepdog, in "Babe." But more recently, key supporting roles in two trilogies gave him
+prominence in some of the most financially successful movies of all time. FTP name this actor, known for his roles as
+Elrond in the Lord a/the Rings films and Agent Smith in the Matrix trilogy.
+Answer:
+Hugo Weaving
+12.
+(GT) The author conceived of the novel form of this play when he abandoned a play, but was left with characters
+that he had already developed. The father, mother, step-daughter, boy, and child show up, along with a non-speaking son
+and the character Madame Pace, at one of the playwright's own rehearsals, demanding to be allowed to tell their story.
+Focusing on the limitations of drama as well as on the question of existence, for ten points, name this 1925 play, the most
+famous of Luigi Pirandello.
+Answer:
+Six Characters in Search of an Author
+
+13.
+He accompanied Conrad III on the Second Crusade, earning Conrad's full confidence, and, according to the
+Bishop of Bamberg, Conrad named him as his successor to the Holy Roman Empire. His confl ict with the Papacy led to
+his defeat by the Lombard League and, for refusing to aid him in this war, he punished his cousin, Henry the Lion, Duke
+of Saxony. He is best remembered, however, as the leader of the Third Crusade and for dying while crossing the Saleph
+River. FTP, who is this German emperor, who is said by some to be sleeping in a cave in Klyffhauser Mountain?
+Answer:
+Frederick (or Friedrich) Barbarossa or Frederick I or Friedrich I Hohenstaufen
+14.
+According to some accounts, he is said to have given Artemis two hunting dogs and to have taught Apollo the gift
+of prophecy. He is sometimes credited with having his followers kill Echo after the nymph refused his advances and he
+was responsible for the nymph Pitys being turned into a tree. FTP, name this Arcadian god who is most famous for the
+creation of the syrinx and who is equated with the Roman deity Faunus.
+Answer:
+Pan [sorry, but do not accept Faunus - the first clue rules out the Roman equivalent]
+15.
+This monoprotic acid has been known to mankind since antiquity; the Greeks used a dilute form of it on metals to
+create pigments used in artwork. In its concentrated form, it is so corrosive that special gloves must be worn to protect the
+skin from burns and blisters. It solidifies at 62° F, but above 102° F it is very flammable. FTP, what is this chemical
+compound with chemical formula C-2 H-4 0-2 that gives vinegar its characteristic odor?
+Answer:
+Acetic Acid or Ethanoic Acid (do not accept acetate)
+
+16.
+It initially began as a seasonal camp for the nomadic Tuareg peoples as early as the 101h century. It quickly grew
+to wealth thanks to the activity of Tuareg, Mand6, and Fulani merchants, who facilitated trade between caravans from the
+Islamic north and other peoples along the Niger River and beyond. Important in the Ghana, Mali, and Songhai Empires,
+FTP, name this city, situated in the present-day state of Mali.
+Timbuktu
+Answer:
+17.
+The building with the red painted second story that forms part of the background to this painting is almost
+identical to that featured in another work by the artist, Early Sunday Morning. Currently housed at the Art Institute of
+Chicago, its only female figure is a redhead in a red dress who is based on the painter's wife Jo, whose hand is
+dangerously close to the black-sited man with the grey hat sitting next to her, and neither ofthese nor the man with his
+back to the viewer or the white-uniformed waiter smoke cigars though the sign outside advertises that cigars are only five
+cents. Featuring patrons of Phillie's, this is, FTP, what most famous painting by Edward Hopper?
+Nighthawks
+Answer:
+18.
+(BS) The coded command was "Climb Mount Nitaka". This sent plains skyward from the Akagi, Shokaku,
+Zwikaku, Soryu, Hiryu, and the Kaga. Then, just before 8 AM local time, the attack commenced. By the time it ended
+just some three hours later, over 2,000 Americans were dead, hundreds injured, and the US Pacific fleet was in ruins. For
+ten points, name this December 7, 1941 battle, the "day that will live in infamy".
+Answer:
+Pearl Harbor
+19.
+It is the only moon with a magnetosphere, which some believe was created by the motion of its liquid iron core.
+Evidence for an atmosphere was first discovered by astronomers at Lembang Observatory and the Hubble found the first
+traces that, like Europa, that atmosphere had oxygen. The surface of this Galilean satellite is dominated by the Galileo
+Regio and it shows evidence of having once had tectonic activity. FTP, name this moon, the largest in the solar system.
+Ganymede
+Answer:
+20.
+Outgrabe is something between bellowing and whistling with a sneeze in the middle, while uffish is a state of
+mind when the voice is gruffish, the manner roughish, and the temper huffish. Ajubjub is a bird which lives in perpetual
+passion, while a borogrove is a shabby-looking bird which may resemble a mop. Toves are combinations of a badger, a
+lizard, and a corkscrew ,and raths may be either green pigs or a type of turtle which eats oysters. FTP, all of these things
+come from what poem from Lewis Carroll's Through the Looking Glass, and What Alice Saw There?
+Answer:
+Jabberwocky or ykcowrebbaJ
+21.
+(DL) By itself, the word describes a breed of large, hornless sheep. Used as an adjective, it can describe a comma
+placed before the word "and" at the end of a list. In the world of fashion, it describes a particular weave of cloth as well as
+a type of low-topped shoe that laces over the instep. FTP give the word that, academically, names the city that is home to
+the oldest university in the English-speaking world, its namesake press, and its namesake English Dictionary.
+Answer:
+Oxford
+22.
+(BS) The Thames and Hudson Dictionary ofArt and Artists pithily describe this man's "ills for Longfellow's
+Hiawatha" and his popular paintings like Evening on a Canadian Lake. Thames and Hudson entirely omit the apocryphal
+exchange sent between him and William Randolph Hearst, in which he was asked to furnish the pictures to allow Hearst
+to furnish the war; while efforts have been made to debunk this story he nevertheless was witness to the Rough Riders and
+their charge at San Juan Hill. FTP name this artist, whose interest in the American West is mentioned by the reference
+work though it omits the name of such paintings as Shotgun Hospitality and Hunters' Supper and such sculptures as
+Bronco Buster.
+Answer:
+Frederic Remington
+
+BONI - ROUND FOUR
+
+Dennis Haskins Open High School Quizbowl 2006 -- UT-Chattanooga
+
+I.
+(BN) Located in the center of Europe, Germany has more neighbors than any other country on the continent: nine
+total. Name the nations that border it. You'll get 5 pts. for two correct, 10 pts. for 3, 15 pts. for 4,20 pts. for 5, 25 pts. for
+7, or 30 pts. for all 9 correct. You have 15 seconds.
+Austria [or Osterreich] Belgium, Czech Republic [or Czechia], Denmark, France,
+Answers:
+Luxembourg, Netherlands [or Holland], Poland, and Switzerland [or Schwiez]
+
+2. UK) It's the work where you'll find Newspeak, the Thought Police, and Big Brother. FTPE, answer the following.
+A. Identify this George Orwell novel.
+1984
+Answer:
+B. This is the protagonist of 1984. It's been suggested that his name was inspired in part by a British Prime Minister.
+Answer:
+Winston and/or Smith
+C. This numbered room is a torture chamber where one is subjected to his worst nightmare. Winston Smith's is having
+his face gnawed off by rats.
+Answer:
+Room 101
+3.
+(BK) FTPE, identify these victims of copyright infringement on Family Guy.
+(10) He bursts into the courtroom during Peter's trial with a cry of "Oh Yeah!"
+Answer:
+Kool-Aid
+(10) He tells his daughter she needs to take off her makeup before going out because she's "Not a Whore."
+Answer:
+(Ronald) McDonald
+(10) Although named Della Reese, this fattest guy on Spooner Street to get a boat, was modeled after him.
+Answer:
+Fat Albert
+4.
+FTPE identify the following people who made important contributions to the field of chemistry.
+A. This chemist holds the distinction of being one of only two people to date to win Nobel Prizes in two separate fields,
+chemistry and physics, as well as having a daughter who won a Nobel Prize in 1935.
+Answer:
+Marie Curie or Maria Sklodowska-Cur ie or Madame Curie (prompt on Curie)
+B. This chemist is credited with discovering and isolating 5 new elements, for which he shared the 1951 Nobel Prize. He
+taught at UC-Berkeley and later became chairman of the United States Atomic Energy Commission.
+Answer:
+Glenn Sea borg
+C. This Russian chemist, who was one of 17 children, is credited with organizing the modern periodic table, and element
+number 101 is named for him.
+Answer:
+Dmitri Mendeleev
+
+5.
+5-10-20-30, name these competitors for the Democratic presidential nomination in the pivotal election of 1844.
+5) A former governor of Tennessee and Speaker of the House, he won the nomination and the election against Whig
+candidate Henry Clay and Free-Soil candidate James Birney.
+Answer:
+James K. Polk
+5) A senator from Pennsylvania, he eventually served as Polk's Secretary of State, and was eventually elected president
+himself, though his single term is often regarded as a failure because he could not prevent the Civil War.
+Answer:
+James Buchanan
+X) Known both as Old Kinderhook and The Little Magician, he was the favorite candidate going into the convention, but
+was unable to gain the 2/3 majority required to win the nomination.
+Answer:
+Martin Van Buren
+X) A brigadier general in the War of 1812, he served as a senator from Michigan and eventually won the 1848
+presidential nomination, losing to Zachary Taylor.
+Answer:
+Lewis Cass
+
+6.
+He was a master of the macabre and the inventor of the detective story. Identify each of the following short stories
+by Edgar Allan Poe FIOPE.
+A. The narrator exacts his revenge on the man who has inflicted on him a "thousand injuries", first by luring him with
+reverse psychology to his family's catacombs and then by walling him up.
+Answer:
+The Cask ofAmontillado
+B. The narrator relates how alcohol and a loathing for the despicable title creature drove him first to murder his loving
+wife and then led the authorities to her hidden corpse.
+Answer:
+The Black Cat
+C. A man is bitten by the title creature and then, after luring his friend to his estate, takes him on a hunt to find treasure
+left by the infamous Cap'n Teedge.
+The Gold Bug
+Answer:
+7.
+(IL) Name these liver problems, 10 points each.
+1. This form of inflammatory liver infection comes in three varieties. Class Band C can both cause chronic damage, with
+the latter being the most common cause for requiring a liver transplant in the United States.
+Answer:
+Hepatitis
+2. Often resulting from infections or alcohol abuse, this scarring ofliver tissue can block bile ducts and obstruct intestinal
+blood flow.
+Cirrhosis
+Answer:
+3. This medical condition can occur when liver damage has occurred, although it also appears in newborns. An
+overabundance of the hemoglobin breakdown product bilirubin gives the skin and eyes a yellow tinge.
+Answer:
+Jaundice
+8.
+The British Empire has fallen by the wayside. Fl OPE, identify the following countries which have gained
+independence from the UK in the last 50 years.
+A. Known as British Honduras until 1973, this country gained independence in 1981, after a number of delays caused by
+territorial disputes with neighboring Guatemala. It was the last British colony on the North American mainland.
+Answer:
+Belize
+B. Despite pressures to join Sabah and Sarawak as part of Malaysia, this sultanate on the island of Borneo, under the rule
+of Has sanaI Bolkiah, elected to remain a separate state and was granted independence by the British in 1984.
+Answer:
+Brunei Darussalam or Sultanate of Brunei
+C. This archipelago in the Indian Ocean, which was acquired by the British in 1814, was granted independence in 1976
+with Sir James Mancham, leader of the Democratic Party, as President and France-Albert Rene, leader of the People's
+United Party, as Prime Minister. In 1977, Rene led a coup which ousted Mancham.
+Answer:
+Seychelles
+9.
+(DL) Here's a bonus that's hard to beat: identify the following percussion instruments FTPE.
+Used in Moorish and Spanish music, this instrument consists of a pair of small, bowl-shaped shells joined by a string.
+The performer holds the pair in one hand and clicks them together to produce sound.
+Castanets
+Answer:
+"Dance of the Sugar Plum Fairy," from The Nutcracker, makes use of this four-octave instrument. Pressing a key causes a
+hammer to strike a metal plate, producing a mellow sound that gives the instrument its name, the French word for
+"heavenly."
+Celesta
+Answer:
+Similar in appearance to a xylophone, what identifies this instrument is the small disc within each bar's resonator. These
+discs are attached to an electric motor which causes them to rotate, producing the instrument's characteristic tremolo.
+Vibraphone
+Answer:
+
+10.
+(lL) Name these branches of philosophy from descriptions, 10 points each.
+1. This branch is concerned with the nature of knowledge, what it means to know something, and how we can obtain
+knowledge.
+Answer:
+epistemology
+2. Epistemolgy is a subset of this broader division of science, which, as its name suggests, goes "beyond nature" or
+scientific thought to ponder the nature of thought and existence itself, as it was defined in a work of this name by
+Aristotle, who wrote a book about it.
+Answer:
+metaphysics
+3. Like epistemology, this branch is a subset of metaphysics and is concerned with the nature of beauty and of physical
+appeal in general. It is usually associated with the fine arts.
+Answer:
+aesthetics
+11.
+(DL) And now, a bonus you can count on: identify the following terms from number theory FTPE.
+Because it is equal to one plus two plus three, six is the first of this type of number: an integer that equals the sum of its
+proper divisors.
+Answer:
+Perfect number
+Because it is equal to two to the power ofa prime number, minus one, three is the first of this type of prime number,
+named for a Seventeenth Century French mathematician.
+Answer:
+Mersenne prime
+Because it is equal to two to the power of two to the zero, plus one, three is the first of this type of number, named for a
+different Seventeenth Century French mathematician.
+Answer:
+Fermat number
+12.
+(JK) He was recently portrayed on film in an OSCAR-nominated performance by Philip Seymour Hoffman.
+FTPE, answer the following.
+A. Name this author of such works as Brealifast At Tiffany's.
+Answer:
+Truman Capote
+B. This Truman Capote work, which he dubbed a non-fiction novel, focused on the Kansas murders of Herb, Bonnie,
+Nancy, and Kenyon Clutter.
+Answer:
+In Cold Blood
+C. Name either of the two men accused ofthe murders that are the focus of In Cold Blood.
+Richard "Dick" Hickock or Perry Smith
+Answer:
+13.
+A number of men's college basketball players are in possession of some of the coolest names around. FTPE,
+identify the college at which each of the following play:
+A. Kevin Pittsnoggle
+Answer:
+University of West Virginia
+B. Pops Mensah-Bonsu
+Answer:
+George Washington University
+C. Longar Longar
+Answer:
+University of Oklahoma
+14. (NR) Given the 20 th
+a) William McKinley
+Answer:
+b) John F. Kennedy
+Answer:
+c) Ronald Reagan
+Answer:
+
+century American president, name the assassin (or attempted assassin)
+Leon Czolgosz
+Lee Harvey Oswald
+John Hinckley
+
+15.
+(FSU) For ten points each -- answer the following about a scientist.
+1. This 17th century Dutch physicist and astronomer pioneered the use of pendulums in clocks and proposed a wave
+theory of light in his Theory on Light.
+Answer:
+Christiaan Huygens
+2. Huygens discovered that the rings of this planet were composed ofrock.
+Answer:
+Saturn
+3. Huygens discovered this largest moon of Saturn.
+Answer:
+Titan
+16.
+(CWRU) Given a King of England, name his successor, 5-10-20-30. each:
+(a) Edward VIII
+Answer:
+George VI
+(b) William IV
+Victoria
+Answer:
+(c) John
+Henry III
+Answer:
+(d) William III
+Answer:
+Anne
+17.
+(ILlSK) Tishri is an important month for Jews . Answer some stuff about this month, 10 points each.
+The first day ofTishri is this day. On it, Observant Jews great each other with the blessing "Shanah tovah" (show-na toeva), eat Challah (Call-ah, more or less) and Gefilte Geh-fiIlOtuh) fish and wish they hadn't, and generally ring in the New
+Year.
+Answer:
+Rosh Hashanah (rowsh-ah-show-nah)
+On 10 Tishri, eight days after the end of Rosh Hashanah, Jews fast before reciting the Kol Nidre on this Holiest day of the
+Year, the Day of Atonement.
+Yom Kippur
+Answer:
+Sometimes known as the Feast of TabernacIes, it begins on the 15 th day ofTishri and commemorates the care given by the
+Israelites when they dwelt in the desert. Many consider it a mitzvah to construct a small booth and live in during the weeklong festival.
+Sukkot
+Answer:
+18.
+Name the architects of the following buildings, FTPE.
+1. Lake Shore Drive Apartments, German Pavilion at Barcelona, Farnsworth Building, and the Seagram Building with
+Philip Johnson
+Answer:
+Ludwig Mies van der Rohe
+2. Fallingwater, Kentuck, Guggenheim in New York
+Answer:
+Frank Lloyd Wright
+3. Monticello; campus and rotunda of the University of Virginia
+Answer:
+Thomas Jefferson
+19.
+Identify each of the following iron alloys FI OPE.
+A. Two primary varieties exist, grey, which has a higher silicon content and is more brittle, and White, which is harder,
+though less tough. In the former, the carbon precipitates out as graphite, and as cementite in the latter.
+Answer:
+Cast Iron
+B. Cast iron is made by remelting this form of iron which is the immediate product of iron ore smelted with limestone and
+coke in a blast furnace. It is named for the appearance of the ingots formed after it had been melted.
+Answer:
+Pig Iron
+C. Tough, ductile, and malleable, this form of iron was historically made by iron bloomeries, in which the iron ore was
+heated and then covered with charcoal, which melted the ore and allowed the oxide to escape by combining with the
+carbon in the charcoal.
+Answer:
+Wrought Iron
+
+20.
+Dante's Divine Comedy is among the greatest works of European literature. Identify each of the following
+characters from that work F10PE, or F5PE if you need an easier, non-Dante clue.
+A. 10) Dante portrays this character as a giant who stands at the Second Gate of Hell, deciding who shall be sent forth for
+punishment. Upon hearing a sinner's confession, he wraps his tail around himself, with the number of time indicating to
+which I eve I of Hell the person will be sent.
+5) He is a king of Crete famous as one of the mortals who wins a place of judgment in the underworld in Greek
+mythology. His wife was the mother of the famed Minotaur, for which he had the Labyrinth built.
+Answer:
+Minos
+B. 10) Referred to as both "the supreme poet" and "lord of song incomparable", this man is in Limbo and leads the three
+Latin poets, Horace, Ovid, and Lucan. Recognizing Dante as a fellow poet, he invites him to join him.
+5) He is much better known as the supposed author of The Iliad and The Odyssey.
+Answer:
+Homer
+C. 10) He is chosen by Chiron, leader of those punishing the violent in the i h Circle, to guide Dante and Vergil. He points
+out many of the tyrants of history to the poets, including Attila the Hun, Dionysius of Syracuse, and Pyrrhus.
+5) He was the centaur, who, in a fit oflust, attempted to abduct Heracles' wife Deianira. After he was killed, it was
+with a shirt soaked in his blood that Deianira accidentally killed her husband.
+Answer:
+Nessus
+FTPE, identify each of the following varieties of dwarf stars.
+21.
+A. Occupying the lower-left region of a Hertzsprung-Russell diagram, these stars are the remnants of medium-sized stars
+which are not large enough to fuse carbon after the red giant, or helium-fusing, stage. Stars of this type which are more
+massive than 1.4 solar masses, breach the Chadrasekhar limit and become black holes.
+Answer:
+White Dwarf Star
+B. Not to be confused with brown dwarfs, this class of stars is composed of white dwarfs which have cooled and no
+longer emit visible light. None are thought to exist, but they would be very difficult to detect in any case, because their
+thermal radiation would be approximately that of cosmic microwave background radiation.
+Answer:
+Black Dwarf Star
+C. The most famous example is Proxima Centauri and these stars are located at the lower and furthest right end of the
+main sequence on an H-R diagram. They are estimated to have stellar lives of between tens of billions and trillions of
+years, because they are not massive enough to fuse all of their hydrogen quickly nor to ever fuse helium.
+Answer:
+Red Dwarf Star
+
+

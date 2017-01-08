@@ -1,0 +1,376 @@
+Harvard Fall Tournament VII
+Round 7
+Edited by Stephen Liu, with assistance from Eric Mukherjee and Dallas Simons
+Written by Stephen Liu, Graham Moyer, David Liu, Kuo-Kai Chin, Will Holub-Moorman, Stephen Morrison, Andy
+Dibble, Sriram Pendyala, Jared Cowan, Mark Arildsen, and Artur Meller
+Tossups
+1. One of these chemicals forms through the Yang Cycle and is thought to be connected to the hyponastic response.
+The balance between two types of these compounds determines the differentiation of parenchyma cells, and
+Kurosawa discovered a type with an ent-kaurene precursor responsible for bakanae. Different members of this group
+are famous for promoting apical dominance, cell differentiation, phototropism, stem elongation, and flowering. For
+10 points, name this class of signaling molecules including auxins, cytokinins, and gibberellins, responsible for
+inducing physiological processes in plants.
+ANSWER: plant hormones [Accept ethylene before differentiation of parenchyma cells, accept equivalents.]
+2. This dynasty’s government was structured into the Three Departments and Six Ministries and it fell into chaos
+after being attacked by the warlord Huang Chao. It reached its greatest extent under Emperor Xuanzong, and this
+empire founded by Emperor Gaozu was defeated at the Battle of the Talas River. It was interrupted briefly by
+the only female emperor, Empress Wu. Its founder, known as Li Yuan, rose to power after the fall of the Sui
+Dynasty. The Yan Dynasty was established when it was interrupted by An Lushan’s Rebellion, and it was followed
+by the Song Dynasty. For 10 points, name this dynasty ruling from 618 to 907 AD that saw the flourishing of art
+and culture.
+ANSWER: Tang Dynasty
+3. Much of the early history of this city is contained in the Primary Chronicle written by a monk named Nestor. One
+ruler of a polity named for this city helped Basil II put down the rebellion of Bardas Sclerus and married Basil II's
+sister Anna Porphyrogeneta. That man's son was forced to contest with his half-brother Sviatopolk the Accursed
+for the throne, and he constructed the Saint Sophia Cathedral in this city. More recently, Nazi troops massacred
+thousands of people at the Babi Yar ravine in this city, which was heavily affected by radiation from Chernobyl.
+For 10 points, name this city that was converted to Christianity under Vladimir the Great, the current capital of
+Ukraine.
+ANSWER: Kiev [Accept Kyiv]
+4. James Russell Lowell wrote that the author of this poem and this poem’s subject were “three fifths genius”
+and “two fifths sheer fudge,” and the author of this poem explained its didactic nature in his “The Philosophy of
+Composition.” The speaker of this poem laments that “On the morrow he will leave me, as my hopes have flown
+before,” and asks the subject “what thy lordly name is on the night’s Plutonian shore.” That subject stands upon
+a “pallid bust of Pallas” and plagues the speaker with memories of his “lost Lenore.” For 10 points, name this poem
+whose title figure “quoth ‘Nevermore,’” an Edgar Allan Poe poem about a big black bird.
+ANSWER: “The Raven”
+5. One character with an odd birthmark goes missing after a forest fire in this novel, and a boy in this novel
+constantly repeats his name and address. Another character has blood smeared on his face and kicks sand in a small
+child’s eyes. Although that character, Maurice, later feels bad, his friend Roger shows no regrets. Many characters
+in this novel venture to “The Scar” to build a fire with one character’s glasses. A dreamy character in this novel
+named Simon is killed when other boys mistake him for “the Beast.” For 10 points, Jack and Ralph square off for
+leadership of a lost group of boys and Piggy is killed by a boulder in this novel by William Golding.
+
+ANSWER: The Lord of the Flies
+6. One method of doing this process introduced by Jack Kiefer takes into account non-uniform memory access time
+and is named for Fibonacci, while a probabilistic quantum algorithm for this is named after Lov Grover and takes
+big O of square root of n time. Poor implementations of one algorithm fail for large sets, as adding two interval
+endpoints then dividing by two can give an overflow error. For ordered lists it can be completed in big O of log n
+time, while the best general algorithm takes big O of n time as it requires looking at each element. For 10 points,
+identify this process that has “linear” and “binary” versions used to find an element in an array.
+ANSWER: search
+7. In a work by this man, a character shouts “Ah la maledizione” upon realizing his bad fortune, which follows the
+aria “V’ho igannata” after which that character’s father dies. One character in that opera by this man is compared to
+an assassin in “Pari siamo,” while another’s love for Gaulthier Malde causes her to sing “Caro Nome.” Maddalena is
+the sister of the assassin Sparafucile in that opera. In another opera by this man, the title character, who is described
+as Celeste, is the daughter of Amonasro and competes with Amneris for the love of Radames. For 10 points, identify
+the composer of an opera containing the aria “La donna e mobile,” Rigoletto, and one about an Ethiopian princess,
+Aida.
+ANSWER: Giuseppe Verdi
+8. One famous scene in this novel features the tactic of allowing the enemy to fire upon empty straw boats in the
+dark to acquire arrows, and another involves feigning nonchalance upon an enemy’s approach to protect an empty
+fort. Three men make the Oath of the Peach Garden and proceed to win a great victory at Red Cliffs. Beginning
+with the Yellow Turban Rebellion and ending with the victory of the Jin Dynasty, this novel features characters
+such as Liu Bei, Zhuge Liang and Cao Cao (TSAO-TSAO) . For 10 points, name this Great Chinese novel by Luo
+Guanzhong about the end of the Han Dynasty that features the titular states of Wei, Shu, and Wu.
+ANSWER: Romance of the Three Kingdoms [accept San Guo Yan Yi]
+9. This quantity is responsible for changes in refractive indices proportional to the square of this quantity in the
+Kerr effect. A vector that describes the directional energy flux density is equal to the magnetic field times this
+quantity and is called the Poynting vector. Drift velocity is equal to this quantity times electron mobility. A dipole
+experiences a torque equal to charge times separation times this quantity. This quantity is zero within a conductor.
+The integral of this quantity dotted with area over a closed surface is proportional to the charge enclosed by Gauss'
+law. For 10 points, name this field that has units of force per unit charge and is symbolized by the letter E.
+ANSWER: electric field [accept E before it is read]
+10. The sections of this text occur in chronological order, except for the “Words of” its namesake and the section
+named after Ether, which describes the exploits of a people descended from Jared after the confusion of tongues at
+the Tower of Babel. Its central narrative begins at the time of Jeremiah with a patriarch called Lehi, whose family
+eventually split into the Nephites and Lamanites, and in this scripture a later generation of Nephites was visited by
+the resurrected Jesus long after their ancestors reached the Americas. For 10 points, name this religious scripture
+preserved in a New York hillside on golden plates until it was unearthed by Joseph Smith with the help of an angel
+named Moroni.
+ANSWER: The Book of Mormon: An Account Written by the Hand of Mormon upon Plates Taken from the Plates
+of Nephi
+11. This thinker founded a school of thought that argued that the manner in which knowledge is obtained has an
+effect on the validity of that knowledge. That school included this thinker’s “Schema Theory.” In one work, this
+thinker wrote that morality developed from peer interaction rather than mandates from authority figures, and he also
+
+noted that a certain group was very egocentric in their “sensorimotor” stage. For 10 points, name this proponent of
+genetic epistemology and author of The Moral Judgment of the Child, a Swiss psychologist who created a theory of
+cognitive development.
+ANSWER: Jean Piaget
+12. The phrase “you can’t shoot an idea with a gun” was used at the first modern incarnation of this event, which
+occurred in Oregon and saw the participation of Minnesota governor Harold Stassen. A more recent one of these
+saw the statement “There is no Soviet domination of Eastern Europe.” One of these saw a famous disparity between
+the opinions of radio listeners and television viewers because one participant appeared tired and pale. That was the
+first of four of these that occurred in 1960 between Kennedy and Nixon. For 10 points, name these events that see
+candidates for a certain office discuss controversial issues, a recent one of which saw Obama reference “horses and
+bayonets.”
+ANSWER: presidential debates [prompt on debates]
+13. Along with Max Delbruck, this scientist was one of the first to propose that DNA replication is likely connected
+with base complementarity. In addition, five rules for predicting the crystal structures of complex ionic crystals
+are named for him. He proposed a three-strand structure of DNA, where one strand binds to a B-form double
+helix through Hoogsteen or reversed Hoogsteen pairing. This famous scientist analyzed the tetravalent nature
+of the carbon atom and developed a well-known model that attempts to explain its bonding; this model is called
+hybridization. For 10 points, name the scientist who lends his name to a well-known electronegativity scale on
+which fluorine is given a 4.0.
+ANSWER: Linus (Carl) Pauling
+14. A portrait of this man shows him wearing medals marking his membership in the Legion of Honor and Order of
+the Iron Crown while standing in his green-carpeted study. In another painting, this man takes off one of his white
+gloves before reaching out to touch a sick man amidst a crowd of victims of the bubonic plague in a mosque at Jaffa.
+This man's name is etched on some rocks next to the names of Hannibal and Charlemagne in a painting showing
+him pointing upwards atop a rearing horse while crossing the Alps. For 10 points, name this French ruler who was
+depicted in a massive Jacques-Louis David work holding a crown above his kneeling wife Josephine.
+ANSWER: Napoleon I Bonaparte
+15. This philosopher argued that virtue rather than punishment better instills a sense of shame, which is necessary
+to prevent crimes. In a famous story about this philosopher, he refused to ask about the horses after the stables were
+burnt. This philosopher said that “what you do not wish for yourself, do not do to others,” his so-called “silver
+rule.” Two important concepts in this man’s philosophy are righteousness and ritual, referred to as yi and li. This
+philosopher served in the Lu state, and one follower founded a “neo-” version of this man’s philosophy. For 10
+points, name this teacher of Mencius and author of the Analects, a famous Chinese philosopher.
+ANSWER: Confucius
+16. This man was once imprisoned by three queens until he promised to marry one of them, but he was rescued by
+the daughter of his friend King Baudemagus. He suffered from madness for two years after being discovered in bed
+with Elaine of Carbonek, the daughter of the Fisher King. This half-brother of Sir Hector-de-Maris was responsible
+for the deaths of Gawain's brothers while attempting to rescue his lover from being burned at the stake. He had
+earlier saved that lover from Meleagant in an adventure that earned him the nickname “Knight of the Cart.” For 10
+points, name this man who fathered Galahad and had an affair with Guinevere, considered the best knight in the
+world.
+ANSWER: Sir Launcelot
+
+17. In a section removed from one of this author’s novels, the protagonist confesses to Bishop Tikhon that he forced
+the suicide of a young girl he seduced. In that novel, the nihilist Kirillov bites Pyotr Stepanovich, who murders Ivan
+Shatov. In another novel, Aglaya dotes on a man who competes with Rogozhin for Nastasya Filippovna, Prince
+Mishkin. In a third novel, Smerdyakov murders the father of the ex-soldier Dmitri, the scholar Ivan, and the initiate
+Alyosha. For 10 points, name this novelist, who described Svidrigailov’s attempted seduction of Dounia and a pawn
+broker’s murder by Raskolnikov, the author of The Brothers Karamazov and Crime and Punishment.
+ANSWER: Fyodor Dostoevsky
+18. Raymond-Roger de Trencavel was forced to defend the castle of Carcassonne during one of these conflicts,
+which had earlier seen the death of Peter II of Aragon at the Battle of Muret. Another of these conflicts left the War
+of the Lombards in its wake and occurred after John of Brienne was succeeded by Frederick II. A later one saw the
+capture of Damietta by French forces but resulted in the capture of Louis IX. The defeat of Guy of Lusignan at the
+Battle of Hattin triggered one of these wars in which Richard I was victorious at the Siege of Acre but was unable to
+retake Jerusalem. For 10 points, name these religious wars in which Christians fought for the Holy Land.
+ANSWER: Crusades [Accept Albigensian Crusade before “Lombards” is read.]
+19. Muzio Clementi wrote a collection of these titled Gradus ad Parnassum. One of these works begins with an
+E-E-E-E-F-E-C-E theme, while another was described by Robert Schumann as an “Aeolian Harp.” Gyorgy Ligeti
+composed one titled after Brancusi’s “Infinite Column,” and Carl Czerny is remembered most for this type of
+composition. Frederic Chopin composed a notable one titled “Winter Wind,” as well as one nicknamed “Black
+Key,” but his most famous one appeared during the November Uprising of 1831 and is titled “Revolutionary.” For
+10 points, name this type of musical composition often used to strengthen technique whose name comes from the
+French word for “study.”
+ANSWER: etude
+20. Agriculture in this nation is distinguished between wet farming in and around cities such as Kandy in its central
+portion and dry farming in regions such as its Northern Jaffna Peninsula. The Central Highlands of this nation
+contain its highest point of Pidurutalagala. The mouth of the Kelani river in the west is the site of this nation’s
+largest city of Colombo and its nearby capital, and this country was once connected by Adam’s Bridge to the region
+of Tamil Nadu. For 10 points, name this island nation located southwest of the Bay of Bengal and southeast of the
+Indian Subcontinent.
+ANSWER: Sri Lanka
+Bonuses
+1. It is believed to have been built by the pharaoh Khafra, and it is the largest statue in the world carved out of a
+single piece of rock. For 10 points each:
+[10] Name this limestone statue at Giza that is lying down with its head raised in front of the Second Pyramid.
+ASNWER: Great Sphinx
+[10] The Dream Stele attributing the sphinx to Khafra was placed between the front paws of the sphinx by the
+grandson of this pharaoh of the 18th dynasty, who succeeded his stepmother Hatshepsut in power.
+ANSWER: Thutmose III [Prompt on Thutmose.]
+[10] Another famous Egyptian structure is the tomb of this boy king in the Valley of the Kings that was famously
+discovered by Howard Carter in 1922.
+ANSWER: Tutankhamun
+2. Answer the following question on chemical bond formalisms. For 10 points each:
+
+[10] Name this famous depiction of chemical bonds, in which single bonds are represented by two dots, double
+bonds by 4 dots, and triple bonds by 6 dots between elements.
+ANSWER: Lewis dot formalism
+[10] Arrhenius characterized these as either hydrogen ion donors or hydroxide ion donors. Name these species,
+which can react in a neutralization reaction to form water and salts.
+ANSWER: acids and bases [Prompt on acids or bases.]
+[10] These compounds are formed by the reaction of metal ions, generally charged, with Lewis bases often called
+ligands. These ligands form covalent interactions with the metal ions, generally bonding with d-orbitals. Examples
+include Ziese’s salt and Vaska’s compound.
+ANSWER: coordination complexes [Accept coordination compounds.]
+3. Its long Ionic frieze is thought to depict a Panathenaic procession and it was designed by Iktinos and Kallikrates,
+who incorporated the golden ratio into its design. For 10 points each:
+[10] Name this large Greek temple that sits atop the Acropolis.
+ANSWER: Parthenon
+[10] The Parthenon is located in this Greek city, also home to the Areopagus where a lot of trials happened in
+ancient times. It is currently the national capital.
+ANSWER: Athens
+[10] Another temple sitting on the Acropolis is this one, which features the Porch of the Caryatids and a series of
+Ionic columns. It is named for a legendary king of Athens.
+ANSWER: Erechtheion
+4. In his most famous work, this philosopher attempted a destructuring or “Destruktion” of all previous western
+philosophy and invented “dasein.” For 10 points:
+[10] Name this philosopher, who argued that the first title concept could only be studied when stretched out over the
+second in a “world historicality” in his work Being and Time.
+ANSWER: Martin Heidegger
+[10] Heidegger asked “What is” this concept in one essay. Walter Benjamin discussed the aura of this concept
+before the modern era in his essay “The work of” this concept “in the age of mechanical reproduction.”
+ANSWER: art
+[10] Heidegger was famously accused of being active in this German party in the 1930s and 40s. Hannah Arendt
+wrote about the trial of one of its members in her Eichmann in Jerusalem.
+ANSWER: the Nazi party or the National Socialist German Workers’ Party or the NSDAP
+5. He led an uprising that was crushed by governmental forces and saw him hanged after surrendering at the Battle
+of Batoche. For 10 points each:
+[10] Name this leader of the Northwest Rebellion, a member of the Métis people who lead uprisings in Manitoba
+and Saskatchewan.
+ANSWER: Louis Riel
+[10] Those rebellions led by Riel, which included the Red River Rebellion, were in this country north of the United
+States.
+ANSWER: Canada
+[10] The Northwest Rebellion was quickly put down due to the construction of one of these that allowed for more
+efficient troop transport. Leland Stanford helped finance one of these which helped connect the Atlantic and Pacific
+coasts in the US.
+ANSWER: transcontinental railroad
+6. Factors that affect this measure include personal tastes, prices of related goods, and consumer expectations for the
+future. For 10 points each:
+
+[10] Name this economic measure, which almost always has a downward-sloping schedule.
+ANSWER: demand
+[10] This other economic concept measures the sensitivity of either supply or demand to a change in price and is
+affected by the availability of substitutes and the necessity of the good in question.
+ANSWER: elasticity [Accept price elasticity or price elasticity of demand.]
+[10] When market demand is inelastic along a given section of the demand schedule, an increase in price will lead to
+an increase in this quantity for producers. When demand is elastic, this quantity will decrease with a price increase.
+ANSWER: total revenue [Do not accept “profit.”]
+7. One character in this work flies to the moon on Elijah’s flaming chariot in order to recover another character’s
+wits. For 10 points each:
+[10] Name this epic poem by Ludovico Ariosto in which the title character’s madness is brought on by the pagan
+princess Angelica’s elopement with the Moorish warrior Medoro.
+ANSWER: Orlando Furioso
+[10] Orlando appears under a different name in this French epic, in which he is killed defending Roncevaux pass
+from the hordes of Muslims who seek to destroy the French army.
+ANSWER: The Song of Roland [Accept Le Chanson de Roland.]
+[10] This “great” French king is Roland/Orlando’s king and Holy Roman Emperor in both Orlando Furioso and
+The Song of Roland.
+ANSWER: Charlemagne
+8. Answer the following about Caribbean literature. For 10 points each:
+[10] This author wrote about the Cabral family’s experiences under Rafael Trujillo and their title overweight,
+science fiction-loving descendant in The Brief Wondrous Life of Oscar Wao.
+ANSWER: Junot Diaz
+[10] Diaz was born in this country, which saw the reign of Trujillo and shares Hispaniola with Haiti.
+ANSWER: The Dominican Republic [Accept Republica Dominicana.]
+[10] This other Caribbean author, a poet from St. Lucia, drew upon Homeric epics in his 1990 work Omeros.
+ANSWER: Derek (Alton) Walcott
+9. Name these features of the Jain religious tradition. For 10 points each:
+[10] These are the liberated beings who, by teaching the Jain dharma, help others to also achieve enlightenment.
+There have been twenty-four of these in this cosmic cycle.
+ANSWER: tirthankaras [Accept jinas.]
+[10] This most recent tirthankara, often considered the founder of Jainism, lived in the fifth or sixth century BCE,
+slightly before the time of the Buddha.
+ANSWER: Vardhamana or Mahavira [Accept Arukan.]
+[10] According to tradition, all tirthankaras taught this principle of non-violence, which inspired Gandhi.
+ANSWER: ahimsa
+10. He included a bowl of oranges amongst several bottles of alcohol in A Bar at the Folies-Bergere, which depicts
+the patrons as reflections in a mirror. For 10 points each:
+[10] Name this French Impressionist who also showed a black servant bringing a bouquet of flowers to the titular
+nude prostitute in his Olympia.
+ANSWER: Edouard Manet
+[10] This painting of a picnic by Manet shows a nude woman seated beside two fully clothed gentlemen, and
+another woman can be seen bathing in a pool in the background.
+ANSWER: The Luncheon on the Grass [Accept Le dejeuner sur l'herbe.]
+
+[10] Manet painted a man in a brown cloak seated alone with a glass of this drink beside him. It was also the subject
+of a Degas painting showing two dejected patrons of a bar.
+ANSWER: absinthe
+11. This woman, who killed her own sons Mermerus and Pheres, married Aegeus of Athens after fleeing from
+Corinth. For 10 points each:
+[10] Name this woman who tried to poison the son of Aegeus when he came to Athens to claim his rightful place.
+The plot failed when Aegeus recognized his own sword at his son's side.
+ANSWER: Medea
+[10] This is the aforementioned son of Aegeus. Aegeus drowned himself in his namesake sea when this man forgot
+to fly white sails while returning from Crete, where he accomplished his most famous feat.
+ANSWER: Theseus
+[10] Theseus and his friend Pirithous each decided they should marry a daughter of Zeus. Pirithous selected
+Persephone, while Theseus picked this sister of Clytemnestra who was stolen by Paris from her husband Menelaus.
+ANSWER: Helen of Troy [Accept Helen of Sparta.]
+12. This nation is planning to vote on independence from the United Kingdom in 2014. For 10 points each:
+[10] This nation to the north of England contains a number of firths and lochs and the Highlands. According to a
+New York Times Bestseller by Arthur Herman, it invented the modern world.
+ANSWER: Scotland
+[10] This current first minister of Scotland has pushed for the Scottish Independence Referendum as part of the
+Scottish National Party’s platform.
+ANSWER: (Alexander Elliot Anderson) Salmond
+[10] The agreement between Alex Salmond and David Cameron that set up the 2014 referendum is named after
+this Scottish city. The agreement was signed in this city’s St. Andrew’s House, the headquarters of the Scottish
+government.
+ANSWER: Edinburgh
+13. This poem mentions people who “distributed Supercommunist pamphlets in Union Square...while the sirens of
+Los Alamos wailed them down.” For 10 points each:
+[10] Name this poem. Its second part prominently features Moloch, and it begins, “I saw the best minds of my
+generation destroyed by madness.”
+ANSWER: “Howl”
+[10] This Beat poet wrote “Howl” in addition to works like “Kaddish” and “A Supermarket in California.” He
+famously palled around with other writers like Jack Kerouac and William S. Burroughs.
+ANSWER: (Irwin) Allen Ginsberg
+[10] This other Beat poet wrote works like “Junkman’s Obbligato,” which can be found in his collection A Coney
+Island of the Mind. He ran the City Lights Bookstore in San Francisco.
+ANSWER: Lawrence Ferlinghetti
+14. Identify the following things about math. For 10 points each:
+[10] Identify this object in the real plane that is the set of points equidistant from a center point. Its area is given by
+pi times r squared.
+ANSWER: circle
+[10] Infinite unions of these types of sets give other ones of these, as do finite intersections. Every cover made up of
+these has a finite subcover for compact spaces, and they do not contain their boundaries.
+ANSWER: open set
+[10] One definition of these functions is that open sets map back to open sets. These functions are functions for
+which small changes in input result in small changes in output. They can be formalized using epsilons and deltas.
+
+ANSWER: continuous functions
+15. One work by this man contains a “Dance of the Reed-Pipes” in addition to Russian, Arabian, and Chinese
+dances. For 10 points each:
+[10] Name this Russian composer of a work that also contains a “Waltz of the Flowers” and features Herr
+Drosselmeyer, a work in which the title character stabs the mouse king.
+ANSWER: Peter Ilyich Tchaikovsky
+[10] Tchaikovsky also wrote this overture commemorating Russia’s victory over Napoleon in which La Marseillaise
+is played as Moscow burns. It also features a famous cannon shot.
+ANSWER: 1812 Overture [Accept The Year 1812.]
+[10] This work by Tchaikovsky that contains a quotation from the Orthodox Requiem during its first movement also
+contains a “limping waltz” in 5/4 time and a bassoon solo marked with six pianissimos that is sometimes played by a
+bass clarinet.
+ANSWER: Symphony Pathetique [Accept Patetičeskaja or Symphony No. 6 in B Minor.]
+16. This man's trial at the Hague for genocide, racial persecution, torture, attacks on civilians, and other crimes
+against humanity was called the “trial of the century.” For 10 points each:
+[10] Name this former President of Serbia who presided over the ethnic cleansing of Albanians in Kosovo during
+Operation Horseshoe and ordered the Siege of Sarajevo.
+ANSWER: Slobodan Milosevic
+[10] Milosevic led Serbia following the breakup of this Balkan nation, which had included Croatia, Serbia, and
+Bosnia.
+ANSWER: Yugoslavia [Accept Socialist Federal Republic of Yugoslavia.]
+[10] Perhaps the worst act of genocide committed by Serbian troops was this massacre of 8,000 Bosniak Muslims
+that occurred during the Bosnian War. A mass killing of 62 children occurred in the same town two years before.
+ANSWER: Srebrenica Massacre
+17. In electromagnetic radiation, this phenomenon results from the cross terms in the calculation of the intensity of
+two sources. For 10 points each:
+[10] Name this effect that comes in both constructive and destructive varieties.
+ANSWER: interference
+[10] Two sources that are separated along the line of sight by a distance equal to this quantity will constructively
+interfere. It is the distance from peak to peak in an oscillation.
+ANSWER: wavelength
+[10] This type of interference occurs when light reflects between a spherical surface and a planar surface. It is
+named for a prominent English physicist.
+ANSWER: Newton’s rings
+18. This battle saw soldiers told to hold their fire at the enemy until they saw “the whites of their eyes,” a quote
+which has not been clearly attributed. For 10 points each:
+[10] Name this early American Revolutionary Battle which was actually fought mostly on nearby Breed’s Hill.
+ANSWER: Battle of Bunker Hill
+[10] William Howe, who commanded the British forces at Bunker Hill, successfully led the campaign to take this
+colonial capital in 1777.
+ANSWER: Philadelphia
+[10] This Connecticut native helped lead the colonial forces at Bunker Hill, and may have told William Prescott to
+give the “whites of their eyes” order.
+ANSWER: Israel Putnam
+
+19. Sometimes it pays to be lucky in science. For 10 points each:
+[10] Alexander Fleming is famous for discovering this first antibiotic, a beta-lactam, after allowing mold to grow on
+his staphylococcus bacteria.
+ANSWER: penicillin
+[10] Penicillin works by inhibiting the formation of this component, often found in bacterial cell walls. Its structure
+is that of cross-linked amino sugars.
+ANSWER: peptidoglycan
+[10] This technique of differentiating between groups of bacteria takes advantage of the presence or absence of
+peptidoglycan, which produces a purple blue color.
+ANSWER: Gram staining
+20. In one work, this author points out that in ancient Greece, any book could be published, although heretical or
+profane books would be burned. For 10 points each:
+[10] Name this author, who wrote a work reminding his audience that learned men like Moses, David, and Paul
+became learned by reading books of all sorts in his Areopagitica.
+ANSWER: John Milton
+[10] In this work, Milton’s most famous, Satan is cast out of heaven by God and in turn tricks Adam and Eve into
+eating the apple. Milton wrote this epic poem “to justify God’s ways to man.”
+ANSWER: Paradise Lost
+[10] In this play by Milton, the title character is taunted by Harapha after losing his strength-giving hair after
+Dalila’s betrayal. At the play’s end the protagonist collapses a hall on himself and the Philistines.
+ANSWER: Samson Agonistes
+
+

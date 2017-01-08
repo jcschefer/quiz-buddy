@@ -1,0 +1,56 @@
+NewTrier Varsity 2006  Round 6, Page 7 
+
+
+Bonus 13: Literature (Literature) 
+Given a description, namethe work by Franz Kafka. 
+A: This novela is about how Gregor Samsaturns intoa bug. 
+B: Karl Rossman comes to the United States in this novel.
+C: This novel is abouthowJosef K.goes through the titular process.
+D: A surveyor named K. travels tothe title structure. 
+Answers: A: Metamorphosis B: Amerika (accept The Stoker) C: The TrialD: The Castle 
+
+Tossup 14: Math (Calculus) - Computational (30 Seconds) 
+Find dy over dx for the equation y squared minus x squared equals two y. To findthis derivative,you 
+have to use implicit diferentiation, applying the chain rule onthe y terms, and then solving for dy 
+over dx. 
+Answer: x / (y-1) (x over the quantity yminus one; accept +/- v(y^2-2y)or 1 +/- v(x^2+1) 
+
+Bonus 14: Miscelaneous (Technology) 
+Name these web browsers other than Internet Explorer.
+A: The most popular alternative browser, this browser by the Mozila Foundation is curentlyat 
+version 2.0. 
+B: Based on code from the Mozila Foundation but independently developed, this browser is native 
+to Mac OS 10. It is curently at version1.0.3. 
+C: Curentlyat version 9.02, this web browser is developed by a company based in Norway. They
+have partnered with Nintendo to createversions of their browser for several recent Nintendo 
+consoles. 
+D: Developed by Apple Computer, this browsercurently at version 2.0.4 is bundled with Mac OS 10. 
+Answers: A: Mozila Firefox B: Camino C: Opera D: Safari 
+
+Tossup 15: Fine Arts (Visual Art) 
+The first modern patent is thoughtto have been given to this Italian architect, for his design of a 
+vessel that would be used to cary loads down a river. Throughout his life, he had a biter rivalry with 
+felow sculptor Lorenzo Ghiberti,which included losing in a competition to create the second set of 
+bronzedoors for the baptistery of the cathedral in Florence, which eventualy was caled the "Gates 
+of Paradise". Often credited with inventing linear perspective, name this architect who is most 
+famous for hiswork on the Duomoin Florence. 
+Answer: Filippo Bruneleschi 
+
+Bonus 15: Social Studies (Other) 
+Name these economists. 
+A: This economist coined the term "conspicuous consumption" in his 1899 book, "The Theory of the 
+Leisure Class." 
+B: This Canadian-born economist that diedin 2006 coined such terms as "conventional wisdom" in 
+his 1958 book, "TheAfluent Society." 
+C: This American economist and prominent monetarist also died in 2006. 
+D: This 2006 winner of the Nobel Peace Prize founded the Grameen Bank and created the concept
+of "micro-lending." 
+Answers: A: Thorstein Veblen B:John Kenneth Galbraith C: Milton Friedman D: Muhammad 
+Yunus
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

@@ -1,0 +1,440 @@
+NASAT 2015 - Round 01 - Tossups
+1. An opera by this composer uses an onstage ensemble of three piccolos, six horns, a tam-tam, and a wind
+machine to depict an oncoming storm in Act III. In that opera by this composer, the protagonist ignores the
+nagging of her nurse Mary and sings "Traft ihr das Schiff," her namesake ballad, to a chorus of young girls at
+their spinning wheels. An opera by this composer ends as a character sings that her lover smiles "softly and
+gently" and that his dead body "shines ever brighter" in her final aria, the "Liebestod." The prelude to that opera
+by him introduces a dissonant chord named for the first title character, a knight of the Round Table. For 10
+points, name this German composer of The Flying Dutchman and Tristan und Isolde.
+ANSWER: Richard Wagner [or Wilhelm Richard Wagner] <Kim>
+2. A poem by this man begins with a Lord Oxford quotation that warns "'Tis dangerous to be good," and is
+titled for a man who "sits musing o'er his scars and wooden leg." The title subject of another of his poems is "by
+nature's self in white arrayed," and is told by the speaker, "when you die you are the same, the space between is
+but an hour." That poem by this poet is addressed to a "fair flower, that dost so comely grow." Another poem by
+this writer begins, "In spite of all the learned have said, I still my old opinion keep," and describes a site that
+shows "the fancies of a ruder race." For 10 points, name this "Poet of the American Revolution" who wrote "The
+Wild Honeysuckle" and "The Indian Burying Ground."
+ANSWER: Philip Freneau [or Philip Morin Freneau] <Sy>
+3. A correction functional for calculating this quantity equals the dot product of two gradients of a probability
+function, over eight times the probability, and is named for von Weizsäcker. This quantity increases with the
+curvature of a wavefunction since its operator is proportional to del-squared. Relativistically, this quantity
+equals m times c squared, times the Lorentz factor minus one. The maximum amount of this quantity equals
+h-nu minus the workfunction in measurements of the photoelectric effect. Escape velocity is derived by
+setting big G times two masses over the planetary radius equal to it. It is conserved for elastic collisions, but
+not for inelastic collisions. For 10 points, name this quantity equal to half the mass times velocity squared.
+ANSWER: kinetic energy [or K; prompt on energy; do not accept "potential energy"] <Silverman>
+
+NASAT 2015 - Round 01 - Page 1 of 13 
+
+4. The Schechter Letter uses the name "HLGW" to describe a ruler of this empire who led two thousand boats
+traveling on land to raid Constantinople, where he nailed his shield to the city gates. This empire sacked a
+neighboring state's city of Atil. Boleslaw the Brave intervened in a succession crisis in this empire, during
+which he chipped his sword after striking its capital's Golden Gate. This empire's history is recorded in
+Nestor's Primary Chronicle. A ruler of this empire was baptized at Chersonesus after marrying Basil II's sister,
+Anna. This empire, which conquered the Khazar Empire, was ruled by a dynasty began by Rurik. For 10 points,
+name this empire ruled by Yaroslav the Wise and Vladimir the Great from the modern-day capital of Ukraine.
+ANSWER: Kievan Rus [or Kiev] <Golimlim>
+5. Sylvester's theorem equates this function of the identity plus A times B to this function of identity plus B
+times A. This function is the unique antisymmetric multilinear form which takes the set of standard basis
+vectors to one. This quantity can be written as the sum over all permutations sigma of the sign of sigma times
+an expansion term, the product of a sub i comma sigma i, which is known as expansion by cofactors. It gives
+the area of the parallelogram formed by two vectors. The solutions to a system of linear equations are a ratio of
+two of these quantities, by Cramer's Rule. If this quantity is non-zero, a matrix is invertible. For 10 points,
+name this quantity that for a two by two matrix is a times d minus b times c.
+ANSWER: determinant <Schindler>
+6. An oracle tells a king of this city that he can win a war if he sacrifices one of his daughters; when he does so,
+his other daughters all commit suicide together. A princess of this city turns into stone when she blocks a
+doorway to keep Mercury from reaching her sister. A woman from this city murders and cooks her son Itys,
+and her sister turns into a nightingale after weaving a tapestry depicting her rape and mutilation by Tereus.
+Herse and Philomela are from this city, in which Poseidon summons saltwater from a spring, only to lose its
+patronage to a goddess that brings forth an olive tree. A king of this city navigates the Labyrinth and slays the
+Minotaur. For 10 points, name this Attican city named for the Greek counterpart to Minerva.
+ANSWER: Athens <Kim>
+7. The leader of one of these military operations ordered his guide, Martin Robinson, hanged for allegedly
+misleading him. That leader of one of these operations was posthumously accused of intending to assassinate
+politicians and burn the city of Richmond. A more successful one of these events ended when its participants
+arrived safely in Baton Rouge, having distracted Confederate forces from the Siege of Vicksburg. A
+commander renowned for performing these with great skill carried out one while circumnavigating the Army
+of the Potomac, although a later failed one of them deprived Robert E. Lee of information at the Battle of
+Gettysburg. For 10 points, name these fast attacks used by commanders such as Ulric Dahlgren, Benjamin
+Grierson, and Jeb Stuart, who led horse-mounted troops.
+ANSWER: cavalry raids [accept synonyms for "raid" like attacks or operations; prompt on partial answers]
+<Clarke>
+
+NASAT 2015 - Round 01 - Page 2 of 13 
+
+8. This composer's final keyboard concerto ends with a D major "Rondo all'Ungarese." This composer wrote his
+Cello Concerto No. 1 in C major, a key he also used for a mass whose Agnus Dei introduces ominous timpani
+strokes and trumpet fanfares to evoke the title phenomenon. Like Johann Nepomuk Hummel, this composer
+wrote a concerto for the new keyed trumpet invented by Anton Weidinger. This composer of the Mass in Time
+of War wrote a symphony whose second movement prominently features a triangle, a pair of cymbals, and a
+bass drum, in order to imitate Turkish music. Another of his symphonies ends with all but two musicians
+leaving the stage. For 10 points, name this composer of symphonies nicknamed Military, Farewell, and Surprise.
+ANSWER: Franz Joseph Haydn <Kim>
+9. Along with John Allen, this man intervened in a child custody dispute to help out mutual friend Natalie
+Khawam. He acquired the nickname "Peaches" as a youth because his name was viewed as too hard to say. A
+2007 advertisement from MoveOn.org claimed this man was "cooking the books for the White House." His
+reputation was tarnished after the FBI received a complaint about cyberstalking from Florida socialite Jill
+Kelley, who was being harassed by this man's mistress. He recently pled guilty to misdemeanor charges
+regarding classified information that stemmed from his affair with Paula Broadwell, the author of his
+biography All In. For 10 points, name this four-star general and former CIA chief.
+ANSWER: David Petraeus <Cheyne>
+10. In the fourth section of this poem, the speaker observes that "flowers have been known to heal a common
+man's despair." In this poem, the Chaplain refuses to pray beside the corpse of a man who "did not wear his
+scarlet coat, for blood and wine are red." This poem chiasmatically describes a man for whom "mourners will
+be outcast men, and outcasts always mourn," a passage chosen as the epitaph of the author, who wrote it
+under the pseudonym C.3.3. This poem declares that "some do it with a bitter look, some with a flattering
+word," to elaborate upon his assertion that "each man kills the thing he loves." For 10 points, name this poem
+in which Oscar Wilde describes his imprisonment for homosexuality in the title place.
+ANSWER: "The Ballad of Reading Gaol" <Gupta>
+11. This group settled the strategically-critical city of Naupactus. Part of this group was given garlands and
+slain at the temple of Poseidon at Taenarus. This group staged a revolt after an earthquake took place at the
+Taygetus Mountains in 464 BC. Many of them received their status after two Messenian Wars. These people,
+who could become mothakes by completing the agoge, could often be indiscriminately killed by the krypteia.
+Every autumn, the ephors declared war on these people, who could become neodamodes by serving as hoplites or
+paying a sum of 500 drachmas. For 10 points, name these people subjugated by the Spartan state.
+ANSWER: helots [prompt on Spartan slaves] <Golimlim>
+12. This book has been criticized for switching between differential and physiocratic theories of rent. The four
+principles of a good tax system outlined in this book are proportionality, transparency, convenience, and easy
+enforceability. This book analyzes the history of the ban on exporting live sheep in its discussion of monopoly
+power, and it claims that the relationship between income and fertility creates a wage floor that is static in the
+long-term in its "subsistence theory of wages." The start of this book contains a description of a factory where
+a 2000-fold increase in productivity was achieved by the division of labor. For 10 points, name this 1776 text
+which denounces mercantilism and explains the functioning of the "invisible hand," written by Adam Smith.
+ANSWER: The Wealth of Nations [or An Inquiry into the Nature and Causes of the Wealth of Nations] <Bollinger>
+NASAT 2015 - Round 01 - Page 3 of 13 
+
+13. One of this man's paintings is traditionally covered up by a flag when exams are held in the gallery that it's
+in, due to rumors that it can drive viewers to suicide. This artist satirized the legal profession in a painting in
+which a French poodle sits as the judge, titled Laying Down the Law. This artist painted the wreckage of John
+Franklin's lost expedition to the Northwest Passage being torn up by two polar bears in his painting Man
+Proposes, God Disposes. This artist's most reproduced painting, set in the sunlit Scottish Highlands, depicts a
+stag looking proudly up at the sky. For 10 points, name this British artist who sculpted the four bronze lions in
+Trafalgar Square and painted The Monarch of the Glen.
+ANSWER: Edwin Landseer [or Sir Edwin Henry Landseer] <Gupta>
+14. A film center in this city is rumored to be haunted, since over a hundred workers were supposedly buried
+alive in cement during its construction. A seaside park in this city now contains the Noli Me Tangere Garden
+in honor of the park's namesake. The abacá plant was made into a type of durable hemp nicknamed for this
+city. Like Baguio (BAHG-yo) to its north, this city was redesigned by Daniel Burnham. Spanish ships that
+traveled between this city and Acapulco were known as its namesake "galleons." One of this capital city's major
+roads is named for a former Governor-General, William Howard Taft. Quezon City is grouped into this city's
+metropolitan area. For 10 points, name this capital of the Philippines.
+ANSWER: Manila <Golimlim>
+15. A character in this play explains her fear of "endless bitterness" while her servant combs her hair. This play
+ends with a lyric poem describing a knife that "stops there in the quivering dark roots of the scream." In a
+scene from this play, a man asks a former flame whether she has received an orange corsage. Act III of this
+play opens with three woodsmen discussing the events of Act II, before a Beggar Woman prophesies the
+coming tragedy while talking to a white-faced personification of the Moon. This play's title event is
+interrupted by a man who is often reported as riding a horse near the estate, Leonardo Felix. For 10 points,
+name this play about the ill-fated marriage between the Bride and Bridegroom, by Federico Garcia Lorca.
+ANSWER: Blood Wedding [or Bodas de sangre] <Sy>
+16. It's not behavior, but Ulric Neisser coined the term for the "echoic" form of this process. A model of this
+process includes a component known as the "episodic buffer." John Palmer co-led a study showing that this
+process was affected by verb choice like "collided" and "smashed" in analyzing a car crash. The conductor of
+that study observed errors in this process when participants in another study were told that they became lost
+in a shopping mall. The serial position effect explains troubles with this process, which was studied by
+Elizabeth Loftus. George Miller proposed that "seven plus or minus two" bits of information can be held by the
+"working" form of this process. For 10 points, identify this process that is impaired by amnesia.
+ANSWER: memory [accept specific types] <Saric>
+
+NASAT 2015 - Round 01 - Page 4 of 13 
+
+17. A character in this poem recalls "a day when historians left blanks in their writings" and states "the
+blossoms of the apricot blow from the east to the west and I have tried to keep them from falling." The line
+"Pull down thy vanity" is repeated in this poem. In this poem, Acoetes describes the appearance of vines and
+lynxes on a pirate ship after the exclamation "Hang it all, Robert Browning!" This poem attacks money-lending
+in its "with usura" section. The first part of this poem is adapted from the Odyssey and begins, "And then went
+down to the ship." One section of this poem quotes from the writings of John Adams, and another was written
+while the author was imprisoned in Pisa. For 10 points, name this lengthy unfinished poem by Ezra Pound.
+ANSWER: The Cantos <Brownstein>
+18. A 2008 issue of Time Magazine received criticism for depicting this action with its central object replaced
+by a tree. A person involved in this action lived on a Gila Indian reservation in Arizona and died as a result of
+his alcoholism. Another person involved in this action was erroneously identified as Hank Hansen, and was in
+reality Harlon Block. The first attempt at this action ended after James Forrestal asked to take its central object
+as a souvenir. Ira Hayes participated in this action, which inspired Felix de Weldon to create the Marine Corps
+War Memorial outside of Arlington National Cemetery. This action was famously depicted in a photograph by
+Joe Rosenthal. For 10 points, identify this action done by six soldiers atop Mount Suribachi.
+ANSWER: raising the flag on Iwo Jima [or equivalents involving Mount Suribachi until it is read; prompt on
+partial answer] <Golimlim>
+19. An Emlen funnel is most often used to study behavior linked to this phenomenon. The forebrain region
+Cluster N may assist this process through a quantum-entangling radical pair mechanism induced by
+cryptochrome activation in the retina. Anxiety during this process is called Zugunruhe. Vagrants can result
+from defects in this process such as spring overshoot. The trigeminal nerve is thought to facilitate this process
+by transducing signals from magnetite-based receptors in the beak. Planetarium studies show that in some
+species it may be performed using celestial navigation. The record for this yearly action is held by the arctic
+tern. For 10 points, name this mass seasonal movement undertaken by geese.
+ANSWER: bird migration [or migrating; prompt on orientation; prompt on animal behavior until "behavior"
+is read; prompt on navigation until it is read] <Smart>
+20. This scientist revealed that an obviously fake seven-headed hydra owned by the burgomeister of Hamburg
+was, in fact, fake. The twinflower was named for this man after his expedition to Lapland to study the Sami,
+which resulted in the book Flora Lapponica. He inverted the Celsius scale to make 0 degrees the freezing point,
+and inaugurated the field of phenology with Calendarium Florae. Carl Peter Thunberg was among the "apostles"
+this man sent on collecting expeditions around the world. He wrote Philosophia Botanica shortly after becoming
+rector of Uppsala University. This scientist, the type specimen of Homo sapiens, founded modern taxonomy
+with his Systema Naturae. For 10 points, name this Swedish naturalist who invented binomial nomenclature.
+ANSWER: Carolus Linnaeus [or Carl von Linné] <Kothari>
+
+NASAT 2015 - Round 01 - Page 5 of 13 
+
+21. This composer's final piano sonata includes a scherzo marked Allegro vivace con delicatezza and begins with a
+lengthy Molto moderato movement in B-flat major. He may have originally intended his Piano Trio No. 1 in Bflat major to include his Notturno in E-flat major as one of its movements. This composer included two cellos,
+rather than the traditional two violas, in his String Quintet in C major. One of his string quartets ends with a D
+minor tarantella and includes a second-movement set of variations on the song "Death and the Maiden." This
+composer included a double bass instead of a second violin in a piano quintet whose fourth movement quotes
+his own lied "Die Forelle." For 10 points, name this composer of the Trout Quintet.
+ANSWER: Franz Schubert [or Franz Peter Schubert] <Kim>
+
+NASAT 2015 - Round 01 - Page 6 of 13 
+
+NASAT 2015 - Round 01 - Bonuses
+1. Recently, this woman has targeted Sheryl Sandberg's Lean In and Beyonce's 2013 album as cultural
+touchstones that uphold the patriarchy. For 10 points each:
+[10] Name this black feminist who analyzed the interaction between sexist, racist, and capitalist power
+structures in her first major work of theory, Ain't I a Woman?.
+ANSWER: bell hooks [or Gloria Jean Watkins]
+[10] hooks' Ain't I a Woman? takes its title from a famous speech by this black female abolitionist.
+ANSWER: Sojourner Truth [or Isabella "Bell" Baumfree]
+[10] In a 1994 book, hooks wrote about performing his action "to transgress,." hooks was inspired by a Paolo
+Freire book arguing that the "banking model" of this duty hurts "the oppressed."
+ANSWER: teaching [or pedagogy] <Bollinger>
+2. A brown dwarf is distinguished from a red dwarf by the presence of this element in its spectra. For 10 points
+each:
+[10] Name this heavy element produced by the big bang nucleosynthesis whose quantity in the universe was
+further increased by the subsequent decay of beryllium-7.
+ANSWER: lithium-7
+[10] Lithium-7 collides with this particle to form two helium-4 nuclei. This particle names a cycle where two of
+them combine to form deuterium in its first step, after one beta decays into a neutron.
+ANSWER: proton
+[10] Thirteen helium-4 nuclei and some neutrons are produced when this isotope of iron is hit by a photon
+during supernovae, a process called photodisintegration. It has the second-highest binding energy of the iron
+isotopes.
+ANSWER: iron-56 <Prieto>
+3. The word "traveling" is inscribed on business cards bought from this place, because the owner of the cards
+doesn't ever know where she'll be. For 10 points each:
+[10] Name this location in New York which is visited by a woman whenever she has the "mean reds" because
+"nothing very bad could happen to you" at this place.
+ANSWER: Tiffany's [or Tiffany and Company]
+[10] This writer, Harper Lee's childhood friend, wrote Breakfast at Tiffany's and the nonfiction novel In Cold
+Blood.
+ANSWER: Truman Capote [or Truman Streckfus Persons]
+[10] In Cold Blood centers on the quadruple murder of this Kansas family.
+ANSWER: the Clutter family <Sy>
+NASAT 2015 - Round 01 - Page 7 of 13 
+
+4. Pyotr Kapitsa's experiments with this phase below the lambda point led him to coin the term superfluid. For
+10 points each:
+[10] Name this phase of helium for which Landau proposed the two-fluid model, explaining superfluidity in
+terms of phonons and rotons.
+ANSWER: superfluid helium II
+[10] Helium-4's phase diagram is kind of cool because it notably lacks one of these points at which the solid,
+liquid, and gas phases all exist in equilibrium, due to the fact that solid helium can only be formed above 25
+atmospheres of pressure, at absolute zero.
+ANSWER: triple point
+[10] Near absolute zero, solid helium takes on this crystal lattice, though at higher temperatures it's known to
+be a bcc or fcc lattice. This non-cubic lattice has a packing density of 74%.
+ANSWER: hcp [or hexagonal close packed] <Golimlim>
+5. This character earns a commission in the Life Guards Green, where he serves as a "heavy dragoon with
+strong desires and small brains." For 10 points each:
+[10] Name this son of Sir Pitt, who makes a marriage to a governess after she fails to marry Joseph. This
+character abandons his wife after concluding that she only cares about money, eventually dying on Coventry
+Island.
+ANSWER: Rawdon Crawley [or Rawdon Crawley; prompt on Crawley]
+[10] Rawdon Crawley marries this woman, who leaves Miss Pinkerton's Academy with Amelia Sedley. This
+protagonist of an 1848 novel is confounded in her first attempts to get married by the machinations of George
+Osborne.
+ANSWER: Becky Sharp [or Becky Sharp; or Rebecca Sharp]
+[10] Becky Sharp is the protagonist of this William Makepeace Thackeray novel.
+ANSWER: Vanity Fair <Sy>
+6. The Mu'tazilah and Ash'ariyya were two major schools of this form of theology. For 10 points each:
+[10] Give this term for a "rationalist theology" of Islam, which is sometimes translated as "dialectic," and which
+derives from a term meaning "word of God."
+ANSWER: Kalam [or Kalam Allah]
+[10] Ibn Hanbal was flogged for refusing to believe that this text was created by Allah and not co-eternal with
+him. The Mu'tazilites espoused that doctrine about this Islamic holy book.
+ANSWER: Quran [or Koran]
+[10] The first of the Mu'tazilites' Five Doctrines is tawhid, which refers to this doctrine that is also stated in the
+first part of the shahada.
+ANSWER: monotheism [or word forms; or obvious equivalents] <Yu>
+
+NASAT 2015 - Round 01 - Page 8 of 13 
+
+7. This artist glued a red fence onto a canvas in which a faceless man reaches for a red-and-blue disc and a
+ghastly woman waves a knife at the title bird. For 10 points each:
+[10] Name this German surrealist painter of Two Children are Threatened by a Nightingale, whose alter ego was an
+anthropomorphic bird named Loplop.
+ANSWER: Max Ernst
+[10] Max Ernst included an uncomfortable-looking brown fish resting upon a white tablecloth in his parody of
+this Edouard Manet which caused a stir for portraying a nude woman in the company of two clothed men.
+ANSWER: The Luncheon on the Grass [or Le Déjeuner sur L'Herbe]
+[10] Ernst created many forest and cityscape scenes using this technique in which paint is applied to a canvas
+and then partially scraped off.
+ANSWER: grattage <Saric>
+8. During this event, a man was questioned about having read The Exorcist and if he ever had used the term
+"Long Dong Silver." For 10 points each:
+[10] Name this 1991 event involving a replacement for William Brennan. It centered on the possible displays of
+sexual harassment carried out by a man while he worked at the Education Department and the Equal
+Employment Opportunity Commission.
+ANSWER: The Clarence Thomas confirmation hearings for the Supreme Court [accept obvious equivalents]
+[10] Florynce Kennedy compared the Thomas nomination to the Supreme Court to the failed nomination of
+this former Solicitor General in 1987 by Ronald Reagan. This man's name has become synonymous with
+focused opposition against Court nominees.
+ANSWER: Robert Bork
+[10] Thomas memorably compared the confirmation hearing to a "high tech" example of one of these events
+during his denunciation of the accusations.
+ANSWER: lynching [do not accept any other answers] <Cheyne>
+9. Answer the following about Britain's involvement in the Arab world, for 10 points each:
+[10] In his autobiography Seven Pillars of Wisdom, this officer described his experiences leading a revolt against
+the Ottoman Empire during World War I.
+ANSWER: T.E. Lawrence [or Thomas Edward Lawrence; or Lawrence of Arabia]
+[10] This document, sent to Baron Rothschild by David Lloyd George's Foreign Secretary, promised the
+establishment of a Zionist state in Palestine.
+ANSWER: Balfour Declaration
+[10] In this country, British officers shot a village's domesticated pigeons in the Denshawai Incident. AntiBritish sentiments led to the establishment of the Wafd Party in this country.
+ANSWER: Egypt [or Arab Republic of Egypt; or Jumhuriyyat Misr al-Arabiyyah] <Golimlim>
+
+NASAT 2015 - Round 01 - Page 9 of 13 
+
+10. An F minor piece in this genre, marked Allegro agitato molto, is included in a collection alongside Feux follets
+and Wilde Jagd. For 10 points each:
+[10] Name this genre which characterizes Un sospiro, included in a set of Three Concert varieties of these pieces,
+and a piece in G-sharp minor based on Niccolo Paganini's Violin Concerto No. 2.
+ANSWER: etudes
+[10] The composer of those etudes also wrote this set of four pieces, which begins with a depiction of "The
+Dance in the Village Inn," and is sometimes grouped with the Bagatelle sans tonalité.
+ANSWER: Mephisto Waltzes [or Mephisto-Valses]
+[10] This composer wrote the Transcendental Etudes, the Mephisto Waltzes, and a collection of nineteen
+Hungarian Rhapsodies.
+ANSWER: Franz Liszt [or Franz Ritter von Liszt; or Liszt Ferenc] <Kim>
+11. Marco Polo recounted how this archipelago's inhabitants had dog-like heads. For 10 points each:
+[10] Name this island group that composes a union territory with the Nicobar Islands.
+ANSWER: Andaman Islands
+[10] Other union territories owned by this country include Daman and Diu, which were seized from the
+Portuguese. This country has fought over the Siachen Glacier with its western neighbor, Pakistan.
+ANSWER: India [or Republic of India; or Bharat Ganarajya]
+[10] These people inhabit a small island west of the main Andaman archipelago and remain virtually devoid of
+outsider influence. After killing two fishermen, they were able to repel a rescue helicopter with mere arrows.
+ANSWER: Sentinelese people [or answers that mention North Sentinel Island] <Golimlim>
+12. This title was held by a man who called on Pope Zachary to depose Childeric III. For 10 points each:
+[10] Give this title bestowed upon officers of the Frankish king's household. The holders of this title gained
+more power during the reigns of the so-called "do-nothing" kings.
+ANSWER: Mayor of the Palace [or Major Palatii]
+[10] That aforementioned usurper of Childeric III had this name. A different man of this name from Herstal
+abolished the title of Mayor of the Palace, instead opting to call himself Duke of the Franks.
+ANSWER: Pepin [or Pepin the Short; or Pepin of Herstal]
+[10] This founder of the Carolingian dynasty was Pepin the Short's oldest son. He was crowned Holy Roman
+Emperor on Christmas Day.
+ANSWER: Charlemagne [or Charles the Great; or Charles I; or Carolus Magnus] <Golimlim>
+
+NASAT 2015 - Round 01 - Page 10 of 13 
+
+13. After this character saves the land of Amaurots, he marries the king, Anarchus, to a lantern-carrying hag
+and makes him the crier of green sauce. For 10 points each:
+[10] Name this Rabelais character who is so troublesome as an infant that he is bound with four great chains
+by his father, Gargantua.
+ANSWER: Pantagruel
+[10] During his travels, Pantagruel befriends this scoundrel, who knows 63 ways to make money and 214 ways
+to spend it, and eventually makes him Laird of Salmigondin.
+ANSWER: Panurge
+[10] This minister of the Abbey of Theleme accompanies Panurge to the Oracle of the Holy Bottle when the
+trickster decides that he wants to get married.
+ANSWER: Friar John [prompt on the Friar] <Gupta>
+14. These contracts allow, but do not require, one party to buy or sell something at the strike price. For 10
+points each:
+[10] Name this type of financial contract, which is typically divided into "call" and "put" varieties.
+ANSWER: options
+[10] This model uses a stochastic differential equation to determine the appropriate premium for a call option.
+Robert Merton, who independently derived it, shared the 1997 Nobel Prize in Economics with one of its
+developers.
+ANSWER: Black-Scholes model [or Black and Scholes; or the names in reverse order]
+[10] One of the assumptions of the Black-Scholes model is that the option is of this type, which allows the
+buyer to purchase or sell an asset only on the day the option expires.
+ANSWER: European option <Wynne>
+15. A falcon flies up to a tower in the estate of Heimir, where this character, Heimir's sister-in-law, dutifully
+embroiders a tapestry. For 10 points each:
+[10] Name this woman who secludes herself in a castle surrounded by a wall of flame, which is breached by
+Sigurd, disguised as Gunnar, who spends three nights next to her with his sword placed between them.
+ANSWER: Brynhildr [or Brunhild]
+[10] Earlier in life, Brynhild had arbitrated a dispute between Agnar and Hjalgunnar in her role as one of these
+Norse shieldmaidens, who bring deceased warriors to Valhalla.
+ANSWER: valkyries
+[10] Sigurd and Brynhild fall in love after he reaches the summit of a mountain by crossing yet another circle
+of flame, and wakes the sleeping woman by performing two actions. Name either.
+ANSWER: removing her helmet and cutting off her armor [either answer is acceptable, but prompt on taking
+off her armor or taking off her clothes] <Gupta>
+
+NASAT 2015 - Round 01 - Page 11 of 13 
+
+16. In his essay "On Humor," Luigi Pirandello defends as a priest from this novel who throws a tablecloth in a
+woman's face and drops a lamp to thwart an attack in his study. For 10 points each:
+[10] Name this Italian novel in which Don Rodrigo covets Lucia, who is engaged to the silk-weaver Renzo.
+ANSWER: The Betrothed [or I promessi sposi]
+[10] The Betrothed and its appendix, The Column of Infamy, contain detailed descriptions of an outbreak of this
+disease that ravaged Milan in 1630. The ten protagonists of Boccaccio's Decameron flee Florence to avoid this
+disease.
+ANSWER: bubonic plague [or the Black Death]
+[10] Together with the Divine Comedy, The Betrothed was instrumental in establishing this dialect as the basis for
+the standard Italian language.
+ANSWER: Tuscan dialect <Gupta>
+17. This government's PIDE security force would often send political dissidents to the Camp of the Slow Death,
+especially after the Academic Crisis. For 10 points each,
+[10] Name this staunchly Catholic government ruled by Antonio Salazar.
+ANSWER: Estado Novo
+[10] The Estado Novo ruled this European nation. After said government's overthrow in the Carnation
+Revolution, this nation lost its colonial holdings, including Mozambique.
+ANSWER: Portugal
+[10] This politician and Air Force general was murdered in Spain after he was exiled for opposing the regime.
+He lost an election to Américo Tomás, after which he fled to Rome to form the Portugese National Liberation
+Front.
+ANSWER: Humberto da Silva Delgado <Mukherjee>
+18. Vantablack, the blackest substance known, is composed of these structures. For 10 points each:
+[10] Name these long, hollow, cylindrical allotropes of carbon that are classified as "single-walled" or "multiwalled."
+ANSWER: carbon nanotubes [prompt on fullerenes]
+[10] The solubility of single-wall carbon nanotubes can be bolstered by adding this kind of nitrogen-containing
+compound to their sidewalls. These compounds couple two aryl groups in the Gomberg-Bachmann reaction,
+and decompose in the presence of copper I (one) compounds in the Sandmeyer reaction.
+ANSWER: diazonium salts [or diazonium compounds]
+[10] The Peierls distortion in carbon nanotubes generates a very small example of this quantity compared to
+thermal fluctuations. This quantity is the difference in energy between namesake valence and conduction
+regions.
+ANSWER: band gap [prompt on partial answer] <Gupta>
+
+NASAT 2015 - Round 01 - Page 12 of 13 
+
+19. Type 3 secretion systems are frequently located in regions where this action has occurred. For 10 points
+each:
+[10] Name this process that can occur via conjugation using the F-plasmid. Other mechanisms for this process
+include transformation and transduction.
+ANSWER: horizontal gene transfer [or lateral gene transfer; or HGT; or LGT]
+[10] The "retro" type of these genetic sequences consist of LTRs, LINEs, and SINEs and have an RNA
+intermediate. These elements were identified by Barbara McClintock and are able to move to other positions
+in the genome.
+ANSWER: transposons [or retrotransposon; or transposable element; or jumping gene; prompt on TE]
+[10] These regions of a genome are acquired through horizontal gene transfer. Their "pathogenicity" types
+carry virulence factors such as type 3 secretion systems, toxins, and superantigens.
+ANSWER: islands [or pathogenicity islands; prompt on PAI] <Smart>
+20. This material was often faced with irregular stones, tuff blocks arranged in a diamond pattern, and
+regularly-laid brick, in techniques respectively known as opus incertum, opus reticulatum, and opus latericium. For
+10 points each:
+[10] Name this Roman composite building material made from volcanic pozzolana, pumice, and quicklime.
+This material was not used for eight centuries after the fall of the Roman Empire.
+ANSWER: concrete [or opus caementicium; prompt on cement]
+[10] An oculus is positioned at the apex of the world's largest unreinforced concrete dome in this Roman
+temple, which despite its name was not dedicated to all the gods.
+ANSWER: Pantheon
+[10] Roman architects adjusted the formula for concrete when building the breakwaters for the gigantic
+Sebastos harbor in this city, established by Herod the Great as an administrative capital for Roman Judea.
+ANSWER: Caesarea [or Caesarea Maritima; or Caesarea Palestinae; or Horbat Qesari] <Gupta>
+21. While serving this emperor, Dong Zhongshu first established Confucianism as state doctrine for China.
+For 10 points each:
+[10] Name this emperor of the 2nd century BCE. He sent out expeditions to retrieve blood-sweating "heavenly
+horses" from the Fergana valley and to fight the Xiongnu to his north.
+ANSWER: Wu Di [or Emperor Wu; or Liu Che]
+[10] Wu Di was a prominent emperor of this dynasty, which controlled the eastern part of the Silk Road as
+Augustus declared himself emperor of Rome. It names China's dominant ethnic group.
+ANSWER: Han dynasty
+[10] The Han dynasty was briefly interrupted by this commander's Xin dynasty, which lasted from 9 to 23 CE.
+ANSWER: Wang Mang <Jackson>
+
+NASAT 2015 - Round 01 - Page 13 of 13 
+
+

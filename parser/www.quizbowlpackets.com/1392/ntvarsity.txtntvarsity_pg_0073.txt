@@ -1,0 +1,57 @@
+NewTrier Varsity 2006  Round 8, Page 3 
+
+
+Bonus 3: Math (Algebra) 
+Find the eccentricity of each of thefolowing conics. 
+A: An elipse with equation 9 x squaredplus 18 x plus 4 ysquaredequals 27. 
+B: The conic with equation x squared plus y squared equals one. 
+C: The parabola with equation y equals x squared plus seven x minus four. 
+D: A hyperbola where the distance from thevertices to the foci is two, and the length of the
+semimajor axis is three. 
+Answers: A: v5 / 3 B:0 C:1 D: 5/3 
+
+Tossup 4: Social Studies (Curent Events) 
+Santa Fe curently has the highestin the country. Of states, Washington leads,folowed by Oregon, 
+Connecticut, and Vermont. Five statesdon't have one explicitly, simply abiding by the federal 
+guideline, which Congress isnow seeking toraise. Ilinois is sixteenth, but recently voted for a sharp 
+increase on July 1 of next year, folowed by additional yearly raises until 2010.Curently at $5.15 
+federaly and $6.50 in Ilinois, name this mandated level of pay that atempts to ensurethat workers
+are not exploited. 
+Answer: Minimum wage (data asof December 2006) 
+
+Bonus 4: Fine Arts (Visual Art) 
+Identify the central figureor figures in each of the folowing paintings by name. 
+A: Self-portrait with bandaged ear 
+B: The School of Athens - Name both figures. 
+C: Primavera 
+D: Las Meninas 
+Answers: A: Vincent van Gogh B: Plato and Aristotle (either order) C: Venus (accept Aphrodite)
+D: TheInfanta Margarita (acceptMargaret Theresa ofSpain) 
+
+Tossup 5: Math (Algebra) - Computational (30 Seconds) 
+Convert the folowing two by three matrix to reduced row echelon form. Its top row is 3, 4,18, and
+botom row1, 2, 8. Remember that row-reduced echelon form means thatthere should be ones 
+along the main diagonal and zeros below the main diagonal. You are alowed to swaprows,add a 
+multiple of one row to another row,or multiplyany row by a constant. It might be easier, however, to 
+simply think of this matrix as a linear system, solve it, and convert back into a matrix. 
+Answer: Top row: 1, 0, 2; botom row: 0,1, 3 (this can be read in any way, but do not accept any 
+other answer) 
+
+
+Bonus 5: Literature (Literature) 
+Identify these non-English speaking poets from a description. 
+A: This man,who wrote during the time of Augustus, created the phrase "Carpe Diem" and wrote Ars 
+Poetica. 
+B: This 11th century Persian poet wrote the Rubaiyat. 
+C: This man's namehas become synonomous with an Italian sonnet, and he often wrote to a woman 
+named Laura. 
+D: This Chinese writer, known as the Poet Immortal, wrote Drinking Alone under the Moon. 
+Answers: A: Horace (accept Quintus Horatius Flaccus) B: Omar Khayyam C: Petrarch (accept 
+Francesco Petrarca) D: Li Bo (accept Li Bai or Li Po) 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

@@ -1,0 +1,437 @@
+NASAT 2015 - Round 19 - Tossups
+1. This process produces a class of butenolides called karrikins, which bind to KAI2 receptors on seeds. Banksia
+plants have serotinous follicles and lignotubers that facilitate resprouting in response to this stimulus.
+Smudge pots use this process to protect fruit orchards from frost. This phenomenon is promoted by eucalypts,
+which have epicormic buds and insulated seed capsules. This phenomenon occurs in surface and crown types
+and is common in a namesake regime that is supported by plants such as ponderosa pine, which have resinsealed cones and sparse lower branches. It can increase soil nutrition by producing an ash bed. For 10 points,
+name this destructive phenomenon that clears out dry underbrush and is often caused by lightning.
+ANSWER: wildfire [or brushfire; or forest fire; or burning; or obvious equivalents; prompt on heat and
+smoke] <Smart>
+2. After somebody dies in Zoroastrianism, one of these creatures is fed three times a day for three days and
+takes part in the sag did ritual, where they repel the Nasus spirits around the dead. In the Middle Ages, one of
+these animals was worshiped in the Dombes region of France as a healer of sick children, Saint Guignefort. In
+the Islamic story of the Cave of the Seven Sleepers, one of these animals stands guard in front of the cave while
+the saints sleep for hundreds of years. Travelers along the Silk Road told of a race of men with the heads of
+these animals in the east called the Cynocephali. For 10 points, name these animals, who in several IndoEuropean traditions guard the entrance to the Milky Way as the constellations Canis Minor and Canis Major.
+ANSWER: dogs <Sy>
+3. These things are evaluated during beta reduction. Each instance of currying reduces the number of these
+things by one. Matching these things unusually occurs by name, not order, in languages like Ada. The number
+of these things corresponds to the dimension of the arity. Two common ways to "pass" these things is by value
+and by reference. They must differ between two overloaded functions. Conventionally, after being passed
+from the command line, these things are parsed using the argc and argv variables. In most languages, they're
+declared inside parentheses in a function definition. For 10 points, name these variables that are used to input
+data to subroutines.
+ANSWER: function arguments [or formal parameters; or actual parameters; or args until "argc" is read; or
+other combinations of required and non-required parts; prompt on variables or inputs] <Silverman>
+
+NASAT 2015 - Round 19 - Page 1 of 13 
+
+4. This philosophical work's author quotes Ovid's line "The better path I gaze at and approve, the worse - I
+follow" to illustrate how men are moved more by opinion than reason. This book advises avoiding the
+Christian virtue of humility because it produces impotence and sorrow. Its second book opens by
+distinguishing ideas from adequate ideas, and posits that all material things have a parallel idea. This book,
+whose structure was modeled on Euclid's Elements, defines "freedom" as an existence from the necessity of
+one's own nature, a state only achievable by God, who is equated with substance. Its third book concerns the
+origin of human emotions, while its fourth book is on human bondage. For 10 points, name this book by
+Baruch Spinoza.
+ANSWER: Ethics [Ethics, Demonstrated in Geometrical Order] [or Ethica, ordine geometrico demonstrata] <Sy>
+5. In a novel by this author, followers of a tycoon known as "Lord Maitreya" try to resurrect a woman using
+"bioinductance" in a town whose pastor, Jon, has stopped burying the dead. A novel by this author features a
+manuscript collector who loses his books to a fire in Copenhagen, and opens with a cord-thief being whipped
+for insulting the hangman sent to destroy the title object. One of this author's protagonists returns home to
+find that his wife Rosa has died in childbirth and that their dog has kept the newborn infant alive. This author
+of a novel titled for the "Bell" of his home country wrote a novel set at Summerhouses, the home of the
+stubborn farmer Bjartur. For 10 points, name this author of Under the Glacier and Independent People, a Nobel
+laureate from Iceland.
+ANSWER: Halldor Laxness <Brownstein>
+6. An E-flat piece scored for a precursor to this instrument as well as violin and piano was written by Brahms
+to commemorate the death of his mother. A virtuoso of this instrument, Dennis Brain, premiered a song cycle
+whose "Elegy" is a setting of "The Sick Rose." It titles a Serenade by Benjamin Britten along with tenor and
+strings. This instrument comes in a "double" version whose second set of tubing is used for high notes. Along
+with the clarinet, it represents the title trickster in Richard Strauss's Till Eulenspiegel's Merry Pranks. Mozart
+composed four concerti for this instrument, whose pitch can be lowered through hand-stopping. For 10
+points, name this valved brass instrument tuned in F, which isn't really French.
+ANSWER: French horn [accept natural horn; do not accept or prompt on "English horn"] <White>
+7. A woman born in this kingdom ruled as the "Lady" of another kingdom after her husband's death at the Battle
+of Tettenhall. In this kingdom, the worth of oaths given in court was measured in hides via Ine's Law Code. A
+biography by Bishop Asser relates how a ruler of this kingdom once rallied troops at Egbert's Stone. Canut
+granted Godwin, Harold Godwinson's father, an earldom that shares its name with this kingdom. A ruler of
+this kingdom established fortified settlements called "burhs," signed the Treaty of Wedmore with Guthrum
+after winning the Battle of Edington, and once supposedly let the griddle-cakes of a peasant woman burn
+while in hiding. For 10 points, name this Anglo-Saxon kingdom ruled by Alfred the Great.
+ANSWER: Wessex <Brownstein>
+
+NASAT 2015 - Round 19 - Page 2 of 13 
+
+8. In urging for greater alarm about this event, Roger Mattson used the phrase "horse race" and argued his
+theory of an explosion with Victor Stello. This event resulted in the mass cancellation of orders of a device
+made by Babcock and Wilcox, a company strongly criticized by Dartmouth's President John Kemeny
+afterwards. Governor Dick Thornburgh ordered that pregnant woman and preschoolers maintain a five mile
+radius from this event. Caused by a stuck open relief valve, it resulted in the partial contamination of the
+Susquehanna River. For 10 points, name this partial nuclear meltdown that occurred in 1979 in Pennsylvania.
+ANSWER: Three Mile Island accident <Cheyne>
+9. This writer relates how a tyrant named Archias deferred opening a letter detailing a plot to kill him by
+saying, "Tomorrow is a new day," in an argument in favor of curiosity. Quotations like, "To every opinion an
+opinion of equal weight is opposed" are inscribed on the beams of a tower in which this man wrote. This man's
+father Pierre Eyquem tasked him with translating a Catalan monk's Natural Theology. This man wrote such
+lines as, "I have never seen a greater monster or miracle in the world than myself," and, "What do I know?"
+That motto is in "The Apology for Raymond Sebond," which was one of this man's "attempts" that popularized
+an argumentative genre of writing. For 10 points, name this sixteenth-century French author of the Essays.
+ANSWER: Michel de Montaigne <Yu>
+10. This state controls Dirk Hartog Island, which was named for an explorer who visited it in 1616 and left
+behind an inscribed dinner plate. A location in this state was ironically nicknamed "North Pole" and is home to
+stromatolites that may be 3.5 billion years old. The residents of this state's capital lit up their streetlights
+specifically for John Glenn's space flybys. This state still benefits from the Super Pit gold mine in Kalgoorlie.
+This state's primary river is named for the many black swans that inhabit its shores. This state, home to Shark
+Bay, shares the Nullarbor Plain with its eastern neighbor, which is home to Adelaide. For 10 points, name this
+largest Australian state by area, whose capital is Perth.
+ANSWER: Western Australia <Golimlim>
+11. In the second act of a ballet by this composer, characters dance both a passepied and a bourrée, after which
+two sisters ineptly dance variations, all bookended by two "Dance of the Courtiers." In that ballet, a prince's
+wanderings are depicted with a "Temptation" and an "Orientalia" interspersed between three galops. An E
+major "Amoroso" ends this composer's ballet featuring a second-act ball that includes both a "Waltz-Coda" and
+a "Grand Waltz." This composer reused the gavotte from his first symphony in a ballet whose "Dance of the
+Knights" section is more commonly called "Montagues and Capulets." For 10 points, name this composer of the
+ballets Cinderella and Romeo and Juliet and the children's piece Peter and the Wolf.
+ANSWER: Sergei Prokofiev [or Sergei Sergeyevich Prokofiev] <Kim>
+
+NASAT 2015 - Round 19 - Page 3 of 13 
+
+12. Two particles composed of these two particles have a ratio of magnetic dipole moments equal to negative
+three-halves. Composite particles symbolized omega, xi, and lambda respectively are composed of zero, one,
+and two of these two particles. The second, but not the first, term of the Gell-Mann-Nishijima formula is zero
+for these two particles. Half the difference between their number gives the isospin. The probability of
+conversion between these two particles is given by the first term in the CKM matrix. The rho particle,
+composed of them or their antiparticles, has much greater mass than the neutral pion, which is also composed
+of them. They have charges of minus one-third and plus two-thirds. For 10 points, name these two light firstgeneration quarks found in protons and neutrons.
+ANSWER: up and down quarks [or u and d; do not prompt on partial answers] <Silverman>
+13. This was the alphabetically prior of two allied countries whose victory at Zusmarshausen ended a longrunning conflict. This country was the westernmost signatory of a treaty in which it agreed to make regular
+payments to fund another country's army. The army of this western signatory of the Treaty of Barwalde
+defeated another country's tight-knit tercio formations at the battle of Rocroi with the aid of the duke of
+Enghien. Its alliance with a Lutheran kingdom across religious lines began the final phase of the Thirty Years'
+War. For 10 points, name this countries which allied with Axel Oxenstierna's Sweden under its chief minister,
+Cardinal Richilieu.
+ANSWER: France <Jackson>
+14. This man did not write the book In the Belly of the Beast, but letters addressed to him make up that text. He
+claimed that a certain race of people had been "living on the margin between totalitarianism and democracy
+for two centuries." This author wrote a book which was split into two parts: t"history as a novel" and "the novel
+as history." He wrote an essay about mainstream hipsters appropriating black culture titled "The White
+Negro." This author wrote a "novelized" account of the 1967 March on the Pentagon and a Pulitzer winning
+account of Utah administering the death penalty to killer Gary Gilmore. For 10 points, name this author of
+Armies of the Night and The Executioner's Song.
+ANSWER: Norman Mailer <Cheyne>
+15. This person makes use of a flower that bloomed when Prometheus's ichor spilled onto the ground. Hera
+fills this person's mind with a sudden great fear of Hades and with visions of life's pleasures in order to stop
+this person from poisoning herself. This woman quickly enters a marriage to gain protection from Alcinous,
+shortly after being purified by her aunt Circe. This sister of Chalciope kills the bronze giant Talos and
+dismembers her brother Absyrtus, soon after helping another hero to yoke fire-breathing oxen, defeat
+warriors borne of dragon's teeth, and slay a dragon guarding the Golden Fleece. For 10 points, name this
+sorceress from Colchis and lover of Jason.
+ANSWER: Medea <Kim>
+
+NASAT 2015 - Round 19 - Page 4 of 13 
+
+16. A character in this novel hears that his enemy is getting married in a chapel and runs to kill that enemy's
+bride, only to find that he has killed his own daughter. In this novel, a herald announces the entrance of a
+knight whose name refers to an item that requires one hundred men to carry it. The Marquis of Vincenza
+breaks off an engagement after meeting a skeleton in peasant clothing in this novel, in which blood ominously
+falls from a statue's nose. At the end of this novel, Father Jerome is revealed to be the father of Theodore by the
+gigantic apparition of Prince Alonso the Great, whose helmet had fallen from the sky and killed Conrad. For 10
+points, name this novel by Horace Walpole, often considered the first Gothic novel.
+ANSWER: The Castle of Otranto <Sy>
+17. The remains of one participant in this engagement were sold at auction and used to create a namesake
+watermill in the village of Wickham. In 1820, the losing commander fought a duel over his performance
+during this incident, a duel which ended with the fatal shooting of Stephen Decatur. This battle was very short
+in duration, as the earlier failure to keep their decks clear hindered one side's attempts at returning fire. This
+event resulted in the execution of Jenkin Ratford, while the other persons arrested during this event were
+eventually returned to the United States. This event was a direct cause of the Embargo Act of 1807. For 10
+points, name this event in which a British naval vessel fired upon and boarded an American naval vessel in
+search of British deserters.
+ANSWER: Chesapeake-Leopard Affair [or obvious equivalents] <Clarke>
+18. A character in this novel explains that if she heard the phrase "speeding bullet," she would duck for cover.
+Another character in this novel plans to break the world record for longest time spent in a cage of venomous
+snakes. This novel's protagonist argues with his son over the metaphysics of whether it is raining. In this
+novel, Murray Jay Siskind hopes to create a course on Elvis at the College-on-the-Hill. In this novel, the
+experimental drug Dylar reveals an affair between Willie Mink and the protagonist's fourth wife, Babette. A
+derailed train in this novel releases a black cloud of Nyodene D into the air, an event known as "The Airborne
+Toxic Event." For 10 points, name this novel about Jack Gladney, written by Don DeLillo.
+ANSWER: White Noise <Saric>
+19. 66 mole percent of this compound mixed with acetone makes a classic maximum-boiling azeotrope. Alpha
+elimination of this compound results in a carbene that inserts into double bonds to give vicinal dihalides. This
+molecule's signal in carbon-13 NMR is a triplet at 77.2 ppm, while in proton NMR, its singlet appears slightly
+downfield from benzene at 7.26 ppm. Either an acidic or basic mixture of isoamyl alcohol, phenol and this
+compound is used to extract nucleic acids from DNA or RNA. Atmospheric oxygen will oxidize this molecule to
+phosgene. Chlorinating this compound forms carbon tetrachloride. For 10 points, name this compound with
+formula CHCl3, which is a 19th century anaesthetic.
+ANSWER: chloroform [or trichloromethane; or CHCl3 until it is read] <Silverman>
+
+NASAT 2015 - Round 19 - Page 5 of 13 
+
+20. One of these artworks depicts a wrought iron rail perched atop a mound beneath a blue sky emitting
+yellow light. The bottom of one of these artworks is dominated by a dark sloping shape, from which a dog's
+head barely peeks out. Photographs taken by Jean Laurent made it possible to transfer these badly-damaged
+artworks to canvas under the direction of Salvador Cubells. One of these paintings depicts two men, knee deep
+in mud, engaging in a Fight with Cudgels. These fourteen artworks, which were originally painted on the walls
+of the Deaf Man's Villa, or Quinta del Sordo, include a gruesome depiction of Saturn Devouring His Son. For 10
+points, name these horrific images painted by Francisco Goya.
+ANSWER: Black Paintings [or Pinturas Negras] <Saric>
+21. This region's "Lyceum" considered literary and political matters, including a proposal by John McLoughlin
+that this land declare itself independent. James Sinclair led an expedition to settle this area on the orders of
+George Simpson. Later visitors to this region bypassed a river route to their destination by travelling via the
+Barlow Road. Wilhelm I's decision that the Haro Strait was the true international boundary through this
+region ended a conflict that began when Lyman Cutlar defended his potatoes by shooting his neighbor's pig.
+The slogan "Fifty-Four Forty or Fight!" refers to the border preferred by American interests in this region. For
+10 points, name this region and later U.S. territory whose namesake state has its capital at Portland.
+ANSWER: Oregon [or the Oregon Country; or Oregon Territory; or Columbia District] <Clarke>
+
+NASAT 2015 - Round 19 - Page 6 of 13 
+
+NASAT 2015 - Round 19 - Bonuses
+1. Gianluigi Nuzzi published the confidential letters of this man and his secretary. For 10 points each:
+[10] Name this man, whose butler, Paolo Gabriele, was arrested in 2007 for leaking information to Nuzzi. He
+was succeeded by Jorge Mario Bergoglio.
+ANSWER: Pope Benedict XVI [or Joseph Ratzinger; or Benedictus XVI; or Benedetto XVI]
+[10] Jorge Mario Bergoglio is better known by this name which he uses while serving as the current pope.
+ANSWER: Francis
+[10] Nuzzi's book on Benedict revealed that Carlo Maria Vigano was reluctant to take this position, which he
+still holds. This position is effectively the same as being an ambassador to the United States.
+ANSWER: Apostolic Nuncio to the United States [or papal nuncio; or Apostolic Nunciature of the Holy See to
+the United States] <Cheyne>
+2. Deficiency in this compound, B12, or copper can lead to degeneration of the dorsal columns of the spinal
+cord in Lichtheim's disease. For 10 points each:
+[10] Name this antioxidant nutrient found in oils that exists in tocotrienol and tocopherol forms.
+ANSWER: vitamin E
+[10] Vitamins D, E, K, and A all have this property that allows them to dissolve in a specific hydrophobic
+substance such as oil, unlike the water-soluble vitamins B and C.
+ANSWER: fat soluble [or lipid soluble; or lipophilic; or word forms, such as fat solubility]
+[10] HDL, LDL, VLDL, IDL, and these particles are the primary lipoproteins responsible for transporting fats,
+cholesterol, and lipid-soluble vitamins through the bloodstream. They are formed in intestinal villi before
+passing through lacteals.
+ANSWER: chylomicrons <Smart>
+3. This staple crop is the one fully-domesticated lovegrass, and is so named for its tiny grains, which are as
+small as a poppy seed. For 10 points each:
+[10] Name this grain which is most commonly used to make a spongy sourdough flatbread known as injera.
+ANSWER: teff [or Eragrostis tef]
+[10] Teff is native to this country and its northern neighbor Eritrea, which declared its independence from
+here in a 1993 referendum.
+ANSWER: Ethiopia [or Federal Democratic Republic of Ethiopia]
+[10] This ethnic group's region is considered to be the "breadbasket" of Ethiopia. They have more native
+speakers than Amharic and structure their society according to the eight-year gaada cycle.
+ANSWER: Oromo people <White>
+NASAT 2015 - Round 19 - Page 7 of 13 
+
+4. Answer the following about concertos of the Baroque period, for 10 points each.
+[10] J.S. Bach used this key to write both a concerto for two solo violinists and a menacing Toccata and Fugue for
+the organ.
+ANSWER: D minor [do not accept "D" or "D major"]
+[10] A ripieno group alternates with virtuosic passages for a concertino group of soloists in this type of
+Baroque concerto popular before the advent of the solo concerto.
+ANSWER: concerto grosso [or concerti grossi]
+[10] Concerti grossi generally call for an ensemble consisting of a harpsichord and low string or wind
+instruments to carry out this role of improvising harmony using a pre-written bass line.
+ANSWER: basso continuo [or continuo group] <Kim>
+5. In a poem by this author, he laments, "It rains in my heart as it rains on the town." For 10 points each:
+[10] Name this French poet of the Saturnine Poems who was arrested in 1873 for shooting a younger poet in the
+wrist.
+ANSWER: Paul Verlaine [or Paul-Marie Verlaine]
+[10] Paul Verlaine and his lover, Arthur Rimbaud, were members of this movement exemplified by Baudelaire's
+The Flowers of Evil. Its manifesto was written by Jean Moreas.
+ANSWER: Symbolist movement [or obvious equivalents]
+[10] In a work in this genre, Rimbaud wrote, "If the brass wakes up a trumpet, it is not its fault," and claimed
+that the poet must derange his senses so as to become a seer.
+ANSWER: personal letter <Sy>
+6. The non-limiting and least-limiting ranges represent a value for this substance in soil that has minimal
+limitations for plant growth. For 10 points each:
+[10] Name this substance that determines whether a soil is solid, plastic, or liquid according to the consistency
+limits set forth by Albert Atterberg.
+ANSWER: soil water content [or soil moisture content]
+[10] The Atterberg limits are typically used for fine-grained soils that contain a high percentage of this soil type
+with the smallest particle size. It joins sand and silt on a soil texture triangle.
+ANSWER: clay
+[10] Soils with a high percentage of clay are particularly vulnerable to this mass wasting process that occurs
+very slowly over a long period of time. It is classified as a flow rather than a fall or slide.
+ANSWER: creep <Voight>
+
+NASAT 2015 - Round 19 - Page 8 of 13 
+
+7. In a painting by Henry Fuseli, this character shushes a man with a horrified expression who walks in with
+two daggers. For 10 points each:
+[10] Name this character who holds a crown above her head and wears a green dress decorated with beetle
+wings in a later painting depicting her being played by Ellen Terry.
+ANSWER: Lady Macbeth [do not accept or prompt on "Macbeth"]
+[10] This artist of Ellen Terry as Lady Macbeth is better known for painting the socialite Virginie Gautreau
+resting against a table in Portrait of Madame X.
+ANSWER: John Singer Sargent
+[10] This earlier artist's portrait of a Shakespearean actor, David Garrick as Richard III, contains the S-shaped
+"serpentine line" that he championed in his book The Analysis of Beauty.
+ANSWER: William Hogarth <Saric>
+8. The end of this play takes place at the Battle of Bosworth Field, where the title character cries, "A horse, a
+horse, my kingdom for a horse!" For 10 points each:
+[10] Name this Shakespeare history about the successor of Edward IV, a hunchback who woos the Lady Anne.
+ANSWER: Richard III
+[10] In the first line of Richard III, Richard claims that this thing has been "made glorious summer by this sun
+of York."
+ANSWER: the winter of our discontent [prompt on winter]
+[10] In that opening soliloquy, Richard states that since he cannot prove a lover, he is determined to prove one
+of these things, "and hate the idle pleasures of these days."
+ANSWER: a villain <Sy>
+9. Answer the following about watery graves in world mythology, for 10 points each.
+[10] This Aztec god of storms presided over an paradisiacal afterlife where victims of water-borne illness,
+drowning, and lightning strikes went after death.
+ANSWER: Tlaloc
+[10] Tales from ethnic groups in this language family mention rusalki, ghostly maids who drag unsuspecting
+bachelors to the bottom of lake beds. Other tales from this language family include Sadko, who plays music
+underwater for the king of the sea.
+ANSWER: Slavic languages
+[10] Many British sailors sung of this lush paradise beyond the sea, where the souls of dead sailors live in
+contentment with a perpetual musical accompaniment.
+ANSWER: Fiddler's Green <Jackson>
+
+NASAT 2015 - Round 19 - Page 9 of 13 
+
+10. Though it was declared null and void in 1966, a 1985 letter claimed that this document "kept its moral force"
+with respect to Maria Valtorta's The Poem of the Man-God. For 10 points each:
+[10] Name this list of heretical, lewd, or anti-clerical documents officially condemned by the Roman Catholic
+Church.
+ANSWER: List of Prohibited Books [or Index Librorum Prohibitorum]
+[10] The inaugural edition of the List of Prohibited Books was produced by a commission appointed at the
+eighteenth session of this sixteenth-century church council, whose decrees and liturgical changes
+encapsulated the Counter-Reformation.
+ANSWER: Council of Trent
+[10] Three different popes with this name abolished the List of Prohibited Books, promulgated the first version
+of the List of Prohibited Books, and convened the Council of Trent.
+ANSWER: Paul [or Paul III; or Paul IV; or Paul VI] <Gupta>
+11. This man claimed that proper names are nothing more than disguised "definite descriptions". For 10 points
+each:
+[10] Name this British nuclear disarmament activist, avowed atheist, mathematician, and philosopher, who
+tried to axiomatize arithmetic with Alfred North Whitehead in Principia Mathematica.
+ANSWER: Bertrand Russell
+[10] This 1905 paper by Russell tried to ascertain how and whether noun phrases such as "the present King of
+France" refer to anything at all.
+ANSWER: "On Denoting"
+[10] Russell's paper quickly dismisses this Austrian philosopher's theory that nonexistent objects such as a
+"square circle" can "subsist" in some way rather than fully existing.
+ANSWER: Alexius Meinong <Jackson>
+12. Antonio Damasio's somatic marker hypothesis describes how these mental states affect decision making.
+For 10 points each:
+[10] Identify these psychological states that the James-Lange theory argues correspond directly to
+physiological stimuli.
+ANSWER: emotions [or word forms]
+[10] This theory combines the opposing James-Lange and Cannon-Bard theories of emotion, attributing it to
+both physiological state and external cues. Its two namesake researchers conducted studies injecting subjects
+with adrenaline.
+ANSWER: Schacter-Singer theory [or two-factor theory]
+[10] Donald Dutton and Arthur Aron tested the Schacter-Singer theory by placing male subjects on one of
+these structures before having them speak to an attractive woman.
+ANSWER: suspension bridge <Yu>
+
+NASAT 2015 - Round 19 - Page 10 of 13 
+
+13. In three dimensions, this quantity is maximized for a hoop. For 10 points each:
+[10] Name this quantity, the ratio between the net torque on a rotating object and its angular acceleration. It is
+effectively the rotational analogue to mass.
+ANSWER: moment of inertia [or rotational inertia; or I]
+[10] What is the rotational inertia of a uniform hoop, through its central principal axis, in terms of its mass M
+and radius R?
+ANSWER: M times R squared
+[10] If the principal axes are used, then these cross-terms in the inertial tensor drop out and only the moments
+of inertia are left. These terms are symbolized I-sub-x-y, I-sub-x-z, and I-sub-y-z.
+ANSWER: products of inertia <Silverman>
+14. Answer the following about the influence of American musical theater on jazz, for 10 points each.
+[10] This Dixieland trumpeter recorded a gravelly-voiced cover of the title song from "Hello, Dolly!" which he
+sang in the film version alongside Barbra Streisand. His other vocal hits include "What A Wonderful World."
+ANSWER: Louis "Satchmo" Armstrong
+[10] A smash-hit jazz recording of this Rodgers and Hammerstein song begins with John Coltrane's saxophone
+playing an ascending perfect fifth above a 3/4 time drum accompaniment.
+ANSWER: "My Favorite Things"
+[10] "Another Hundred People," a song from this 1970 Stephen Sondheim musical about marriage, was mashed
+up with "Take The A Train" on an excellent vocal album by Brian Stokes Mitchell.
+ANSWER: Company <Jackson>
+15. Answer the following about the Chinese literary character Sun Wukong, for 10 points each.
+[10] Sun Wukong is the simian hero of this Chinese literary classic by Wu Cheng'in, in which he travels away
+from China with Xuanzang and several others to obtain Buddhist scriptures from India.
+ANSWER: Journey to the West [or Monkey; or Xi you ji]
+[10] Sun Wukong hatched from an egg made of this unusual substance. A large one forsaken by a goddess
+appears in, and provides an alternate title, for Dream of the Red Chamber.
+ANSWER: stone [or rock; or boulder]
+[10] This Buddhist sage and tutor conferred the name "Sun Wukong" upon the Monkey King to reward him for
+his awareness of the vacuity of the universe.
+ANSWER: Patriarch Subodhi [or Subhuti] <Jackson>
+
+NASAT 2015 - Round 19 - Page 11 of 13 
+
+16. Answer the following about determining whether a linear regression model fits data, for 10 points each.
+[10] This value quantifies the amount of variation in one variable that is due to change in another variable.
+Generally, the closer it is to one, the better the model fits.
+ANSWER: r squared [or goodness of fit statistic; or square of the correlation coefficient; do not accept "r" or
+"correlation coefficient"]
+[10] These differences between the observed and model-predicted values can be "studentized" by dividing by
+their standard error to help identify points that are outliers from the model. These values are distinct from the
+error.
+ANSWER: residuals [or studentized residuals; or standardized residuals]
+[10] This test examines the first-order serial correlation, or the correlation between consecutive residuals; an
+unusually low or high test statistic indicates that the model does not fit the data.
+ANSWER: Durbin-Watson test [or Durbin-Watson statistic] <Wynne>
+17. Answer the following about reform movements in the antebellum United States. For 10 points each:
+[10] This female leader of the Shakers established an American branch of the Shakers by moving to Watervliet,
+but died before the first Shaker commune at Mount Lebanon was established.
+ANSWER: Ann Lee [or Mother Ann]
+[10] The Shaker commune at Mount Lebanon was in this state, whose central and western portions were so
+heavily converted by evangelical Protestants that it was called the "burned-over district." Martin van Buren led
+the Albany Regency political machine in this state.
+ANSWER: New York
+[10] This man advocated for systems called "bible communism" and a form of planned reproduction called
+"stirpiculture" while leading the millenarian Oneida community.
+ANSWER: John Humphrey Noyes <O'Rourke>
+18. Note to moderator: feel free to self-censor ("effed") or paraphrase ("sodomized") the potentially-offending word in the
+third part.
+The speaker of a poem by this author exclaims "What peaches and what penumbras!" before wondering why
+Garcia Lorca was "down by the watermelons." For 10 points each:
+[10] Name this Beat Generation poet who declared, "I saw the best minds of my generation destroyed by
+madness" in "Howl."
+ANSWER: Allen Ginsberg [or Irwin Allen Ginsberg]
+[10] The second part of "Howl" repeatedly addresses this child sacrifice-demanding deity, who is called "the
+heavy judger of men" and envisioned as the god of capitalist America.
+ANSWER: Moloch
+[10] "Howl" provoked a notorious obscenity trial primarily due to a line about how the best minds of his
+generation "let themselves be fucked in the ass" by "saintly" examples of these people.
+ANSWER: motorcyclists [or bikers] <Sy>
+
+NASAT 2015 - Round 19 - Page 12 of 13 
+
+19. The bad blood between these groups may have stemmed from a December 2014 assault at a Toys for Tots
+event. For 10 points each:
+[10] Name these two biker gangs who engaged in a vicious shootout on May 17, 2015, in Waco, Texas. Eight
+members of these two gangs were slain.
+ANSWER: Bandidos Motorcycle Club AND Cossacks [both answers required]
+[10] The Waco, Texas, shooting occurred at a restaurant and bar that was part of this Texas based chain, which
+features revealingly dressed waitresses. The Waco branch was shut down by this chain after the incident.
+ANSWER: Twin Peaks
+[10] Cynics have noted that the media's coverage of this shootout differed from the coverage of the riots in this
+East Coast city protesting the death of Freddie Gray, presumably because most of the bikers were white.
+ANSWER: Baltimore, Maryland <Cheyne>
+20. Answer the following about black marks on 20th-century world history, for 10 points each.
+[10] Operation Black Dragon, or "Dragon Noir," was a covert mission in this African nation during the Maoist
+Simba rebellion. Secessionists here included Moise Tshombe.
+ANSWER: Democratic Republic of the Congo [or DR-Congo; or Congo-Kinshasa; or Zaire]
+[10] In Operation Black Thunder, this leader of India tried to root out guerrillas in the Sikh Golden Temple just
+after she ordered a raid on it in Operation Blue Star.
+ANSWER: Indira Gandhi
+[10] This archipelago was targeted by British air raids in Operation Black Buck, in which planes took off from
+Ascension Island to get there in 1982.
+ANSWER: Falkland Islands [or Falklands; or Islas Malvinas] <Jackson>
+21. During this event, security officials wearing white gloves or handkerchiefs tied to their left hand fired on
+protesters 10 days before the 1968 Summer Olympics began. For 10 points each:
+[10] Name this 1968 massacre of student protestors that took place on the "Square of the Three Cultures" in a
+namesake neighborhood.
+ANSWER: Tlatelolco Massacre [or the Night of Tlatelolco]
+[10] This political party was in power during the Tlatelolco Massacre. This party was founded by Plutarco Elias
+Calles and pretty much ruled uninterrupted until the 21st century.
+ANSWER: PRI [or Partido Revolucionario Institucional; or Institutional Revolutionary Party]
+[10] The PRI governed this Spanish-speaking country for most of the 20th century. The rule of the PRI was
+ended when Vicente Fox became president of this country in 2000.
+ANSWER: Mexico [or United Mexican States; or Estados Unidos Mexicanos] <O'Rourke>
+
+NASAT 2015 - Round 19 - Page 13 of 13 
+
+

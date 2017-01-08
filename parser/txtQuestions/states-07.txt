@@ -1,0 +1,450 @@
+2013 VHSL States
+Round 7
+First Period, Fifteen Tossups
+
+1. Activation frames are stored in this type of data structure. Adding and removing those frames is called
+winding and unwinding, respectively, and this stores memory concerning a program's subroutines.
+Programs such as Java have a "peek" function which allows the top value in one of these structures to be
+accessed without being removed. The most basic operations on this structure are "push" and "pop." For 10
+points, name this last-in-first-out data structure.
+ANSWER: stack [or call stack]
+121-13-76-07101
+
+2. This man used an ellipsoid with a ridge down the middle and one end flattened in his sculpture The
+Newborn, and he depicted Marie Bonaparte gazing at herself in a mirror in Princess X. This man built a war
+memorial at Targu Jiu that includes The Stone Table and the Endless Column. One sculpture by this man,
+consisting of an abstracted vertical wing, was taxed as a kitchen appliance because customs officials
+refused to believe it was art. For 10 points, name this Romanian sculptor of the Bird in Space series.
+ANSWER: Constantin Brancusi
+195-13-76-07102
+
+3. A subgroup of this ethnicity uses the distinctive "tifinagh" alphabet, and these people speak Kabyle and
+other Amazigh languages. This ethnicity engages in a kind of political meeting called a "jama'ah."
+Subgroups of these people include the Shawia, the Rif, and the Tuareg. These people, descended from the
+classical Numidians, live in the Maghreb region, and they comprised the major part of the "Moor" identity
+that controlled Islamic Europe in the Middle Ages. For 10 points, identify this ethnicity which is prevalent
+in Morocco and Algeria and found throughout North Africa.
+ANSWER: Berbers [or Amazigh until it is read; or Imazighen until "Amazigh" is read; or Tuareg until
+"Kabyle" is read; prompt on Moors until it is read; do not accept or prompt on "Arabs"]
+019-13-76-07103
+
+4. A followup to this process may include an oxidative burst. This process follows opsonization, which can
+be carried out by antibodies. Antigen presentation in dendritic cells follows this process, which is also
+carried out by neutrophils. This process uses the creation of pseudopods to surround the target, and is
+followed by fusion of the resulting namesake organelle with a lysosome. For 10 points, name this form of
+endocytosis in which a vesicle is formed from the intake of a pathogen.
+ANSWER: phagocytosis [prompt on endocytosis until mention]
+140-13-76-07104
+
+5. In a John Cheever story titled for this kind of setting, Miss Dent gets revenge on her predatorial old boss
+Blake by forcing him into the mud at gunpoint. Flannery O'Connor's novel Wise Blood opens in this kind of
+setting. In the beginning of Atlas Shrugged, Dagny Taggart gets into a confrontation with an engineer in
+one of these places. Hercule Poirot discovers that Cassetti was killed by twelve co-conspirators in an
+Agatha Christie novel with this kind of setting. For 10 points, name this kind of vehicle that titles Christie's
+Murder on the Orient Express.
+ANSWER: a train [or trains; or locomotives; or a train car; or the railroad]
+080-13-76-07105
+
+2013 VHSL States
+
+7
+
+Page 1 of 10
+
+6. Irreversible steps in this pathway include the decarboxylation of alpha-ketoglutarate. Near the end of this
+pathway, the cofactor FAD helps ubiquinone oxidate succinate to fumarate. The products of this pathway
+include three NADH molecules and one GTP molecule. The first reaction in this pathway uses oxaloacetate
+and the acetyl CoA produced by glycolysis. This pathway is followed by the electron transport chain. For
+10 points, name this cycle central to cellular respiration.
+ANSWER: Krebs cycle [or citric acid cycle]
+014-13-76-07106
+
+7. In one poem, this man notes “how vainly men themselves amaze to win the palm, the oak, or bays.” In
+another of his poems, the speaker tells the title creatures, “Your courteous lights in vain you waste, for
+Juliana here is come.” This poet of “The Garden” and “The Mower to the Glow-Worms” famously wrote,
+“The grave’s a fine and private place, but none I think do there embrace.” That poem begins by wishing he
+and the title character had “but world enough, and time.” For 10 points, name this English poet of “To His
+Coy Mistress.”
+ANSWER: Andrew Marvell
+014-13-76-07107
+
+8. These types of equations are constraints for functions whose maximums are found through the simplex
+method. The ordinary least squares method finds this type of equation that minimizes the distance between
+its y-values and those of a sample. If a set of them is expressed in matrix form, their solutions can be found
+by putting the matrix into reduced row echelon form. Cramer's rule is another method to solve for a system
+of equations of this type. They can be written in the point-slope form, or the slope-intercept form. For 10
+points, name these polynomials of degree one.
+ANSWER: linear equation
+121-13-76-07108
+
+9. A museum of this mountain range is found at Blue Mountain Lake. Both of the wollastonite mines in the
+U.S. are in this mountain range. One peak in this mountain range is named for its near-vertical side as
+Whiteface Mountain. This range contains recreational hotspots around the Saranac River, Lake George, and
+Lake Placid. It was formed as part of the Canadian Shield rather than the Appalachians, and it extends from
+the St. Lawrence valley near Lake Champlain to the Mohawk valley. For 10 points, name this mountain
+range of northeastern New York.
+ANSWER: Adirondack Mountains [or the Adirondacks]
+019-13-76-07109
+
+10. One example of this device uses a parabolic primary mirror and hyperbolic secondary mirror and was
+invented by Laurent Cassegrain. There are three primary types of this device: refracting, reflecting and
+catadioptric. Hans Lipperhey is commonly associated with the invention of this device. An improved
+version of this device that consisted of a convergent objective lens and a divergent eyepiece lens was
+created by Galileo. For 10 points, identify this device commonly used to magnify and observe astronomical
+objects.
+ANSWER: optical telescope [or reflecting telescope before it is read]
+066-13-76-07110
+
+2013 VHSL States
+
+7
+
+Page 2 of 10
+
+11. A leader of this country was arrested while campaigning for the National Anti-Reelection Party. That
+leader of this country was killed during the Ten Tragic Days. After one man from this country attacked
+Columbus, John Pershing was sent into this country to track him down. La Linea is the street gang
+associated with the Juarez drug cartel in this country, which is currently waging a war on drugs. Past
+revolutionaries in this country include Porfirio Diaz and Pancho Villa. For 10 points, name this country
+that, along with the US and Canada, is part of NAFTA.
+ANSWER: Mexico [or United Mexican States; or Estados Unidos Mexicanos]
+149-13-76-07111
+
+12. The probability the time-averaged value for this property takes a given value over the probability it
+takes the opposite value follows an exponential function, as shown in the fluctuation theorem. The
+H-theorem shows the change of this property in an ideal gas is irreversible. The H-theorem was developed
+by the same man who defined this property as the logarithm of available microstate times Boltzmann's
+constant. Clausius define it as the line integral of change in heat over temperature. The second law of
+thermodynamics states this value must universally be increasing. For 10 points, name this measure of a
+system's disorder.
+ANSWER: entropy
+121-13-76-07112
+
+13. In this film, Jane Lynch's character repeatedly punches another character in the face until they can grab
+Laffy-Taffy and escape from some quicksand. In one scene of this film, graffiti reading "Aerith Lives" can
+be seen in Central Station. This movie's title character drops stalactites made of Mentos into Diet Cola
+Mountain to cause an eruption and destroy the invading Cy-Bugs; he also helps Vanellope defeat King
+Candy in a race inside the game Sugar Rush. For 10 points, name this 2012 Disney movie about an arcade
+villain who wants to be a hero.
+ANSWER: Wreck It Ralph
+080-13-76-07113
+
+14. This god warned Zeus against marrying Thetis for fear it would result in a son more powerful than his
+father. This god created the precedent of offering bones wrapped in fat as a gift to the gods instead of meat,
+and he was the brother of Epimetheus. In one legend, he warns his son Deucalion of a great flood. Pandora
+was created on Zeus’ orders as punishment for the actions of this Titan, who was ultimately bound to a
+mountain in the Causcaus and has an eagle eat his immortal liver. For 10 points, name this Greek Titan who
+was punished for his gift of fire to humanity.
+ANSWER: Prometheus
+030-13-76-07114
+
+15. The track of these particles represents the “spur” in the spur model. Sodium-22 is commonly used to
+produce these particles, whose destruction in PALS is marked by the emission of a 511keV photon. Carl
+Anderson discovered these particles that were predicted by Paul Dirac. Penning traps are used to bring
+these particles together with more massive ones to create anti-hydrogen. These particles, and their more
+abundant counterpart, are typically produced by pair production. For 10 points, name this positively
+charged anti-particle that is the “opposite” of an electron.
+ANSWER: positron
+149-13-76-07115
+
+2013 VHSL States
+
+7
+
+Page 3 of 10
+
+2013 VHSL States
+Round 7
+Directed Round
+
+1A. What Mozart opera contains the Queen of the Night, who sings the “O zittre nicht” aria?
+ANSWER: The Magic Flute [or Der Zauberflote]
+1B. Name the "venerable" writer whose Ecclesiastical History of the English People gives many details on
+the development of religion and government in early England.
+ANSWER: Venerable Bede [or Beda]
+2A. James McInerney's Bright Lights, Big City and Italo Calvino's If on a winter's night a traveler both
+employ narration from what unusual perspective?
+ANSWER: the second person
+2B. What Mexican muralist showed a doctor and nurse vaccinating an infant in his Detroit Industry
+Murals?
+ANSWER: Diego Rivera
+3A. This is a 20-second calculation question. Jessica can mow the lawn in 3 hours. Working together,
+Jessica and Nick can mow the lawn in 2 hours. How long would it take Nick to mow the lawn by himself?
+ANSWER: 6 hours
+3B. This is a 20-second calculation question. If the hypotenuse of a right triangle is 10 and the sine of
+angle A is 0.4, what is the length of the side opposite angle A?
+ANSWER: 4
+4A. Name the last leader of West Germany, who co-engineered the Maastricht Treaty with Francois
+Mitterand.
+ANSWER: Helmut Kohl
+4B. What Greek letter names a bacteriophage discovered by Esther Lederberg and is also used to represent
+wavelength in physics?
+ANSWER: lambda
+5A. Lily Bart becomes indebted to Gus Trenor in what novel by Edith Wharton?
+ANSWER: The House of Mirth
+5B. What European country’s far-right, anti-Semitic Jobbik Party was embarrassed in 2012 when
+prominent member Csanad Szegedi (ZAH-nad CHEG-uh-dee) was discovered to be Jewish?
+ANSWER: Hungary [or Magyarorszag]
+6A. What group of enzymes add phosphate groups to other molecules?
+ANSWER: kinases
+6B. Name this type of “paradise” that titles a Coolio song and whose type of “rap” was pioneered by
+NWA.
+ANSWER: gangster [or gangsta]
+7A. What quarterback started for the Alabama Crimson Tide in both their 2012 and 2013 national
+championships games?
+ANSWER: Raymond Anthony "AJ" McCarron
+2013 VHSL States
+
+7
+
+Page 4 of 10
+
+7B. What Biblical figure resolved an argument over who the mother of a child was by threatening to have
+the infant cut in half?
+ANSWER: Solomon [or Jedidiah]
+8A. Every Shostakovich symphony but the fourteenth includes what largest, lowest-pitched brass
+instrument?
+ANSWER: tuba
+8B. What operation is denoted with bars around a number and returns the corresponding positive number
+when applied to a negative number?
+ANSWER: absolute value [or modulus]
+9A. This is a 30-second calculation question. An unfair coin is twice as likely to land tails as heads. If it is
+flipped three times, what is the probability of getting exactly one head?
+ANSWER: 4/9 [or 12/27]
+9B. This is a 30-second calculation question. The longest diagonal of a regular hexagon has length 8. Find
+the area of the hexagon.
+ANSWER: 24 times the square root of 3 [or 24 radical 3]
+10A. The Irish verb "a léamh," the French verb "a lire," and the Italian verb "leggere" all mean what in
+English?
+ANSWER: "to read"
+10B. What German-language poet wrote The Sonnets to Orpheus and the Duino Elegies?
+ANSWER: Rainer Maria Rilke
+
+2013 VHSL States
+
+7
+
+Page 5 of 10
+
+2013 VHSL States
+Round 7
+Third Period, Fifteen Tossups
+
+1. A "superheavy" entity of this kind may contain both a branching nucleus and a coda; the other segment
+present in the general structure of these entities is the onset. Hermann Ebbinghaus developed learning and
+forgetting curves by memorizing "nonsense" ones. "Open" ones may have up to four different tones in
+Mandarin Chinese. Tablets unearthed in Ur reveal the shift from pictograms to these in depicting writing.
+These units appear in five-seven-five fashion in haikus. For 10 points, name these component bits of words,
+two of which are found in the word "water."
+ANSWER: syllables
+020-13-76-07117
+
+2. In one play by this writer, the title character's daughter Petra loses her job as a teacher after her father
+goes against the wishes of her uncle Peter, the mayor. That play by this writer follows Doctor Stockmann
+trying to get his town to replace pipes contaminating the town's baths. Another play by this writer includes
+a character who borrowed money from Krogstad using her father's name and ends with Torvald being left
+by Nora Helmer. For 10 points, name this Norwegian playwright of An Enemy of the People and A Doll
+House.
+ANSWER: Henrik Ibsen [or Henrik Johan Ibsen]
+023-13-76-07118
+
+3. Pure species are ignored during the computation of this value because they have no activity. The change
+in Gibbs free energy is equal to negative RT times the natural log of this value. Comparing this value to the
+reaction quotient is used to apply Le Chatlier’s law, and this quantity is usually calculated as products over
+reactants. For 10 points, name this quantity used to characterize reactions in which the forward and reverse
+rates are equal, usually symbolized K.
+ANSWER: equilibrium constant [or mass action constant; accept K before it is read; accept reaction
+quotient or Q before it is read]
+048-13-76-07119
+
+4. In 2011, this company was led out of bankruptcy after the resignation of CEO Gerard Arpey. The
+departing CEO of this company, Tom Horton, will give control to Doug Parker under a new arrangement,
+spurred after it fell behind Southwest to become the fourth-busiest domestic carrier. For 10 points, name
+this company which announced a merger with US Airways in 2013, which will create the largest air
+transport company in the U.S.
+ANSWER: American Airlines
+019-13-76-07120
+
+5. This governor signed a "Therapeutic Abortion Act" proposed by Anthony Beilenson, though he later
+announced he was pro-life. This man also enacted the first no-fault divorce law in the United States. He
+sent riot police into People's Park on "Bloody Thursday" and cracked down on the Free Speech Movement
+on a college campus. This governor unseated Pat Brown, promising to "send the welfare bums back to
+work," though he was mocked for previous work such as having the starring role in the movie Bedtime for
+Bonzo. For 10 points, name this Governor of California who became President in 1981.
+ANSWER: Ronald Wilson Reagan
+080-13-76-07121
+
+2013 VHSL States
+
+7
+
+Page 6 of 10
+
+6. This organ is surrounded by lymphatic capillaries known as lacteals. I cells in the mucosal epithelium of
+this organ secrete the hormone cholecystokinin. The autoimmune celiac disease drastically changes the
+morphology of this organ, the site of sodium bicarbonate and vitamin B12 absorption. This organ's surface
+area is greatly expanded by villi. This organ consists of three main segments: the ileum, the jejunum, and
+the duodenum. For 10 points, name this digestive organ that follows the stomach and precedes a "large"
+variant in the GI tract.
+ANSWER: small intestine [prompt on intestine; do NOT accept large intestine]
+020-13-76-07122
+
+7. In this poem, a character who "rode over Connecticut in a glass coach" makes a mistake about "the
+shadow of his equipage." The speaker of this poem does not know "which to prefer, the beauty of
+inflections or the beauty of innuendoes." This poem's subject "marked the edge of one of many circles,"
+"sat in the cedar limbs," and "whirled in the autumn wind." This poem opens by noting that "among twenty
+snowy mountains, the only moving thing was the eye of" the title creature. For 10 points, name this poem
+in which Wallace Stevens provides a variety of perspectives on the title bird.
+ANSWER: "Thirteen Ways of Looking at a Blackbird"
+195-13-76-07123
+
+8. She's not Demeter, but this deity breathed perfume on the maidservants of a queen after her attempt to
+make that queen’s son immortal was interrupted. This goddess' name means “throne” and her symbol was
+a tiet. After a snake poisoned him, Ra revealed his secret name to this goddess in return for an antidote.
+This goddess went on a search for 14 body parts, but only found 13 because one was eaten by a fish. After
+reviving her husband, who was killed by Set, this goddess gave birth to Horus. For 10 points, name this
+sister and wife of Osiris, a mother god in Egyptian mythology.
+ANSWER: Isis
+149-13-76-07124
+
+9. This quantity is plotted on the Y axis against entropy in a diagram used to find the “dryness fraction”,
+the Mollier diagram. The Joule-Thompson process keeps this quantity constant. The change in this quantity
+can be calculated through the Born-Haber cycle using Hess’ law. This quantity minus temperature times
+entropy gives the Gibbs free energy. For 10 points, name this quantity whose change is used to characterize
+whether a reaction is endo- or exothermic, usually symbolized H.
+ANSWER: enthalpy [accept H until read]
+048-13-76-07125
+
+10. One participant in this scandal wrote the "Dear Handsome" letter. Henry Hyde asked 81 questions to
+another participant in this scandal. Bob Livingston resigned his position to try and set an example for the
+man focused on in this scandal. The charges in this scandal were called a "vast right-wing conspiracy" by
+the wife of a man who said "it depends on what the meaning of the word 'is' is." This scandal was brought
+to light by Linda Tripp giving tapes to Kenneth Starr. For 10 points, name this scandal that helped lead to
+articles of impeachment when an intern had an affair with Bill Clinton.
+ANSWER: Monica Lewinsky scandal [or Monicagate; or Zippergate; accept equivalent answers that
+mention Monica Lewinsky]
+023-13-76-07126
+
+2013 VHSL States
+
+7
+
+Page 7 of 10
+
+11. A newspaper editor refused to speak at this location unless the words "Arm Yourselves and Appear in
+Full Force" were removed from posters. John Altgeld pardoned the three surviving men of the eight
+convicted for crimes committed at this place. One of those men, August Spies (SHPEES), edited the
+Arbeiter-Zeitung, which announced a meeting here after Spies heard of workers killed at a McCormick
+Harvesting Machine plant. Samuel Fielden was speaking here when a policeman was killed, setting off a
+riot. For 10 points, name this site of a bombing at a Chicago labor protest in 1886.
+ANSWER: Haymarket Square [prompt on Chicago or Illinois]
+121-13-76-07127
+
+12. This man, along with George Chapman, was arrested for their response to Westward Ho called
+Eastward Ho. In one of his plays, Master Lovewit’s house is appropriated by the con artist Subtle, who
+pretends to make the philosopher’s stone. In another play by this man, Bonario stops the title character
+from raping Celia. In that play, a rich man pretends to be on his deathbed to receive gifts from Corvino,
+Corbaccio, and Voltore. For 10 points, name this contemporary of Shakespeare who wrote The Alchemist
+and Volpone.
+ANSWER: Ben Jonson
+149-13-76-07128
+
+13. One constant associated with these systems is denoted by zeta and is equal to a certain coefficient c
+over two times the square root of a constant times mass. If these systems have an intermediate quality
+factor they are said to be critically damped. Electrical versions of this system include RLC circuits. When
+this type of system is displaced from its equilibrium position, it experiences a restoring force F,
+proportional to the displacement x. For 10 points, name this kind of system, examples of which include
+springs and pendulums.
+ANSWER: simple harmonic oscillator
+201-13-76-07129
+
+14. George Stanley is taken into custody in this play in order to blackmail his father into supporting the
+protagonist. In this work, Tyrell states that "the tyannous and bloody act is done.” Lady Anne calls one
+figure in this play a “foul toad” in rebuffing a marriage proposal, and Clarence is murdered by agents of the
+title character in the Tower of London. The protagonist of this play cries, “A horse, a horse! My kingdom
+for a horse!” and the families of York and Lancaster are united in the final act. For 10 points, name this
+Shakespeare history about a villainous English king.
+ANSWER: Richard III
+030-13-76-07130
+
+15. This President appointed the Seneca Indian Ely S. Parker as Commissioner of Indian Affairs. In his first
+run for the presidency, he defeated Horatio Seymour, and in his bid for reelection he defeated the editor of
+the New York Tribune, Horace Greeley. His Private Secretary Orville Babcock was implicated when this
+President's Secretary of the Treasury Benjamin Bristow exposed the Whiskey Ring scandal. His
+administration was also rocked by the Credit Mobilier scandal. For 10 points, name this President who
+commanded the Union army in the Civil War.
+ANSWER: Ulysses S. Grant [or Hiram Ulysses Grant]
+014-13-76-07131
+
+2013 VHSL States
+
+7
+
+Page 8 of 10
+
+2013 VHSL States
+Round 7
+Tiebreaker Questions
+
+1. Alternating dark and light bands that occur as small wave crests in these objects are called ogives.
+Streams that originate from these objects often have multiple small channels separated by temporary
+islands and are called braided streams. Till deposited by these objects can create moraines. These objects
+form when their ablation is less than the accumulation of snow, which is why global warming is causing
+many of them to shrink. For 10 points, name these large permanent blocks of ice found on land.
+ANSWER: glaciers
+149-13-76-07132
+
+2. This ruler granted a charter to the town of Gothenburg and he married Maria Eleonora of Brandenburg.
+This man intervened in a war after the Battle of Wolgast, which saw the defeat of Christian IV of Denmark.
+This ruler and his daughter who succeeded him were both assisted by the chancellor Axel Oxenstierna. This
+leader was killed at the Battle of Lutzen while fighting against the forces of Albrecht von Wallenstein, a
+general for the Holy Roman Empire. For 10 points, name this Swedish king who fought in the Thirty Years'
+War.
+ANSWER: Gustavus Adolphus [or Gustav II Adolf; prompt on Gustavus; prompt on Gustav]
+014-13-76-07133
+
+3. The protagonist of this short story recalls sledding into town with a boy who had shot his abusive master
+from the Forks, only for the boy to be arrested. A boy named Molo changes the dressings of this story's
+protagonist, the lover of a rich woman named Helen he calls the "Memsahib." In this story, Harry thinks of
+"all the stories that he meant to write" as he dies of gangrene contracted during a safari. For 10 points, name
+this short story by Ernest Hemingway set on a mountain in Africa.
+ANSWER: "The Snows of Kilimanjaro"
+080-13-76-07134
+
+4. Congenital disorders of this organ include the relatively benign fusion called the “horseshoe” type of this
+organ. The function of this organ is regulated by aldosterone, which is secreted in response to angiotensin
+II. This organ secretes hormones such as erythropoietin and renin. The functional unit of this organ
+includes Bowman’s capsule, which encloses the glomerulus. For 10 points, name this organ containing
+nephrons that filters waste products such as urea from the blood, producing urine.
+ANSWER: kidney
+014-13-76-07135
+
+5. In this novel, Mr. Macy often tells stories in the Rainbow Inn. In this novel, a member of the Dissenting
+Chapel named William Dane accuses another character of theft. Another character in this novel passes out
+from opium while traveling to the Red House, and the son of Dolly Winthrop, Aaron, marries a woman
+whom Nancy Lammeter refused to adopt. In this novel, the remains of Dunsey are found in a quarry beside
+the title character's stolen gold. For 10 points, name this novel about the title weaver who cares for Eppie, a
+work by George Eliot.
+ANSWER: Silas Marner
+030-13-76-07136
+
+The Kibuli Mosque and Makerere University are found in what national capital, the largest city on Lake
+Victoria?
+ANSWER: Kampala
+2013 VHSL States
+
+7
+
+Page 9 of 10
+
+This is a calculation question. A triangle has sides of length 2 and 3, with a 60 degree angle between those
+two sides. Find the length of the third side of the triangle.
+ANSWER: square root of 7 [or radical 7]
+
+2013 VHSL States
+
+7
+
+Page 10 of 10
+
+

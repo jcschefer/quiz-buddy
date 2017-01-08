@@ -1,0 +1,421 @@
+BHSAT XIX
+
+Packet 2
+
+Tossups:
+1. One piano piece by this composer quotes from the Prelude to Wagner's Tristan and Isolde, adding laughing gracenote figures. A wordless women's chorus appears in the "Sirens" movement of another piece. In addition to
+"Golliwogg's Cakewalk" and Nocturnes for orchestra, he wrote a collection of piano pieces that includes "The
+Sunken Cathedral" and one that depicts fireworks and quotes the Marseillaise; those are his preludes for piano. The
+first movement of a piece subtitled "three symphonic sketches orchestra" depicts from dawn to noon in the title
+location, and another was inspired by a poem by Mallarmé. For 10 points, identify this composer of La mer and
+Prelude to the Afternoon of a Faun, an impressionist.
+ANSWER: Claude Debussy
+2. Some members of this genus, whose name derives from the Greek for “dew loving,” include bifurca, immigrans,
+and simulans. Bifurca is well known for having the longest sperm cells of any organism, while the genes aubergine,
+cheap date, I’m not dead yet, and Antennapedia are affiliated with the more common melanogaster variety. Thomas
+Hunt Morgan used this model organism to study epistasis and sex-linked inheritance. FTP, name this genus that is
+commonly used for genetics research because of its high reproduction rate and easy care.
+ANSWER: Drosophila or fruit fly
+3. David Hume criticized this idea by demonstrating that governments always derive authority from tradition, and
+Edmund Burke decried this theory by claiming that individual rights must arise organically from a particular set of
+legal and cultural norms. An ancient precursor to this idea is formulated in the Crito by Socrates, who claims that he
+cannot flee Athenian prison because of his consent to Athenian law, but the earliest modern version of this idea is
+found in Thomas Hobbes’ Leviathan, which identifies it as a method of overcoming the “war of all against all” in
+the state of nature. Immanuel Kant proposed one of these between nations rather than individuals in his On
+Perpetual Peace, while John Rawls claims that one of these requires the existence of a “veil of ignorance”. For ten
+points, name this concept in political theory best formulated in a namesake tract by Jean-Jacques Rousseau.
+ANSWER: social contract
+4. The protagonist of this novel enrolls at University College, and records a discussion he had with Cranly in his
+journal which ends with the invocation "Old father, Old Articificer, Stand me now and ever in good stead". After
+listening to a sermon by Father Arnall, the protagonist recalls his time spent at Clongowes parochial school and his
+past sexual transgressions. The novel begins with the protagonist's father recounting a story about "a very good
+time" and a "a moocow coming down the road" that "met a nicens little boy named Baby Tuckoo" Originally titled
+Stephen Hero, FTP, name this novel that chronicles Stephen Dedalus's rejection of his religion and embrace and
+development of aesthetic theory by James Joyce.
+ANSWER: A Portrait of the Artist as a Young Man
+5. He is mentioned in Paul’s epistle to the Hebrews as a man of faith, and Christians believe his fleece to represent
+the Annunciation to Mary. That fleece was alternately soaked with dew and left dry as God’s sign to this man, who
+destroyed an idol to Baal and marched on the enemies of the Israelites, who were camped in the Valley of Jezreel.
+God told this man that the force he gathered against the Midianites was too large, and convinced him to decrease
+their number until only 300 remained. This son of Joash then proceeded to rout the Midianites by instructing his
+men to blow trumpets and carry torches. For ten points, name this judge of Israel who followed Deborah.
+ANSWER: Gideon
+6. Important props in this play include some rubber hose which one character found behind a fuse box, and that
+character’s stockings, which always need mending, contrasting with the new stockings the protagonist buys for his
+mistress. Several characters in this play insist on the importance of being “well liked”, which they claim will be the
+failing of Charley’s son Bernard. The title character regrets not going to Alaska with Uncle Ben, and after being
+fired by Howard attempts to rely on his sons Happy and Biff for support, in FTP, what play by Arthur Miller about
+the imploding American Dream of Willy Loman?
+ANSWER: Death of a Salesman
+7. One algorithm for searching these variables creates a pair of shift tables, while another one generates a rolling
+hash. In addition to the Boyer-Moore and Rabin-Karp algorithm, another method that uses partial matches to search
+
+1
+
+BHSAT XIX
+
+Packet 2
+
+them generates a failure table and is named for Knuth, Morris, and Pratt. Prolog and Erlang lack these variables
+entirely, which in modern systems can use the UTF-16 encoding system. The trim function cuts spaces from these
+variables, which can also be acted on by the uppercase and lowercase functions. FTP, name these variables that store
+text.
+ANSWER: string
+8. One short story by this author depicts the tale of the beheading of John-the-Baptist from the point-of-view of the
+wife of Herod, while another tells of the life of the servant Félicité who serves Madame Aubain and loves her parrot,
+LouLou. Besides writing “Herodias” and “A Simple Heart” which are collected in his Three Tales, this author also
+wrote about the titular daughter of Hamilcar Barca and Carthaginian priestess and about Fréderic Moreau’s on-again
+off-again love for Mme. Arnoux, in Salammbo and Sentimental Education. FTP, Emma has affairs with Rodolphe
+and Léon after she becomes dissatisfied with her husband, the provincial doctor, Charles, in what French author’s
+Madame Bovary?
+ANSWER: Gustave Flaubert
+9. Although never formally trained in military techniques, this man nevertheless became a standout among the
+Confederate army brain trust, using his intimidating physical presence and considerable leadership skills to motivate
+his troops to victories in such conflicts as the Battle of Brice’s Crossing. However, his darker side manifested itself
+in the Fort Pillow Massacre, where this man allegedly shot down multitudes of unarmed African American Union
+soldiers in cold blood. His most politically significant action would take place after the war, when he served as the
+first head of a fraternal organization created to “protect the rights” of white Americans through violence and
+intimidation. For ten points, name this first Grand Wizard of the Ku Klux Klan.
+ANSWER: Nathan Bedford Forrest
+10. This equation is most often used to approximate a value found experimentally using a glass-electrode voltmeter
+that measures activity. The inspiration behind this equation came in 1908 when its first namesake wrote an equation
+for the behavior in aqueous solution of carbon dioxide. When carbon dioxide dissolves in water, it produces a
+compound H2CO3 which is of the class of compounds described by this equation. Rearranging that equation after
+taking the opposite of the base-10 logarithm of both sides produces this formula. Models for the class of compounds
+described by this equation include ones by Arrhenius, Lewis, and Brønsted and Lowry. FTP, name this doublyeponymous logarithmic equation that adds the pKa to the relative concentrations of conjugate base and acid of a
+buffer solution to yield the pH.
+ANSWER: Henderson-Hasselbalch equation
+11. The popular name for these communities was formulated by Charles Michelson, the publicity chief of the
+Democratic National Committee, and the largest of them was set up in Central Park, where residents angrily
+demonstrated against the perceived lack of governmental action taken against unemployment and the rampant
+corruption of city officials. For ten points, name these shantytowns inhabited by desperate unemployed Americans
+during the early 1930’s, ironically named for the president who failed to take decisive action in response to the Great
+Depression.
+ANSWER: Hoovervilles
+12. At any given point, it consists of both a magnitude and a direction and it can be created via the dynamo
+mechanism and excluded from certain entities in the Meissner effect. They can be detected by the force they exert
+on moving electric charges, as described by the Lorentz force law, and concentrated using quadrupole focusing or
+solenoids. Its generation by an electric current is described by the Biot-Savart law, and its direction around a wire
+can be found using the right hand rule. FTP, name these lines of force generated by objects with north and south
+poles.
+ANSWER: magnetic field
+13. Graduating first in his 93-man class at West Point, this military figure soon distinguished himself during World
+War I, becoming the youngest divisional commander in France. His rapid rise through the ranks of the US Army led
+him to become the youngest Army Chief of Staff on record in 1930, spearheading the breakup of the Bonus Army’s
+march on Washington in 1932. However, he is most well-known for his exploits during World War II while working
+
+2
+
+BHSAT XIX
+
+Packet 2
+
+with such generals as Jonathan Wainwright and Chester Nimitz. For ten points, name this belligerent and oftencontroversial Supreme Commander of American forces in East Asia during World War II and the Korean War.
+ANSWER: Douglas MacArthur
+14. This author’s first full-length non-fiction work was a historical account of the Sandinista front in Nicaragua,
+titled The Jaguar Smile. He is better known, however, for novels, including one in which the titular character is the
+driver for the American ambassador for counter-terrorism, Max Ophuls, Shalimar the Clown and a novel in which
+Saleem Sinai is one of several children with magical powers born between 12 AM and 1 AM on August 15, 1947.
+FTP, this is what Indian author of Midnight’s Children about whom Ayatollah Khomeini issued a fatwa for his
+Satanic Verses?
+ANSWER: Salman Rushdie
+15. This man painted a portrait of his sister-in-law, Berthe Morisot, who was a famous painter in her own right. One
+of his most famous paintings is based on the earlier Venus of Urbino by Titian, and is titled Olympia. His Music in
+the Tullieries depicts some of his other impressionist friends dancing while his most famous work depicts a woman
+laying naked on the grass with two fully clothed men attending to her. FTP, identify this French painter, the painter
+of Luncheon on the Grass. Often called the founder of impressionism, not to be confused with a similar sounding
+painter of Impression: sunrise.
+ANSWER: Edouard Manet
+16. Col and R factors are two types of these, and they can be cut at specific sites using restriction enzymes to allow
+for the insertion of foreign genetic elements. Episomes are a variety connected to the cell membrane, and all selfreplicate autonomously and can impart specific properties to the organism. They have found uses as vectors in gene
+cloning and recombinant DNA technologies, but are better known for their potential in imparting bacteria with
+antibiotic resistance. Exchangeable through sex pili-mediated conjugation, FTP, name these circular DNA constructs
+which can replicate independently of the bacterial chromosome.
+ANSWER: plasmid
+17. In his book Women, Fire, and Dangerous things, George Lakoff four ways in which researchers disagree about
+the import of this concept. In his book the Language Instinct, Steven Pinker argues against this construct, while the
+view of universalist grammar pioneered by Chomsky found itself arguing against this idea. One of the two
+namesakes of this theory classified native American languages into 6 major divisions. This idea was originally
+meant to demonstrate that the Hopi do not experience time in the same way as English speakers. FTP, identify this
+hypothesis dealing with linguistic perception, which states that language invariably influences how we think.
+ANSWER: Sapir- Whorf Hypothesis
+18. In one work by this man, the narrator says “We poets in our youth begin in gladness; / But thereof come in the
+end despondency and madness.” In another work by this man, he wonders: “Whither is fled the visionary gleam? /
+Where is it now, the glory and the dream?” Neither Resolution and Independence nor the Ode: Intimations of
+Immortality were included in this man’s 1798 collection, Lyrical Ballads, which he published with his friend Samuel
+Taylor Coleridge. FTP, name this English Romantic, who wrote about daffodils in “I wandered lonely as a cloud”,
+the author of Tintern Abbey.
+ANSWER: William Wordsworth
+19. The Atlanta Braves used to play in the town that this team is from, where they went through many name
+changes. A left fielder with a career 0.344 batting average who played for this team famously wanted to by
+cryogenically frozen after his 2002 death. That player, Ted Williams, despite his status as one of the all-time greatest
+hitters, failed to win a World Series for this team. Another team from the town in which this team currently plays
+won the first World Series under the mascot of the “Pilgrims”. FTP, name this team coached by Terry Francona
+whose current players include Kevin Youkilis, David Ortiz, and Daisuke Matsuzaka that won the World Series in
+2004 after an 86-year drought.
+ANSWER: The Boston Red Sox (accept either)
+20. This native of Sichuan once declared that to be rich was glorious. He received an education in France, where he
+was introduced to Marxism, and became a veteran of the Long March. He was purged twice during the Cultural
+
+3
+
+BHSAT XIX
+
+Packet 2
+
+Revolution, but after its end he outmaneuvered Hua Guofeng and instituted the four modernizations. FTP, name this
+leader of China, who died in 1997 and ordered the Tiananmen Square massacre.
+ANSWER: Deng Xiaoping
+21. The secret history of his people says that this man was born with a blood clot grasped in his fist, a sign that he
+would be a great leader. He sought out Toghoril, the leader of the Keraits, as a teenager, and later united the Keraits
+with Merkits, Uyghurs, and others to form his confederation. FTP, name this leader who counts one half of one
+percent of Earth’s population among his descendants. In 1206 he unified the Mongols.
+ANSWER: Genghis Khan
+
+Bonuses:
+1. Identify some small European countries FTPE.
+[10] The smallest country in the world, this mini nation-state has its own police force and post office. It is located
+entirely within Rome and is led by Pope Benedict XVI.
+ANSWER: Vatican City
+[10] The second smallest country in the world, this wealthy-tax haven is located on the south coast of France. It is
+ruled by Prince Albert II and it contains the city of Monte Carlo.
+ANSWER: Monaco
+[10] This small land-locked country in the Pyrenees has two heads of state, the President of France and the Bishop
+of Urgell. It is the only country in the world with Catalan as an official language and it is famous for its ski resorts.
+ANSWER: Andorra
+2. Answer some questions about an architect and his works, FTPE.
+[10] This Finnish-American architect designed the TWA Flight Center at JFK airport, Ezra Stiles College,
+Morse College, and Ingalls Hockey Rink at Yale University, and the Tulip Chair for the Knoll Company.
+ANSWER: Eero Saarinen
+[10] Saarinen’s most famous work is this piece, which exemplifies his smooth-curve style and spans
+630 feet in a midwestern city.
+ANSWER: St. Louis Gateway Arch
+[10] Saarinen also utilized thin-shell design in the Kresge Auditorium, found at this Northeastern Research
+Institution.
+ANSWER: Massachussetts Institute of Technology
+3. It features the aria "Un bel di vedremo," in which the lead soprano anticipates the return of her lover. For 10
+points each:
+[10] Identify this opera, which tells of a doomed romance between Cio-Cio San and her American lover, Pinkerton.
+ANSWER: Madama Butterfly (or Madame Butterfly)
+[10] Madame Butterfly was composed by this Italian also known for Turandot, Tosca, and La Bohème.
+ANSWER: Giacomo Puccini
+[10] Another well-known soprano aria by Puccini is this one from the one-act opera Gianni Schicchi. In it, Lauretta
+threatens to throw herself off the Ponte Vecchio if she cannot marry her lover, Rinuccio.
+ANSWER: "O mio babbino caro"
+4. The singer claims she "Don't got a care in the world, but plenty of beer" FTPE:
+[10] Name this song, who's title refers to the passage of time at a party and who's singer is strangely attracted
+to Mick Jagger.
+ANSWER: Tik Tok
+[10] This American artist, who made her mainstream debut on Flo Rida's "Right Round," performs Tik-Tok on her
+album, Animal.
+ANSWER: Ke$ha
+[10] In this other song from Animal, Ke$ha attends the title location and urinates in champagne, throws up in the
+closet, wakes up drunk, and cannot find her coat.
+
+4
+
+BHSAT XIX
+
+Packet 2
+
+She incites others to do the same with the repeated chorus of "Come on, let's do it!"
+ANSWER: Party at a Rich Dude's House
+5. Jim Conklin is sometimes referred to as “The Tall Soldier” in this novel, and the protagonist is sometimes referred
+to as “The Youth”, FTPE:
+[10] Henry Fleming receives the titular wound in what Civil War novel?
+ANSWER: The Red Badge of Courage
+[10] This American author wrote The Red Badge of Courage.
+ANSWER: Stephen Crane
+[10] Crane’s first published novel was this work, in which the titular daughter of the Johnson family living in the
+Bowery becomes a prostitute.
+ANSWER: Maggie: Girl of the Streets
+6. Answer these related questions about gas laws FTPE:
+[10] This law can be used to describe the properties of gases where the molecules are point entities that exhibit no
+interactions with each other.
+ANSWER: ideal gas law
+[10] This lemma of the ideal gas law states that the volume and temperature of a gas under constant pressure are
+directly related.
+ANSWER: Charles’ law
+[10] This other lemma of the ideal gas law describes the inverse relationship between volume and pressure under
+constant temperature.
+ANSWER: Boyle’s law
+7. The title character of this novel also goes by Dolores or Dolly, FTPE:
+[10] Name this work, which details Humber Humbert’s illicit passion for a particular nymphet.
+ANSWER: Lolita
+[10] The most recent work by this man, The Original of Laura, was published in 2009 and panned by critics. Martin
+Amis compared it to Lou Gehrig in 1939. This man also wrote Lolita.
+ANSWER: Vladimir Nabokov
+[10] This other Nabokov work refers to Lolita and takes the form of a 999 line poem, probably written by John
+Shade, and a series of divergent footnotes to the poem, likely written by Charles Kinbote.
+ANSWER: Pale Fire
+8. Heracles and Theseus often tend to steal the spotlight. For ten points each, name these slightly less famous but no
+less heroic figures from Greek myth:
+[10] This Phoenician brought the alphabet to Greece while searching for his sister Europa. He slew a dragon and
+sewed its teeth to found the city of Thebes.
+ANSWER: Cadmus
+[10] This master musician saved the Argonauts from the sirens by drowning out their seductive songs with his lyre
+music. He was less successful in rescuing his wife Eurydice from Hades.
+ANSWER: Orpheus
+[10] This man, whose name means “lone wolf,” was a master thief and grandfather of Odysseus. He also taught
+wrestling to Heracles.
+ANSWER: Autolycus
+9. FTPE, answer these related chemistry questions.
+[10] This term refers to the minimum amount of energy required to start a reaction. It can be reduced with the
+addition of a catalyst.
+ANSWER: activation energy
+[10] The Arrhenius equation describes how the rate of a reaction varies with both the activation energy and changes
+in this quantity. Generally, reaction rates increase as this quantity goes higher.
+ANSWER: temperature
+[10] The rate of a reaction usually doubles with this approximate Celsius increase in temperature.
+
+5
+
+BHSAT XIX
+
+Packet 2
+
+ANSWER: ten degrees Celsius
+10. Answer these questions about the far regions of our solar system, FTPE.
+[10] Discovered in 1992, this region is similar to the asteroid belt, although 20 times as wide and 200 times as
+massive. It consists of objects that are mainly composed of frozen volatiles. Short period comets are thought to
+come from this region. Pluto, Makemake, and Haumea also reside here.
+ANSWER: Kuiper Belt
+[10] Further than the Kuiper Belt, this region is thought to be comprised of two separate regions: an inner disc shape
+and an outer sphere. Long period comets are thought to originate from this region. It lies almost a light-year away
+from the Sun.
+ANSWER: Oort Cloud
+[10] The Kuiper Belt and the Oort Cloud are known as “reservoirs” of these objects.
+ANSWER: Trans Neptunian Objects
+11. Identify some characters from 1984, FTPE:
+[10] This character is the protagonist of 1984, who edits historical documents for the Ministry of Truth to make
+them conform to the parties newest historical claims.
+ANSWER: Winston Smith
+[10] After passing a note to Winston that says “I love you”, this member of the Junior Anti-Sex League becomes
+Winston’s lover.
+ANSWER: Julia
+[10] This political dissident is the purported author of The Theory and Practice of Oligarchical Collectivism and is
+the alleged leader of the “Brotherhood” that seeks to oppose Big Brother.
+ANSWER: Emmanuel Goldstein
+12. The title object helps one character in this story win second place in his country’s national prize for literature,
+FTPE:
+[10] This is what short story in which Carlos Argentino Daneri uses the title object, which contains all points within
+space, to inspire his poetry?
+ANSWER: The Aleph or El Aleph
+[10] The Aleph by this Argentine author, many of whose most famous short stories are collected in his Ficciones.
+ANSWER: Jorge Luis Borges
+[10] In this title short story of Borges’ first collection, a Chinese spy working for the Germans, Tsu Yun, manages to
+send a message to his superiors by murdering Captain Madden, an enemy officer.
+ANSWER: The Garden of Forking Paths or El Jardin de senderos que se bifurcan
+13. FTPE, answer the following questions about an ethical philosophy:
+[10] The combination of hedonism and consequentialism produces this philosophy, which claims that ethical actions
+provide the greatest happiness to the greatest number of people.
+ANSWER: Utilitarianism
+[10] This author of Utilitarianism helped develop the philosophy and also wrote On Liberty and The Subjection of
+Women.
+ANSWER: John Stuart Mill
+[10] Utilitarianism was first formulated by this teacher of Mill’s father who denounced the philosophy of natural
+rights and conceived the idea of the panopticon.
+ANSWER: Jeremy Bentham
+14. Answer these questions about sound FTPE:
+[10] This dimensionless unit is commonly used to measure sound pressure level. The magnitude of the intensity is
+expressed relative to a reference level and scales logarithmically.
+ANSWER: decibel
+[10] This term describes the speed of an object moving through a fluid substance, such as air, divided by the speed
+of sound in that medium.
+ANSWER: Mach number
+
+6
+
+BHSAT XIX
+
+Packet 2
+
+[10] This phenomenon is observed when the velocities of a sound source and an observer are not zero relative to the
+velocity of the sound waves in that medium. Depending on the relative motion of the source, observer, or medium,
+the frequency of the sound wave perceived by the observer may be higher or lower than the actual frequency emitted
+by the source.
+ANSWER: Doppler effect
+15. Identify the following Ibsen plays, FTPE:
+[10] In this play, Helene Alving feels the titular reminders of her dead, philandering husband in the house as she
+discovers that her son, Oswald, is dying of syphilis.
+ANSWER: Ghosts
+[10] Nora Helmer leaves her husband Torvald shortly after her forgery is exposed in this iconic Ibsen play, his best
+known.
+ANSWER: A Doll’s House
+[10] Dr. Stockmann becomes the titular outcast after writing an article warning about contamination in the town’s
+public baths in this Ibsen play.
+ANSWER: An Enemy of the People
+16. FTPE, name some rulers of the Holy Roman Empire.
+[10] The first Emperor of the Saxon dynasty, this man resurrected the Empire from the ashes of the Carolingians
+after his victory at Lechfeld over the Magyars.
+ANSWER: Otto I the Great (need one or the other)
+[10] This scion of the Habsburg and the Trastámara dynasties was the last man to actually be crowned Holy Roman
+Emperor. He was the father of Philip II of Spain.
+ANSWER: Charles V or Carlos I of Spain
+[10] This 1555 treaty near the end of the reign of Charles V established the principle of cuius regio, eius religio
+which gave princes the authority to determine the religion—Catholicism or Lutheranism—of their principality and
+was a major step in the erosion of imperial power.
+ANSWER: The Peace of Augsburg
+17. It was the culmination of the Confederate Heartland Offensive, FTPE.
+[10] Give the name of this battle which was fought in Chaplin Hills, Kentucky, next to the namesake town. It saw
+Confederate general Braxton Bragg defeat Don Carlos Buell, but it wound up being a strategic victory for the Union
+as Kentucky was kept within the union.
+ANSWER: Perryville
+[10] Also known as the battle of Pittsburgh landing, this battle was the deadliest overall civil war battle, thanks in
+large part to a “Hornet’s nest” which saw soldiers cut down very quickly. It saw the death of Confederate Albert
+Sydney Johnston and was one of Grant’s first major victories
+ANSWER: Shiloh
+[10] This later battle that Braxton Bragg participated in was the largest confederate victory in the western theater of
+the war. William Rosecrans was the Union commander, while George Thomas of the Union forces became known
+as the “rock” of this place. This battle was followed by the battle Chattanooga shortly after.
+ANSWER: Chickamauga
+18. Answer some questions about recent and upcoming congressional elections, FTPE:
+[10] This current Minority Leader in the senate was reelected over Bruce Lunsford in 2008, representing the state of
+Kentucky.
+ANSWER: Mitch McConnell
+[10] The Majority leader in the senate, Harry Reid, will face a tough reelection this fall. He hails from this western
+state.
+ANSWER: Nevada
+[10] This Pennsylvanian recently switched parties in an effort to help him win reelection this fall. However, it may
+have been in vain as his race is currently a tossup.
+ANSWER: Arlen Specter
+19. Let’s see how much you know about Progressive era politics, FTPE:
+
+7
+
+BHSAT XIX
+
+Packet 2
+
+[10] Two staples of the progressive era were these two amendments, one which inaugurated prohibition and the
+other which provided for women’s suffrage. Name them both for ten points.
+ANSWER: 18th and 19th amendments
+[10] Some of the main instigators of certain progressive era legislation were these individuals, like Upton Sinclair
+and Ida Tarbell, whom Teddy Roosevelt gave a derisive nickname to.
+ANSWER: Muckrakers
+[10] This illustrated monthly magazine, often compared to the Atlantic Monthly, is largely credited for creating
+Muckraking journalism.
+ANSWER: McClure’s
+20. Answer these questions about cell structure FTPE:
+[10] In eukaryotic cells, this system of filaments maintains cell shape.
+ANSWER: cytoskeleton
+[10] Centrioles are formed by nine triplet sets of this filament, the thickest of the three types of filaments found in
+the cytoskeleton.
+ANSWER: microtubules
+[10] Composed of microtubules and centrosomes and fully formed by metaphase, this structure is responsible for the
+separation of chromosomes during cell division.
+ANSWER: mitotic spindle
+21. FTPE, name these functional groups.
+[10] This functional group, which consists of an alcohol attached to a carbonyl group, has a general formula of
+RCOOH.
+ANSWER: carboxylic acid
+[10] This other functional group consists of a carbonyl with two R groups attached. Those that have a hydrogen
+atom as one of the R groups are known as aldehydes.
+ANSWER: ketone
+[10] This functional group is seen in the amino acid cysteine and can act as a potent nucleophile. It has a general
+formula of R-S-H.
+ANSWER: thiol or mercaptan
+
+8
+
+

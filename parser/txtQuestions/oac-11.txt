@@ -1,0 +1,597 @@
+OAC 2013
+Packet 11
+
+CATEGORY ROUND
+American Literature: 20th Century American Literature
+Team A: What author wrote the stories "The Rabbits Who Caused All the Trouble" and "The Secret Life of
+Walter Mitty?"
+ANSWER: James Grover Thurber
+Team B: What author wrote "Why I Live at the P.O." and "Death of a Traveling Salesman."
+ANSWER: Eudora Alice Welty
+Tossup: In this novel, the suicide of McWatt occurs after he accidentally kills Kid Sampson. In this novel,
+Captain Flume is afraid his throat will be slit open by a character whose family always had to move when
+oil was discovered named Chief White Halfoat. Another character in this novel tells Appleby that he has
+flies in his eyes and uses his perceived clumsiness to escape to Sweden. That character in this novel, Orr, is
+stationed on Pianosa with Milo Minderbinder, Major Major, and Yossarian. Name this satirical novel set in
+World War II by Joseph Heller.
+ANSWER: Catch-22
+Mathematics: Sequences and Series (All questions in this round are 20 seconds)
+Team B: Find the sum of the infinite geometric series with first term 6 and ratio 1/3.
+ANSWER: 9
+Team A: Find the sum of the first ten terms of the arithmetic series starting 3, 5, 7.
+ANSWER: 120
+Tossup: A Cauchy sequence in a complete metric space is automatically of this type. The root test is one
+method designed to test for this property. This property does not hold for arithmetic sequences or the
+harmonic series. All geometric series for which r is less than one exhibit this property. A sequence has this
+property if and only if it has a limit. Name this property that a sequence has if its values gradually approach
+a certain number, the opposite of divergent.
+ANSWER: convergent [or word forms]
+
+OAC 2013
+
+11
+
+Page 1 of 17
+
+World History: Building Rulers
+Team A: Name the ruler married to Nefertiti who built a new capital at Amarna to worship Aten.
+ANSWER: Akhenaten [or Akhnaton; or Amenhotep IV; prompt on
+Amenhotep]
+Team B: Name the empire whose ruler Musa used the architect al-Sahili to build such edifices as the
+Djinguereber Mosque in Timbuktu.
+ANSWER: Mali Empire
+Tossup: One king of this country built a stone pyramid called the Bakong. A later king of this country built
+a sandstone shrine called Banteay Srei (BAN-tay SRAY). This country ruled by Indravarman I and
+Jayavarman V was later ruled by a dictator who sought to return to "Year Zero" and established the Killing
+Fields. This country once ruled by Pol Pot is home to the temple complex of Angkor Wat. Name this
+Southeast Asian country taken over in the 1970s by the Khmer Rouge.
+ANSWER: Kingdom of Cambodia [or Preahreacheanachakr Kampuchea]
+Fine Arts: Musical Arrangements and Transcriptions
+Team B: What Hungarian composer transcribed all of Beethoven's symphonies solo piano and created the
+symphonic poem?
+ANSWER: Franz Liszt [or Liszt Ferenc]
+Team A: What composer orchestrated, but did not write, Pictures at an Exhibition and composed Bolero?
+ANSWER: Maurice Ravel
+Three of Bach's organ concerti are based on transcriptions of this composer's work. Concerti by this
+composer can be found in the collections L'estro Armonico and La stravaganza. Many of this composer's
+works were written for the female orphanage Ospedale della Pieta. This man's most well known works are
+found in The Contest Between Harmony and Invention and include "La primavera" or "Spring". For 10
+points, identify this Italian composer of many violin concertos and The Four Seasons.
+ANSWER: Antonio Lucio Vivaldi [prompt on "The Red Priest"]
+
+OAC 2013
+
+11
+
+Page 2 of 17
+
+Life Sciences: Infectious Diseases
+Team A: What bacterial disease, named for a town in Connecticut, is spread by the blacklegged tick>
+ANSWER: Lyme disease
+Team B: What disease, which causes a fatal hemorrhagic fever, is caused by a virus named after a river in
+the Democratic Republic of the Congo?
+ANSWER: Ebola
+Tossup: The knowlesi form of this disease can infect macaques and, like the vivax type, uses Duffy
+antigens as a receptor. The agents that cause this disease have merozoite and sporozoite stages. A
+deficiency in glucose 6 phosphate can protect you against this disease. Another substance that protects
+against this disease comes from the bark of the cinchona tree and is called quinine. The alleles for sickle
+cell anemia confer resistance to this disease that is caused by Plasmodium. What disease, prominent in
+Africa, is commonly carried by mosquitoes?
+ANSWER: malaria
+World Literature: Drama
+Team B: What hypothetical prop, named for a Russian dramatist, supports the idea that all props introduced
+early in a play should be used by its end?
+ANSWER: Chekhov's gun [accept any answer involving Anton Chekhov and a
+gun, pistol, rifle, or dagger]
+Team A: What play by Swedish dramatist August Strindberg features a verbal battle between the title
+countess and her low-class valet Jean?
+ANSWER: Miss Julie [or Froken Julie]
+Tossup: One play from this country describes a cockroach who is neglected by a butterfly. Another play
+from here includes six washer-women gossiping about a desperate barren woman who kills her husband.
+The Generation of '27 and Generation of '98 came from this country, where a gay playwright wrote the
+"Rural Trilogy" of Blood Wedding, Yerma, and The House of Bernarda Alba. Name this European country
+where Federico Garcia Lorca was killed at the onset of civil war.
+ANSWER: Spain [or España]
+
+OAC 2013
+
+11
+
+Page 3 of 17
+
+US Government/Economics: 2012 GUBERNATORIAL ELECTIONS
+Team A: This Indiana Republican gave the response to the State of the Union in 2012 but was term-limited
+from running again, so he became head of Purdue University instead.
+ANSWER: Mitch Daniels
+Team B: Alejandro Garcia Padilla defeated Luis Fortuno, a Republican once tapped as a potential
+presidential candidate, in this place’s gubernatorial election in 2012.
+ANSWER: Puerto Rico
+Tossup: The runner-up in the Democratic primary for this state's 2012 governor's election was Bob
+Etheridge, who had previously been accused of accosting Republican activists while serving in Congress.
+This state became an open race when incumbent Democrat Bev Perdue declined to run for re-election.
+Democrat Walter Dalton lost in what state, which elected Republican Pat McCrory as its new governor
+following McCrory’s campaign to bring the NASCAR Hall of Fame to Charlotte?
+ANSWER: North Carolina
+Physical Sciences: Heat
+Team B: What law of thermodynamics states that the change in internal energy is equal to the heat added to
+the system minus the work done by the system?
+ANSWER: first law of thermodynamics
+Team A: What scientist names a law of cooling that states the heat loss of a body is proportional to its
+temperature difference with the surrounding?
+ANSWER: Sir Isaac Newton
+Tossup: This process is either free or forced depending on the Richardson number, which is equal to the
+Grashof number over the square of the Reynolds number. When driven from below, this process produces
+Benard cells. This process occurs at high values of the Rayleigh and Prandtl numbers. Sunspots occur
+where the sun's magnetic field inhibits this process. Seafloor spreading is caused by this process' namesake
+currents in the upper mantle. The air around a fire or another heat source is warmed by this process. Name
+this process of heat transfer occurs in fluids.
+ANSWER: convection
+
+OAC 2013
+
+11
+
+Page 4 of 17
+
+World Geography: OLD QUARTERS
+Team A: Name the world city whose “old” section is divided into the Muslim, Christian, Jewish, and
+Armenian Quarters.
+ANSWER: Jerusalem
+Team B: The Barri Gotic is the old quarter of this European city, where Catalan is spoken instead of the
+national dialect.
+ANSWER: Barcelona
+Tossup: This city’s Old Quarter is located around Hoam Kiem Lake. An old university is found in this
+city’s Temple of Literature. The Thang Long is a prominent water puppet theater located in this city. A
+museum for the Hoa Lo Prison is located in this city, which is home to the Temple of the Trung Sisters.
+Haiphong serves as this city’s chief port. This city is located about eighty-five miles inland from the South
+China Sea on the Red River. Name this capital of Vietnam.
+ANSWER: Hanoi
+American History: Presidential Nominations
+Team B: Lyndon Johnson unsuccessfully nominated Abe Fortas as Chief Justice to replace what man, who
+led the Court during the Brown v. Board decision?
+ANSWER: Earl Warren
+Team A: What president unsuccessfully nominated John Rutledge to the Supreme Court in an attempt to
+replace Chief Justice John Jay, who negotiated a namesake treaty with Britain during this man's term?
+ANSWER: George Washington
+Tossup: This man unsuccessfully tried to nominate his counsel Harriet Miers to the Supreme Court. The
+headline "How Can 59,054,087 People Be So Dumb?" was produced by the Daily Mirror in response to
+this man winning an election. He controversially told FEMA head Michael Brown he was "doing a heckuva
+job" after Hurricane Katrina. This man won the presidency in an election that featured "hanging chads" and
+"butterfly ballots" in Florida. Name this President during the 9/11 attacks in 2001.
+ANSWER: George Walker Bush [or Bush II; or Bush 43; or anything
+distinguishing him from his father; prompt on Bush; do not accept "George
+Herbert Walker Bush"]
+
+OAC 2013
+
+11
+
+Page 5 of 17
+
+THE LETTER P
+1. What saint wrote epistles to the Romans and the Corinthians
+2. What English royal house was inaugurated by Henry II?
+3. (TWO WORD ANSWER) What toy manufacturer makes board games like Monopoly?
+4. What literary term, coming from the Greek for "too much" denotes the rhetorical use of more words than are necessary to
+convey a point?
+5. What British Ambassador to the United States signed a treaty with John Hay nullifying the Clayton-Bulwer Treaty?
+6. (TWO WORD ANSWER) What American author wrote the USA Trilogy?
+7. What geologic epoch featured the last glacial period?
+8. What organ functions as a gland producing insulin and somatostatin?
+9. What volcano on the island of Luzon in the Philippines erupted in 1991?
+10. What Greek god lived in Arcadia and had the legs and horns of a goat?
+11. What stock character of commedia dell'arte competes with Harlequin for the love of Columbine?
+12. What Italian violinist is known for his 24 caprices?
+13. What Senator from Ohio passed a namesake civil service reform act in 1883?
+14. What Greek sculptor created the statue of Athena in the Parthenon?
+15. What principle states that no two electrons in a single atom can have the same quantum state, meaning the same 4 quantum
+numbers?
+16. What standard unit is equal to the pressure exerted by one newton of force uniformly over a square meter?
+17. What Turkish author won the Nobel prize for novels like My Name is Red and Snow?
+18. What philosophy proposed by William James and Charles Sanders Peirce proposes a theory of truth based on "cash value"?
+19. What country bordering Afghanistan is currently led by Asif Ali Zardari?
+20. What Roman lower class engaged in the struggle of the orders with the patricians?
+
+OAC 2013
+
+11
+
+Page 6 of 17
+
+THE LETTER P ANSWERS
+1. Saint Paul [or Saul]
+2. House of Plantagenet
+3. Parker Brothers
+4. pleonasm
+5. Julian Pauncefote, 1st Baron Pauncefote
+6. John Dos Passos
+7. Pleistocene epoch
+8. Pancreas
+9. Mount Pinatubo
+10. Pan
+11. Pierrot
+12. Niccolo Paganini
+13. George Hunt Pendleton
+14. Phidias
+15. Pauli Exclusion Principle
+16. one pascal
+17. Orhan Pamuk
+18. Pragmatism
+19. Islamic Republic of Pakistan
+20. the plebeians [or the plebs]
+
+OAC 2013
+
+11
+
+Page 7 of 17
+
+FINAL ROUND
+1. This concept was extended into the ERG paradigm by Clayton Alderfer. The developer of this concept
+studied the lives of individuals including Eleanor Roosevelt and Frederick Douglas during its development.
+This concept implies that a person's sense of safety should be satisfied before they should be concerned
+with developing their self-esteem. This concept was diagrammed using a pyramid, at the top of which
+exists "self-actualization." Identify this paradigm developed by Abraham Maslow.
+ANSWER: Abraham Maslow's hierarchy of needs
+189-13-81-11101
+
+2. This poet was inspired by the rhyme scheme of the Finnish epic Kalevala for a poem featuring the West
+Wind’s seduction of Nokomis’s daughter. He brought Homeric dactylic hexameter into English for a poem
+titled for Gabriel Lajeunesse’s Cajun lover. This author of Evangeline also wrote about a native prince who
+loves Minnehaha, and the hanging of lamps at the Old North Church. Name this American poet of The
+Song of Hiawatha and “Paul Revere's Ride."
+ANSWER: Henry Wadsworth Longfellow
+104-13-81-11102
+
+3. The luminosity and rotation speed of these bodies is compared in the Tully-Fisher relation. These bodies
+inhabit the right half of Hubble's tuning fork. The youngest and most luminous stars in this type of body are
+the furthest from its central bulge. A hybrid of this type of body and an elliptical galaxy forms a lenticular
+galaxy. One variety of this type of body contains a bar through the middle, connecting its arms. Name this
+type of galaxy that includes the Milky Way.
+ANSWER: bar-spiral galaxy [prompt on galaxy]
+153-13-81-11103
+
+4. In The Legend of Zelda: Majora's Mask, Zora Link can win a bottle from two of these creatures by going
+through twenty-five rings in two minutes. Daggett and Norbert are a pair of "angry" ones who star in a
+1990's Nickelodeon cartoon. In The Lion, the Witch, and the Wardrobe, a married couple of these animals
+guides the Pevensey children to Aslan's camp. On a television show, Jerry Mathers played a boy given this
+nickname by his brother Wally. Name this aquatic mammal after whom Theodore Cleaver is nicknamed on
+a 1950s sitcom.
+ANSWER: beavers
+080-13-81-11104
+
+5. In one of this man's works, a character teaches a slave geometry to prove that learning is only
+recollection. Characters try to define virtue in that work, the Meno. He described people chained so that
+they could only see shadows reflected on a wall in his Allegory of the Cave in another work. This man
+developed the Theory of Forms, the highest of which was the Good, which he describes in The Republic.
+Name this student of Socrates.
+ANSWER: Plato
+121-13-81-11105
+
+6. The first one of these events in Ireland took place at Rechru in 795. An agreement to prevent these
+events was the Treaty of Saint Clair-sur-Epte, which led to the foundation of a duchy by a leader of these
+actions, Rollo. An event of this kind destroyed the cover of the Lindisfarne gospels. These events often
+targeted the wealth of monasteries and were perpetrated from longboats. Name these events that terrorized
+medieval societies and resulted in plunder being taken to Norway.
+ANSWER: Viking raids [or obvious equivalents]
+019-13-81-11106
+
+OAC 2013
+
+11
+
+Page 8 of 17
+
+7. Opposition to this event led Lord Fisher to resign, and its initial failure caused Charles Monro to replace
+Ian Hamilton. French participants in this operation landed at Kum Kale, while the British attacked Cape
+Helles and troops from Australia and New Zealand targeted what became known as the ANZAC beaches.
+Lasting from February 1915 to January 1916, it was repelled by troops under Mustafa Kemal. Name this
+bloody attempt at an amphibious invasion of Turkey during World War I.
+ANSWER: Gallipoli landing [or Dardanelles campaign]
+019-13-81-11107
+
+8. A modification made to this equation focusing on the concentrations of potassium, sodium, and chlorine
+ions is named for Goldman, Hodgkin, and Katz. This equation can be rewritten to include a log base ten
+multiplied by 0.0592 instead of a natural log when a system is kept at twenty-five degrees Celsius. That
+0.0592 in this equation comes from multiplying the temperature by the ideal gas constant and Faraday's
+constant. Name this equation that uses the log of a system's reaction quotient to discover the value of E, the
+potential of an electrochemical cell in volts.
+ANSWER: Nernst equation
+023-13-81-11108
+
+9. Historian Martin Bernal wrote a work with a title that referred to this goddess as "Black." Cecrops
+mediated a dispute between Poseidon and her for the possession of Attica. In response to the rape of
+Cassandra by Ajax, she sent a storm that sank the Greek fleet returning from Troy. This goddess ripped
+apart a tapestry depicting the faults of the gods after losing a weaving contest to Arachne. Name this Greek
+goddess of handicraft and war, who was born out of the head of Zeus.
+ANSWER: Pallas Athena [or Athene]
+030-13-81-11109
+
+10. This city's influence in Sicily was weakened after its defeat in the battle of Himera. It contained the
+"Tophet of Salammbo" where skeletal remains suggest children may have been sacrificed to Ba'al
+Hammon. In one war, this city's opponent used a boarding device called a corvus to attack its ships. In
+another war, this city lost at the Battle of Zama after a huge victory at Cannae. Name this opponent of
+Rome in the Punic Wars and home of Hannibal.
+ANSWER: Carthage [or Carthago; or Kart-hadasht]
+121-13-81-11110
+
+11. Emily Dickinson had this author’s poem “No Coward Soul Is Mine” read at her funeral. She and her
+younger sister invented a fantasy world they named “Gondal.” One of her characters marries Isabella
+Linton as part of his plan for revenge. This author, who used the pen name Ellis Bell, wrote a novel which
+is narrated in sections by the servant Nelly Dean and a gentlemanly tenant of Thrushcross Grange named
+Mr. Lockwood. In that novel by this author, Catherine Earnshaw marries Edgar Linton despite her powerful
+love for the orphan Heathcliff. Name this author of Wuthering Heights.
+ANSWER: Emily Bronte [prompt on Bronte]
+015-13-81-11111
+
+12. This man used an ellipsoid with a ridge down the middle and one end flattened in his sculpture The
+Newborn, and he depicted Marie Bonaparte gazing at herself in a mirror in Princess X. This man built a war
+memorial at Targu Jiu that includes The Stone Table and the Endless Column. One sculpture by this man,
+consisting of an abstracted vertical wing, was taxed as a kitchen appliance because customs officials
+refused to believe it was art. Name this Romanian sculptor of the Bird in Space series.
+ANSWER: Constantin Brancusi
+195-13-81-11112
+
+OAC 2013
+
+11
+
+Page 9 of 17
+
+13. The time-averaged power radiated by a dipole is inversely proportional to the third power of this value.
+One attempt to measure it used a rotating cog between a source and a detector, an apparatus named for
+Fizeau. This value is equal to one over the square root of the product of the permittivity and permeability of
+free space. This value is invariant in all inertial reference frames, according to special relativity. Name this
+value equal to about three times ten to the eight meters per second.
+ANSWER: speed of light [or c]
+048-13-81-11113
+
+14. Toscanini conducted this piece with the NBC Symphony and increased the tempo of the first movement
+so that it only lasted eight and a half minutes. The song "Goin’ Home" was adapted from this work’s largo
+in the second movement, which is introduced by the English horn. This work was composed during its
+creator’s visit to the United States and was inspired by Native American music and African-American
+spirituals. Name this ninth symphony of Antonin Dvorak (duh-VOR-jak).
+ANSWER: The New World Symphony [or From the New World; or Dvorak's Ninth Symphony; or
+Symphony Number Nine]
+134-13-81-11114
+
+15. This writer adapted elements of the Jerilderie Letter into a novel whose protagonist writes his
+autobiography for the benefit of his daughter with Mary Hearn. That character created by this man flees
+with his brother Dan after shooting Constable Fitzpatrick. In another novel by this man, a wealthy heiress
+bets an Anglican priest that he cannot transport a glass church across the continent. Name this Booker
+Prize-winning novelist of True History of the Kelly Gang and Oscar and Lucinda who hails from Australia.
+ANSWER: Peter Carey [or Peter Philip Carey]
+014-13-81-11115
+
+16. This country is the location of Chan Chan, the largest adobe city in the world, near its city of Trujillo.
+The Moche civilization was based in this country, and Chiclayo in this country is the site of a Moche tomb
+for the Lord of Sipan. A set of ruins in this country is located above the Urubamba Valley and was found in
+1911 by Hiram Bingham. This country, that contains the western half of Lake Titicaca, also has the former
+capital of an empire at Cuzco. Name this South American country that is the location of Machu Picchu and
+was once ruled by the Incan Empire.
+ANSWER: Republic of Peru [or Republica del Peru]
+023-13-81-11116
+
+17. Organisms with a periplasmic space are unable to take up one chemical used in this procedure, which is
+sometimes replaced with the Ziehl-Neelsen stain for acid-fast organsims. This process can use carbol
+fuschin in its last step instead of safranin. This process uses iodine as a mordant to trap the crystal violet
+primary dye. Those that are positive for this test appear purple and have peptidoglycan in their cell walls.
+Name this procedure used to divide bacteria into namesake positive and negative types.
+ANSWER: Gram staining
+048-13-81-11117
+
+18. During this man's presidency, the first commemorative postage stamp was released by his Postmaster
+General, John Wanamaker. William Dudley wanted to use "floaters" to support this man's campaign in the
+"Blocks of Five" scandal. Levi Morton was the running mate of this President. He signed the McKinley
+Tariff and the Sherman Antitrust Act. This President worked with the Billion Dollar Congress. Name this
+Republican President who served between the two terms of Grover Cleveland.
+ANSWER: Benjamin Harrison [prompt on Harrison]
+149-13-81-11118
+
+OAC 2013
+
+11
+
+Page 10 of 17
+
+19. An artist from this country depicted a gladiator who is receiving the thumbs down from the crowd in his
+painting Pollice Verso. Another artist from this country depicted himself in a top hat, running in front of a
+column of smoke in a painting that includes a kid brandishing two pistols as he walks over dead bodies and
+partially nude woman holding the tricolor flag. Name this country, home to the painter of Liberty Leading
+the People, Eugene Delacroix.
+ANSWER: France
+149-13-81-11119
+
+20. This type of stanza is used when writing a pantoum. This stanza form includes a type that became
+popular following its use in the poem "In Memoriam" by Lord Tennyson. A work written with a type of
+this stanza called a roba'i was created by Omar Khayyam. Thomas Gray used this form in his "Elegy
+Written in a Country Churchyard." Three of these stanza units occur before a concluding rhyming couplet
+in a Shakespearean sonnet. Name this type of poetic stanza that consists of four lines.
+ANSWER: quatrain [or four-line stanzas before it is read]
+023-13-81-11120
+
+OAC 2013
+
+11
+
+Page 11 of 17
+
+THE LETTER P
+1. What saint wrote epistles to the Romans and the Corinthians
+2. What English royal house was inaugurated by Henry II?
+3. (TWO WORD ANSWER) What toy manufacturer makes board games like Monopoly?
+4. What literary term, coming from the Greek for "too much" denotes the rhetorical use of more words than are necessary to
+convey a point?
+5. What British Ambassador to the United States signed a treaty with John Hay nullifying the Clayton-Bulwer Treaty?
+6. (TWO WORD ANSWER) What American author wrote the USA Trilogy?
+7. What geologic epoch featured the last glacial period?
+8. What organ functions as a gland producing insulin and somatostatin?
+9. What volcano on the island of Luzon in the Philippines erupted in 1991?
+10. What Greek god lived in Arcadia and had the legs and horns of a goat?
+11. What stock character of commedia dell'arte competes with Harlequin for the love of Columbine?
+12. What Italian violinist is known for his 24 caprices?
+13. What Senator from Ohio passed a namesake civil service reform act in 1883?
+14. What Greek sculptor created the statue of Athena in the Parthenon?
+15. What principle states that no two electrons in a single atom can have the same quantum state, meaning the same 4 quantum
+numbers?
+16. What standard unit is equal to the pressure exerted by one newton of force uniformly over a square meter?
+17. What Turkish author won the Nobel prize for novels like My Name is Red and Snow?
+18. What philosophy proposed by William James and Charles Sanders Peirce proposes a theory of truth based on "cash value"?
+19. What country bordering Afghanistan is currently led by Asif Ali Zardari?
+20. What Roman lower class engaged in the struggle of the orders with the patricians?
+
+OAC 2013
+
+11
+
+Page 12 of 17
+
+THE LETTER P
+1. What saint wrote epistles to the Romans and the Corinthians
+2. What English royal house was inaugurated by Henry II?
+3. (TWO WORD ANSWER) What toy manufacturer makes board games like Monopoly?
+4. What literary term, coming from the Greek for "too much" denotes the rhetorical use of more words than are necessary to
+convey a point?
+5. What British Ambassador to the United States signed a treaty with John Hay nullifying the Clayton-Bulwer Treaty?
+6. (TWO WORD ANSWER) What American author wrote the USA Trilogy?
+7. What geologic epoch featured the last glacial period?
+8. What organ functions as a gland producing insulin and somatostatin?
+9. What volcano on the island of Luzon in the Philippines erupted in 1991?
+10. What Greek god lived in Arcadia and had the legs and horns of a goat?
+11. What stock character of commedia dell'arte competes with Harlequin for the love of Columbine?
+12. What Italian violinist is known for his 24 caprices?
+13. What Senator from Ohio passed a namesake civil service reform act in 1883?
+14. What Greek sculptor created the statue of Athena in the Parthenon?
+15. What principle states that no two electrons in a single atom can have the same quantum state, meaning the same 4 quantum
+numbers?
+16. What standard unit is equal to the pressure exerted by one newton of force uniformly over a square meter?
+17. What Turkish author won the Nobel prize for novels like My Name is Red and Snow?
+18. What philosophy proposed by William James and Charles Sanders Peirce proposes a theory of truth based on "cash value"?
+19. What country bordering Afghanistan is currently led by Asif Ali Zardari?
+20. What Roman lower class engaged in the struggle of the orders with the patricians?
+
+OAC 2013
+
+11
+
+Page 13 of 17
+
+THE LETTER P
+1. What saint wrote epistles to the Romans and the Corinthians
+2. What English royal house was inaugurated by Henry II?
+3. (TWO WORD ANSWER) What toy manufacturer makes board games like Monopoly?
+4. What literary term, coming from the Greek for "too much" denotes the rhetorical use of more words than are necessary to
+convey a point?
+5. What British Ambassador to the United States signed a treaty with John Hay nullifying the Clayton-Bulwer Treaty?
+6. (TWO WORD ANSWER) What American author wrote the USA Trilogy?
+7. What geologic epoch featured the last glacial period?
+8. What organ functions as a gland producing insulin and somatostatin?
+9. What volcano on the island of Luzon in the Philippines erupted in 1991?
+10. What Greek god lived in Arcadia and had the legs and horns of a goat?
+11. What stock character of commedia dell'arte competes with Harlequin for the love of Columbine?
+12. What Italian violinist is known for his 24 caprices?
+13. What Senator from Ohio passed a namesake civil service reform act in 1883?
+14. What Greek sculptor created the statue of Athena in the Parthenon?
+15. What principle states that no two electrons in a single atom can have the same quantum state, meaning the same 4 quantum
+numbers?
+16. What standard unit is equal to the pressure exerted by one newton of force uniformly over a square meter?
+17. What Turkish author won the Nobel prize for novels like My Name is Red and Snow?
+18. What philosophy proposed by William James and Charles Sanders Peirce proposes a theory of truth based on "cash value"?
+19. What country bordering Afghanistan is currently led by Asif Ali Zardari?
+20. What Roman lower class engaged in the struggle of the orders with the patricians?
+
+OAC 2013
+
+11
+
+Page 14 of 17
+
+THE LETTER P
+1. What saint wrote epistles to the Romans and the Corinthians
+2. What English royal house was inaugurated by Henry II?
+3. (TWO WORD ANSWER) What toy manufacturer makes board games like Monopoly?
+4. What literary term, coming from the Greek for "too much" denotes the rhetorical use of more words than are necessary to
+convey a point?
+5. What British Ambassador to the United States signed a treaty with John Hay nullifying the Clayton-Bulwer Treaty?
+6. (TWO WORD ANSWER) What American author wrote the USA Trilogy?
+7. What geologic epoch featured the last glacial period?
+8. What organ functions as a gland producing insulin and somatostatin?
+9. What volcano on the island of Luzon in the Philippines erupted in 1991?
+10. What Greek god lived in Arcadia and had the legs and horns of a goat?
+11. What stock character of commedia dell'arte competes with Harlequin for the love of Columbine?
+12. What Italian violinist is known for his 24 caprices?
+13. What Senator from Ohio passed a namesake civil service reform act in 1883?
+14. What Greek sculptor created the statue of Athena in the Parthenon?
+15. What principle states that no two electrons in a single atom can have the same quantum state, meaning the same 4 quantum
+numbers?
+16. What standard unit is equal to the pressure exerted by one newton of force uniformly over a square meter?
+17. What Turkish author won the Nobel prize for novels like My Name is Red and Snow?
+18. What philosophy proposed by William James and Charles Sanders Peirce proposes a theory of truth based on "cash value"?
+19. What country bordering Afghanistan is currently led by Asif Ali Zardari?
+20. What Roman lower class engaged in the struggle of the orders with the patricians?
+
+OAC 2013
+
+11
+
+Page 15 of 17
+
+THE LETTER P
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+11
+
+Page 16 of 17
+
+THE LETTER P
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+11
+
+Page 17 of 17
+
+

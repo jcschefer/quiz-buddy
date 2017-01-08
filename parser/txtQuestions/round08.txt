@@ -1,0 +1,559 @@
+TOSSUP 1
+When his predecessor died suddenly, he became head of his party in 1994, and then led Labour
+to control of Parliament for the first time in over fifteenyears. His popularity has waned in the
+decade he has resided at 10 Downing Street, and he is almost certain to step down for Gordon
+Brown later this year, but for now he is, FTP, the current Prime Minister of Great Britain.
+Tony Blair
+BONUS 1
+Identify these British Prime Ministers FTPE.
+10:
+
+Known as the “Iron Lady,” she was a formidable Tory who held the
+office for 11 years.
+Margaret Thatcher
+
+10:
+
+This much-criticized PM is infamous for his policy of appeasement
+toward Nazi Germany.
+Neville Chamberlain
+
+10:
+
+This son of a previous PM did his best to reduce the national debt and
+eliminate rotten boroughs at the close of the 18th Century.
+William Pitt the Younger (Prompt on Pitt)
+
+TOSSUP 2
+Pencil and paper ready. An ant wants to walk from one corner of a cube of side length 2 inches to
+the opposite corner across the cube’s surface. The minimum distance the ant must travel is less
+than six inches, because once it reaches the top of the cube, it may walk diagonally across the
+cube’s face. FTP,
+how far does the ant walk?
+√
+2 + 2 2 inches
+BONUS 2
+Give the volumes of the follwing shapes FTPE.
+10:
+
+A sphere with radius r.
+4
+3
+3 πr
+
+10:
+
+A circular cone of base radius r and height h.
+1
+2
+3 πr h
+
+10:
+
+A triangular prism with base width b, base height h, and length l
+1
+2 bhl
+
+TOSSUP 3
+Ones that are both this and onto are called bijections. y = 2x + 3 and y = x3 − 2 both are. y = x2
+and the absolute value function are not. Ones that are can’t be even, but ones that aren’t may be
+odd. FTP, identify this type of function, which maps every value in the range to exactly one value
+in the domain.
+One-to-one or injective
+BONUS 3
+FTPE, classify these functions as odd, even, both, or neither.
+1
+
+10:
+
+sin x
+odd
+
+10:
+
+Absolute value of x
+even
+
+10:
+
+quantity x plus two squared
+neither
+
+TOSSUP 4
+Between 1735 and 1745, this disease was responsible for over 80 percent of the deaths of children
+under the age of 10. A more mild form of it is limited to the skin. The first affective treatment
+against it started in 1880 with the use of respiratory tubes to prevent asphyxiation due to swelling
+of the lymph nodes. FTP, name this disease that is distinguished by the leathery membrane it
+produces covering the tonsils, throat, and nose.
+Diptheria or Corynebacterium diphtheriae (prompt on respiratory tract illness)
+BONUS 4
+Name these agents used in chemical warfare, FTPE.
+10:
+
+This is the common name for Varicella simplex, it is classically one of
+the childhood infectious diseases caught and survived by most children.
+Chicken Pox or Chickenpox
+
+10:
+
+Classified as epidemic parotitis, the most common symptoms include
+a painful swelling of the salivary glands and a fever.
+Mumps
+
+10:
+
+Also knows as German measles due to its similarity to the measles
+virus, common symptoms include abdomenal rashes, swollen glands,
+and conjunctivitis.
+Rubella (prompt on liberty measles or three day measles,
+accept epidemic roseola)
+
+TOSSUP 5
+Two characters wake up in the middle of the night after falling asleep while onguard duty and
+see a large silhouette which they mistake for a beast. Later, acharacter who represents innate
+goodness finds the figure after hallucinatingthat a pig’s head is talking and realizes that the beast
+is not a physical beingbut exists within everyone. He goes back to the camp but after emerging
+from theforest they kill him because they have become a violent mob. Simon is murderedbefore he
+can tell the others that the beast does not exist in, FTP, what novelby William Golding?
+Lord of the Flies
+BONUS 5
+Name these characters from Lord of the Flies FTPE.
+
+2
+
+10:
+
+He is elected the leader of the boys and tries to build a functionalsociety.
+Ralph
+
+10:
+
+Initiallly he is the leader of the hunters but he gets all the boys exceptRalph on his side by the end of the book.
+Jack
+
+10:
+
+He is not liked by the others even though most of the good ideas come
+fromhim. He wears glasses which are used to start a fire.
+Piggy
+
+TOSSUP 6
+His Theory of Colours was an early description of optics and color, and heis also credited with the
+discovery of the human intermaxillary bone. A leading figure in the Sturm und Drang movement,
+he was also a poet, scientist, painter, minister of state, and most famously, author. A noted friend
+ofSchiller, he was a key member of the “Weimar Classical” movement. His worksoften reflected an
+introspective view of the human character, such as the early work The Sorrows of Young Werther.
+FTP, name this German author of Faust.
+Johann Wolfgang von Goethe
+BONUS 6
+Name these other German authors from the year they won the Nobel Prizefor 10 points each; 5
+points each if you require works.
+10:
+
+1946
+
+5:
+
+Siddartha , Steppenwolf
+Hermann Hesse
+
+10:
+
+1999
+
+5:
+
+Cat and Mouse , Dog Years , The Tin Drum
+Gunter Grass
+
+10:
+
+1929
+
+5:
+
+Buddenbrooks , Death in Venice
+Thomas Mann
+
+TOSSUP 7
+This name was applied by the Swedish chemist Berzelius to describe the property of certain pure
+substances that can exist with different chemical structures. The property can be applied to the
+chemical series graphite, diamond, and fullerenes. FTP, name this property that can also describe
+the series oxygen, ozone, and tetraoxygen.
+Allotropy (accept Allotrope)
+BONUS 7
+
+3
+
+BONUS FTPE, name the element given a description of its allotropes.
+10:
+
+This element has three allotropes; red, white, and black. The red form
+is used in fireworks and pesticides.
+Phophorous
+
+10:
+
+This element’s most common allotrope has 8 atoms, but others have
+been found to have 12 or 18 atoms. The 7-atom allotrope is responsible
+for this element’s yellow color.
+Sulfur
+
+10:
+
+This element has gray and alpha allotropes. Objects made of it slowly
+deteriorate when the alpha allotropes transform into gray ones.
+Tin
+
+TOSSUP 8
+The artist claimed that they were never really intended for public consumption, but they became
+the most notorious of his works. The originals have mostly been lost to damage, but the more
+popular ones survive as replicas. The most famous one was submitted to test an art show’s claim
+that it would accept all entries. A bottle rack and a snow shovel are among the objects in, FTP,
+what group of works by Marcel Duchamp, most famously including Bicycle Wheel and Fountain.
+Readymades
+BONUS 8
+Name these other works of Duchamp FTPE.
+10:
+
+This cubist work caused an uproar when it was shown at the 1913
+Armory Show.
+Nude Descending a Staircase, No. 2
+
+10:
+
+The letters scrawled by Duchamp on this tiny reproduction of the Mona
+Lisa, when read in French, mean something along the lines of “she has
+hot pants.”
+L.H.O.O.Q. (Accept spelled or pronounced)
+
+10:
+
+Later in his career, Duchamp became an aficionado of this board game,
+and manufactured a portable version of it as a readymade.
+Chess
+
+TOSSUP 9
+Its name means ”land of fire”, as hills in this land are known to spontaneously burst into flame
+due to huge reserves of oil in the area. It has been invaded by many peoples throughout its long
+history, including the Medes, the Persians, and the Turks. Like many countries in the Middle
+East, Islam is its dominant religion, although before it became part of the Soviet Union its oil-rich
+capital was a haven for both Judaism and Christianity. FTP, name this Caucasian republic
+bordering the Caspian Sea with capital at Baku.
+Azerbaijan
+BONUS 9
+
+4
+
+FTPE, name any three of the four countries bordering Azerbaijan.
+101010:
+Armenia, Iran, Russia, Georgia
+TOSSUP 10
+Its namesake project proposed drilling on the ocean floor, but was abandoned due to a drop in
+funding. Its discovery helped scientists discover different types of rocks in areas that were difficult
+to drill. Yugoslavian earthquake records were used to identify its existence by its discoverer, a
+Croatian meteorologist fascinated by faults and movements in the earth’s infrastructure. FTP,
+name this layer which exists between the Earth’s mantle and crust.
+Mohorovicic Discontinuity or Moho
+BONUS 10
+Name these other layers of the mantle FTPE.
+10:
+
+The outermost shell of the mantle, it goes to a depth of approximately
+100 km.
+Lithosphere
+
+10:
+
+The lithisphere is broken up into these, which can cause earthquakes
+and volcanic activity.
+Tectonic Plates
+
+10:
+
+The region directly below the lithosphere, it goes to a depth of 250 km.
+Asthenosphere
+
+TOSSUP 11
+After moving to London, he joined the Vegetarian Society and was elected to its executive
+committee. Son of the Prime Minister of Porbander, he was born into the vaishya caste. After
+being turned down by the bar of England, he went back to India but failed to establish a
+successful law practice. He then journeyed to South Africa, where he developed his philosophy of
+“satyagraha”. In 1930 he launched a protest on high salt taxes by marching to a river to make
+salt himself. FTP, name this leader of the Indian Independence movement who was assassinated
+in 1948.
+Mohandas Karamchand Gandhi
+BONUS 11
+Gandhi opposed the caste system, and his actions against it contributed heavily to its official
+abolition in 1947. FTPE, identify the Indian caste from descriptions.
+10:
+
+Gandhi called them the “harijan”, or “Children of God”.
+Untouchables
+
+10:
+
+This highest class consists of scholars and priests.
+Brahmins
+
+5
+
+10:
+
+This class consists of Kings and warriors, and all of the main characters
+of the “Mahabharatha” come from it.
+Kshatriya [Sheh-THREE-ya]
+
+TOSSUP 12
+Each has a color, a property invented to account for the fact that they otherwise may be found
+together in the same quantum state, which would violate a certain principle of quantum mechanics.
+They are never found singly, but always bound together in hadrons made of two quarks, known as
+mesons, or three, known as baryons, like protons and neutrons.FTP, identify these fundamental
+particles that come in six flavors, including up, top, and strange.
+quark
+BONUS 12
+FTPE, name these principles of Quantum Mechanics.
+10:
+
+Only two electrons can occupy a given orbital, and both must have
+opposite spins.
+Pauli Exclusion Principle
+
+10:
+
+There is a limit to which we can know the position and momentum of
+a particle at a given time.
+Heisenberg’s Uncertainty Principle
+
+10:
+
+As protons are added to the nucleus to build up the elements, electrons
+must also be added to the lowest energy orbital.
+Aufbau Principle
+
+TOSSUP 13
+This book, which was based largely on bedtime stories and letters the author wrote to his son, was
+never intended to become a published work. Its author was born in Edinburgh, became Secretary
+of The Bank of England, and was also known for writing The Golden Age, and its continuation,
+Dream Days. The book was eventually published in England in 1908, however its reception
+was lukewarm, and it was some years before this story of life by a river became established as
+a childrens classic. FTP name this tale of Rat, Mole, Badger and Toad which was penned by
+Kenneth Grahame.
+The Wind in The Willows
+BONUS 13
+FTPE, name the authors of these British children’s classics:
+10:
+
+The Railway Children
+Edith Nesbit
+
+10:
+
+The Water-Babies
+Charles Kingsley
+
+6
+
+10:
+
+Swallows and Amazons
+Arthur Ransome
+
+TOSSUP 14
+She was the daughter of Chrysaor and Callirhoe and the brother of Geryon and is often depicted
+as a figure with the head and torso of a nymph and the lower body of a snake. Among her prodigy
+include the Nemean lion, the sphinx, the hydra, the chimaera, and Cerberus. FTP, name this wife
+of Typhon, who happens to share her name with the spiny anteater.
+Echidna
+BONUS 14
+FTP, name these other characters related to Greek mythology.
+10:
+
+This winged ram was famous for its golden fleece, which Jason and his
+argonauts sought; it saved the lives of Phrixus but not his sister Helle.
+Chrysomallos
+
+10:
+
+Part man, part bull, this monster resided in an elaborate labrynith
+designed by Daedalus.
+The Minotaur
+
+10:
+
+This centaur carried off Dejanara, the bride of Heracles and fooled
+her into poisoning her husband; he became famous when Giambologna
+sculpted 4 lavish statues of him.
+Nessus
+
+TOSSUP 15
+It was constructed in 1869, and its first inductees were from the Boshin War. Its name means
+”Peaceful Nation”, and does not include anyone who has died after 1951. Its Book of Souls
+includes 12 people guilty of crimes against peace, from World War II. Because of this, former
+Prime Minister Junichiro Koizumi has been criticized for paying visits to it since 2001. For ten
+points, name this Shinto shrine in Tokyo dedicated to the spirits of soldiers who died fighting for
+Japan.
+Yasukuni Shrine
+BONUS 15
+FTPE, name these Japanese convicted for crimes against peace at the International Military Tribunal for the Far East.
+10:
+
+He served as the Prime Minister from 1941 to 1944.
+Hideki Tojo
+
+10:
+
+He was the commander of the Japanese expeditionary force responsible
+for the Rape of Nanking.
+Iwane Matsui
+
+7
+
+10:
+
+He was the Foreign Minister from 1940 to 1941 who announced Japan’s
+departure from the League of Nations.
+Yosuke Matsuoka
+
+TOSSUP 16
+Oliver Sacks in his “The Man Who Mistook His Wife for a Hat” characterizes two individuals
+as having this. Damage to the fornix or hippocampus can result in this condition, as can binge
+drinking. Date rape drugs also cause it because victims suffer memory gaps for short periods of
+time. FTP, name this form of amnesia in which new events cannot be transferred to long-term
+memory, the opposite of retrograde amnesia.
+Anterograde amnesia (Prompt on Short-term-memory loss)
+BONUS 16
+Name these famous people who suffered brain damage FTPE.
+10:
+
+This “other Steve” of Apple suffered anterograde amnesia after crashing an ultralight plane in 1981.
+Steve Wozniak
+
+10:
+
+This anonymous patient called by his initials has been widely studied
+since the 1950’s and has been very important in the study of amnesia.
+HM (accept Henry M)
+
+10:
+
+The main character of this movie developed anterograde amnesia the
+night that his wife was raped.
+Memento
+
+TOSSUP 17
+As a young man he held positions as an organist, chief musician, and cantor. He taught at the
+St. Thomas School in Leipzig, where he composed five cantatas. Becoming an orphan at 10,
+he went to live with his older brother in Ohrdruf [OR-droof], who eventually became jealous of
+his musical talent. He was married twice and was the father of 20 children. He gave his second
+wife, Anna Magdalena, a notebook in which family members wrote many pieces. FTP, name this
+Baroque composer who is best known for his inventions, preludes and fugues, and the Brandenburg
+Concerti.
+Johann Sebastian Bach (accept J.S. Bach, prompt on Bach)
+BONUS 17
+FTPE, identify these ornaments used by Bach from clues.
+10:
+
+This is a quick alternation between the note and the note above it.
+Trill
+
+10:
+
+Indicated by a trill sign with a line through it, this alternates the
+written note with the diatonic tone below.
+Mordent
+
+8
+
+10:
+
+It is much like a grace note, but takes up half the value of the note
+with which it appears.
+Appoggiatura
+
+TOSSUP 18
+The eldest of twelve children, she became seriously ill as a result of a broken blood-vessel and
+spent her life as an invalid. A fellow poet began a correspondence with her which led to their
+meeting and marriage in secret, since her father forbade any of his children to marry. She and
+her husband moved to Florence, where they lived for the rest of her life. FTP name this author
+of Sonnets from the Portuguese whose poetic reputation actually stood higher than that of her
+husband, Robert Browning, during her married life:
+Elizabeth Barrett Browning
+BONUS 18
+FTPE, name these female poets from works FTPE.
+10:
+
+Ariel , The Bell Jar
+Sylvia Plath
+
+10:
+
+“On the Burning of our House”
+Anne Bradstreet
+
+10:
+
+“First Fig,” “Resonance”
+Edna St. Vincent Millay
+
+TOSSUP 19
+In his 40-year movie-making career, this man was notorious for taking great financial risks resulting
+in highly innovative and influential films, many of which were later remade by American directors
+into popular adventure movies. He is well-known for his adaptations of two Shakespeare plays
+into his native Japanese: his “Throne of Blood” was based on “Macbeth,” and his “Ran” on
+“King Lear.” FTP name this director, perhaps the most famous Japanese filmmaker to American
+audiences.
+Akira Kurosawa.
+BONUS 19
+FTPE name the earliest American remakes of the following Kurosawa films, based on descriptions
+of the originals.
+10:
+
+“The Seventh Samurai,” in which seven itinerant samurai join forces
+to protect a small village against marauders.
+“The Magnificent Seven.”
+
+10:
+
+“Yojimbo,” in which a samurai arrives in a town where two rival factions are at war. The samurai engages in repeated side-switching to
+play one against the other until both are defeated.
+“A Fistful of Dollars.”
+
+9
+
+10:
+
+“The Hidden Fortress,” in which two greedy peasants escort a man and
+woman across enemy lines. The peasants do not realize that theircompanions are actually a princess and her general.
+Star Wars : Episode IV - A New Hope.
+
+TOSSUP 20
+In the Al Pacino film “A Dog Day Afternoon”, Sonny, who is holding hostages in a bank, rouses
+the crowd outside by screaming the name of this incident repeatedly. Beginning in 1971, this
+collection of revolts was finally ended when police stormed the prison, killing ten hostages and 29
+inmates. It began after a request by the prisoners for better living conditions and facilities was
+ignored. FTP, give the name of these incidents, which sparked hostility at the brutality of the
+police and are named after both the New York town and prison in which they were located.
+Attica
+BONUS 20
+BONUS Name these other famous prisons FTPE.
+10:
+
+The world’s first official penitentiary, this Philadelphia prison was the
+setting for the film “Twelve Monkeys”.
+Eastern State Penitentiary
+
+10:
+
+This former prison in the San Francisco Bay once held Al Capone.
+Alcatraz
+
+10:
+
+This New York prison off the banks of the Hudson River in a town
+called Mount Pleasant enforced solitary confinement.
+Sing Sing
+
+10
+
+

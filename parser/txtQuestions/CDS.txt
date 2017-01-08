@@ -1,0 +1,887 @@
+1. US Literature
+This novel is based on an event that supposedly happened on July 20th, 1714. The main
+character is Brother Juniper, who tries to make sense of five deaths that he witnesses in
+Peru. Name this 1927 novel by Thornton Wilder.
+ANSWER: (The) Bridge of San Luis Rey
+2. Calculus/Combinatorics (10 Seconds)
+This problem is named after the Frenchman who wrote about it in 1777. When finding
+the solution analytically, it is important to know that the average value of the positive
+sine function is two over pi. When finding the solution experimentally, you can compare
+your results with two over pi, which is about 0.6366. That number should be corrected by
+multiplying by the length of the dropped object and dividing by the distance between
+lines. Name this problem whose title implies that the Frenchman dropped his sewing
+utensil.
+ANSWER: Buffon’s Needle
+3. Music
+This piece begins with two flutes that are joined by clarinets. The last full section is
+called the Vysehrad, the name of an ancient castle. First performed in 1875, it was the
+second of a set of six symphonic poems known as Ma Vlast. Its organization parallels the
+course of the Vltava River as it flows through Bohemia. Name this work by Bedrich
+Smetana.
+ANSWER: (The) Moldau (accept Vltava or Ultava on early buzz)
+4. Chemistry (60 Seconds)
+Round to the nearest whole number. Find the volume in liters of 273 grams of carbon
+dioxide gas at a temperature of 440 Kelvins and a pressure of 224 millimeters of
+Mercury.
+ANSWER: 760 (Liters)
+5. Religion/Mythology
+This character is the son of Dasaratha and the older brother of Bharata, Lakshman, and
+Shatrughna. When his wife is kidnapped by Ravana, a monkey army helps get her back.
+Name this husband of Sita often considered an avatar of Vishnu who is the hero of a great
+Hindu epic.
+ANSWER: Rama
+
+6. Algebra (60 Seconds)
+Find the x- and y-coordinates of the focus of the parabola given by the equation
+x2+6x+y+5=0.
+ANSWER: (-3,3.75) (y could also equal 3 ¾ or 15/4)
+7. World History
+One of the best sources about this politician is Sallust, but the accounts are clouded by
+Sallust’s hatred of him. This man died in battle about the same time that many of his
+allies were condemned and executed. They had tried to overthrow the Roman Republic in
+63 BC. Name this rival of Cicero.
+ANSWER: Catiline (or (Lucius Sergius) Catilina)
+8. Technology
+This programming language was created in 1972 as an alternative to LISP. It allows the
+user to supply a database and then query the database, and prompts are usually denoted
+by a question mark followed by a hyphen. Name this logic programming language.
+ANSWER: Prolog (prompt Planner)
+9. Pop Culture
+ANSWERS: HABCDFEG 86537142
+10. World Literature
+This 1924 novel was inspired by the author’s wife’s stay in a sanatorium. One of the most
+interesting characters in the sanatorium in the book is Lodovico Settembrini. The main
+character, Hans Castorp, is supposed to go there to visit his cousin for three weeks, but he
+stays for seven years because of his fascination with the place. Name this Thomas Mann
+novel set in the Swiss Alps.
+ANSWER: (The) Magic Mountain (or (Der) Zauberberg)
+11. Biology
+This term is used to name the innermost layer of the cornea, but it more commonly names
+a layer found throughout the body. It used to be thought of as inactive, but it is now
+believed to play an important role in maintaining blood pressure. Name this interface
+between blood and blood vessels.
+ANSWER: Endothelium (accept Endothelial Cells)
+
+12. Language Arts
+This eight-letter word refers to a sudden manifestation or perception of the essential
+nature or meaning of something. It is often connected to revelations of God. Name this
+term also used for a Christian holiday celebrating the baptism of Jesus or the appearance
+of the magi.
+ANSWER: Epiphany
+13. Geography/Astronomy/Earth Science
+This Period lasted from the Tournasian Age until the Gzhelian Age, ending about three
+hundred million years ago. Some of the early evolution of reptiles occurred during this
+time; it was the beginning of amniote eggs. In North America, it is divided into
+Mississippian and Pennsylvanian Epochs. Name this period whose name is derived from
+coal deposits.
+ANSWER: Carboniferous
+14. Current Events
+This Summer, he married the mother of his daughter. His daughter was born in 2001,
+which is when he became President. The head of the People’s Party for Reconstruction
+and Democracy, he recently won his first election—he originally became President after
+his father died. He took over while a war was going on that killed millions of people.
+Name this man hated by former followers of Mobutu Sese Seko who rules from
+Kinshasa, Democratic Republic of the Congo.
+ANSWER: (Joseph) Kabila (Kabange)
+15. Geometry/Trigonometry (10 Seconds)
+In 1997, Kimberly Clark was sued for putting a design resembling these on its toilet
+paper. They were patented in 1979 after being discovered by the man they are named
+after and Robert Ammann. They are sometimes created by combining pentacles,
+sometimes by kites and darts, and sometimes by thick and thin rhombuses. Name these
+shapes that can completely cover an infinite plane in a nonrepeating pattern.
+ANSWER: Penrose (Tiles or Tiling or Tessellation) (prompt Tessellation)
+16. British Literature
+Many of his works, starting with “A Ballad of Life” and “A Ballad of Death” were
+published in a collection titled Poems And Ballads in 1866. Several of his works were set
+in medieval times, including “Rosamond” and “The Tale of Balen”. Name this writer of
+“Atalanta in Calydon” and “The Triumph of Time”.
+ANSWER: (Algernon Charles) Swinburne
+
+17. Nonfiction
+A collection of his essays was published in 1968, and his autobiography was published in
+1978. Those books have similar titles. He died in 1998. He was an Evangelical Christian
+Republican late in life, but he is better known as the Minister of Information of the Black
+Panthers. At one point, he lived in Algeria and received stipends from North Korea.
+Name this author of Soul on Ice and Soul on Fire.
+ANSWER: (Eldridge) Cleaver
+18. Physics
+ANSWER: 12 (Volts)
+19. Art/Architecture
+One of his best-known designs in the United States is the Carpenter Visual Arts Center at
+Harvard. He also designed the museum named after him in Zurich. Associated with the
+International Style of Architecture, his buildings contained very little on the ground floor.
+Name this architect associated with France and Switzerland who played a major role in
+the design of the United Nations Headquarters.
+ANSWER: (Le) Corbusier (accept (Charles-Edouard) Jeanneret)
+20. US History
+He was offered the post of Secretary of War by Woodrow Wilson, but he was a pacifist
+Quaker and so refused it. A few years later, he became Attorney General. When ten
+bombs exploded throughout Eastern US cities on June 2nd, 1919, his house was one of the
+targets. He responded by arresting thousands of immigrants, including many union
+members. Name this man associated with those arrests and the accompanying raids.
+ANSWER: (Alexander Mitchell) Palmer
+21. US Literature
+One of her plays is about somebody who becomes an art historian and another is about a
+reunion of three Jewish sisters. She also wrote the screenplay for The Object of My
+Affection, which starred Jennifer Aniston. Name this recently deceased playwright who
+wrote The Heidi Chronicles and The Sisters Rosenzweig.
+ANSWER: (Wendy) Wasserstein
+22. Calculus/Combinatorics (60 Seconds)
+(Note to moderator: dy/dx can be read as ‘d y d x’.) Evaluate the derivative dy/dx at the
+point (8,2) for the equation y2+y=x-2.
+ANSWER: 1/5 (or .2)
+
+23. Music
+This opera includes the songs Questa o quella, La donna è mobile, and Bella figlia
+dell'amore. Set in Mantua, it involves a curse by Count Monterone on the title character.
+At times, the title character confuses the Count with his daughter. Name this work about
+a hunchbacked jester composed by Giuseppe Verdi.
+ANSWER: Rigoletto
+24. Chemistry (10 Seconds)
+If the solution has a lot of ionic strength, then the Pitzer Equation should be used instead
+of this one. This states that a constant times the ion charge squared times the square root
+of ionic strength divided by the quantity one plus another constant times the diameter of
+the ion times the square root of ionic strength is equal to the opposite of the log of the
+activity coefficient. It accounts for the fact that ions are generally in greater proximity to
+opposite charges than like charges. What is this theory named after the Dutch and
+German scientists who formulated it during the 1920s?
+ANSWER: Debye-Huckel (Theory or Equation)
+25. Religion/Mythology
+His motto was ‘Faith seeking understanding’. Considered by some the founder of
+Scholasticism, he is generally credited with the first ontological proof for the existence of
+God. While at Bec, he wrote four dialogues and the books Monologion and Proslogion.
+Name this Archbishop from the eleventh and twelfth centuries.
+ANSWER: (Saint) Anselm (of Canterbury or of Bec)
+26. Algebra (60 Seconds)
+Figure out how fast Jane walks, including units. She jogs twice as fast as she walks, and it
+takes her two hours total to walk six miles and jog six miles. Remember to include units.
+ANSWER: 4.5 miles per hour (accept equivalents such as 4 ½ or 9/2)
+27. World History
+ANSWERS: EDCAB 51423
+28. Technology
+You can give your answer as an abbreviation. This company is in the process of merging
+with ATI. They made a deal with Intel in 1982; in 1991, a court made Intel pay them one
+billion dollars for violating the contract, and the two companies are still involved in
+several lawsuits with each other. Name this global supplier of integrated circuits for
+personal and networked computing and communications whose name is often given as a
+three-letter abbreviation.
+ANSWER: AMD (or Advanced Micro Devices)
+
+29. Pop Culture
+This show is often recorded in the Fitzgerald Theater and includes Sue Scott, Tim
+Russell, and Guy’s All-Star Shoe Band. The movie about it starred Lily Tomlin, Meryl
+Streep, Kevin Kline, Woody Harrelson, and Tommy Lee Jones. It always includes stories
+about Lake Wobegon in Minnesota. Name this public radio show headed by Garrison
+Keillor.
+ANSWER: (A) Prairie Home Companion
+30. World Literature
+He was alive around 500 BCE, and most of his poems link past legends to the heroes of
+his time. Though most of his poetry survives only in fragments if at all, his 44 Epinicia,
+which celebrate athletic triumphs, still survive. Name this lyric poet of Thebes famous for
+his odes.
+ANSWER: Pindar
+31. Biology
+These protoplasmic extensions almost always conduct impulses inwards. Their segments
+are labeled as first order, second order, etcetera, depending on how they are connected to
+their soma. Name these branched projections of neurons that receive information from
+synapses.
+ANSWER: Dendrite(s) (accept Dendron(s))
+32. Language Arts
+This term was originally used by John Milton for the castle that is the capital of Hell. One
+hundred years later, people started using it to represent a place that is chaotic, and one
+hundred years after that people started using it to mean wild, lawless confusion. It
+combines the Greek prefix for all with the Latin root for evil spirit. Give this eleven-letter
+word beginning with the letter P.
+ANSWER: Pandemonium
+33. Geography/Astronomy/Earth Science
+This is the smallest member of the European Union. It contains seven islands, including
+Gozo and Comino, and it is located in the middle of the Mediterranean Sea. Name this
+nation South of Sicily and East of Tunisia whose capital is Valletta.
+ANSWER: Malta
+
+34. Current Events
+You can answer with the abbreviation or the full name. It is sometimes referred to as The
+Purple Political Army, and it is affiliated with The Purple Ocean. It is currently headed
+by Andy Stern and used to be led by John Sweeney, the current head of the AFL-CIO.
+Name this union with over 1.8 million members that represents janitors, health care
+workers, and government employees.
+ANSWER: SEIU (or Service Employees International Union)
+35. Geometry/Trigonometry (60 Seconds)
+Include units in your answer. Find the area of quadrilateral ABCD. Point A is at the
+center of a circle with a radius of one centimeter, and points B, C, and D are unique
+points on the circle such that arcs BC and CD are each one hundred thirty-five degrees.
+Find the area of ABCD, remembering to include units and that the radius of the circle is
+one centimeter.
+ANSWER: Root 2 over 2 square centimeters
+36. British Literature
+ANSWERS: DABCE 34215
+37. Nonfiction
+This philosophical work on ethics started as a collection of essays and was put into book
+form in 1863. The second of five chapters defines the title, which is a fourteen-letter
+word. Building on the work of Jeremy Bentham, it argues that we should assess actions
+by their consequences and try to bring the greatest amount of happiness possible for the
+population. Name this book by John Stuart Mill.
+ANSWER: Utilitarianism
+38. Physics (10 Seconds)
+This eighteenth and nineteenth century German scientist argued ahead of his time that
+meteorites fell from the sky. He is best known, however, for extending Robert Hooke’s
+acoustic experiments, and his work is used in the design and testing of musical
+instruments. Name this scientist who placed sand on objects with different shapes,
+including plates, to find nodal regions.
+ANSWER: (Ernst) Chladni
+
+39. Art/Architecture
+For the last seventeen years of his life, this artist agreed to complete three paintings each
+year for the School of San Rocco. The school is in Venice, where he spent his entire life.
+One of his most famous works often is contrasted with Leonardo da Vinci—it depicts
+The Last Supper from an angle and shows angels above the disciples. He also created a
+work titled Paradise that was 74 feet wide. Name this artist born with the name Jacopo
+Robusti.
+ANSWER: Tintoretto (accept (Jacopo) Robusti before it is mentioned)
+40. US History
+There were many rumors that this man lost his sanity and attempted suicide after the
+death of his wife, though these rumors are sometimes attributed to people who did not
+appreciate his opposition to Jay’s Treaty. He was a signer of the US Constitution, the
+Governor of South Carolina from 1779 to 1782, and the first Associate Justice appointed
+to the United States Supreme Court. Name this man who, as a recess appointment, served
+as Chief Justice of the Supreme Court before being rejected by the Senate and replaced
+by Oliver Ellsworth.
+ANSWER: (John) Rutledge
+41. US Literature
+This writer of novels, columns, poems, short stories, and poetry often wrote about the
+characters Basil and Isabel March. His best-known work is an 1885 novel about a
+Colonel who makes a lot of money in the paint business. Name this editor for Atlantic
+Monthly and Harper’s who wrote Their Wedding Journey, A Modern Instance, and The
+Rise of Silas Lapham.
+ANSWER: (William Dean) Howells
+42. Calculus/Combinatorics (60 Seconds)
+How many ways can you line up two identical cookies, two identical pies, and two
+identical cakes to form one big line?
+ANSWER: 90
+43. Music
+(Note to moderator: 3/4 should be pronounced as ‘three four’.) Chopin was the first
+person to write these as individual pieces, completing four of them. Typically, they are
+parts of larger pieces similar to minuets, but quicker and more light-hearted. Their name
+comes from the Italian word for Joke. Give this musical term beginning with the letter S.
+ANSWER: Scherzo(s) (accept Scherzi)
+
+44. Chemistry (10 Seconds)
+This law is named after a nineteenth century Scottish chemist. It can be theoretically
+derived from the fact that gas temperature varies directly with kinetic energy, so therefore
+two gases at the same temperature have velocities that vary inversely with the square root
+of their molecular masses. The velocities of the molecules in turn vary directly with the
+gas’s rates of intermingling. Name the law that uses these relationships to determine rates
+of diffusion and effusion.
+ANSWER: Graham’s (Law of Diffusion and/or of Effusion)
+45. Religion/Mythology
+ANSWERS: DAEBC 24153
+46. Algebra (60 Seconds)
+Assume that the population of The United States is three hundred million. Figure out how
+many births there were in The United States last year using a birth rate of 14.6 per every
+one thousand people.
+ANSWER: 4,380,000 (four million, three hundred eighty thousand)
+47. World History
+This general won the Battles of Chacabuco and Maipu. He spent much of his youth in
+Spain, and he returned to Europe after his retirement. Most of his career, however, was
+spent fighting against Spanish forces in Argentina, Chile, and Peru. Name this ally of
+Simon Bolivar and Bernardo O’Higgins.
+ANSWER: (José Francisco de) San Martín (y Matorras)
+48. Technology
+This website was started in 2004 by people associated with Revision3 Corporation, and it
+has had fierce competition with Shoutwire. It has a Swarm and Stack, just like mom used
+to bake. Well…if mom baked real-time flash visualization tools. Stories can be buried by
+classifying them as duplicate, spam, wrong topic, inaccurate, or lame. Name this user
+driven social content website focusing on technology articles and news stories; its name
+is four letters long.
+ANSWER: (www.)digg(.com)
+49. Pop Culture
+This actor appeared in The Defiant Ones, Blackboard Jungle, In the Heat of the Night,
+and To Sir, With Love. He also played a doctor in the original Guess Who’s Coming To
+Dinner? and won a Best Actor Oscar for Lilies of the Field. Name this man who started
+his career as an understudy to Harry Belafonte at the American Negro Theatre.
+ANSWER: (Sir Sidney) Poitier
+
+50. World Literature
+One of the characters in this play is known only as The Logician; he always reaches
+wrong or incomplete conclusions. The main character is an alcoholic in love with Daisy.
+Throughout much of the play, people refuse to believe what they see with their own eyes
+as several residents of a small town are transformed. Name this absurdist work by Eugene
+Ionesco about people changing into animals.
+ANSWER: Rhinoceros
+51. Biology
+There are now believed to be twenty-four classes of this protein. The first class has one
+heavy chain and associates with Golgi membranes. The second class has two heavy
+chains and makes up much of the thick filaments in muscles. Name this protein that
+works with actin to contract muscles.
+ANSWER: Myosin
+52. Language Arts
+This word used to mean a heading in a book highlighted in red. Nowadays, it is used
+primarily by teachers, especially when they are trying to assess written work in an
+objective way. Give this six-letter term beginning with the letter R.
+ANSWER: Rubric
+53. Geography/Astronomy/Earth Science
+These are very difficult to locate and confirm, but several examples have been found
+recently, including HD 3651B and Gliese 229B. Each has a mass of about ten to the
+twenty-ninth kilograms and some lithium in its atmosphere. They are not heavy enough
+to maintain fusion, so they are dark in color. Name these objects more massive than
+planets and less massive than stars.
+ANSWER: Brown Dwarf(s) (prompt M Dwarf, L Dwarf, or T Dwarf)
+54. Current Events
+ANSWERS: AHI BGK CFJ DEL
+55. Geometry/Trigonometry (60 Seconds)
+Give your answer in simple radical form, and include units. Find the area of a trapezoid
+which has three sides of length four centimeters and one side of length eight centimeters.
+ANSWER: 12 Root 3 Square Centimeters (or Centimeters Squared) (do not accept
+Centimeters)
+
+56. British Literature
+This book contains two characters named Obstinate and Pliable who are residents of the
+City of Destruction. The main character, named Christian, travels through many scary
+places until he ends up in The Celestial City on Mount Zion. Name this 1678 allegory
+written by John Bunyan.
+ANSWER: (The) Pilgrim’s Progress
+57. Nonfiction
+He wrote one work in one hundred forty-two books, of which thirty-five have survived in
+their entirety. He was from Padua but spent much of his time in Rome. Name this author
+of Ab Urbe Condita, which is translated as History of Rome from its Foundation, a
+historian who probably died in 17 CE.
+ANSWER: Livy (or (Titus) Livius)
+58. Physics (10 Seconds)
+This is used to point out the fact that special relativity only applies to inertial reference
+frames. It involves a story about one person staying on Earth while another flies away
+and then returns at very high speeds. The person on Earth ages more than the traveler,
+which seems like a problem until you consider the acceleration of the traveler. Name this
+apparent flaw of special relativity that can be explained by general relativity.
+ANSWER: Twin Paradox
+59. Art/Architecture
+There are seven in marble and nine in bronze, each of which is extremely well polished.
+The first one is in the Metropolitan Museum of Art, and one of them was recently
+auctioned off for twenty-seven million dollars. Most people agree that each shows a
+trajectory rather than an actual animal. Name this work by Romanian artist Constantin
+Brancusi.
+ANSWER: Bird In Space (accept L'oiseau dans l'espace) (accept pluralizations)
+60. US History
+He labeled Judge Luke Lawless an Irish papist and was soon forced to leave town. A
+little over one year later, he was shot while trying to protect a warehouse from being
+burned down by an angry mob. Name this newspaper editor from the 1830s whose
+printing presses were often tossed into the Mississippi River. This Presbyterian minister
+is often viewed as a martyr to the abolitionist movement.
+ANSWER: (Elijah) Lovejoy
+
+First Tie:
+In “What Is Poetry”, he asks, “Trying to avoid Ideas, as in this poem?” This living poet
+has collections titled Chinese Whispers, Your Name Here, and Wakefulness. Many of his
+works give the experience of a mind trying to theorize reality. Name this poet of “Farm
+Implements and Rutabagas in a Landscape” and “Self-Portrait in a Convex Mirror”.
+ANSWER: (John) Ashbery
+(60 Seconds)
+Find the x-radius of the ellipse given by the equation 4x2+y2-16x+2y-19=0.
+ANSWER: 3
+It was released over a period of twelve years, with three volumes divided into quartos and
+a total of seventy-one chapters. It covers a long period of history ending in 1453, and it is
+critical of Christianity and the use of mercenaries. Name this history book written during
+the eighteenth century by Edward Gibbon.
+ANSWER: (The History of the) Decline and Fall of the Roman Empire
+Many of this artist’s works include many occurrences of four or five short parallel
+segments of the same color, large single-digit numbers, or bull’s-eyes. He also created a
+series on The Seasons, a work that contains written color names titled False Start, and a
+series of charcoal drawing titled Study for Skin. Name this living American artist who
+often paints flags. He once voiced himself as a kleptomaniac on The Simpsons.
+ANSWER: (Jasper) Johns
+Its leaders used a tactic known as pretexting and are now charged with identity theft,
+unauthorized access to computer data, using false pretenses to obtain confidential
+information, and conspiracy. Of the five people charged, the most notable is former
+Chairwoman Patricia Dunn. Name this company that has recently acquired Mercury
+Interactive, Silverwire, and VoodooPC.
+ANSWER: Hewlett-Packard (accept HP or answers including Compaq)
+The answer is an eight-letter word. The field created inside one of these devices is almost
+uniform, especially near the center. The field outside points in the opposite direction and
+is weaker. It can be strengthened by giving it an iron core. Give this term beginning with
+the letter S for a coil of wire used to create a magnetic field.
+ANSWER: Solenoid
+
+Second Tie:
+He served in the US House of Representatives from 1997 to 2004 before losing an
+election to Ted Poe. He recently won election back to the House after moving to a
+different district and defeating Dr. Shelley Sekula-Gibbs, who was forced to run as a
+write-in candidate. Name this Democrat who now holds the seat vacated by Tom DeLay.
+ANSWER: (Nick) Lampson
+The title character in this work is a maid to an old woman who dies. She then works for
+the woman’s son. The novel consists of letters written by the maid to her parents, and it
+was parodied twice by Henry Fielding. Name this 1740 novel written by Samuel
+Richardson subtitled Virtue Rewarded.
+ANSWER: Pamela
+(10 Seconds)
+This theorem was named posthumously after an eighteenth century British mathematician
+and reverend. It often is used in the analysis of false positive tests. This theorem states
+that the probability of A given B is equal to the probability of A times the probability of
+B given A divided by the probability of B. Name this theorem important to conditional
+probability.
+ANSWER: Bayes (Theorem)
+This is a text file that typically ends with a shell command. Your computer typically
+follows all the commands in the file, though pushing F8 will cause a computer to ask for
+permission before performing each command. The shell command runs the autoexec.bat
+file. Name this file that tells Windows about your computer and its drivers when your
+computer is booted.
+ANSWER: config(.sys)
+It called for a lower house elected by the people and an upper house elected by the lower
+house. Proposed by Edmund Randolph, its most important feature may have been a
+transferal of power from states to people. Its most controversial feature, however, was
+making the size of state congressional delegations proportional to their populations.
+Name this plan credited to James Madison that was countered a few weeks later by the
+New Jersey Plan.
+ANSWER: Virginia Plan (prompt Large State Plan)
+In medicine, this eight letter word refers to a plan for treatment. In other fields, it can
+refer to the draft of a treaty or rules for determining the format of data. It more commonly
+refers to a code of correct conduct. Give this word that begins with the letter P.
+ANSWER: Protocol
+
+Third Tie:
+It is also known as 2,5-diamino pentanoic acid, and its chemical formula is C5H12N2O2. It
+is created when arginine is metabolized, and it combines with carbamoyl phosphate to
+form citrulline and orthophosphate during the urea cycle. Name this amino acid
+sometimes used to give an alternative name to the urea cycle.
+ANSWER: Ornithine (prompt Orn)
+This character is supposed to be sacrificed to Artemis but instead becomes a priestess to
+her. She is the brother of Orestes and daughter of Agamemnon and Clytemnestra. She
+was the subject of two plays by Euripides and plays by Coster, Racine, and Goethe.
+Name this character often associated with the locations Aulis and Tauris.
+ANSWER: Iphigenia (accept Iphianassa, Iphimedeia, or Orsilochia)
+(60 Seconds)
+Ignore units, and give an answer rounded to the nearest tenth rather than an exact answer.
+Find the perimeter of an isosceles triangle that has a base of length two and an area of
+one. Remember to round the perimeter to the nearest tenth—do not give an exact answer.
+ANSWER: 4.8
+He played in the major leagues from 1941 to 1963, hitting four hundred seventy-five
+home runs and batting three thirty-one. He was the National League Most Valuable
+Player three times, played in twenty-four All-Star Games, and had his uniform number
+six retired by the Saint Louis Cardinals. Name this great baseball player nicknamed ‘The
+Man.’
+ANSWER: (Stanley ‘Stan the Man’) Musial
+It started out as a European play and film during the 1970s before becoming a hit
+Broadway musical in 1983. Its songs include “With You on My Arm”, “A Little More
+Mascara”, and “I Am What I Am”. An inspiration for the movie The Birdcage, it is about
+a manager of a drag show nightclub whose son gets engaged to a woman with
+Conservative parents. Name this work considered Broadway’s first homosexual musical.
+ANSWER: La Cage Aux Folles
+This word refers to the tendency to relapse into a previous mode of behavior. Give this
+term beginning with the letter R that often refers to released prisoners who return to a life
+of crime.
+ANSWER: Recidiv(-ate, -ation, -ism, -ist, or -ous)
+
+The first one was in flight for twenty-six hours and crashed upon landing. In all, there
+were forty missions in the first phase. Other phases are designated using the letters T,
+TM, or TMA. Many of these missions have linked with Salyut missions to create the first
+space stations. Give this term, meaning Union in Russian, used to designate the biggest
+Russian spaceflight program.
+ANSWER: Soyuz
+DESPERATION SHOT: BDCA DABC DBAC CADB DABC 4,608,800,000
+
+POP CULTURE
+
+Name ________________________
+
+Given the name of an NBA coach, match him with his current team and former team(s).
+If he has more than one former team, they are listed from earliest to latest.
+Former Team (A-H)
+
+Coach
+
+Current Team (1-8)
+
+_____
+
+Maurice Cheeks
+
+_____
+
+_____
+
+Mike Fratello
+
+_____
+
+_____
+
+Phil Jackson
+
+_____
+
+_____
+
+George Karl
+
+_____
+
+_____
+
+Pat Riley
+
+_____
+
+_____
+
+Doc Rivers
+
+_____
+
+_____
+
+Flip Saunders
+
+_____
+
+_____
+
+Scott Skiles
+
+_____
+
+Former Teams:
+
+Current Teams
+
+A. Atlanta, Cleveland
+
+1. Boston
+
+B. Chicago
+
+2. Chicago
+
+C. Cleveland, Golden State, Seattle, Milwaukee
+
+3. Denver
+
+D. Lakers, New York
+
+4. Detroit
+
+E. Minnesota
+
+5. Lakers
+
+F. Orlando
+
+6. Memphis
+
+G. Phoenix
+
+7. Miami
+
+H. Portland
+
+8. Philadelphia
+
+___ Count It
+___ Don’t Count It
+
+PHYSICS
+
+Name ________________________
+4 Ohms
+
+2 Ohms
+
+2 Amps
+
+2 Ohms
+
+4 Ohms
+
+Find the sum of the EMFs of the batteries. Give your answer in Volts.
+
+___ Count It
+___ Don’t Count It
+
+WORLD HISTORY
+
+Name ________________________
+
+Match each site on the map with the name of the battle involving Napoleon that took
+place near there and the year of the battle. The boundaries on the map are modern
+boundaries.
+
+Battles (A-E)
+
+_____
+
+_____
+
+_____
+
+_____
+
+_____
+
+Years (1-5)
+
+_____
+
+_____
+
+_____
+
+_____
+
+_____
+
+Battles:
+A. Austerlitz
+B. Borodino
+C. Leipzig
+D. Rivoli
+E. Waterloo
+___ Count It
+___ Don’t Count It
+
+Years:
+1. 1797
+2. 1805
+3. 1812
+4. 1813
+5. 1815
+
+BRITISH LITERATURE
+
+Name ________________________
+
+Match each Shakespeare character with the quote he said and the character he killed or
+helped kill just before stating the quote.
+QUOTES (A-E)
+
+KILLERS
+
+VICTIMS (1-5)
+
+_____
+
+Cinna
+
+_____
+
+_____
+
+Hamlet
+
+_____
+
+_____
+
+Macbeth
+
+_____
+
+_____
+
+Othello
+
+_____
+
+_____
+
+Romeo
+
+_____
+
+QUOTES
+A. “A bloody deed!—almost as bad, good mother, As kill a king, and marry with his
+brother.”
+B. “I have done the deed—Didst thou not hear a noise?”
+C. “I that am cruel am yet merciful; I would not have thee linger in thy pain.”
+D. “Liberty! Freedom! Tyrrany is dead!”
+E. “Oh, I am fortune's fool!”
+
+VICTIMS
+1. Desdemona
+2. Duncan
+3. Julius Caesar
+4. Polonius
+5. Tybalt
+
+___ Count It
+___ Don’t Count It
+
+RELIGION/MYTHOLOGY
+
+Name ________________________
+
+Match each thing with the type of object it is and who owned it.
+OBJECTS (A-E)
+
+THINGS
+
+OWNERS (1-5)
+
+_____
+
+Caduceus
+
+_____
+
+_____
+
+Draupnir
+
+_____
+
+_____
+
+Hrunting
+
+_____
+
+_____
+
+Mjolnir
+
+_____
+
+_____
+
+Vajra
+
+_____
+
+OBJECTS
+A. Armband
+B. Hammer
+C. Lightning Bolts
+D. Rod
+E. Sword
+
+___ Count It
+___ Don’t Count It
+
+OWNERS
+1. Beowolf
+2. Hermes
+3. Indra
+4. Odin
+5. Thor
+
+CURRENT EVENTS
+
+Name ________________________
+
+In the elections this week, Democrats gained several governorships in which the
+Republican incumbent was not running. Match each incoming governor with their state,
+their opponent in the general election, and their predecessor.
+
+STATE
+
+OPPONENT
+
+PREDECESSOR
+
+Mike Beebe
+
+_____
+
+_____
+
+_____
+
+Deval Patrick
+
+_____
+
+_____
+
+_____
+
+Eliot Spitzer
+
+_____
+
+_____
+
+_____
+
+Ted Strickland
+
+_____
+
+_____
+
+_____
+
+STATES:
+A. Arkansas
+B. Massachusetts
+C. New York
+D. Ohio
+
+___ Count It
+___ Don’t Count It
+
+OPPONENTS:
+E. Ken Blackwell
+F. John Faso
+G. Kerry Healey
+H. Asa Hutchinson
+
+PREDECESSORS:
+I. Mike Huckabee
+J. George Pataki
+K. Willard Mitt Romney
+L. Robert Taft II
+
+DESPERATION SHOT
+Name ________________________
+Each set of four quotes is followed by a list of the people who said them. Match each
+quote with the person credited for it. There is no penalty for guessing.
+___ At any rate, I am convinced that God does not play dice.
+___ Life is a gamble at terrible odds—if it was a bet, you wouldn’t take it.
+___ Madame Sosostris, famous clairvoyante, Had a bad cold, nevertheless is known to be
+the wisest woman in Europe, with a wicked pack of cards.
+___ Never play cards with a man called Doc.
+A. Algren
+B. Einstein
+C. Eliot
+D. Stoppard
+
+___ All science is either physics or stamp collecting.
+___ Art is meant to disturb, science reassures.
+___ Detection is, or ought to be, an exact science.
+___ Science without religion is lame, religion without science is blind.
+A. Braque
+B. Doyle
+C. Einstein
+D. Rutherford
+
+___ I never give them hell. I just tell the truth, and they think it is hell.
+___ Let us begin by committing ourselves to the truth, to see it like it is and tell it like it
+is.
+___ Truth exists; only lies are invented.
+___ We all know that Art is not truth.
+A. Braque
+B. Nixon
+C. Picasso
+D. Truman
+
+___ Everyone wants to understand art. Why not try to understand the song of a bird?
+___ Hey! Mr Tambourine Man, play a song for me.
+___ Joy is wisdom, Time an endless song.
+___ The hills are alive with the sound of music, with songs they have sung for a thousand
+years.
+A. Dylan
+B. Hammerstein
+C. Picasso
+D. Yeats
+
+___ All changed, changed utterly: A terrible beauty is born.
+___ Beauty is the first test: there is no permanent place in the world for ugly
+mathematics.
+___ Beauty is truth, truth beauty. That is all ye know, and all ye need to know.
+___ Mathematics, rightly viewed, possesses not only truth, but supreme beauty.
+A. Hardy
+B. Keats
+C. Russell
+D. Yeats
+
+TIEBREAKER (closest on either side): Procter & Gamble spent more money than any
+other corporation last year on total advertising in The United States. How much money
+did it spend?
+
+

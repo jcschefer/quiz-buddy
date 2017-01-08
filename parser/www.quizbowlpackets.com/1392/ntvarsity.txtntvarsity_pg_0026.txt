@@ -1,0 +1,53 @@
+NewTrier Varsity 2006  Round 3, Page 6 
+
+
+Tossup 11: Miscelaneous (Interdisciplinary)
+In topology, it defines identical dynamical systems. In group theory, it is a map of "x" defined by "a" 
+times "x" times the inverse of "a." In physics, it defines quantities linked by the Heisenberg 
+uncertainty principle. In chemistry, it describes a group of atoms bonded with alternating single and 
+double bonds.To bacteria, it is caused by F-plasmids,and results in the asexual transfer of genes. 
+In algebra, it means taking the opposite of the imaginarypartof a complex number.Most commonly 
+used in grammar, it refers to modifying an infinitive to a diferent verb form. 
+Answer: Conjugation (accept diferent forms) 
+
+Bonus 11: Science (Earth Science) 
+Name these zones of the ocean. 
+A: Also known as the intertidal zone, this zone's name means "shore," and refers to the region 
+between the high and low water marks. 
+B: Meaning "open sea," this zone refers toal thewater in the water column thatis not near the 
+shore or sea floor. 
+C: This zone of the ocean encompasses al the areas notexposed to sunlight. 
+D: This zone is right above the sea floor, and is the lowest zone of theocean. 
+Answers: A: Litoral zone B: Pelagic zone C: Aphotic zone D: Benthic zone 
+
+Tossup 12: Social Studies (U.S.History) 
+Arlen Specter cited Scots law to issue a vote of "Not Proven," though it was recorded as not guilty. 
+Either way, that vote didnot mater, as the Senategeneraly voted along partylines, leaving votes of 
+45-55 forperjuryand 50-50 for obstruction of justice,both short of conviction. Name this trial which 
+acquited the 42nd President. 
+Answer:Impeachment of Bil Clinton (accept equivalents) 
+
+Bonus 12: Literature (Language Arts) 
+Name these literarytechniques for making stories more interesting. 
+A: Also known as a "story within a story," this type of novel isnamed afterthe wayit encapsulates a 
+complete story within another story. 
+B: This type of novel is writen as a series of leters or diary entries. 
+C: This type of writing originates in Latin America. In this technique,realistic events are described in 
+terms of local customs, in such a way to seem unreal. 
+D: The name for this technique comes from the Latin for "in the middle of things," and not 
+surprisingly,refers to starting a novel in the middle of a story. 
+Answers: A: Frame storyB: Epistolary novel C: Magic realism D: In medias res 
+
+Tossup 13: Math (Geometry) - Computational (30 Seconds) 
+Find the volume of an elipsoid whose semi-axes areof length 2 centimeters, 10 centimeters, and 3 
+centimeters. It may help you to know that an elipsoid is like a sphere with a diferent length, width, 
+and height, and its semi-axes are its three radi in those directions. Consequently, the formula forthe 
+volume of an elipsoid is like the formula for the volume of a sphere, except each radius is diferent.
+Answer: 80 pi cubic centimeters(accept centimeters cubed; prompt for units) 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

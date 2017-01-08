@@ -1,0 +1,359 @@
+VHSL Regular Season
+Round 27
+First Period, Fifteen Tossups
+1. One character in this novel dreams the lyrics of a song that asks listeners to "hearken to my joyful tidings of the Golden future
+time." That character in this work also proposes prohibiting drinking and sleeping in beds as some of the Seven Commandments.
+Squealer's machinations in this novel result in the exile of Snowball and the unopposed rule of Napoleon. For 10 points, name this
+novel in which the death of Old Major results in a revolution on Mr. Jones' farm, which is eventually corrupted by the pigs, an
+allegory of the Soviet revolution by George Orwell.
+ANSWER: Animal Farm
+015-09-2-12101
+
+2. This man refused to deliver the appointment of a Justice of the Peace, which the Supreme Court ruled was constitutional. This
+man wrote Federalist Papers 10 and 52. Edmund Randolph was this man's mouthpiece to propose the “large state” plan at the
+Constitutional Convention. This politician sponsored the Bill of Rights. This man became Thomas Jefferson’s Secretary of State
+before he was sued by Marbury. The presidency of this man included the White House being burned by the British. For 10 points,
+name this President who was in office during the War of 1812.
+ANSWER: James Madison
+027-09-2-12102
+
+3. One of the chief shrines to this god, the Geminus (GEMM-ee-noos), was a hallway made of bronze which Roman armies
+marched through on the way to war. The gates of that shrine to this god were kept open during war and were closed only twice in
+Roman Republican times. This god had no Greek equivalent and was the patron of all beginnings. He also lends his name to an
+expression meaning "deceptive." For 10 points, name this Roman god with two faces, who became the namesake of the first
+month of the Gregorian calendar.
+ANSWER: Janus
+019-09-2-12103
+
+4. This man was stripped of his offices when it was revealed that he attempted to negotiate a peace with the Swedish Count Folke
+Bernadotte. This man orchestrated an attempted assassination on Albert Speer in February 1944, and he masterminded the purge
+of the SA in 1934. His ordering of the deportation of 8,000 Jews in January 1943 sparked the Warsaw Ghetto uprising, and this
+man established Nazi Germany's first concentration camp at Dachau. For 10 points, name this Nazi leader who headed the SS.
+ANSWER: Heinrich Himmler
+030-09-2-12104
+
+5. The narrator describes Sally's hair as "shiny black like raven feathers," and that character is abused by her father and later her
+husband. This novel is dedicated "a las mujeres," and its protagonist dreams of living in a white home with three bathrooms rather
+than the crumbling building on the titular road. For 10 points, name this novel about Esperanza Cordero by Mexican-American
+author Sandra Cisneros.
+ANSWER: The House on Mango Street
+032-09-2-12105
+
+6. This technique's strong form allows for the formula in question to work for not only for some n equal to k, but n less than k.
+This tool works by first proving a base case, then showing that if a formula works for some number n, then it works for "n+1." It is
+very similar to recursion. This mathematical proof technique shares its name with a type of logic moving from cases to a general
+conclusion. For 10 points, name this proof technique that also labels a type of reasoning that is not deductive.
+ANSWER: induction or inductive
+033-09-2-12106
+
+7. This figure is depicted with the Damaru drum when represented as Nataraja, the Lord of Dance. When the serpent Vasuki
+polluted the world during the churning of the ocean, this deity drank up its poison, which turned his throat blue. The consort of
+this god has several forms, such as the lion-riding Durga and the mountain goddess Parvati. His third eye would burn down the
+world when it is opened. For 10 points name, along with Brahma and Vishnu, what destroyer god forms the Trimurti in Hindu
+myth?
+ANSWER: Shiva
+034-09-2-12107
+
+VHSL Regular Season Round 27 Page 1 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+8. In polar coordinates, one of these statements says that r equals p over quantity one plus epsilon cosine theta, where p is the
+semilatus rectum and epsilon is the eccentricity. Another states that the time derivative of the areal (AIR-ee-uhl) velocity is zero,
+or that equal areas are swept out in equal times. The third says that the square of the period is directly proportional to the cube of
+the semimajor axis. For 10 points, name these laws of planetary motion named after a German astronomer and student of Tycho
+Brahe.
+ANSWER: Kepler's Laws of Planetary Motion
+003-09-2-12108
+
+9. In the fortune-telling scheme of this belief system, kichi (KEY-CHEE) signifies a blessing, while kyo signifies a curse. Honden
+and Torii (TO-REE-EE) make up the places of worship of this religion, the most famous of which is the Ise (EE-SAY) Shrine.
+“The way of the gods” is the literal name of this religion, although its objects of worship are spirits called kami. For 10 points,
+Amaterasu is the chief deity of what animistic religion of Japan?
+ANSWER: Shintoism
+034-09-2-12109
+
+10. Philosopher John Searle first delineated the strong and weak types of this concept. Edward Feigenbaum developed expert
+systems, which can be used to simulate this. This field, whose name was coined by John McCarthy, often makes use of the Lisp
+programming language and concepts like fuzzy logic. Perceptrons are among the different types of neural networks used to
+simulate this concept. For 10 points, identify this field of computer science involving problems like machine learning, knowledge
+representation, and simulating human brains.
+ANSWER: artificial intelligence [or AI]
+029-09-2-12110
+
+11. The pose of the main subject of this painting is taken from a portrait of Madame Recamier by Jacques Louis-David. That
+subject's right hand holds a blue curtain that covers the upper right hand portion of this painting, while her noticeably shorter left
+arm is mostly concealed. Another anatomical discrepancy in this painting is the subject's curvature of the spine and pelvis.
+Another misrepresentation in this painting is the extra vertebrae in the subject's back, which appears to be elongated. For 10
+points, name this painting of a concubine by Jean Ingres.
+ANSWER: La Grande Odalisque
+040-09-2-12111
+
+12. This man served as head of both the Food Administration Board and the Commission for Relief in Belgium during World War
+I. This politician successfully ran for the presidency against Al Smith. Earlier, this man had served as Secretary of Commerce to
+both Warren G. Harding and Calvin Coolidge. During this man's presidency, many homeless people lived in shantytowns named
+for him. For 10 points, name this president who served during the beginning of the Great Depression, which circumstance led to
+his defeat in the Election of 1932 to Franklin Delano Roosevelt.
+ANSWER: Herbert Clark Hoover
+023-09-2-12112
+
+13. One character in this epic spends thirteen years in exile after gambling away all his possessions and his wife in a game of dice
+with Shakuni. That character, Yudhisthira, becomes the emperor of the world after winning the Kurukshetra War. Attributed to
+Vyasa, this epic recounts the war between the Kauravas and the Pandavas, and contains the Bhagavad-Gita. For 10 points, name
+this Hindu epic, one of the two main Sanskrit epics along with the Ramayana.
+ANSWER: the Mahabharata
+004-09-2-12113
+
+14. Runaway breakdown theory proposes that these phenomena are caused by cosmic rays. High temperatures from these
+phenomena can produce the glass-like fulgurite from sand. Supercells are large storms that exhibit these phenomena. These
+phenomena can occur between the base and anvil of cumulonimbus clouds, and heat produced by them creates a supersonic shock
+wave. For 10 points, name these discharge of atmospheric static electricity that produce thunder.
+ANSWER: lightning
+036-09-2-12114
+
+15. This author wrote about a son of Bachus and Circe who attempts to kidnap The Lady in his masque Comus. He penned the
+phrase "Look homeward Angel now" in his elegy on the death of Edward King. He wrote that "books are not absolutely dead
+things" in his pamphlet advocating free speech, Areopagitica (AIR-ee-oh-pah-JIH-tih-cah). This author is best known for a work
+that details the construction of Pandemonium and the tempting of Eve. For 10 points, name this British author who wrote about
+the fall of the rebel angels in his epic poem Paradise Lost.
+ANSWER: John Milton
+015-09-2-12115
+
+VHSL Regular Season Round 27 Page 2 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 27
+Directed Round
+1A. Name the gas that contains one nitrogen atom bound to three hydrogen atoms, and releases noxious fumes when mixed with
+bleach.
+ANSWER:
+ammonia
+1B. Peter Paul Rubens painted this man in the Descent of the Cross. Name this man, who was sculpted in the Pieta being held by
+his mother.
+ANSWER:
+Jesus Christ [or Jesus Christ]
+2A. He portrayed Oprah and Karl Malone when he co-hosted The Man Show with Adam Carolla. Name this man who also helped
+create Crank Yankers and now hosts a late night show on ABC.
+ANSWER:
+James Christian “Jimmy” Kimmel
+2B. This poetic foot is used in a hexameter (hex-AM-uh-turr) in Longfellow’s poem “Evangeline.” Name this foot that uses one
+stressed syllable, followed by two unstressed syllables.
+ANSWER:
+dactylic
+3A. Name the city that is home to the James Branch Cabell library on the campus of Virginia Commonwealth University, as well
+as Monument Avenue.
+ANSWER:
+Richmond
+3B. Name the country whose government has fought in South Waziristan (wah-ZEER-uh-stan) over the Taliban’s stronghold in
+Kotkai.
+ANSWER:
+Islamic Republic of Pakistan [or Islam-i Jamhuriya-e Pakistan]
+4A. This is a 10-second calculation question. What is the product of the first two perfect numbers?
+ANSWER: 168
+4B. This is a 10-second calculation question. What is the area of a triangle with height 19 and base 7?
+ANSWER: 66.5
+5A. This English word translates as "homme" in French, and "hombre" in Spanish. Name this word that translates in German as
+"mensch."
+ANSWER:
+man
+5B. When one of these pushes another downward, the overlapping area is called a “subduction zone.” Name these objects that
+make up the earth’s crust in a “tectonic” model.
+ANSWER:
+tectonic plates
+6A. This is a 20-second calculation question. What is the sum of the integers 1 through 20 inclusive?
+ANSWER: 210
+6B. This is a 20-second calculation question. What are the real roots of the equation x2 + x - 12 = 0?
+ANSWER: x = -4 and x = 3
+7A. In this movie, Tinkerbell is captured along with a donkey who is voiced by Eddie Murphy. Name this first movie starring
+Mike Myers as a green ogre who rescues Princess Fiona.
+ANSWER:
+Shrek
+7B. Like the C4 pathway, this process uses PEP carboxylase to fix carbon dioxide. Name this variaion on standard
+photosynthesis, in which plants open their stomata only at night.
+ANSWER:
+CAM pathway [or crassulacean acid metabolism]
+8A. Name the man whose constant, symbolized "h," is used in his namesake radiation law about blackbodies.
+ANSWER:
+Max Karl Ernst Ludwig Planck
+VHSL Regular Season Round 27 Page 3 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+8B. What activity did Ida Wells claim was "our country's national crime," citing 241 people put to death without trial in 1892
+alone?
+ANSWER: lynching
+9A. This is a 30-second calculation question. If the velocity of your car is increasing by 3 meters per second every second, how far
+have you traveled in 5 seconds, assuming your velocity starts at 1.25 meters per second?
+ANSWER: 43.75 meters
+9B. This is a 30-second calculation question. What is the 8th entry in a sequence that uses the Fibonacci recurrence, but uses 3 and
+4 to be the zeroth and first items in the sequence respectively?
+ANSWER: 128
+10A. What Republican defeated Jody Wagner in November 2009 to win a second term as Virginia's Lieutenant Governor?
+ANSWER: William "Bill" Bolling
+10B. Many of his books, including A _House for Mr. Biswas_ and Miguel Street, are set on his native Trinidad. Name this author
+of Indian ancestry who wrote A Bend in the River.
+ANSWER: Vidiadhar Surajprasad Naipaul
+027-09-2-12116
+
+VHSL Regular Season Round 27 Page 4 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 27
+Third Period, Fifteen Tossups
+1. This ruler constructed his capital at Pasargadae and won the Battle of Opis in his campaigns against Nabonidus, a ruler of the
+Chaldean dynasty. After the Battle of Thymbra, this man defeated the Lydian Empire and took Croesus captive. This ruler also
+ended the Babylonian Captivity of the Jews, and this father of Cambyses II ended the earlier Median Empire to create an empire
+which would later be ruled from Persepolis. For 10 points, name this first ruler of Achaemenid (uh-KAI-mun-ihd) Persia.
+ANSWER: Cyrus the Great [or Cyrus the Elder or Cyrus II]
+036-09-2-12117
+
+2. Many fossils of this species were discovered near Acheulean (ack-OOL-ee-en) industry tools at Ternifine in Algeria. Another
+member of this species was identified by Davidson Black after its tooth was found at Zhoukoudian (zoo-KOH-dee-ann), though
+that fossil was destroyed during World War II. Eugène Dubois (doo-BWAY) found the first known fossil of this species on an
+Indonesian island. This species flourished from 1.7 million to two hundred thousand years ago. This extinct hominid's fossils
+include Peking Man and Java Man. For 10 points, identify this species, which was named for its upright walk.
+ANSWER: homo erectus
+019-09-2-12118
+
+3. According to legend, one leader of this nation gave food to two angelic figures before defeating the Germans and founding the
+Piast dynasty. Another dynasty in this country won in the battle of Grunwald against the Teutonic knights while allied with
+Lithuania, known as the Jagiellon Dynasty. One movement in this nation centered on the Gdansk shipyard was known as
+Solidarity and was led by Lech Walesa. For 10 points, name this European country that was the home of Pope John Paul II, and
+whose capital city named the Soviet Union's Warsaw Pact.
+ANSWER: Republic of Poland or Rzeczpospolita Polska
+023-09-2-12119
+
+4. The title character of this work drew a picture of a boa constrictor that ate an elephant that adults view as a hat. A fox in this
+work informs the title character that he must be tamed before he can be a friend, and a talking rose prompts the main character to
+go on a journey. The title character of this work is a native of planet B612 and is taken to other worlds by a flock of birds. For 10
+points, name this work about a diminutive monarch by Antoine de Saint-Exupery.
+ANSWER: The Little Prince [or Le Petit Prince]
+030-09-2-12120
+
+5. Two-time winners of this event include Harold Miner and Jason Richardson. Clyde Drexler entered this event five times
+without winning once. The 2008 winner of this event took off his jersey to reveal a Superman shirt and cape, but he was defeated
+in the 2009 finals by an alter ego known as "KryptoNate." For 10 points, name this NBA All-Star Weekend contest most recently
+won by Dwight Howard and Nate Robinson.
+ANSWER: NBA Slam Dunk Contest [or Sprite Slam Dunk Showdown]
+003-09-2-12121
+
+6. Like fruit flies, temperature-sensitive mutants of this organism are commonly studied, and the genome of this organism was the
+first eukaryotic (you-KAIR-ee-ott-ic) one to be sequenced. The a or alpha types of these organisms can fuse in order to reproduce,
+and this single-celled fungus reproduces asexually by budding. They can grow anaerobically (AN-air-OH-bic-uh-lee) on fructose
+and carry out fermentation. For 10 points, name this organism used to make alcohol and bake bread.
+ANSWER: yeast [or Sacchromyces cerevisiae]
+032-09-2-12122
+
+7. This man wrote a story in which a child was told by an angel she would dance until she became a skeleton due to her wearing
+the title footwear. In addition to "The Red Shoes," one of this man's works describes Gerda's attempts to save Little Kay after a
+piece of the Mirror of the Devil was lodged in his eye. That work is "The Snow Queen." For 10 points, name this Danish author of
+children's stories such as "The Emperor's New Clothes" and "The Little Mermaid."
+ANSWER: Hans Christian Andersen
+030-09-2-12123
+
+8. In this country, the Muslim Brotherhood attempted an uprising in Hama in 1982. This was the first Arab nation to condemn the
+1991 invasion of Kuwait. This country withdrew from the United Arab Republic in 1961. A nearly thirty-year presence of troops
+from this country in Lebanon was ended in 2005. For 10 points, name this Middle Eastern nation long led by Hafez al-Assad and
+the Ba'ath Party.
+ANSWER: Syria
+030-09-2-12124
+
+VHSL Regular Season Round 27 Page 5 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+9. This man's works include a long poetic description of a New Jersy town, Paterson. He wrote about an item "glazed with rain
+water beside the white chickens" in a poem in which "so much depends upon" that titular object, and in another of his poems, the
+speaker apologizes for "eating all the plums that were in the icebox and which you were probably saving for breakfast." For 10
+points, name this poet and physician who wrote "The Red Wheelbarrow" and "This Is Just To Say."
+ANSWER: William Carlos Williams
+032-09-2-12125
+
+10. This man supervised the completion of the Moscow subway system. A period known as this man's "thaw" occurred after he
+gave the Secret Speech denouncing the excesses of his predecessor. In 1960, this man banged his shoe on a desk during a meeting
+of the United Nations General Assembly. For 10 points, name this Soviet leader who engaged in the Kitchen Debate with Richard
+Nixon.
+ANSWER: Nikita Krushchev
+030-09-2-12126
+
+11. This vitamin enhances iron absorption and is crucial for the synthesis of collagen. Pneumonia as well as colds can supposedly
+be treated with megadoses of this anti-oxidant vitamin. Deficiency of this vitamin leads to a disease characterized by fragile skin
+and bleeding gums, scurvy. For 10 points, name this vitamin also called ascorbic (ass-KOR-bic) acid and found in citrus fruits like
+oranges.
+ANSWER: Vitamin C [or ascorbic acid before mentioned]
+032-09-2-12127
+
+12. Debussy wrote three pieces of this form titled "Clouds," "Festivals," and "Sirens" for orchestra and female choir. Chopin uses
+a rounded binary form to gradually embellish on two simple themes in his Opus 9 No. 2, a piece in E-flat written in this form.
+Pieces of this popular Romantic Era form convey atmosphere rather than developing themes, and this form of music was first
+developed by John Field. For 10 points, name this form of music that creates a mood of night.
+ANSWER: Nocturne
+036-09-2-12128
+
+13. These people were led through the Civil War by John Ross. John Marshall ruled in this group's favor in Worcester v. Georgia.
+The language of these people is one of the few surviving ones thanks to the syllabary created by Sequoyah. Along with the
+Seminoles, Creek, Choktaw, and Chickisaw, this group formed the Five Civilized Tribes. The Treaty of New Echota forced Martin
+van Buren to have Winfield Scott forcibly remove this tribe to Oklahoma. For 10 points, name this Native American tribe that was
+the chief victim of the Trail of Tears.
+ANSWER: Cherokee
+015-09-2-12129
+
+14. This play includes a scene in which the tale of a voodoo doll is told to Giles Corey by Ezekiel Cheever. In the fourth act of this
+play, the events leading to the condemnation of women like Elizabeth cannot be halted by Reverend Parris. All this occurs because
+of Abigail's attempts to seduce John Proctor while supposedly under the influence of the slave Tituba. For 10 points, name this
+play about the Salem Witch Trials, written by Arthur Miller.
+ANSWER: The Crucible
+032-09-2-12130
+
+15. This element's bromide salt is used to contain samples in infrared spectroscopy. An ion of this element, with a porous carbon
+material at the cathode (KATH-ode), is a component of rechargeable batteries. Its salts are administered as mood-stabilizing
+drugs, particularly for depression. For 10 points, name this lightest alkali metal, with atomic number three.
+ANSWER: lithium [or Li]
+022-09-2-12131
+
+VHSL Regular Season Round 27 Page 6 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 27
+Tiebreaker Questions
+1. This character briefly worked as a janitor at St. Olaf's College, but describes himself as an "Oxford man" since he attended
+Oxford for five months after the Armistice. This character was inspired to change his name by Dan Cody. One associate of this
+character is a gambler who supposedly fixed the 1919 World Series, named Meyer Wolfsheim. This character's rise to wealth is
+motivated by his love for Tom Buchanan's wife, Daisy. For 10 points, name this resident of West Egg, who is the "great" title
+character of an F. Scott Fitzgerald novel.
+ANSWER: Jay Gatsby [or James Gatz]
+024-09-2-12132
+
+2. Maurice Ravel wrote an orchestral work of this title that traced the development and fall of this form; that work was rejected by
+Sergei Diaghilev. Anton Diabelli composed a work in this form which he then asked other Austrian composers to make variations
+on. Sibelius wrote a very slow "triste" one of the pieces, and Chopin wrote one of these works nicknamed "minute." For 10 points,
+name this form of music written in triple meter that often accompanies a Viennese ballroom dance.
+ANSWER: Waltz [or Valse]
+036-09-2-12133
+
+3. One element in this group forms Grignard (GRIN-yurd) reagents with magnesium. Another element in this group is used in a
+test to detect starches in a solution; that test is named for Lugol (LOO-gul). That element from this group is also used in a tincture
+to disinfect skin. Two of these elements combine with carbon to form a series of compounds that are a major threat to the ozone
+layer. For 10 points, name this group of elements that includes bromine, iodine, chlorine, and fluorine.
+ANSWER: halogens [or Group 17; or Group VIIA]
+022-09-2-12134
+
+4. Amacrine (AM-uh-krin) cells in this structure regulate nervous input to ganglion ("GANG"-lee-on) cells, and this structure's
+namesake pigmentosa (PIG-men-TOE-suh) causes tunnel vision and night blindness. This seven-layered structure has a sensitive
+fovea (FO-vee-uh) in its macular (MACK-you-lur) region. This structure contains photoreceptor (FO-toe-ree-SEP-tur) cells like
+rods and cones, and it converts light to nervous signals sent through the optic nerve. For 10 points, name this structure that lies
+along the back of the eye.
+ANSWER: retina
+032-09-2-12135
+
+5. This city lies on Guanabara Bay, encloses the Lagoa Rodrigo de Freitas and contains the replanted Tijuca Forest. This city
+contains Copacabana, Botafogo, and Ipanema beaches and Sugarloaf Mountain. This city was the capital of its nation before the
+election of Juscelino Kubitschek, and from the top of Corcovado Mountain, Christ the Redeemer looks over this city. For 10
+points, name this second largest city of Brazil after Sao Paulo, set to host the 2016 Summer Olympics.
+ANSWER: Rio de Janeiro
+036-09-2-12136
+
+VHSL Regular Season Round 27 Page 7 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

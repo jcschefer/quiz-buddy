@@ -1,0 +1,359 @@
+PRISON BOWL IX
+Questions written and edited by Hunter College High School (Gilad Avrahami, Sam Brochin, Christopher Chilton, David Godovich,
+Lily Goldberg, Ada-Marie Gutierrez, Diane Hwangpo, Joshua Kwan, Chloe Levine, Alice Lin, Brian Lu, Helen Lyons, Daniel Ma,
+Albert Tai, Luke Tierney, and Rachel Yang), with contributions from Rohan Nag and Jeff Xie
+Finals Round
+Tossups
+1. Lac fields were an early system of irrigation in this country. This nation’s current capital was retaken during a rebellion in which
+the Mac briefly interrupted the rule of this country’s longest serving dynasty, the Later Le. The French provinces of Cochinchina and
+Tonkin would later become part of this country. The Nguyen (“NWEE-an”) dynasty initially ruled the south of this country from the
+city of Hue. It’s not China, but Ma Yuan put down one rebellion led by this country’s Trung Sisters. For 10 points, name this
+Southeast Asian country with capital at Hanoi.
+ANSWER: Vietnam <GA>
+2. The Sabine River flows into this body of water. Laguna Madre is a 130-mile long lagoon separated from this body of water by
+Padre Island. The winter houses of Henry Ford and Thomas Edison lie near the mouth of a river that ends in this body of water at
+Sanibel Island, an island famous for its seashells. One estuary that lies on this body of water is Lake Pontchartrain, which is in the
+bayou region. This body of water contains Galveston Bay. When one 2005 hurricane reached land after crossing this body of water, it
+heavily damaged the city of New Orleans. For 10 points, name this largest gulf in the world that spans between the southern coast of
+the US and its namesake country.
+ANSWER: Gulf of Mexico <DM>
+3. In an equation used to calculate this quantity, vacuum permeability divided by 4 pi is multiplied by a line integral. This quantity is
+instrumental in the splitting of spectral lines in the Zeeman effect, and it can be calculated via the Biot-Savart law. Charge is
+multiplied by the cross product of this quantity and velocity to find the Lorentz force on a particle, and voltage is proportional to the
+time rate of change of this quantity’s flux. In a solenoid, increasing the number of loops will generate increases in this quantity, which
+is measured in teslas. For 10 points, name this vector field that contains north and south poles.
+ANSWER: magnetic field (accept B field, accept magnetic after “field”) <AT>
+4. Richard Strauss quoted the first four measures of this piece at the end of his Metamorphosen, adding the annotation “IN
+MEMORIAM!” This work’s final movement is a set of variations on a theme used earlier in its composer’s ballet The Creatures of
+Prometheus. This work’s first theme ends with a chromatic C-sharp, and it begins with two orchestra-wide E-flat major chords that
+declare the tonic. This piece’s second movement is an adagio assai funeral march. Its creator retracted its dedication when its
+dedicatee declared himself Emperor of France. For 10 points, name this Beethoven symphony originally dedicated to Napoleon
+Bonaparte.
+ANSWER: Ludwig van Beethoven’s Symphony No. 3 in E-Flat Major (accept clear knowledge equivalents like Beethoven’s Third,
+also accept Sinfonia Eroica or Eroica Symphony, neither “Beethoven” or “symphony” is required after mention) <GA>
+5. This architect of the oval-shaped Bell Labs Holmdel Complex designed a piece of furniture that was used extensively on the set of
+the original Star Trek, his “Tulip Chair.” He included an oculus atop a windowless building that resembles his brick cylinder, the MIT
+Chapel. Another of this architect’s works is topped by two wing-shaped concrete thin-shells. This architect of the TWA Flight Center
+is more famous for a monument located in the Jefferson National Expansion Memorial. That monument is a 630 foot-tall metal
+catenary curve. For 10 points, name this architect of the Gateway Arch in St. Louis.
+ANSWER: Eero Saarinen <AT>
+6. Some characters in this book whisper, “Busy, busy, busy,” and a fictional language spoken in this book translates “Twinkle,
+twinkle, little star” to “Tsvent-kiul, tsvent-kiul, lett-pool store.” That language is spoken on an island where a popular religion is
+Bokononism, whose adherents are threatened by the giant hook of the Christian dictator, “Papa Monzano.” In this book Felix waits for
+the atomic bomb to drop while playing the title game. One character in this book calls himself Jonah, and discovers a substance with
+freezing abilities kept by the Hoenikker children, called ice-nine. For 10 points, name this novel which satirizes the arms race, the
+fourth work by Kurt Vonnegut.
+ANSWER: Cat’s Cradle <CL>
+7. This country, the sender of cables in the Venona documents, conducted the SOXMIS liaison mission. The Bullitt Mission to this
+country was meant to end the civil war in this country. John F. Kennedy conducted the “pen pal” correspondence with this nation’s
+leader. A scheduled meeting with this country’s leader was moved to New York City due to Vietnam War protests. Novikov’s
+“telegram” was this country’s response to George Kennan’s “long telegram”, and this nation’s “era of stagnation” overlapped with its
+years of détente with the US. For 10 points, name this Cold War opponent of the US.
+ANSWER: USSR or Soviet Union
+
+8. One theory connects the origin of this philosophy with the defacing of coins, and a philosopher of this movement pioneered the idea
+of cosmopolitanism by calling himself a “citizen of the world.” This philosophy, practiced by Crates of Thebes and Antisthenes,
+idolized Heracles because of his capture of Cerberus. One proponent of this philosophy was known for carrying a lamp during the day
+while looking for an “honest man.” That man infamously begged for a living and often resided in a large ceramic jar. This philosophy
+of Diogenes of Sinope derives its name from the phrase “dog-like.” For 10 points, name this Ancient Greek philosophy that rejected
+societal conventions.
+ANSWER: cynicism <AT>
+9. Goodpasture syndrome is an autoimmune disease involving this organ and the kidneys. This organ contains bitter taste receptors
+which convert angiotensin I to angiotensin II. This organ contains a hilum that connects the parietal and visceral pleural membranes,
+and the severity of a disease affecting it is assessed by a spirometer. That disease, involving the breakdown of this organ’s tissues, is
+known as emphysema. This organ, which is comprised of alveoli, is subject to bronchitis. For 10 points, name these respiratory organs
+that supply oxygen to the blood and are used in air exchange.
+ANSWER: lungs <AT>
+10. It’s not cotton, but a businessman who was judged to be largest producer of this good in a particular country was said to be a this
+commodity king. The most famous king of this commodity was Carlos Leôncio de Magalhães (“muh-GAW-less”). From the 1790s
+onward, plantations producing this good were found in Venezuela along with cocoa producing establishments. This crop was
+cultivated in the red soil of São Paulo in Brazil, and it was often grown in fazendas. The Ottomans opened this commodity’s first
+“house” in Damascus. The city of Mocha (“MO-kuh”) in Yemen exported this crop, and Indonesia makes its “Sumatra” and “Java”
+types. For 10 points, name this caffeinated beverage.
+ANSWER: coffee
+11. Unusually high reflective areas on radars are known as these entities’ debris balls. A measuring system for these entities attempts
+to relate the Beaufort and Mach scales. Residential architecture and types of vegetation were later accounted for in an “enhanced”
+version of that system. During periods of rainfall, these entities are surrounded by RFDs after they form from supercells. A scale
+measuring these entities ranks them from F0 to F5, and assesses the damage caused by them. That scale is named after Fujita. For 10
+points, name these rapidly-spinning columns of air.
+ANSWER: tornadoes (accept twisters, prompt on cyclones) <AT>
+12. In one of this man’s works, two characters meet by chance at a dog pound, and end up getting a drink at a bar called the Cathedral.
+That work is about Santiago Zavala and Ambrosia, the former of which is an activist with Cahuide. The title of one book by this man
+literally translates to The City and the Dogs and takes place at a military school; that book is known in English as The Time of the
+Hero. Another work by this man is set partly in Piura, and features characters called “the lieutenant” and “the native.” For 10 points,
+name this contemporary Peruvian author and essayist of The Green House and Aunt Julie and the Scriptwriter.
+ANSWER: Jorge Mario Pedro Vargas Llosa [accept 1st Marquis of Vargas Llosa; prompt on partial] <CL>
+13. This writer created a biography of Richard Savage and a Neoclassical tragedy titled Irene. He annotated the plays of Shakespeare
+and wrote The History of Rasselas, Prince of Abissinia, as well as the influential periodical The Rambler. This man wrote A Journey to
+the Western Islands of Scotland about his travels with his later biographer, James Boswell. This man completed his most influential
+work alone, though it took him nine years, and it was the pre-eminent work in its genre until one created at Oxford. For 10 points,
+name this English writer and lexicographer who in 1755 created The Dictionary of the English Language.
+ANSWER: Samuel Johnson [prompt on Johnson] <CL>
+14. The Swiep (“sweep”) forest was an important location at one battle during this war, in which the forces of Ludwig von Benedek
+were dealt a crushing defeat. Throughout this conflict, the muzzleloading Lorenz rifles of one side were badly outclassed by the more
+modern rifles of their opponents. Either Koniggratz or Sadowa was the most important battle in this war, a decisive victory for the
+northern belligerents. Helmuth von Moltke served as the chief of staff for the primary state on the winning side of this war. For 10
+points, identify this 1866 conflict in which the southern states of the German Confederation were defeated by a collection of northern
+German states led from Berlin.
+ANSWER: Austro-Prussian War (accept Seven Weeks War, Unification War, Prussian-German War, Brothers or Fraternal War;
+accept War of 1866 until year is mentioned; prompt on German Civil War) <LT>
+15. One man in this work scolds a crowd at the Areopagus after finding an altar “to an unknown god,” and in this book, tongues of fire
+representing the Holy Spirit appear over the heads of men. After one man in this book claims to have seen the Son of Man sitting at
+the right hand of God, the Sanhedrin order his stoning; that man was Stephen. This book describes the first Pentecost, and in this book,
+Saul was blinded on the road to Damascus and converted to Paul. For 10 points, name this New Testament book which describes the
+deeds done by the apostles to spread the church to the Roman Empire.
+ANSWER: Acts of the Apostles (or Book of Acts) <JK>
+
+16. Reacting a molecule with osmium tetroxide will yield one of these compounds with two of its namesake groups in the “syn”
+position. Produced in the Ziegler process, these compounds are the final product of Grignard reactions. One device measuring their
+concentration assesses the electric current produced by the oxidation of them to acetic acid and water. 95% of a common azeotrope’s
+volume is comprised of one of these substances, and one of them plus a carboxylic acid will yield an ester. For 10 points, name these
+compounds containing an OH group, exemplified by methanol and ethanol.
+ANSWER: alcohols <AT>
+17. Twelve of these objects were in the protection of priests known as the Salii; the original copy was owned by Numa Pompilius. Sir
+Gawain found one of these objects that once belonged to Judas Maccabeus. A particularly badass one of these objects used during the
+Trojan War doubled as a flamethrower; another of these objects held by Ajax was notably large and made of seven cowhides and
+bronze. Perseus famously used one of these objects to avoid the gaze of Medusa. For 10 points, identify this type of armor, one of
+which was held by Achilles in his battle with Hector and exemplified by the Aegis held by Athena.
+ANSWER: shields <JK>
+18. In this play, one character wants to prove that God is unnecessary, while his nephew wants to accumulate wealth, and so locks his
+uncle in a laboratory. In the beginning of this play, General Manager Domin tells that story to Helena, a member of the League of
+Humanity. Alquist decides not to kill Helena and Primus in Act III of this play because they are the new Adam and Eve. Although the
+title figures initially seem content in servitude, by this play’s end they have annihilated the human race. For 10 points, name this
+science fiction play which coined the term for a complex machine often resembling a human, a work by Karel Capek.
+ANSWER: R.U.R. [accept Rossum’s Universal Robots or Rossumovi Univerzální Roboti] <CL>
+19. A Fortunato Depero painting from this movement features two tunnels and some slanted buildings arranged in an “M” shape.
+Other paintings in this movement include one where horses and men run wild, The City Rises, and another clearly featuring the
+numbers “6943.” Marinetti stated that a certain entity was more beautiful than the Winged Nike of Samothrace in this art movement’s
+manifesto. Another work from this movement is a sculpture depicting an armless figure stepping forward, Unique Forms of Continuity
+in Space. Giacomo Balla and Umberto Boccioni were artists from, for 10 points, what 20th century Italian movement that glorified
+speed and technology?
+ANSWER: Futurism <AT>
+20. This creator of the Rorschach test-like Verbal Summator devised a teaching machine, a question-displaying box. He classified the
+strength of a response based on emission, energy level, speed, and repetition in his book Verbal Behavior. This man who equated
+“negative reinforcement” to punishment also wrote a utopian novel where citizens can be classified as Planners or Managers. He
+developed a cage containing audiovisual stimuli, a response lever, and a food dispenser, the operant conditioning chamber. The author
+of Walden Two was, for 10 points, what psychologist who created a namesake box?
+ANSWER: B. F. Skinner (accept Burrhus Frederic Skinner) <AT>
+TB. This author wrote about Consilience, where Charmaine and Stan give up their freedom every second month and fall in love with
+their alternates, and one book by this author is narrated by Iris Chase. In a book by this author, Cordelia and two friends throw Elaine
+Risley’s hat into a ravine. In addition to Cat’s Eye and The Blind Assassin, this author created a character once known as Jimmy but
+now called Snowman. In another work by this author, “the Eyes” are the secret police of a dystopian theocracy named Gilead, and
+some of agents who may be working for the Mayday resistance take Offred [of-FRED] away. For 10 points, identify this Canadian
+author of Oryx and Crake and The Handmaid’s Tale.
+ANSWER: Margaret Atwood <CL>
+Bonuses
+1. To calculate the gravitational form of this quantity for an object located near the Earth’s surface, multiply the object’s mass by its
+distance from the ground and g. For 10 points:
+[10] Name this type of energy stored in an object due to its position or configuration.
+ANSWER: potential energy (accept PE or U)
+[10] The non-relativistic form of this Frenchman’s namesake function equals a system’s kinetic energy minus its potential energy.
+This man also names a series of five points where the gravitational pulls of two bodies cancel out.
+ANSWER: Joseph-Louis Lagrange (accept Lagrangian)
+[10] This hypothetical structure’s walls contain infinite potential energy, while its interior has zero potential energy. This means that
+infinitely large forces prevent the single particle housed inside this structure from leaving it.
+ANSWER: particle in a box (or infinite square well, or infinite potential well) <AT>
+
+2. This ruler was referred to as the “Red Sultan” by his enemies for his repressive internal policies. For 10 points each:
+[10] Name this Ottoman ruler who oversaw the First Constitutional Period before retaking autocratic control. He was overthrown by
+the Young Turks in 1909 and was replaced by his brother, Mehmed V.
+ANSWER: Abdulhamid II
+[10] This period of modernization, especially of the millet system, ended when Abdulhamid issued the First Ottoman Constitution.
+ANSWER: Tanzimat
+[10] These Ottoman soldiers, initially drawn from Christian households, were later abolished after they revolted against Mahmud II in
+the Auspicious Incident.
+ANSWER: Janissaries <LT>
+3. The French are evidently excellent at creating drama, because France has produced many great playwrights. For 10 points each:
+[10] Identify this writer of The Imaginary Invalid, The Misanthrope, and a work about Elmire, Orgon, and the title hypocrite, Tartuffe.
+ANSWER: Molière [accept Jean-Baptiste Poquelin]
+[10] This French playwright kept the sadness to a minimum in Esther, written for youth, and his one comedy, Les Plaideurs, but is
+best known for his tragedies like Phèdre, Andromaque, and Athalie.
+ANSWER: Jean(-Baptiste) Racine
+[10] This man wrote a rationalized version of the Oedipus story, as well as Zaïre, Mahomet, Mérope, and a work in which Herod the
+Great murders the title character, Mariamne. He is better known for a 1759 novel criticizing optimism.
+ANSWER: Voltaire [accept Francois-Marie Arouet] <CL>
+4. For two points A and B on a sphere, these entities are defined as the shorter arc of the great circle passing through A and B. For 10
+points:
+[10] Name these entities, the shortest possible paths between two points on a curved surface.
+ANSWER: geodesics
+[10] Geodesics have many applications in fields of geometry where many of this man’s basic axioms do not hold. Many of this Greek
+mathematician’s contributions to mathematics are detailed in his 13-book series, Elements.
+ANSWER: Euclid of Alexandria
+[10] The axiom most significantly broken in non-Euclidean geometry is this postulate, which evaluates whether two lines will
+eventually meet or not. This statement is equivalent to Playfair’s axiom.
+ANSWER: parallel postulate (accept Euclid’s fifth postulate) <AT>
+5. Answer some questions about the fate of this world. At least how Christians see it, anyways. For 10 points each:
+[10] During the end of the world, this entity will supposedly fall to Earth after the sounding of a trumpet. It’s indicated as an angel or a
+star in various sources, and will turn all the water on Earth bitter.
+ANSWER: Wormwood
+[10] This third horseman of the Apocalypse carries a set of scales and rode a black horse. On the day he appears a voice announces
+that a “quart of wheat” would cost a day’s wages.
+ANSWER: Famine
+[10] The end of the world is found in this last book of the bible, written by John of Patmos. It tells of the defeat of Satan and the
+Second Coming.
+ANSWER: Book of Revelation <JK>
+6. The Durand Line separates this nation and Afghanistan. For 10 points each:
+[10] Name this country with capital at Islamabad. This country also controls Karachi.
+ANSWER: Islamic Republic of Pakistan
+[10] This narrow mountain pass through the Durand Line is the main route between Afghanistan and Pakistan. Babur attacked India
+through this pass to start the Mughal dynasty.
+ANSWER: Khyber Pass
+[10] The Taliban, ISIL, and their allies have been fighting in northwest Pakistan and southeast Afghanistan, which is primarily where
+this ethnic group lives. Malala Yousafzai is of this ethnicity.
+ANSWER: Pashtun (similar-sounding word forms) <DM>
+7. A notable example of this poetic form is “Mad Girl’s Love Song” by Sylvia Plath. For 10 points:
+[10] Identify this closed form of poetry consisting of nineteen lines, divided into three tercets and a quatrain, which has two refrains
+and two repeating rhymes. Perhaps the most famous example is “Do Not Go Gentle Into That Good Night” by Dylan Thomas.
+ANSWER: villanelle [accept villanesque]
+[10] This female American poet featured the refrains “The art of losing isn’t hard to master” and variations with the word “disaster” in
+a famous villanelle, “One Art.” She also wrote “The Armadillo” and North and South.
+ANSWER: Elizabeth Bishop
+[10] Another villanelle is “If I Could Tell You,” by this poet of “Funeral Blues,” “The Shield of Achilles,” and a poem written “in one
+of the dives / On Fifty-second Street” contemplating an invasion of Poland, September 1, 1939.
+ANSWER: W. H. Auden [accept Wystan Hugh Auden] <CL>
+
+8. This Italian sculptor also served as architect for the Vatican’s St. Peter’s square. For 10 points each:
+[10] Name this man, who included golden stucco rays in the background of his The Ecstasy of Saint Teresa. His other sculptures
+include The Rape of Proserpina and a depiction of David.
+ANSWER: Gian Lorenzo Bernini
+[10] Due to its extreme realism, Bernini rose to prominence following the creation of a Greek mythology-inspired marble sculpture
+featuring these two figures. One of these two figures is in the process of turning into a laurel tree.
+ANSWER: Apollo and Daphne (accept in any order)
+[10] Bernini created a four-columned black and gold one of these structures to be built over the tomb of St. Peter. These structures are
+canopies of state, typically over an altar or throne.
+ANSWER: baldacchino [or baldachin] <RY>
+9. This character longs to do more than “mend the stockings or mind the stew.” For 10 points each:
+[10] Identify this character, who runs away to London to avoid marrying a wool stapler. She kills herself when she discovers she is
+pregnant, never fulfilling her dream of becoming a writer, though her brother was a famous playwright.
+ANSWER: Judith Shakespeare [prompt on partial]
+[10] Judith Shakespeare is a character in this essay that argues that women require financial freedom, and the title possession, to be
+able to write. It was based on its author’s lecture series “Women and Fiction.”
+ANSWER: A Room of One’s Own
+[10] A Room of One’s Own is an extended essay by this author of To the Lighthouse who wrote about Septimus Smith in Mrs.
+Dalloway.
+ANSWER: (Adeline) Virginia Woolf [do not accept or prompt on “Virginia Euwer Wolff”] <CL>
+10. In the fictional island nation introduced in this book, there is no private property, and housing is rotated between citizens every ten
+years. For 10 points:
+[10] Name this 16th century novel that attempted to depict an ideal society located in the New World.
+ANSWER: Utopia
+[10] Utopia is a work by this English humanist philosopher. This man’s refusal to endorse Henry VIII’s divorce of Catherine of
+Aragon was depicted in Robert Bolt’s A Man For All Seasons.
+ANSWER: Sir Thomas More
+[10] In Utopia, this traveler tells a fictionalized version of More about his experiences in the titular nation. More suggests that this
+man was a member of Amerigo Vespucci’s crew.
+ANSWER: Raphael Hythlodaeus (accept either underlined portion) <AT>
+11. Many musical works were written in response to the dramatic events of World War II. For 10 points each:
+[10] This Aaron Copland piece for brass and percussion was written in response to US involvement in the Second World War. It
+attempted to motivate Americans to increase labor and production.
+ANSWER: Fanfare for the Common Man
+[10] This composer’s Leningrad Symphony was originally written in praise of Vladimir Lenin, but soon became regarded as a
+commemoration to the Soviet citizens who lost their lives during World War II.
+ANSWER: Dmitri Shostakovich (or Dmitri Dmitriyevich Shostakovich)
+[10] This man featured 52 screeching violins in his Threnody for the Victims of Hiroshima. Excerpts from his music were also featured
+in Stanley Kubrick’s The Shining.
+ANSWER: Krzysztof Penderecki <AT>
+12. Maslow posited that the safety needs level is likely to be found in these people, who were also studied by Urie Bronfenbrenner.
+For 10 points each:
+[10] Identify these people, whom Erik Erikson studied at Pine Ridge Indian Reservation. Lev Vygotsky said that some of them use
+self-talk.
+ANSWER: children [accept kids or other equivalent descriptions; do not accept or prompt on “babies,” etc.]
+[10] This Swiss developmental psychologist made sensorimotor and operational stages of child development as well as schemata.
+ANSWER: Jean Piaget
+[10] Jean Piaget pioneered the “genetic” form of this discipline, which concerns itself with the theory of knowledge. It was first used
+by James Ferrier in a work captioned “The Theory of Knowing and Being.”
+ANSWER: epistemology <CL>
+
+13. This process begins when pioneer species like lichen and fungi begin to “normalize” a habitat. For 10 points:
+[10] Name this phenomenon, where an ecosystem develops in an area previously devoid of life. It frequently occurs after forest fires
+or lava flows.
+ANSWER: primary succession (prompt on ecological succession, do not accept “secondary succession”)
+[10] Primary succession frequently occurs in the chaparral, an example of one of these entities. These entities, like the tundra and
+tropical rainforest, are formations of plants and animals that have similar climates.
+ANSWER: biomes
+[10] When an ecosystem undergoes ecological succession for a long period of time, it will eventually reach this steady state, where it
+will consist of organisms best suited to its average conditions.
+ANSWER: climax community (prompt on climax) <AT>
+14. The head of the World Christian Fundamentals Association named this law. For 10 points each:
+[10] Name this Tennessee law that prohibited teaching evolution in public schools. It was signed by Governor Austin Peay (“pea”),
+and was used to prosecute the defendant in the Scopes Monkey Trial.
+ANSWER: Butler Law
+[10] This organization financed John Scopes' defense as a way to critique the Butler Law. They believed that it imposed a religious
+philosophy on the public, violating the Establishment Clause of the First Amendment.
+ANSWER: American Civil Liberties Union
+[10] This Nebraska Populist led the prosecution at the Scopes Monkey Trial. He also made the “Cross of Gold” speech as the
+Democratic nominee for President in 1896.
+ANSWER: William Jennings Bryan [prompt on Bryan] <LT>
+15. In this work, Tiger Brown fails to stop the protagonist from being sentenced to hanging, but a messenger from the Queen stops the
+execution and grants that protagonist the title of Baron. For 10 points:
+[10] Name this ballad opera adapted from John Gay’s The Beggar’s Opera. In this work, Polly Peachum agrees to marry the main
+character despite knowing him only for three days.
+ANSWER: The Threepenny Opera
+[10] The Threepenny Opera features lyrics written by this 20th century German playwright. He wrote about a family suffering from
+the devastation of the Thirty Years’ War in Mother Courage and Her Children.
+ANSWER: Bertolt Brecht (accept Eugen Bertolt Friedrich Brecht)
+[10] Brecht opened his Threepenny Opera with this song, inspired by the Medieval moritat, or murder ballad. This song mentions its
+titular character’s wicked deeds, and compares him to a toothed shark.
+ANSWER: “The Ballad of Mack the Knife” (accept “Die Moritat von Mackie Messer”) <AT>
+16. This man’s geis (“GESH”) was broken when he ate an offering of dog meat out of gratitude. Lugaid took advantage of this, and
+killed this figure with a magical spear. For 10 points:
+[10] Name this Irish mythological hero, who appears in the stories of the Ulster cycle. He himself wielded the spear Gae Bolg and
+slew a guard dog to receive his title.
+ANSWER: Cu Chulainn (accept Setanta)
+[10] This war goddess attempts to interfere with Cu Chulainn in battle multiple times, but is stopped each time. She’s often depicted as
+a trio of sisters consisting of the Badb, the Macha, and the Nemain.
+ANSWER: Morrigan
+[10] In some tales, the Morrigan disguises herself as one of these old female spirits. They wail when someone is about to die.
+Answer: banshee <JK/AT>
+17. After his apprenticeship, this man began working at Midvale Steel Works. For 10 points each:
+[10] Name this engineer and author who developed the concept of scientific management, which minimized waste and maximized
+worker productivity, leading to the rise of city managers and management consultants.
+ANSWER: Frederick Winslow Taylor
+[10] This namesake of an automobile company used scientific management and the assembly line to mass-produce Model Ts in the
+early 1900s.
+ANSWER: Henry Ford
+[10] Taylorism and McDonaldization rely on workers’ “formal” rationality, an idea proposed by this formulator of the “iron cage” of
+rationality. He also wrote Politics as a Vocation.
+ANSWER: Karl Emil Maximilian “Max” Weber (“VAY-ber”) <CL/RN>
+
+18. He wrote, “When we are dead, seek not our tomb in the earth, but find it in the hearts of men.” For 10 points,
+[10] Name this 13th century Sufi poet of the Spiritual Couplets and the Shams of Tabriz. His followers became known as the whirling
+dervishes.
+ANSWER: Rumi [accept Jalāl ad-Dīn Muhammad Balkh and Mawlana]
+[10] Rumi often wrote in this Persian form, a collection of rhyming quatrains. This form also titles a work attributed to Omar
+Khayyam that was translated into English by Edward FitzGerald.
+ANSWER: rubaiyat
+[10] Rumi also helped popularize this form, made up of couplets structured around a rhyme and a refrain. In this form, each poetic line
+must be the same length.
+ANSWER: ghazal <CC>
+19. For 10 points each, name some things about the African Union ,an entity established by the Sirte Declaration:
+[10] This Chairperson of the African Union from 2009 to 2010 was a supporter of Pan-Africanism. He seized control in “Operation
+Jerusalem,” part of the “One September Revolution” that ousted Idris.
+ANSWER: Muammar (Muhammad Abu Minyar) al-Gaddafi [accept Colonel Gaddafi]
+[10] This dictatorial President of Zimbabwe is the current chair of the African Union. He won rigged elections against Morgan
+Tsvangirai and leads the ZANU-PF.
+ANSWER: Robert Mugabe
+[10] African Union forces intervened in this country after the oil-rich region of Biafra seceded from it in 1967. This country contains
+Lagos and is the most country populous in Africa.
+ANSWER: Nigeria
+20. Classifications for signals read in this technique include singlets, doublets, and multiplets. For 10 points:
+[10] Name this type of spectroscopy that identifies molecular structures by the ways in which their atomic nuclei interact with strong
+magnetic fields. Frequently used types of it are the proton and carbon-13 types.
+ANSWER: nuclear magnetic resonance spectroscopy (or NMR spectroscopy)
+[10] During NMR, a molecule’s hydrogen atoms are frequently substituted for these atoms to distinguish the molecular nuclei from
+the surrounding solvent’s nuclei. The nuclei of this hydrogen isotope’s atoms contain a neutron.
+ANSWER: deuterium (accept D or 2H)
+[10] The behavior of atoms subject to NMR is measured by this quantity, the resonant frequency of an atomic nucleus relative to a
+standard in a magnetic field. It is measured in ppm.
+ANSWER: chemical shift (prompt on shift) <AT>
+TB. This collection of works portrayed the composer’s wife Alice in the piece “C.A.E.” and his friend August Jaeger in “Nimrod.” For
+10 points:
+[10] Name this collection consisting of fourteen variations on a mysterious theme.
+ANSWER: Enigma Variations <AT>
+[10] This British composer wrote the Enigma Variations. He’s also known for his choral piece The Dream of Gerontius, as well as a
+piece commonly played at graduations, the Pomp and Circumstance march.
+ANSWER: Edward Elgar
+[10] This English cellist is well known for her interpretations of Elgar works, particular her recording of his Cello Concerto in E
+minor. She battled multiple sclerosis until her death.
+ANSWER: Jacqueline (Mary) du Pré <AT>
+
+

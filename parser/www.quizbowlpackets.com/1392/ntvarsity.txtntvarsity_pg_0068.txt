@@ -1,0 +1,56 @@
+NewTrier Varsity 2006  Round 7, Page 9 
+
+
+Tossup 16: Miscelaneous (Technology) 
+(Pronounce first three aswords) SOAP, REST, AJAX, RSS, Atom, JavaScript.A step ahead of the
+original static HTML websites of the early Internet, these technologies were given this colective 
+name by Doug Dougherty, which was popularized byO'Reily Media. Name this type of new web 
+technology that claims to be a whole version ahead of the first. 
+Answer: Web 2.0 (prompt on related answers without "2.0") 
+
+Bonus 16: Math (Other)
+Find the probabilities of the folowing events occuring when you draw two cards from the top of a 
+standard deck of cards, without replacing the first card before drawing the second. 
+A: Both cardshave a numberon them. That is, neither is an ace, jack, queen, or king. 
+B: The cards are in the same suit.
+C: The cards are of the same rank. 
+D: The cards are of the same suit and rank.
+Answers: A: 105/221 B: 4/17 C: 1/17 D: 0 
+
+Tossup 17: Science (Astronomy) 
+It either plots the color index and absolute magnitude, or thetemperature and luminosity. It has 
+several lines, representing supergiants, bright giants, giants, subgiants, and the line that most stars 
+lie on,the main sequence. Name this astronomic diagram named after two scientists, that depicts
+the lives of stars. 
+Answer: Hertzsprung-Russel diagram (accept H-R diagram, HRD, color-magnitudediagram) 
+
+Bonus 17: Literature (Literature) 
+"I think that I shal never see, a poem lovely as a tree." 
+A: Name the title of the famous poem that begins thatway. 
+B: According to the poem, "Poems are made by fools like me, but only" this can maketrees. 
+C: Name its author, anAmerican poet born in 1886and kiled during World War I. 
+D: "I think that I shal never see, a bilboard lovely as a tree. Indeed, unless the bilboards fal, I'l 
+never see a tree at al." Name the famous witicist and writer of light verse that penned this retort. 
+Answers: A: TreesB: God C: Joyce Kilmer D: Ogden Nash 
+
+Tossup 18: Literature (Mythology)
+This deity is the son of thegod of wisdom, Ea, who giveshim control over humanity. The Enuma 
+Elish describes how this god was made king of the gods by the Anunnaki after he slew the monster 
+Tiamat, after which humans were created. Name this Mesopotamian sun god and patron god of 
+Babylon. 
+Answer: Marduk 
+
+Bonus 18: Science (Physics)
+Give theelectric charges of each of the folowing particles.
+A: Electron 
+B: Electron neutrino 
+C: Up quark 
+D: Botom quark 
+Answers: A: -1 B: 0 C: 2/3 D: -1/3 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

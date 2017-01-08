@@ -1,0 +1,372 @@
+Harvard Fall Tournament VII
+Round 4
+Edited by Stephen Liu, with assistance from Eric Mukherjee and Dallas Simons
+Written by Stephen Liu, Graham Moyer, David Liu, Kuo-Kai Chin, Will Holub-Moorman, Stephen Morrison, Andy
+Dibble, Sriram Pendyala, Jared Cowan, Mark Arildsen, and Artur Meller
+1. In the study of these objects, the technique of forcing can be used to prove independence, while one theorem
+states that any of these can be given a well-ordering. One statement about these says that the Cartesian product of
+non-empty ones is non-empty, and the “power” one of these has higher cardinality than the underlying one of these.
+One named after Cantor is formed by recursively removing the middle thirds of intervals, and they often are studied
+using Zermelo-Frankel axioms, which do not include the axiom of choice. For 10 points, identify these mathematical
+objects which can be combined using unions and intersections and are collections of distinct objects.
+ANSWER: sets
+2. The surrender of Italy to the Allies resulted in the massacre of the Italian Acqui Division stationed in this country
+by German troops. A constitutional crisis called the Apostasia of 1965 led to a coup in this nation, resulting in a
+seven-year military rule known as the Regime of the Colonels. A society known as Filiki Eteria organized this
+nation’s independence movement, during which a capital was established at Nafplion and a British-led allied fleet
+crushed the Ottomans at the Battle of Navarino. That revolution was led by Alexander Ypsilantis. For 10 points,
+name this Balkan nation that has been undergoing a severe debt crisis since 2009 and is currently led by Antonis
+Samaras.
+ANSWER: Greece [Accept Kingdom of Greece, Hellenic Republic, Ellada, or Elliniki Dimokratia.]
+3. During the reign of Caligula, Alexandria experienced riots caused by negativity towards these people. Members
+of this group were besieged at Lydda after their leader Lukuas fled from the approaching legions of Lusius Quietus,
+and they had earlier overwhelmed the Legio XII Fulminata at the Battle of Beth Horon. That defeat prompted the
+sack of this group's traditional capital, an event depicted in the Arch of Titus. Julius Severus assisted Hadrian in
+suppressing another revolt by these people, who were led by Simon bar Kokhba. For 10 points, name this ethnic and
+religious group, one of whom famously stated, “Give to Caesar what is Caesar” and was born in Bethlehem.
+ANSWER: Jews [Accept Jewish people and Yehudim.]
+4. This city was captured after the diversion of a river allowed troops to march through a dry river bed under
+its walls. That event in this city, which was excavated by Robert Koldewey, caused the overthrow of its king
+Nabonidus, who also lost the Battle of Opis. Home to the Etemenanki temple, it was ruled by the Kassite and
+Chaldean dynasties. One structure here was made for the queen Amytis, and this city had a law that architects who
+built buildings that collapsed and killed people would be put to death. This home of the Ishtar Gate was ruled by
+Nebuchadnezzar and Hammurabi. For 10 points, name this Mesopotamian city home to the Hanging Gardens.
+ANSWER: Babylon [Accept Babil and Babel.]
+5. This man’s vision of modernity featured a transition from traditional and charismatic power to rational-legal
+power in the form of bureaucracy. This thinker denied the possibility of true Christian morals in government and
+defined the state as the entity with monopoly on legitimate use of force in Politics as a Vocation. He developed the
+concept of the iron cage of rationality to describe the dehumanizing effect of over-rationalization in a work which
+argues that Calvinist influences led people in certain countries to work harder and lead their own enterprises. For 10
+points, name this German sociologist who wrote The Protestant Ethic and the Spirit of Capitalism.
+ANSWER: (Maximilian Karl Emil) “Max” Weber
+
+6. Early cases citing this amendment included Yick Wo v. Hopkins, which concerned Chinese Americans operating
+laundry businesses. Another of its components was interpreted with Lochner v. New York, but that “freedom of
+contract” philosophy was repudiated in West Coast Hotel v. Parrish. Its “privileges or immunities” clause was
+interpreted under the Slaughter-House Cases, and the “separate but equal” doctrine was created to satisfy this
+amendment in Plessy v. Ferguson. For 10 points, name this 1868 amendment to the United States Constitution that
+guarantees due process and equal protection under the law for all citizens, including newly freed black slaves.
+ANSWER: Fourteenth Amendment
+7. The Blackburn variety of these objects can be represented with the Lissajous curve, and their Q factors include a
+gamma factor in the denominator due to Archimedes’s principle and air resistance. Though it breaks down at high
+amplitudes, the small angle approximation allows the period of these systems to be represented as 2 pi times the
+square root of L over the acceleration due to gravity. A common use of these objects is to knock over dominoes or
+to trace lines in the sand to demonstrate the rotation of the earth. For 10 points, name these systems which feature a
+suspended weight swinging freely from a fixed point, including a variety named for Leon Foucault.
+ANSWER: pendulums [Accept pendula. Prompt on simple harmonic oscillator before mention.]
+8. One character in this novel claims that he holds an “ace” in his hand because he has evidence that the coffin of
+the spy Roger Cly is empty. Earlier in this work, Gaspard avenges himself on a man whose carriage had run over his
+son, and that man's family is denounced by a letter found in another character's former prison cell. At the end of this
+novel, Miss Pross and Jerry Cruncher help Lucy escape from the murderous Madame Defarge, while her husband
+Charles Darnay is rescued by an alcoholic lawyer who sacrifices himself to the guillotine. For 10 points, name this
+Dickens novel about Sydney Carton and the French Revolution, which begins, “It was the best of times.”
+ANSWER: A Tale of Two Cities
+9. A section of the Cecil Rhodes Memorial shows one of these works titled Energy featuring a man shielding his
+eyes from the sun. Two white shields with black chevrons appear at the base of a Paolo Uccello fresco of this type
+titled Funerary Monument to Sir John Hawkwood. The condottiero Erasmo of Narni was memorialized in Padua
+with one of these works created by Donatello called the “Honeyed Cat,” and that work was strongly influenced by a
+Roman depiction of Marcus Aurelius located on the Capitoline Hill, which also takes this form. For 10 points, name
+these depictions exemplified by Gattamelata and The Bronze Horseman, featuring a certain hoofed animal.
+ANSWER: equestrian works [Accept anything referring to works of art showing people on horses. Prompt on
+partial answers.]
+10. The composer of this work used a French Overture form to compose its opening, an E minor string overture
+titled “Sinfony.” This work also contains a section inspired by shepard-bagpipers, titled “Pifa.” The librettist for this
+work previously set texts for its composer’s Saul and Israel in Egypt. This work, with libretto by Charles Jennans,
+saw Susannah Cibber perform at its premiere in England, where it was called the “New Sacred Oratorio.” George
+II is said to have stood up in appreciation during one section of this work that contains the words “he shall reign for
+ever and ever.” For 10 points, identify this oratorio that contains the “Hallelujah” chorus, a work by George Frideric
+Handel.
+ANSWER: Messiah
+11. This poet described a certain insect as “perfect, ancient, Sanskrit, machines that admit of no appeal” in his
+poem “Fleas Interest Me So Much.” The speaker of another poem by this man tells the addressee that “I want to
+do with you what spring does to cherry trees,” while his best known collection ends with a poem featuring the
+refrain, “In you everything sank!” This poet also penned odes to an artichoke, a tuna at the market, and his socks, in
+addition to writing about climbing up to an Incan ruin in “The Heights of Macchu Picchu.” For 10 points, name this
+Chilean poet of the Canto General and Twenty Love Poems and a Song of Despair.
+
+ANSWER: Pablo Neruda [Accept Neftali Ricardo Reyes Basoalto.]
+12. Ozonolysis of alkenes is one type of this class of reactions, as is the transformation of NADH to NAD +. The
+addition of chromic acid to alcohols converts them to carboxylic acids and ketones in this type of reaction. A
+common and powerful reagent in this type of reaction is potassium permanganate, and in combustion reactions
+hydrocarbons undergo this process. While generally -2, the “number” associated with this process for oxygen is -1 in
+peroxide. For 10 points, name this type of reaction, which is accompanied by a loss of electrons and often happens
+simultaneously with reduction.
+ANSWER: oxidation [Prompt on redox.]
+13. Quetzalcoatl entered the Aztec version of this place to acquire the greenstone bones, after which he was chased
+away by a flock of quails sent by its ruler Mictlantecuhtli. Pwyll once chased away some red-eared dogs belonging
+to Arawn, the Welsh ruler of this location known as Annuvin. Theseus was stuck to the chair on which he was
+sitting after trying to kidnap the Greek queen of this location, who was forced to live here after eating pomegranate
+seeds. That location was guarded by the three-headed hound Cerberus and visited by Orpheus when he came to win
+his wife back. For 10 points, name these places ruled by figures like Hades and inhabited by dead souls.
+ANSWER: underworlds [Accept land of the dead and equivalents before “dead souls.” Accept Mictlan
+before “Mictlantecuhtli.”]
+14. Sankhya thought typically uses the term purusha to characterize this entity. The Qur'an discusses Nafs, the
+evil kind of this. The term translated as this in Kaballah and the Old Testament is Nephesh. Ancient Chinese
+writers discuss Hun, a rational principle, which is also the subject of ancestor worship. Medieval Christians called
+this Anima because it functions as a principle of motion or life. In the Upanishads, this metaphysical concept
+is alternatively called Jiva or Atman, which stands in relation to Brahman, the “world” variety of this. For 10
+points, name this imperishable part of a person that might be taken up to Heaven or reincarnated into a cucumber,
+contrasted with the mind and body.
+ANSWER: soul
+15. Conflict between the Othman Alawite clans and another group in Qardaha in this country has led to worries
+about the recreation of an independent Alawite state in this country. This country has recently seen massacres in its
+Hama and Houla regions, as well as defections by Manaf Tlass and its ambassador to Iraq, Nawaf al-Fares. Turkey
+recently retaliated against an attack by this country against its town of Akcakale. This country is currently embroiled
+in a conflict between Ba’ath Party loyalists and an army led by Riad al-Assad. For 10 points, name this country led
+by President Bashar al-Assad and with cities Aleppo and Damascus.
+ANSWER: Syrian Arab Republic [Accept Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah.]
+16. The lone fox howling at the center of Franz Marc's The Fate of the Animals was painted this color, a distinct
+shade of which was created by Yves Klein, who made many monochromes in this color. The treatise Concerning the
+Spiritual in Art identifies this color as a concentric, receding movement, unlike yellow. This color makes up several
+grazing horses in another work by Franz Marc, and fills the upper half of the background of Matisse's The Dance
+and helps name a movement titled after a Kandinsky painting in which a man on a horse wearing a cloak of this
+color rides across a grassy landscape. For 10 points, name this color that makes violet with red.
+ANSWER: blue
+17. One variety of this process uses reverse transcription to deduce gene expression levels based on varying amounts
+of mRNA present. One parameter in this process is dependent on the GC-content of primers used because of
+differences in stability, and magnesium chloride appears as part of the “master mix” due to its role as a co-factor for
+the primary enzyme used. Often using a chemical taken from the bacterium Thermus aquaticus, this technique uses a
+
+thermocycler to carry out the temperature-dependent steps of denaturaton, annealing, and elongation. For 10 points,
+name this biochemical technique used to rapidly copy DNA strands.
+ANSWER: Polymerase Chain Reaction [Be lenient and accept any types of PCR.]
+18. One author from this country wrote a novel in which Tony has two disastrous marriages, Thomas dies of a
+toothache, and the titular family dies out when the pianist Hanno dies of typhus. Another author from this country
+wrote about the destruction of St. Anthony’s Abbey by Robert Faehmel, the grandson of its architect. In a third
+work from this country, Jan Bronski dies in a fight for the Polish Post Office, while the protagonist robs stores by
+shattering glass with a scream. That character, Oskar Matzerath, stopped growing at age three. For 10 points, name
+this country home to the author of The Tin Drum, Gunter Grass, who was president of the Berlin Academy of Arts.
+ANSWER: Federal Republic of Germany [Accept Bundesrepublik Deutschland.]
+19. The preface to one work by this thinker states that it has always been more dangerous to discover new countries
+than to found new institutions; that work argues that the defeats of the Samnites and Latins had more to do with
+skill than luck as the author deals with the titular Roman historian. In another work, this author discourages the use
+of mercenaries and makes frequent references to the personification of Lady Fortune. This author of Discourses
+on Livy warned the titular figure of another work to be both a lion and a fox. For 10 points, name this thinker, who
+advised rulers that “it is better to be feared than loved” in his book of advice to the Medici, The Prince.
+ANSWER: Niccolo (di Bernardo dei) Machiavelli
+20. One character in this novel takes first pick of cakes from his Aunt Chloe, and later rides after this novel’s title
+character to hand him a dollar. Two women in this novel hide in a man’s attic and pretend to be ghosts, and those
+women later meet Madame de Thoux, the sister of George Harris. Another character in this novel is chased by
+Marks and Loker across the Ohio River, which had frozen over. George Shelby helps Cassy and Emmeline escape
+from slavery in this novel, and the titular character saves Eva St. Claire from a river. For 10 points, name this novel
+in which Simon Legree mistreats the title slave, written by Harriet Beecher Stowe.
+ANSWER: Uncle Tom’s Cabin; or, Life Among the Lowly
+Bonuses
+1. One character in this novel is arrested after seeing the assassination of the local director of education from a cafe.
+For 10 points:
+[10] Name this novel in which the poet Ka returns to his hometown in order to investigate a series of mysterious
+suicides by Orhan Pamuk.
+ANSWER: Snow [Accept Kar.]
+[10] Orhan Pamuk is a writer from this country. Pamuk was put on trial in 2005 for speaking out against the
+Armenian Genocide which happened in this country.
+ANSWER: Turkey
+[10] Pamuk wrote about Kemal’s love for Fusun in a work titled for a “museum” of this concept. Edith Wharton
+wrote about Newland Archer in a novel titled for an “age” of this.
+ANSWER: innocence [Accept The Museum of Innocence or The Age of Innocence.]
+2. In this movement of a larger work, the main character, who has taken opium, dreams that he is going to be
+executed for killing his beloved. For 10 points each:
+[10] Identify this movement that takes music from Les francs-juges in which the protagonist is killed by guillotine.
+ANSWER: “March to the Scaffold”
+[10] “The March to the Scaffold” is a part of this programmatic symphony which is pervaded by the idée fixe
+and also contains “A Ball” and “Dreams of a Witches’ Sabbath.” It was based on the composer’s love for Harriet
+Smithson.
+
+ANSWER: Symphonie Fantastique: Épisode de la vie d'un Artiste ... en cinq parties
+[10] Symphonie Fantastique was composed by this French composer.
+ANSWER: Hector Berlioz
+3. In electromagnetism, this property is equal to the magnetic flux over the current. For 10 points each:
+[10] Name this property measured in Henries, which for solenoids is proportional to the square of the number of
+turns divided by its length.
+ANSWER: Inductance
+[10] Inductance can be derived from this law, named for an English scientist, which sets the negative rate of change
+in magnetic flux equal to the induced voltage and explains how electrical generators work.
+ANSWER: Faraday's law of electromagnetic induction
+[10] In these circuits, one device stores energy in electric fields while the other stores energy in magnetic fields.
+These circuits exhibit harmonic oscillation until internal resistance makes the oscillations die out.
+ANSWER: LC Circuits
+4. Name these things related to accounts of creation. For 10 points each:
+[10] In the opening verses of this text, God creates the world over the course of six days. He then creates Adam,
+takes one of his ribs to make Eve, and kicks them out of the Garden of Eden for disobeying him.
+ANSWER: Genesis [or Bereishith.]
+[10] God was able to call out Adam and Eve for eating the forbidden fruit because they were hiding from him,
+ashamed that they were in this condition.
+ANSWER: nakedness [Accept equivalents.]
+[10] Similarities between this Babylonian account of creation, in which the ocean goddess Tiamat is slain by
+Marduk, and Genesis have led some scholars to believe that the two accounts have a common basis.
+ANSWER: Enuma Elish
+5. In one story this god was tricked into getting extremely intoxicated and sleeping with his sister, after which he
+killed himself in shame and placed his heart in the sky as Venus. For 10 points each:
+[10] Name this “feathered serpent” god who many Aztecs believed was the identity of Hernando Cortez when he
+landed in Mexico.
+ANSWER: Quetzalcoatl
+[10] This brother of Quetzalcoatl guided Aztec souls to the underworld. He didn't like to deal with Death himself,
+though, so he changed himself into a corn stalk and a salamander to avoid it.
+ANSWER: Xolotl
+[10] Xolotl was often depicted with the head of one of these animals. Cerberus was a big three-headed one of these,
+but it's unclear whether he barked at strangers and liked to gnaw on bones.
+ANSWER: dogs
+6. The ABC system describes this process, which includes the transformation of apical meristem function through
+the AP1 and LFY genes in Arabidopsis thaliana. For 10 points each:
+[10] Name this process which allows sexual reproduction in angiosperms.
+ANSWER: flower development [Accept clear-knowledge equivalents.]
+[10] In the ABC model, this portion of the flower is only present with the co-expression of A and B genes. Its bright
+colors attract pollinators and it is collectively known as the corolla. Roses usually have five of these.
+ANSWER: petals
+[10] Petals in groups of 4 or 5 exemplify this angiosperm division also known for having taproots as opposed to
+fibrous systems and circular vascular bundles.
+ANSWER: dicotelydons
+
+7. Castlereagh and the Duke of Wellington attended a meeting in this city, where it was decided that Ferdinand IV of
+Sicily would regain control of Naples from Joachim Murat. For 10 points each:
+[10] Name this Austrian capital that hosted an 1814 to 1815 meeting that sought to settle issues regarding the postNapoleonic political landscape in Europe.
+ANSWER: Vienna [Accept Wien.]
+[10] The Congress of Vienna was hosted by this Austrian statesman, who later issued the Carlsbad Decrees after the
+assassination of August von Kotzebue.
+ANSWER: Prince Klemens (Wenzel Furst) von Metternich
+[10] Much earlier, Vienna had been saved from an Ottoman siege by this Polish king, who brought his Winged
+Hussars to assist von Starhemberg's garrison.
+ANSWER: Jan III Sobieski [Accept John III Sobieski.]
+8. When mixtures of reagents are allowed to sit for enough time, they eventually reach a composition that is
+intermediate for both reactants and products. For 10 points each:
+[10] Name that state, in which both forward and reverse reactions occur at the same rate, and hence reactant and
+product concentrations in a reaction are effectively constant.
+ANSWER: dynamic equilibrium
+[10] This law, developed by Guldberg and Waage, gives the equilibrium constant as a function of product
+concentrations divided by reactant concentrations, both of which are raised to their stoichiometric powers.
+ANSWER: law of mass action
+[10] These coefficients multiply concentrations in the law of mass action to improve precision. When multiplied by
+concentrations, these coefficients give quantities analogous to fugacity that are used in equilibria calculations.
+ANSWER: activity coefficients
+9. This character’s son Nelson attended Kent State University and failed to save the flower child Jill from a house
+fire. For 10 points each:
+[10] Name this former high school basketball star who has a number of lovers, including one with the part-time
+prostitute Ruth Leonard, despite the fact that he’s married to Janice Springer.
+ANSWER: Harry “Rabbit” Angstrom [Accept any underlined part.]
+[10] Rabbit is a creation of this American author, whose novels include Rabbit, Run, and Rabbit Redux in addition to
+short stories like “A&P.”
+ANSWER: John Updike
+[10] Rabbit is Rich and Rabbit at Rest won this literary award in 1981 and 1990, respectively. Recent winners
+include Tinkers by Paul Harding and A Visit from the Goon Squad by Jennifer Egan, though no award was given in
+2012.
+ANSWER: Pulitzer Prize for Fiction
+10. It was the subject of a 1946 study that exemplified “anthropology at a distance.” For 10 points each:
+[10] Name this subject of The Chrysanthemum and the Sword, which contrasted this country’s “shame” culture
+with “guilt” culture. That concept of shame can be seen in practices like seppuku, the ritual suicide of samurais.
+ANSWER: Japan [or Nippon.]
+[10] The Chrysanthemum and the Sword is a work by this student of Franz Boas, who also wrote Patterns of Culture
+and Zuni Mythology.
+ANSWER: Ruth Benedict [Accept Ruth Fulton.]
+[10] In Patterns of Culture, Benedict contrasted the emphasis on “abandon” in Great Plains tribes and the emphasis
+on “restraint” in these Native American communities of the American Southwest.
+ANSWER: Pueblo communities
+
+11. This process spanned the Johnson and Grant administrations and was the subject of Abraham Lincoln’s Ten
+Percent Plan. For 10 points each:
+[10] Name this period following the US Civil War that concerned the readmission of former Confederate States and
+the rights of newly freed Southern slaves.
+ANSWER: Reconstruction
+[10] This plan for Reconstruction, proposed by the Radical Republicans and written by an Ohio Senator and
+Maryland Representative, would have required all readmitted states to take the Ironclad Oath.
+ANSWER: Wade-Davis Bill
+[10] Reconstruction was officially ended with a deal that granted this man the Election of 1876 over Democrat
+Samuel Tilden.
+ANSWER: Rutherford B(irchard) Hayes
+12. This author wrote a short story in which a magician comes to be a metaphor for fascist charismatic leaders. For
+10 points each,
+[10] Name this author who wrote about Cipolla’s assassination in “Mario and the Magician” and wrote a Faustinspired work about Adrian Leverkuhn.
+ANSWER: Thomas Mann
+[10] This Mann novel features debates between all sorts of opposing characters like Settembrini, Peeperkorn, and
+Naphta. At the end of the novel, Hans Castorp leaves the titular sanitarium to fight in World War I.
+ANSWER: The Magic Mountain
+[10] Mann’s novella about Gustav von Aschenbach is titled for “A Death” in this city. Aschenbach dies after
+watching Tadzio fight with Jasiu while sitting on a beach in this Italian city on the Adriatic.
+ANSWER: Venice
+13. The upper section of one painting by this artist show the clouds parting to make way for the titular nobleman in
+Paradise, while Saint Augustine and Saint Stephen carry his body in the lower section. For 10 points each:
+[10] Name this Spanish painter of The Burial of the Count of Orgaz, who is most commonly referred to by his true
+nationality.
+ANSWER: El Greco
+[10] Dark clouds part across a navy sky in this landscape by El Greco, which shows the Alcazar on the right part of
+the city it depicts, the artist's home.
+ANSWER: View of Toledo [Accept Vista de Toledo.]
+[10] Originally titled Profane Love, this El Greco work shows a scene from Revelation with a blue-clad John raising
+his arms toward the sky. Red, yellow, and green cloths can be seen in the middle ground.
+ANSWER: Opening of the Fifth Seal [Accept The Fifth Seal of the Apocalypse and The Vision of Saint John.]
+14. Name these things about a early modern philosopher. For 10 points each:
+[10] This co-discoverer of calculus asserted in his Theodicy that all events, including those caused by God, do not
+occur without a sufficient reason.
+ANSWER: Leibniz
+[10] In a work named for these, Leibniz describes them as independent from all other things except God, each a
+mirror of the whole universe, and arranged in a pre-established harmony.
+ANSWER: monads
+[10] Leibniz believed that God chose to create the best of all these that is logically possible, the one in which we
+live.
+ANSWER: possible worlds
+15. The first member of this family to gain power, Cosimo the Elder, was a patron of Fra Angelico and Fra Lippo
+Lippi. For 10 points each:
+
+[10] Name this family whose heads were de facto rulers of Florence during the Renaissance. It also included Pope
+Leo X and Lorenzo the Magnificent.
+ANSWER: the Medicis
+[10] The Medicis temporarily lost power when this Dominican friar urged the Florentines to form a republic. He led
+the Bonfire of the Vanities, where lots of books and art were burned.
+ANSWER: Girolamo Savonarola
+[10] Florence was rocked by this popular revolt in 1378, when the namesake group of wool carders briefly achieved
+a democratic political order before being put down a union of the major guilds.
+ANSWER: Revolt of the Ciompi
+16. Two characters in a play by this author are the trusting Sir Epicure Mammon and his aloof friend, Pertinax Surly.
+For 10 points each,
+[10] Name this playwright, creator of the con-man Face who tells Sir Epicure he will be able to create the
+philosopher’s stone in his play The Alchemist. He also wrote Volpone.
+ANSWER: Ben Jonson
+[10] The prostitute Dol Common pretends to be the Queen of these creatures to the clerk Dapper. In another play,
+Titania and Oberon are the queen and king of these creatures.
+ANSWER: fairies [Accept word forms.]
+[10] In this other Jonson play, Grace Wellborn allows the madman Troubleall to choose her lover. She ends up
+marrying Winwife, while Justice Overdo wanders through the titular location trying to remedy evils.
+ANSWER: Bartholomew Fair
+17. This work contains a section signifying the calm following a storm that contains a “Ranz des Vaches,” or call to
+the dairy cows. For 10 points each:
+[10] Identify this overture that ends with a cavalry charge in the “March of the Swiss Soldiers.”
+ANSWER: William Tell Overture
+[10] This composer wrote the opera Moses in Egypt in addition to the aforementioned William Tell in which the
+protagonist shoots an arrow through an apple above his son’s head.
+ANSWER: Gioachino Rossini
+[10] In this Rossini opera, Prince Ramiro weds the title character who has a stepfather Don Magnifico and two evil
+stepsisters rather than three. The title character is identified by matching bracelets rather than the canonical glass
+slippers.
+ANSWER La Cerenterola [Accept Cinderella.]
+18. Name these island territories controlled by the United States. For 10 points each:
+[10] Part of this Caribbean archipelago was purchased from Denmark in 1916. American holdings include the
+islands of St. John, St. Thomas, and St. Croix, while the rest of the archipelago is held by Britain.
+ANSWER: Virgin Islands
+[10] This island, “Where America’s Day Begins,” has Chamorro as an official language and has its capital at
+Hagatna. It is the largest island in Micronesia.
+ANSWER: Guam
+[10] Both Guam and the northern portion of this archipelago are unincorporated territories of the United States.
+Guam is the southernmost and largest member of these islands.
+ANSWER: Mariana Islands
+19. This dynasty saw Zhang Daoling’s Way of the Five Pecks of Rice Rebellion and was succeeded by the Three
+Kingdoms period. For 10 points each:
+[10] Name this Chinese dynasty founded in 206 BC by Liu Bang that also names China’s current majority ethnic
+group. It was interrupted by the usurper Wang Mang.
+
+ANSWER: Han dynasty
+[10] The Han dynasty’s defeat of the Xiongnu nomadic people allowed them to establish this vast trading network
+with the West. The expansion of the Mongol Empire in the 1200s helped bring this trade route back.
+ANSWER: the Silk Road [Accept Silk Route.]
+[10] This penultimate chancellor of the Han Dynasty was defeated at the Battle of Red Cliffs by Liu Bei and Sun
+Quan, but later became the King of Wei in 217 BC.
+ANSWER: Cao Cao
+20. Large boulders moved by these objects are called erratics, while material ground up by these entities is called
+till. For 10 points each:
+[10] Identify these objects that can carve out U-shaped valleys. They are large sheets of ice.
+ANSWER: glaciers
+[10] Lines of glacial debris are given this name. Types of this structure include the terminal, lateral, and medial
+versions, and they can be used to find the maximal extent of a glacier.
+ANSWER: moraines
+[10] This is the name for a ridge that can be found between two parallel U-shaped valleys carved out by glaciers. It
+is also the structure found between two cirques.
+ANSWER: arête
+
+

@@ -1,0 +1,486 @@
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTC 10/13/01
+TOSSUPS - ROUND 4
+Questions mostly by Cornell (Jason Keller, Mina Radhakrishnan, Nechama Levy, and Aaron Safane)
+1.
+A Nobel-winning psychiatrist, this man he most famously stated, "We are healthy only to the extent that
+our ideas are humane." He has been a prisoner serving a life sentence for treason, an installer of aluminum
+combination storm windows and screens, an author using pseudonyms such as Frank X. Barlow, a circulation
+man for the Ilium Gazette, and a hobo sleeping in the former Museum of the American Indian. FTP, name this
+fictional author of some 117 novels and 2,000 short stories, who appears in several novels of Kurt Vonnegut.
+Answer:
+Kilgore Trout (can also accept Dr. Robert Fender)
+2.
+This man has held many political positions in his lifetime, and has undergone missions to Louis XII, and
+to the Emperor Maximilian. He was with Cesare Borgia in the Romagna, and after watching the Papal election
+of 1503, traveled with Julius II on his first campaign of conquest. He even organized an infantry force, which
+fought at the capture of Pisa in 1509. Though he gained more fame for his literary works such as Mandragola, a
+satire on seduction and the evils of women, and his version of The Art of War. FTP who is this man, appointed
+Secondary Chancellor of Florence by the Medici in 1498, author of The Prince?
+Answer - Niccolo Machiavelli
+3.
+Those that require busy waiting are termed spinlocks. Invented by Dijkstra for what he called "THE
+Operating System," this construct is rarely used today, as monitors have replaced them. Consisting of an
+integer value and a process list, this can only be accessed through atomic wait and signal functions after it is
+initialized. FTP, name this tool of synchronization, which also refers to a method of signaling using flags or
+lights.
+semaphore
+Answer:
+4.
+Like brown and golden algae, they store food as a glucose polymer called laminarin or in the form of oil.
+Unlike brown and golden algae - or any other protists - they are unusually heavy; thus the special ion-regulating
+mechanism to maintain buoyancy in water. At the end of their life cycle, the organic matrix decomposes and the
+dense cell walls pull these organisms to the ocean floor, where their fossils form a silicate-rich sediment,
+valuable as a filter or an abrasive. FTP identify this type of algae, known for its glasslike external shell.
+Answer:
+Diatoms or bacillariophytes
+5.
+He was called Agur, Lemuel, and was anointed by Zadok. The woman who bore his successor was a
+wealthy Ammonite known as Naamah. One of his first actions upon becoming King was to kill his older brother
+Adonijah when he pleaded for a wife. During his reign, he expanded the borders of his nation farther than they
+ever had been before or since, although this was mostly due to his arranged marriages, including one to the
+Pharaoh's daughter. Circa. 1006 BC, a temple was built on Mount Moriah bearing the name of, FTP, this last
+King of the united Israelites.
+Answer:
+Solomon
+6.
+She quit playing chess because she found she enjoyed winning; pasted paper strips over the antireligious
+parts of Swinburne's Atalanta in Calydon, objected to nudity in painting, and refused even to go see Wagner's
+Parsifal, because it celebrated a pagan mythology. At the age of20, she contributed seven poems to The Germ
+under the pseudonym Ellen Alleyne. One of her poems is set to music as the Christmas carol "In the Bleak
+Midwinter." FTP, who was this author of "After Death" and "The Prince's Progress" and "Goblin Market"?
+Answer:
+Christina Rossetti
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTC 10/13/01
+7.
+It was part of the British Leeward Islands colony and later joined the West Indies Federation before
+reverting to British ownership, and its People's Liberation Movement won all seats in Parliamentary elections in
+1978. Rather than declare independence, it is taking steps toward reaching economic self-sufficiency, and
+recovering from disasters. In 1989 it was struck by Hurricane Hugo and in 1995 it was rocked by the eruption
+of Chances Peak in the Soufriere Hills. FTP, name this often devastated island whose capital is Plymouth.
+Montserrat
+Answer:
+8.
+Developed in 1925, it applies not only to electrons in atoms, but also to free electrons flowing through
+matter. It is also important to chemistry, where it explains the regularities of the periodic law, and also applies
+to elementary particles of half-integer spin. Resulting in a 1945 Nobel for its creator, FTP, identify this
+fundamental principle of physics stating that two electrons cannot simultaneously occupy the same quantum or
+energy state of an atom.
+Answer:
+Pauli Exclusion Principle
+9.
+The scandal resulted in the indictment of the president's private secretary, Orville E. Babcock, who was
+later acquitted, and 110 convictions. Operating in Chicago, St. Louis, and Milwaukee, members bribed IRS
+collectors in order to keep taxes for themselves, and allegations held that the illegally-kept taxes were used to
+finance the re-election campaign of Ulysses S. Grant. Exposed by Benjamin Bristow, FTP, identify this scandal
+which involved a group of distillers of alcohol.
+Answer:
+Whiskey Ring
+10.
+QUOTE: "What's up man hey yo what's up / Yeah what's go in' on here / Sick an' tired of five-oh runnin'
+up on the block here / You know what I'm sayin' / Police them come an' now they blow down me door / One
+him come crawl through through my window / So then they put me in the back the car at the station / From that
+point on me reach my destination." So *that's* what the pasty-faced little runt was singing in, FTP, what
+inexplicable hit by Snow?
+Answer:
+Informer (accept Snow before "hit")
+11.
+The setting is the city of Heliopolis, a caste-based city with Priests on the top, and slaves on the bottom.
+The social law is governed by the important principle of Fraternal Love, based off a religion close to sun
+worship with Masonic Rituals. FTP name this Mozart opera, which has a garden full of ferocious beasts that
+can be tamed through the use of a musical instrument.
+Answer - The Magic Flute or Die Zauberflote
+12.
+Charles "Chuckie" O'Brien always claimed that the blood found on the backseat of a borrowed 1975
+Mercury he was driving was from a 40-lb package of salmon which he was driving across town. In early
+September 2001, however, it was revealed that the FBI has matched a strand of hair found in the same car to
+this man - a man who called O'Brien an "adopted son", but who hasn't called anyone anything since leaving the
+Machus Red Fox restaurant outside Detroit on June 301\ 1975 - the same day Chuckie was supposedly
+delivering fish. FTP, identify this former Teamsters boss, whose mysterious disappearance has never been
+solved.
+Answer:
+James Riddle "Jimmy" Hoffa
+13.
+Freud referred to this as the reservoir of psychic energy, meaning it houses the raw biological urges that
+energize human behavior. It engages in primary-process thinking, which is primitive, illogical, irrational, and
+fantasy-oriented. It operates according to the pleasure principle, demanding immediate gratification of its urges.
+FTP, name this unconscious component of personality which interacts with the ego and superego.
+Plnswer:
+id
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTC 10/13/01
+14.
+Its atmosphere contains little methane and its surface appears to be a combination of water-ice and
+carbonaceous impurities. Because it is relatively close to the planet that it orbits, it had been obscured by the
+glare of its planet's light. Attempts to find it failed because its planet is so remote until it was discovered in
+1973 at the u.s. Naval Laboratory. FTP, name this only known natural satellite of Pluto.
+Charon
+Answer:
+15.
+This author's father was an economist and poet; a man who was both witty and wealthy. He was born in
+Marseilles in 1869, and later built himself a grand chateau in the Pyrenees where he lived until his death in
+1918. His first play was Gant Rouge and he later published a book of poems titled Les Musardises. FTP, name
+this author, whose most famous play revolves around the general with a big heart and an equally big nose,
+Cyrano de Bergerac.
+Answer:
+Edmond de Rostand
+16.
+This Chicago native was the 3rd player drafted in the June 1982 draft and only played 224 minor league
+games before being called up to the major leagues. On May 8, 1984, he became only the 9th player ever to
+record four hits in his first major league game. 10 All-Star Appearances, 2 World Series titles, and 2,304 hits
+later, he was forced to retire when he woke up during Spring Training of 1996 with glaucoma. FTP, identify
+this longtime Twins outfielder, who this year became the third youngest living electee to the Hall of Fame.
+Answer:
+Kirby Puckett
+17.
+He was the son of a wealthy restaurateur, whose property was seized by the Communist government in
+1948, prompting his stance for the rest of his life. He eventually found ajob as a stagehand, beginning a career
+in the theatre that would see him become resident playwright of the Theatre of the Balustrade. Due to his
+involvement in the "Prague Spring", his plays were banned and his passport confiscated. Four years spent in
+jail did not keep him from elected office after he led the "Velvet Revolution." FTP, name this author of "the
+Garden Party" and "The Memorandum," also the first President of his the Czech Republic.
+Answer:
+Vaclav Havel
+18.
+Born in Edinburgh a sickly youth, he did so well at school he attended the university at 16, with his
+family expecting him to be a lighthouse engineer. Preferring law, he thought his parents religion an abomination
+and soon became known as a bohemian, ranting against bourgeois society, and marrying the 'loose' American
+woman Fanny Osbourne. He eventually came back and started writing, making himself famous in America.
+FTP name this man, who died sailing the South Seas of a cerebral hemorrhage in 1894, author of A Child's
+Garden of Verses and Kidnapped.
+Answer: - Robert Louis Stevenson
+19.
+Discovered by Johan August Arfwedson, a butyl compound containing this element is used in the
+manufacture of synthetic rubber. Its chloride and bromide are chiefly used in brines in large refrigeration and
+air-conditioning systems, but its most important compound may be its carbonate, which is used in the treatment
+of manic-depressives. FTP, identify this alkali metal, the lightest of the solid elements.
+Answer:
+lithium
+.
+20.
+Commissioned to do a stained-glass window, he traveled to Germany to seek assistance. While there, he
+noticed the staunch realism present in the paintings of the 16 th century masters, and abandoned his view of
+Impressionism for the styles he saw there. Among his works in this style are Woman with Plants, a portrait of
+his mother, and Daughters of Revolution, a portrait of three old ladies who are overly proud oftheir ancestors.
+FTP, name this Iowan, a leader of the Midwestern Regionalist movement, and painter of American Gothic.
+Answer:
+Grant Wood
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTC 10/13/01
+21.
+A synodic one happens between two consecutive identical phases of the moon. The draconic one is the
+period between two successive transits of the Moon through its ascending node. The sidereal one is the period
+between two successive conjunctions of the Moon with the same fixed star. The tropical one happens between
+two successive transits through the meridian of the vernal equinox. FTP name this thing that can range from
+27.212 days to 31 days if you're looking at March, May, or December.
+month
+Answer:
+22.
+Supposedly it first appeared sometime between 1862 and 1876, but the first recipe wasn't printed until
+1884. Some believe its present name comes from the name of an English rifle with a strong kick; the OED says
+its name is derived from a Genoese vermouth company. Most legends track its origin to gold rush Martinez,
+California, where it was made dry with a twist of lemon, but most likely its first incarnation was sweet with a
+cherry. FTP identify name this classiest of drinks, with a slew of variations as well as fans, the most famous of
+whom prefers it shaken, not stirred.
+Martini
+Answer:
+23.
+Pittacus, Timarchus, Cleisthenes, Agathocles, Hippias, Pisistratus Hiero, Gelon, and Miltiades. In
+ancient Greece all of these men were known by this title. FTP name this word, which is used today to indicate
+any harsh autocratic ruler.
+Tyrant
+Answer:
+24.
+This nation's president ordered that its flags be flown at half-mast after it suffered its worst-ever
+shooting spree. The spree caused President Moritz Leuenberger to cancel a meeting with the President of
+Senegal. 57-year-old Friedrich Leibacher entered the local legislature with an assault rifle and a grenade and
+sprayed at least 20 bullets in a five-minute frenzy which killed 15 lawmakers. He then committed suicide and
+found a note entitled "A Day of Rage against the Zug Mafia." Zug is noted for its low taxes, spectacular Alpine
+views, and proximity to Zurich airport in, FTP, what European nation?
+Answer:
+Switzerland
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTC 10/13/01
+BONI - ROUND 4
+Questions mostly by Cornell (Jason Keller, Mina Radhakrishnan, Nechama Levy, and Aaron Safane)
+
+1.
+Identify these British artists from works FTPE.
+10) The series A Rake's Progress, the series Marriage a la Mode.
+Answer:
+William Hogarth
+10) Portrait of Mrs. Richard Brinsley Sheridan, Robert Andrews and his Wife, The Blue Boy.
+Answer:
+Thomas Gainsborough
+10) The White Horse, The Hay Wain.
+Answer: John Constable
+2.
+FTP each, given a description, name the character in William Shakespeare's The Merchant of Venice:
+The title character, his depiction is considered anti-Semitic today, although his famous "Hath not a Jew eyes?"
+speech is the play's most memorable passage.
+Answer:
+Shylock
+Shylock demanded a pound of this debtor's flesh because of his acts early in the play.
+Answer:
+Antonio
+A noblewoman of Belmont, she is beautiful, intelligent, and the heroine of the play. Along with her maid
+Nerissa, she enters the courtroom disguised as a man.
+Answer:
+Portia
+3.
+FTPE answer the following about the Lousiana Purchase:
+a) Upon learning that Spain had secretly ceded the territory to France, Jefferson sent this future President to
+join the U.S. minister to France, Robert Livingston, to buy New Orleans and a small strip that's now southern
+Alabama and Mississippi.
+Answer:
+James Monroe
+b) One of the reasons Napoleon was willing to sell the whole shebang was that his grand American plans had
+been stymied by the slave revolt in Haiti, led by this man.
+Answer:
+Pierre Dominique Toussaint L'Ouverture
+[prompt on L' Ouverture - his last name is both words]
+c) Sent in the aftermath of Lewis and Clark to explore the headwaters of the Arkansas and Red Rivers, this man
+was captured by the Spanish in 1807, but not before naming after himself a big mountain he failed to climb.
+Answer:
+Zebulon Pike
+4.
+Only one of these can be heard on the tribute album recorded by Finnish classics professor Jukka
+Arnmondt -- in Latin. Identify the following Elvis songs from lyrics FTPE:
+A. "Now, the bellhop's tears keep flowin', and the desk clerk's dressed in black. Well they been so long on
+lonely street they'll never ever look back."
+Answer: Heartbreak Hotel
+B. "We're caught in a trap. I can't walk out because I love you too much baby.
+Answer: Suspicious Minds
+C. "Just like a willow we would cryan ocean if we lost true love and sweet devotion."
+Answer: It's Now Or Never
+[READER: "Ladies and gentlemen, Elvis has left the tournament."]
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTC 10/13/01
+5.
+Name these reproductive entities, none of which is Madonna, FTP each.
+This method of asexual reproduction involves the formation of a new organism from a generative point on the
+parent.
+Answer:
+budding
+Also known as a runner, this is a thin, slender horizontal branch designed to propagate an organism by budding.
+Answer:
+stolon
+In sponges, these are aggregates of archaeocytes which become isolated when there is an abundance of food
+particles. They are then expelled from the sponge to continue the process of asexual reproduction.
+Answer:
+gennnauies
+6.
+Answer these questions from the world of statistics from brief descriptions FTPE
+a) This is the sum of the observation values divided by the number of those observations. Statisticians hate it if
+you call this the average.
+Answer: ill£!!!
+b) This concept, which can be defined as the square root of the variance, measures the volatility of an event's
+occurrence. It is more clearly defined as the square root of the sunnnaed squares of the deviations between an
+observance and the observance mean.
+Answer: standard deviation
+c) This is the universe of all entities from which a sample can be drawn, and used to estimate its characteristics.
+Answer: population
+7.
+As of this writing these questions and answers are still in the present tense. FTSNOP answer the
+following about the Taliban:
+F5PE, identify the three countries which had recognized the Taliban as the legitimate government of
+Afghanistan before September 11 tho
+Answer:
+Pakistan, Saudi Arabia, and United Arab Emirates or U.A.E.
+F5P, this loose collection of opposition groups is still waging a war against the Taliban in order to regain power
+in Afghanistan.
+Answer:
+Northern Alliance or Northern Military Alliance or NMA
+For the final ten, this man is the spiritual head and de facto ruler of the Taliban.
+Answer:
+Mullah Mohannnaad Omar
+8.
+1)
+
+FTP each, answer these questions about Treasure Island:
+What notorious buccaneer first charted the island in 1754 to hide his treasure?
+Answer - Captain Flint
+2)
+What shipmate of Flint drew up the map which recorded the location of the treasure.
+Answer - Bill Bones
+3) The island was later acquired by Long John Silver and what shipmate?
+Answer - Ben Gunn
+9.
+Answer these random questions about polymers FTP each.
+Used to make thin films and plastic bottles among other things, this simple polymer has chemical formula
+(CH2CH2)n. [READ: parentheses C H-two C h-two, parentheses closed, N]
+Answer:
+polyethylene
+This is bonding between various strands of atoms in a polymer.
+Answer:
+cross-linking
+This is a plastic material, which, partially due to cross-linking, is able to stretch to at least twice its length and
+then return to its original position.
+Answer:
+elastomer
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTe 10/13/01
+10.
+30-20-10. Author from works.
+30: The Long Dark Tea-Time ofthe Soul, Dirk Gently's Holistic Detective Agency
+20: Mostly Harmless, Young Zaphod Plays It Safe So Long, and Thanks for All the Fish
+10: Life, the Universe, and Everything, The Restaurant at the End of the Universe, The Hitchhiker's Guide to
+the Galaxy
+Answer: Douglas Adams
+11 .
+Name the geologic time period FTP each.
+The most important plants of this longest Paleozoic period include seed ferns, true ferns, lycopods, cordaitians,
+and sphenopsids, and although few survive, they are responsible for the earth's deposits of coal.
+Answer:
+Carboniferous period
+The period just before the Carboniferous, the proliferation of marine life earned it the name, "The Age of
+Fishes."
+Answer:
+Devonian period
+This period which followed the Cambrian is marked by the mass death of trilobites and the radiation of
+brachiopods and nautiloids.
+Answer:
+Ordovician period
+12. Identify the following Supreme Court justices who were laid to rest at Arlington National Cemetery FTPE.
+a) This son of a Massachusetts poet is credited with shouting "Get down, you damned fool!" at Abe Lincoln
+during an 1864 battle. He served 29 years on the court, where he became known as "The Great Dissenter."
+Oliver Wendell Holmes, Jr.
+b) He's the only President also to serve on the Supreme Court and the only one besides JFK buried at Arlington.
+William H. Taft
+C) There were two drives to impeach this justice - one in 1935, when his marriage to a 23-year-old was
+brought to light, and again in 1970, when a group of conservative senators became upset over rejection of
+their nominees. He outlasted both and became the longest serving justice in Supreme Court history.
+William O. Douglas
+13.
+Remember those wonderful '90's? If not, have you been studying your Nobel Prize winners in
+Literature? For 5 points each, name in any order any 6 ofthe 10 winners of the Nobel in Literature from 1990
+to 1999 inclusive. To make it easier, here are their home countries: [READ SLOWLY] Mexico, South Africa,
+St. Lucia, the U.S., Japan, Ireland, Poland, Italy, Portugal, and Germany.
+Answer:
+any 6 of: Octavio Paz, Nadine Gordimer, Derek Walcott, Toni Morrison, Kenzaburo Oe,
+Seamus Heaney, Wislawa Szymborska, Dario Fo, Jose Saramago, Gunter Grass
+14.
+Nothing makes the tabloids spin round faster than celebrity love. Given a description of recent celebrity
+romantic doins' and transpirins' , identify the celebrity for ten points, or for 5 if you need another clue.
+10: She split from her husband, film director Jim Threapleton, after less than three years of marriage.
+5: She met her now-ex-hubby on the set of Hideous Kinky, which did not make as much money as, say, Titanic.
+Answer:
+Kate Winslet
+10: In a private ceremony on September 2nd , she married Hollywood cameraman Coleman "Coley" Laffoon,
+whom she met while the groom was filming a documentary.
+5: The documentary covered a concert tour by her then-lover, stand-up comedian Ellen DeGeneres.
+Answer:
+Anne Heche
+10: This Oscar-winning member of Mensa married Dr. Reza Jaharry in a small, private ceremony on Long
+Island, adding him to a list of husbands which includes director Renny Harlin and actor Jeff Goldblum.
+5: Hopefully she can live on a doctor's salary, seeing as her self-titled ABC sitcom lasted only one season.
+Obviously not enough archery.
+Answer:
+Geena Davis
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001 UTC 10/13/01
+15.
+FTP each, identify these characteristics of black holes based on their descriptions.
+This can be determined by the size of a black hole's event horizon. It determines the black hole's gravitational
+pull at a given distance.
+~svver:
+mass
+This property vvould theoretically allovv a black hole to be moved around by avery, very large magnet.
+~svver:
+charge
+This property is defined as the radius of the black hole times its momentum.
+~svver:
+angular momentum or spin
+16.
+Given a group of gods or goddesses, give their collective name FTP each.
+Clothos, Lachesis, Atropos
+Ansvver:
+Fates or Moirae
+Alecto, Tisiphone, Magaera
+~svver:
+Furies
+Urd, Verdandi, Skuld
+~svver:
+Noms
+17.
+History shovvs that the term "united Italy" is usually an oxymoron. FTPE name these Italian leaders:
+a) This revolutionary leader led the Red Shirts, vvho seized southern Italy and paved the vvay for its
+independence in 1861.
+~svver:
+Giuseppe Garibaldi
+b) With the skilled maneuvering of advisor Count Cavour, this monarch of Piedmont got the promotion to
+become king ofltaly upon its proclamation.
+~svver:
+Victor Emmanuel II
+c) Rising to povver over a decade before Hitler, this Italian Fascist vvound up playing second fiddle on the Axis
+side in World War II. When Italy fell, he tried to flee but vvound up hanging upside dovvn on a meathook.
+~svver:
+Benito Mussolini
+18.
+Ansvver these questions about the faculty of Hogvvarts FTPE.
+He is the headmaster.
+Albus Dumbledore
+The potions teacher, he is continually passed over for the defense against the dark arts position, and is also head
+of Slytherin House.
+Severus Snape
+She is the head of Gryffindor House.
+Minerva McGonnegal
+19.
+N arne these central Asian mountain ranges other than the Himalayas FTP each.
+a)
+Lying on the border of Pakistan and Afghanistan, it divides the Amu Darya river valley to the north
+from the Indus river valley to the south. Its highest point is Mount Tirich Mir and Khyber Pass is located here.
+~svver:
+Hindu Kush
+b)
+This series of parallel ranges, vvhose mountains rise to above 20,000 feet above sea level on average, and
+the borders of China, Afghanistan, Pakistan, Tajikistan, and India converge here. Its highest point is K2.
+~svver:
+Karakoram range
+c)
+Lying mostly vvithin Tajikistan, this highland region includes Lenin Peak, Communism Peak,
+Revolution Peak, and Karl Marx Peak. At least, vve think they're still called by those names.
+~svver:
+Pamirs
+
+TREVOR'S TRIVIA: BOB SELCER MEMORIAL HIGH SCHOOL QUIZBOWL 2001
+20.
+Identify the literary devices used in the following sentences FTPE:
+a: I've answered that question a million times!
+Answer: hyperbole
+b: Edward enjoyed his emperor's red elephant.
+Answer: assonance
+c: I earned this by my own sweat.
+Answer: metonymy
+
+UTC 10/13/01
+
+21.
+Name the scientist 30-20-10
+30) In his later years he experimented with hawkweed, but his work proved inconclusive. By the 1870s he
+gave up the work which would posthumously bring him fame.
+20) He published his important findings in 1866, but they were largely ignored until rediscovered by three
+scientists, including botanist Hugo De Vries in the early 1900s. The significance to evolution and heredity
+wouldn't come until the 1920 and 30s.
+10) His work with pea plants in the monastery garden led him to propose two theories of heredity.
+Answer:
+Gregor MENDEL
+22.
+Shortly after Fox executives realized that the world was full of real-life Comic Book Guys, they decided
+to do the sensible thing and plaster the Simpsons logo on every piece of crap they could fmd. FTPE, identify
+these crummy Simpsons tie-ins.
+A. In this game for the NES, Bart has to save the world from Kang and Kodos, who are building a giant deathray that is powered by hats and purple things. Yes, hats and purple things.
+Answer:
+Bart V s. The Space Mutants
+B. This album, a follow-up to the mildly successful "The Simpsons Sing the Blues" almost never saw the light
+of day due to conflicts with the actors who voice the characters. Now that it's been released, with no memorable
+or humorous content, everybody wishes it had stayed locked up in the Fox vault with the Ark of the Covenant.
+Answer:
+The Yellow Album
+C. The newest computer game featuring the Simpsons is this dull attempt to capitalize on another cultural trend.
+Playas a Simpsons character and punch other Simpsons characters. Then kick them. Then punch them again.
+Ha hal It's a laugh riot!
+Answer:
+Simpsons Wrestling
+
+

@@ -1,0 +1,683 @@
+NASAT Tryout Set: Science
+Tossups
+1. This compound is turned into xanthate (ZAN-thate) before being rebuilt through a spinneret in the process
+to create viscose rayon. This compound has beta-1,4 glycosidic (gly-co-SID-ic) linkages; those linkages are
+the only difference between this compound and starches, which are likewise made up of repeating chains of
+glucose. This most abundant organic compound on earth is indigestible by humans; however, it can be
+broken down by microorganisms that live in cows and termites. For 10 points, name this compound that
+makes up the majority of a plant’s cell wall.
+ANSWER: cellulose
+2. Old rubber tires often “crack” when exposed to this compound, whose concentration is reported in
+Dobson units. The Chapman cycle describes the production and degradation of this compound, which at low
+temperatures forms a dark blue liquid. It takes its name from the Greek “to smell,” and its odor can be
+observed during lightning strikes. In the atmosphere, this compound is broken down by compounds called
+chlorofluorocarbons (KLOR-oh-FLOOR-oh-CAR-buns). For 10 points, name this compound that forms a
+namesake layer in the atmosphere that shields the Earth from ultraviolet light, with formula O3.
+ANSWER: ozone [accept O3 before mentioned]
+3. This language's arguments dot callee gives extra power to anonymous functions. Like Python, it has a for
+in construction. Commonly used libraries for this language includes Ext, YUI, and Dojo. Primitive types in
+this language include undefined and null. Instead of using classes, this language like its Self predecessor
+uses prototypes. Local variables can be declared by the keyword var. For 10 points, name this programming
+language often used in webpages.
+ANSWER: JavaScript [or ECMAScript; or JScript]
+4. The Shankland team supported the outcome of this experiment by finding fundamental flaws in Daisy
+Miller’s observations. A version of this experiment looking for seasonal variation was carried out by
+Kennedy and Thorndike. It used a half-silvered mirror to split coherent light and attempted to detect a
+certain "wind" by measuring fringe shift with an interferometer. Its results were explained by the
+Lorenz-FitzGerald hypothesis concerning length contraction. For 10 points, what experiment, named for two
+physicists at Case Western, disproved the existence of luminiferous (loo-min-IF-er-us) aether (EE-ther)?
+ANSWER: Michelson-Morley experiment
+5. A form of these substances that marks a shift to a specific electric potential is known as the redox type.
+The most notable type of these substances includes chemicals like cresol (KREE-sol) red and bromothymol
+(BRO-mo-THY-moll) blue and demonstrates the endpoint of an acid-base titration. For 10 points, name
+these chemicals that reversibly change color at a certain chemical point and include acid-base examples like
+phenolphthalein (FEE-nolf-THALE-een).
+ANSWER: indicator [or pH indicator; or acid-base indicator]
+6. This element, whose most stable form is the rhombic (ROM-bick) allotrope (AL-oh-trope), is extracted by
+pumping superheated steam into deposits in the Frasch (FRASH) process. Thiols (THY-olls) are alcohol
+analogs with oxygen replaced by this element. A platinum or vanadium (vuh-NAY-dee-um) catalyst is used
+in the contact process, which synthesizes a compound consisting of oxygen, hydrogen, and this element.
+Although blue in flame test, it is yellow as a solid and a liquid. This element forms cross-links in rubber
+vulcanization. For 10 points, name this element with atomic number 16.
+ANSWER: sulfur [or S]
+
+NASAT Tryout Set: Science Page 1 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+7. Under some conditions, an ICE table must be use to compute this property, and a device used to measure
+this property is named for Arnold Beckman. The Henderson-Hasselbalch (HEN-der-sun HOSS-el-bock)
+equation relates this quantity to the pKa of a compound, and it is kept constant by buffer solutions. It is
+defined as the negative of the base ten log of the concentration of hydronium ("high"-DRO-nee-um) ions.
+For 10 points, give this quantity that measures how acidic or basic a solution is, which is seven for water.
+ANSWER: pH
+8. Along with mollusks, this grouping is defined by the existence of a cavity for blood circulation known as
+the hemocoel (HEE-moh-"SEAL"). This phylum takes in oxygen through stacks of plates filled with blood
+known as book lungs. One extinct member of this phylum was the most common animal of the Cambrian
+Explosion. That animal was a three lobed marine creature known as the trilobite (TRY-lo-bite). Members of
+this phylum have exoskeletons made of chitin (KYE-tin). For 10 points, name this phylum that includes
+crustaceans (crus-TAY-"shins") and insects.
+ANSWER: Arthropoda [or arthropods]
+9. Historically, it was believed that these objects could be modeled as a cavity with equally likely modes that
+increased with frequency. The fourth power of temperature is proportional to the flux emitted by one of
+these according to the Stefan-Boltzmann (STEF-on BOLTS-mon) law. They have a wavelength of
+maximum intensity described by Wien's (VEENZ) displacement law. The ultraviolet catastrophe describes
+the breakdown of the Rayleigh-Jeans Law governing radiation from these entities. For 10 points, name these
+objects that absorb all incoming energy.
+ANSWER: blackbody
+10. For a black hole, this quantity is given by the product of the area of that black hole with Boltzmann's
+constant, divided by four times the Planck length squared. Taking the negative derivative with respect to
+temperature of the Helmholtz free energy yields this quantity, which can be defined as Boltzmann's constant
+times the logarithm of the number of microstates of a system. This quantity goes to a minimum as
+temperature approaches absolute zero. For 10 points, the second law of thermodynamics holds that, over
+time for isolated systems, there is an increase in what measure of disorder, symbolized S?
+ANSWER: entropy [prompt on S before it is read]
+11. These can be treated as a collection of stream processors. They often use z-buffers and they make use of
+framebuffers. These devices must deal with transformations, clipping, and shaders. Two popular ways of
+writing software that use them are OpenGL and DirectX. These devices use many small computing units to
+operate on vertices and pixels. For 10 points, name these components of a computer that accelerate the
+rendering and display of visual output.
+ANSWER: GPU [or graphics processing unit; or video card; or graphics card]
+12. A disease related to this organelle is caused by a lack of hexosaminidase (HEX-ose-am-IN-ih-dace) A,
+characterized by a red spot in the iris, and called Tay-Sachs disease. Mannose-6-phosphate tags proteins
+destined for this organelle. This organelle contains namesake hydrolases and can absorb material via
+autophagy. This organelle's V-class proton pumps create an acidic environment to carry out its main
+function. For 10 points, name this organelle that breaks down macromolecules and cellular waste.
+ANSWER: lysosome
+13. This process can be reversed in a pathway involving urokinase ("YOUR"-oh-KINE-ase), and it is
+downregulated by prostacyclin (PROS-tuh-"SIGH"-klin). Christmas disease results from a lack of Factor IX
+involved in this process. During this process, the serine protease (PRO-tee-ase) thrombin (THROM-bin)
+converts fibrinogen (fie-BRIN-oh-jen) into fibrin (FIE-brin), which forms a mesh polymer. Platelets have
+several important roles in this process. For 10 points, name this process by which by which the blood
+congeals after injury, which is impaired in hemophilia (HEE-mo-FILL-ee-uh).
+ANSWER: coagulation [or clotting]
+NASAT Tryout Set: Science Page 2 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+14. When these landforms lie parallel to one another, they create raised and lowered areas called horsts and
+grabens. Flat irons form from scarps, which are located along these features. These features divide a surface
+into a hanging wall and a footwall. At lower depths, they are called shear zones. If the movement of one of
+these features has both strike and dip components, it is known as an oblique-slip one. They also come in
+transform and strike-slip types. For 10 points, name these cracks in the Earth's surface, the movement of
+which causes earthquakes.
+ANSWER: faults
+15. One class of these are circuit gateways and they can be used to make a DMZ. An example of a stateful
+one is iptables and NAT can be configured to act like a very basic one. Application-Layer ones use
+knowledge about the content to make decisions. They protect against things like denial of service attacks.
+Common techniques include port blocking and packet filtering. Usually they must be configured to allow
+new trusted programs and services to access the internet. For 10 points, name these pieces of software or
+hardware that protect computers from network based attacks.
+ANSWER: firewalls
+16. They are the subject of Wagstaff's Conjecture. The Lucas-Lehmer test is used to find these numbers. The
+programs GIMPS searches for new examples of these numbers. Every even perfect number is the product of
+one of these numbers and a corresponding power of two. The first four of these numbers are three, seven,
+thirty-one, and one hundred and twenty-seven. For 10 points, identify these prime numbers of the form two
+to the n minus one, named for a medieval French mathematician.
+ANSWER: Mersenne prime numbers [prompt on prime before mentioned]
+17. On the station model, this phenomenon is plotted using a barb that contains flags which show its
+magnitude. On a map, this phenomenon's direction is held constant along an isogon, while its speed is
+constant along an isotach. Near the ocean, this phenomenon changes direction at night, when the land cools
+faster than water. The lack of this phenomenon defines the "horse latitudes." The Beaufort Scale measures
+the strength of this phenomenon, the speed of which is related to damage on the Saffir-Simpson and Fujita
+scales. For 10 points, name this phenomenon, the movement of air on the earth's surface.
+ANSWER: wind
+18. Spirochetes (SPY-ro-KEATS) have modified versions of these structures known as axial filaments. In
+bacteria, the hook, or base of this organelle, is covered. This organelle is attached to a basal body. In
+eukaryotes, they are the longer of two types of structures that are composed of a "nine plus two"
+arrangement of microtubules. Unlike that other structure, cilia, these structures work by rotating in a
+clockwise or counterclockwise manner. For 10 points, name these whiplike projections that are the main
+method of cell motility in Euglena and sperm cells.
+ANSWER: flagella [or flagellum]
+19. Along with rural agenesis (ay-JEN-uh-sis), this disease accounts for a majority of the occurrences of
+congenital absence of the vas deferens (VOSS DEF-er-enz). This disease is most commonly caused by a
+deletion of three nucleotides, starting with the phenylalanine (fen-il-AL-uh-neen) at position 508, of a
+namesake chloride channel. This disease is diagnosed in early childhood via the noninvasive sweat test. It
+was first described by Dorothy Andersen, who described its characteristic pancreatic scarring. For 10 points,
+name this autosomal recessive genetic disease that causes a buildup of mucus in the lungs.
+ANSWER: cystic fibrosis [or mucoviscidosis; prompt on "CF"]
+
+NASAT Tryout Set: Science Page 3 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+20. The earliest definition of this term involved the use of tens to the seventh and negative seventh and was
+named for John Napier. Numbers of this type are made up of an integer called the characteristic and a
+fraction called the mantissa. Taking this operation to the multiplication of two components is equivalent to
+adding the values of this operation to those components individually. The derivative of one type of this
+function is equal to one over x. That type is taken in the base of e and is called the natural type of this. For
+10 points, name this function that is the inverse of an exponent.
+ANSWER: logarithms [or Napierian logarithms; or natural logarithms]
+21. This element forms a namesake cycle with sulfur whose net reactant is water and net products are
+hydrogen gas and oxygen gas. A hormone that includes this element is thyroxine (thy-ROX-een), which
+loses one atom of this element to yield its active form. Preparations of this element include Lugol's solution,
+and its presence in the diet prevents goiter. For 10 points, name this halogen often used as a test for starch
+and in a disinfecting agent, which on the periodic table appears below bromine but above astatine.
+ANSWER: iodine
+22. In Minkowski space, this quantity equals the rate of change above the four-momentum vector with
+respect to proper time. The total amount of this quantity imparted on a charged particle by both the magnetic
+and electric fields is named for Lorentz. This quantity is equal to the time derivative of the body's
+momentum by Newton's Second Law. Work is equal to this quantity times distance. For 10 points, name this
+vector quantity measured in newtons, which equals mass times acceleration.
+ANSWER: force [or net force]
+23. In the MIPS ("mips") architecture, many ALU ("A"-"L"-"U") operations, such as add, have this as their
+opcode. In "one's complement" notation there are two of these. In Unix, slash dev slash null has a
+counterpart that produces these. In C++ this is equivalent to false. Arrays usually start with this index. In
+digital circuits, this number corresponds to a low voltage. A common programming error, or exception, is
+dividing by this number. For 10 points, name this value, which is contrasted with "one" in the binary system
+used by computers.
+ANSWER: zero
+24. Wolff's Law governs the circumstances that cause density of this tissue to increase or decrease.
+Precursors to this tissue are generated at the epiphyseal (EPP-ih-FIZZ-ee-uhl) plate. Since estrogen causes
+cells that resorb this tissue to undergo apoptosis, this tissue becomes noticeably weaker in post-menopausal
+(men-oh-"PAWS"-uhl) women. Blood is supplied to this tissue through Haversian (huh-VER-zee-uhn)
+canals, and the hydroxyapatite ("high"-DROX-ee-APP-uh-tite) in this tissue's matrix is a major site of
+calcium storage. For 10 points, name this tissue that comprises the majority of the skeleton.
+ANSWER: bone
+25. An outdated model for the structure of this entity was proposed by Davson and Danielli. Enzymes such
+as flippases ("FLIP"-"aces") move molecules within this structure. It contains glycolipids (GLY-ko-LIP-idz)
+such as gangliosides (GANG-lee-oh-"sides"). The fluidity of this structure is regulated by the amount of
+cholesterol within it. The fluid mosaic model of this structure holds that proteins and lipid rafts are
+embedded in a freely moving phospholipid (FOSS-fo-LIP-id) bilayer. For 10 points, name this structure that
+encloses the cell and separates it from the outside environment.
+ANSWER: cell membrane
+26. The Sylvester-Gallai theorem gives a requirement that all items in question are upon only one of these.
+These objects are replaced by the idea of a geodesic on a general metric; specifically, in spherical geometry,
+these objects are replaced by "great circles." In coordinate geometry, these objects can be specified in
+slope-intercept form. Perpendicular ones intersect at an angle of ninety degrees. For 10 points, name this
+geometric construct defined by two points.
+ANSWER: lines
+NASAT Tryout Set: Science Page 4 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+27. This man proved the theorem of quadratic reciprocity. He used his formulation of least squares to
+accurately predict the orbit of Ceres. This mathematician discovered a compass and ruler construction for the
+heptadecagon. This man devised an improved proof of the fundamental theorem of arithmetic. According to
+a popular legend, while still in school he devised a simple formula for the sum of one through n. His name is
+also attached to a statistical distribution about a mean, also called the normal distribution or bell curve. For
+10 points, name this German mathematician.
+ANSWER: Carl Friedrich Gauss
+28. Along with sodium carbonate, this substance's chloride is a byproduct of the Solvay Process. This
+element can be made through the reaction of its oxide with aluminum. This element's oxide is known as
+quicklime. Lime is a heated form of this element's carbonate. Marble is a crystalline form of this element's
+carbonate that is also known as limestone. This element has an electron configuration of [Ar]4s2 ("Argon
+Four S Two"). For 10 points, name this alkaline earth metal with symbol Ca.
+ANSWER: calcium [or Ca before it is read]
+29. Methods of measuring the magnitude of this effect often include the use of a platinum probe, such as a
+DuNouy ring or Wilhelmy plate. This phenomenon is no longer changed once the critical micelle
+concentration is reached. Those micelles are formed by substances that lower the strength of this effect,
+which are called surfactants. This effect limits the height in a container of a meniscus caused by capillary
+action. Bubbles form spheres according to this effect. For 10 points, name this cohesive attraction that
+causes a film to be created at the top of liquids, which allows some insects to walk on water.
+ANSWER: surface tension
+30. This body releases cytochrome ("SIGH"-tow-krome) c to trigger apoptosis (AY-pop-TOW-sis). The
+DNA found in these organelles (OR-guh-NELLZ) is passed down matrilineally (MAT-ruh-LIN-ee-uh-lee),
+and along with its double membrane, may be evidence for its endosymbiotic (EN-"dough"-sim-by-OTT-ick)
+origin. Its inner folds are called cristae (KRIS-tay), and its matrix is home to respiration reactions like
+glycolysis (GLY-"CALL"-ih-sis). For 10 points, name this organelle, the "powerhouse" of the cell.
+ANSWER: mitochondria [or mitochondrion]
+31. The enzyme that produces this compound has segments called F0 and F1 connected by a rotating axle.
+This compound is converted into a cyclic signal transduction second messenger called cAMP ("camp"). The
+Embden-Meyerhof pathway produces two molecules of NADH and two molecules of this compound.
+Hydrogen ions are pumped across a gradient to produce this compound in oxidative phosphorylation
+(OX-ih-DAY-tive FOSS-FOR-ill-AY-shun). For 10 points, name this "energy transfer currency" of the cell,
+a compound that contains three phosphate groups and goes by a three-letter acronym.
+ANSWER: ATP [or adenosine triphosphate; or adenosine 5' (five-prime) triphosphate]
+32. Monomitic systems occur when only the generative type of these structures is present. Other types of
+them include the elongated and thick walled skeletal type and the multi-branching binding variety. Their tips
+are sometimes the site of haustoria (how-STOR-ee-uh) in parasites. Those tips are the source of their
+expansion through an organelle known as the spitzenkorper (SPIT-zen-kor-per). Most of them are divided
+into cells by barriers called septa. A collection of these structures is known as a mycelium
+(my-SEEL-ee-um). For 10 points, name these structures that make up most of a fungus.
+ANSWER: hyphae
+
+NASAT Tryout Set: Science Page 5 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+33. Drugs containing a compound called artemisinin (AR-tuh-mih-SINE-in) are used to treat this disease,
+whose severity is lessened in individuals with thalassaemias (THAL-uh-SEEM-ee-uhs). Those who
+completely lack receptor proteins called Duffy antigens are immune to one form of this disease. Individuals
+who are heterozygous for the mutated allele for sickle cell anemia are at far less risk for this disease. Its
+longtime treatment was derived from Cinchona (sin-CHO-nuh) bark. For 10 points, the parasite Plasmodium
+causes what disease that was once treated by quinine (KWY-nine) and is spread by mosquitoes?
+ANSWER: malaria
+34. One species of these creatures, Mycocepurus smithii (MY-coh-seh-"PURE"-us "SMITH"-"e"), is
+cultivated by the Attini and is entirely female. The presence of a metapleural (MET-uh-PLOOR-uhl) gland,
+which secretes phenylacetic acid (FEN-il-uh-SEE-tic), differentiates most species of these creatures from
+other members of order Hymenoptera (hi-men-OP-ter-uh). These organisms of family Formicidae
+(for-MISS-uh-dee) often herd aphids for food and include "driver," "carpenter," and "army" varieties. For 10
+points, name these insects which form underground hives occupied by soldiers, workers, and the queen.
+ANSWER: ants [or Formicidae until it is read]
+35. The movement of one type of these objects at high altitudes can create cracks called bergschrunds
+(BEARG-schrundts). These objects are split by the firn limit into two zones, called the zones of
+accumulation and ablation. When two of these objects are near each other on a mountain, they can cause the
+formation of an arête (ar-RET). The movement of these objects caused the formation of such geographic
+features as moraines. Types of them include cirque, alpine, valley, and continental. For 10 points, name
+these large moving masses of ice.
+ANSWER: glaciers [accept alpine glacier or cirque glacier or valley glacier until "moraines;" do not
+accept or prompt on specific types of glaciers after "moraines"]
+36. The product of one type of this process is recycled in the Cori Cycle after it is transported to the liver.
+This biochemical process is preferred over oxidative phosphorylation by organisms like yeast, and it is
+essential to such diverse phenomena as muscle soreness and the brewing of beer. For 10 points, name this
+alternative pathway to cellular respiration, in which cells anaerobically break pyruvate into products like
+ethanol or lactic acid instead of oxidizing it to carbon dioxide.
+ANSWER: fermentation
+37. The Hoffman modulation contrast type of these devices enhances phase gradients. A component named
+after Nomarski (no-MAR-skee) is used in the differential interference contrast type of these devices. Abbe
+(AH-BAY) condensers are attached to these devices. Confocal ones remove light that is out of focues. They
+have objective and ocular pieces. The multiplication of the strengths of two of their pieces gives the total
+magnification. For 10 points, name these laboratory devices that magnify images of cells and other
+structures.
+ANSWER: optical microscopes
+38. These compounds form Weinreb amides by the Wittig reaction, and varieties of these substances with
+alpha-hydrogen centers participate in a type of tautomerism named for these compounds and enols.
+Examples of these compounds include a compound with abbreviated formula Ph2CO ("P-H-TWO-C-O"),
+benzophenone, which like other members of this family features a carbonyl group. For 10 points, name this
+functional group which consists of a carbon double bonded to an oxygen and to two other carbon atoms.
+ANSWER: ketones
+
+NASAT Tryout Set: Science Page 6 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+39. A thermal inversion can cause rays to wrap around the earth in the infinite form of this phenomenon.
+That difference in temperature can also allow sound to travel farther due to this effect, such as sound
+traveling over a lake. This phenomenon is no longer observed once an angle of incidence reaches a critical
+angle and causes total internal reflection. One is the minimum value for the index associated with this effect;
+that index, denoted n, is equated with angles of incidence via Snell's Law. For 10 points, name this
+phenomenon in which a wave changes velocity upon entering a different medium.
+ANSWER: refraction
+40. These devices are typically used in traffic light sensors, and their impedance is proportional to angular
+frequency. Like resistors, when these devices are arranged in series or in parallel their strength is combined.
+The energy stored by these devices is proportional to one half times the current squared. The L in RLC
+circuits refers to these devices. These devices, which include solenoids and toroids, are represented in circuit
+diagrams by a coil. For 10 points, name these electrical devices that can store energy in a magnetic field.
+ANSWER: inductors
+41. The gene "mothers against decapentaplegic" (DECK-uh-PEN-tuh-PLEE-jick) was discovered in this
+model organism. Genes such as bicoid (BI-coyd), oscar, and hunchback are important for its early
+development, which takes place in a syncytium. One mutant of it is eyeless. Polytene (PAHL-ee-teen)
+chromosomes can be found in this organism, as can P elements. Features of this organism includes bristles,
+ommatidia (OM-muh-TID-ee-uh), and wings. Thomas Hunt Morgan did his primary genetic research on this
+organism. For 10 points, name this insect model organism.
+ANSWER: Drosophila melanogaster [or fruit fly]
+42. Though it is not the kidneys, the tissue surrounding arteries in this organ is called a Malpighian
+(mal-PEE-gee-uhn) body. One type of tissue in this organ is made up of Cords of Billroth. Along with the
+liver and bone marrow, the body stores ferritin (FAIR-it-in) bound iron in this organ. The two main types of
+tissue in this organ meet at the "marginal zone." Along with the thymus, this part of the lymphatic system is
+the only organ that contains efferent lymphatic vessels. This organ is made up of red pulp and white pulp.
+For 10 points, name this organ that removes old red blood cells from the blood.
+ANSWER: spleen
+43. One model for the formation of these regions was proposed by John T. Wilson. One of these regions,
+nicknamed the "Great Meteor," may be responsible for diamond-containing kimberlite deposits. Rhyolites
+(RYE-oh-lites) are formed when basaltic magma from these regions bubbles under a continental crust. One
+of them created the Galapagos island chain. A currently active one resulted in the formation of the Hawaiian
+island chain. For 10 points, name these areas on the earth's crust where very hot plumes of magma result in
+unusually high levels of volcanic activity.
+ANSWER: hotspots [or mantle plumes]
+44. An alternate name for this type of reaction is "metathesis" (muh-TATH-uh-sis). If one of the products of
+this kind of reaction breaks down to release a gas, it is an effervescent reaction. This type of reaction is also
+undergone when acids and bases are neutralized to form salts. This type of reaction differs from a redox
+reaction in that no reactant changes oxidation states. In the most common form of this kind of reaction, two
+ionic solutions are added to each other to form a precipitate. For 10 points, name this type of reaction in
+which portions of two reactants swap positions with each other.
+ANSWER: double displacement reactions [or double replacement reactions]
+
+NASAT Tryout Set: Science Page 7 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+45. This material completely surrounds lands known as "kipuka." A landform called a tuya results when this
+substance is found beneath a glacier. This substance interacts with water to form the "pillow" type of it.
+When this substance is very liquid, it is known as pahoehoe (pa-HOY-hoy). When this material takes on a
+chunky consistency, it is known as aa (AH-ah). Composite, or "strato" cones, alternate between this emitting
+this material and expelling tephra and ash. For 10 points, name this type of molten rock, the above-ground
+counterpart of magma.
+ANSWER: lava [do not accept "magma"]
+46. This organ is calcified in a condition named for its resemblance to porcelain, and a condition caused by
+an excess of cholesterol is named for this organ's resemblance to a strawberry. Like the pancreas, it is
+emptied through the action of the hormone cholecystokinin (COAL-uh-sis-toe-KINE-in). Its cystic duct
+connects with the common hepatic duct; that connection forms a duct named for a substance the liver
+produces but this organ stores. For 10 points, name this organ found just above the liver, whose main
+function is to store bile.
+ANSWER: gallbladder
+47. Data serialization and restoring serialized data requires these objects to be "swizzled" and "unswizzled."
+Nonstatic methods implement one of these called "this." Each node of a doubly linked list includes two of
+these, often called "next" and "previous;" the head and tail nodes have one each of these set to NULL. These
+objects are "dereferenced" to obtain the value at the address they indicate. For 10 points, name these
+variables present in many programming languages, notably C and C++, that store a memory address.
+ANSWER: pointers
+48. Cajal (kuh-HALL) bodies in this structure contain scaRNAs, which direct post-transcriptional
+modifications of another type of RNA unique to this structure. Transport into and out of this organelle is
+dependent on a GTPase called Ran. Importins and exportins move proteins across this organelle's membrane.
+A smaller organelle within this one is the site of ribosome (RYE-bo-some) production. This organelle is
+surrounded by a membrane known as its "envelope," which breaks down and disintegrates during prophase.
+For 10 points, name this organelle that contains much of a cell's genetic material.
+ANSWER: cell nucleus
+49. In complete metric spaces, Cauchy sequences always have one of these. Those of a function can be
+found using the sandwich theorem and a typical definition is that for some delta region around x, f(x) will be
+within some epsilon region. A technique for finding indeterminate ones of functions of form f(x)/g(x) c uses
+the ratio of the respective derivatives and is better known as L’Hôpital’s rule. These are often used to give
+define derivatives. For 10 points, name this concept often given as the value of a function as it approaches a
+certain point.
+ANSWER: limit
+50. One problem concerning the substances is solved using the Sackur-Tetrode equation and is presented in
+the Gibbs paradox. The law named for these substances is not effective when dealing with high pressures or
+low temperatures. That law is a combination of laws named for Charles and Boyle. These substances are
+assumed to have no attractions between themselves, and have completely elastic collisions. For 10 points,
+name this hypothetical form of a phase of matter, which is modeled by its same named equation of PV=nRT
+("P-V equals N-R-T").
+ANSWER: ideal gases [prompt on gases]
+
+NASAT Tryout Set: Science Page 8 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+51. The Harris Matrix makes use of the laws of this scientific field. This field was advanced by the laws of
+Nicholas Steno, who theorized that assuming original horizontality and lateral continuity were important in
+this field. Terms in this field include "anticline" and "sincline." The first work in this field was the Law of
+Superposition, which assumed that the oldest material was on the bottom and the youngest material was on
+top. The iridium-rich K-T boundary was discovered using this discipline. For 10 points, name this branch of
+geology, the study of layers of rock.
+ANSWER: stratigraphy [prompt on geology]
+52. Free radicals act as messengers in the namesake "signaling" of these reactions. Disproportionation
+(DIS-pro-por-shun-AY-shun) reactions occur when different atoms of the same element undergo both
+half-reactions of this class of reactions. The two half-reactions which make up these reactions take place in
+the two half-cells of an electrochemical (ee-LECK-tro-KEM-ih-kul) cell. For 10 points, name this class of
+reactions which involve a change in oxidation number, named for the fact that they consist of reduction and
+oxidation.
+ANSWER: redox reactions [or oxidation-reduction reactions before "reduction"; or reduction-oxidation
+reactions before "reduction"]
+53. When these materials interface with other materials, Andreev (ahn DREE yev) reflection can occur. A
+phenomenological theory of these was developed by Lev Landau and Vitaly Ginzberg. They expel magnetic
+fields from their interior in the Meissner Effect. Coming in Type I and Type II varieties, these materials are
+described as the result of electrons condensing into Cooper pairs by BCS theory. For 10 points, name these
+materials, which have zero resistance at low temperatures.
+ANSWER: superconductors [prompt on superconductivity]
+54. Python employs the "duck" way of determining these constructs. C++ can use RTTI to determine these
+at runtime as a form of introspection, and C++ uses templates in a similar fashion to "generic" ones.
+Programming languages can be classified by having static, dynamic, strong, or weak systems of these. If
+built into a language they can be called "primitive," while object-oriented programming allows the
+programmer to implement new ones. For 10 points, name these programming constructs which include
+characters, bools, integers, floats, and strings.
+ANSWER: data types
+55. One formulation of this value uses Slater's rules to find a effective nuclear charge, which is then divided
+by the covalent radius. The Allred-Rochow (ROSH-ow) formulation of it does not account for the d-block
+elements. Allen suggested that this value is related to the average energy of a certain particle, and Mulliken
+defined it as the mean of first ionization energy and electron affinity. Fluorine possesses the highest value
+for, for 10 points, what quantity proposed by Pauling as a measure of an atom's ability to attract electrons to
+itself?
+ANSWER: electronegativity
+56. The Czochralski (cho-KROLL-skee) technique is a way of synthetically making these. The intercepts of
+the axes of the structure of these can be used to determine their Miller indices, and fourteen structures named
+for Bravais (bruh-VAY) can be used to describe these. The packing factor of these indicates the percent of
+space used by matter. Their structure can be classified using terms like orthorhombic (OR-tho-ROM-bick),
+monoclinic, and face-centered cubic. For 10 points, name these solids made of repeating patterns of atoms or
+molecules, examples of which include ice and quartz.
+ANSWER: crystals [prompt on lattices; accept crystal lattices]
+
+NASAT Tryout Set: Science Page 9 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+57. The sequence KDEL marks proteins for retention in this structure. Chaperone proteins located in this
+structure fold newly created proteins. A specialized variety of this structure stores calcium ions and is found
+in smooth and striated muscle. That "sarcoplasmic" (sar-co-PLAZZ-mic) type of this organelle is in turn a
+subset of a type of this structure which is the location of carbohydrate and steroid metabolism. That type is
+known as "transitional" or "smooth." For 10 points, name this organelle, which also has a "rough" type that
+contains ribosomes (RYE-bo-soams).
+ANSWER: endoplasmic reticulum [or ER; or smooth endoplasmic reticulum; or rough endoplasmic
+reticulum; prompt on sarcoplasmic reticulum; prompt on SR]
+58. One class of this phylum is distinguished by the presence of a pharynx that opens into the gastrovascular
+(GAS-tro-VAS-kyoo-lurr) cavity and is known as the actinopharynx (ack-TIN-o-FAIR-inks). One member
+of this phylum, Chironex fleckeri (KY-ro-nex FLECK-er-eye), is in the class Cubozoa (CUBE-oh-ZO-uh).
+Its class Anthozoa (AN-tho-ZO-uh) contains corals. Organisms in this phylum are characterized by stinging
+cells known as nematocytes (nuh-MAT-oh-sites) and grow from a polyp to a medusa. For 10 points, what
+marine phylum includes sea anemone, hydra, and jellyfish?
+ANSWER: Cnidaria (ni-DARE-ee-uh)
+59. This statement is invoked in the Born-Haber (BORN HAW-ber) cycle. This statement follows from the
+fact that the quantity it concerns is a state function, and therefore its value is independent of the system's
+trajectory. This statement is often framed in terms of the heats of formation of reactants and products. For 10
+points, name this statement of thermodynamics that suggests that a reaction's enthalpy change is equal to the
+sum of the enthalpy changes of each step.
+ANSWER: Hess's Law
+60. "Low barrier" types of these entities occur in the catalytic triad of serine proteases. A unique form of
+these is present in borane-ammonia complexes. In RNA and proteins, they are chiefly responsible for
+secondary structure. Water expands upon freezing because these entities become ordered. They usually
+involve fluorine, nitrogen, or oxygen and their namesake element. For 10 points, name these exceptionally
+strong dipole-dipole interactions.
+ANSWER: hydrogen bonds
+61. Sputnik is the name given to an infection that targets the unusually complex Mimi one of these agents.
+They can be classified under the Baltimore scheme. One class of them is responsible for the E6 and E7
+oncogenes, and some of them have gag genes. Their reproductive cycle can be classified as lysogenic or
+lytic. Their central component is a protein capsid which encloses their genetic material, which can be RNA
+in the "retro" type. For 10 points, name these infectious agents that require a host cell to replicate.
+ANSWER: virus
+62. An open question about these is whether those that exploit randomness such as those related to languages
+in BPP are more powerful than deterministic ones. Models on which the behavior of these evaluated include
+the cell probe, decision tree, and PRAM. If they exploit optimal substructure and memoization they can be
+considered "dynamic" and if they recursively breakup a problem they are "divide and conquer". Examples
+include the Bellman-Ford, Euclid's, and Dijkstra (DIKE stra)'s. For 10 points, name these methods of solving
+a problem in a finite number of steps, some of which are "sort" and "search" ones.
+ANSWER: algorithm [or computation; accept Turing machine before cell probe]
+
+NASAT Tryout Set: Science Page 10 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+63. This substance is assumed to have vertical equipotential lines in order to simplify solutions to an
+equation for its movement. That assumption named for Dupoit is invoked along with Darcy's law to explain
+this substance's movement. Pockets of air are found alongside it in the vadose zone. It is present in any
+bedrock pore in the phreatic zone. Structures that contain it can emit it spontaneously if its namesake "table"
+is above ground level. This substance flows freely from artesian wells. For 10 points, name this substance,
+which is found in porous rock in aquifers.
+ANSWER: water [accept groundwater; or underground water; or H2O; or other reasonable equivalents]
+64. Early development of some of these cells are guided by netrin (NET-rin) and semaphorin
+(SEM-uh-FOR-in) proteins. Historically, reticular (RET-ick-YU-lar) theory contrasted with these cells'
+namesake doctrine. Examples of these cells include pyramidal cells and Purkinje (pur-KIN-jee) cells. The
+cell body of one of these cells is known as the soma, and a "hillock" in these cells generates an action
+potential, which is propagated down the axon. For 10 points, name these cells of the nervous system.
+ANSWER: neurons
+65. The Havel-Hakimi theorem gives the conditions for a sequence to correspond to one of these. Ramsey's
+theorem deals with the coloring of complete ones. They can occur in undirected and directed forms, the
+latter of which gives a direction to one of their components. Hamilton and Euler (OY-ler) name cycles in
+these; Euler's is used in the Seven Bridges of Konigsberg Problem, which launched the study of them. For 10
+points, name these mathematical objects made of vertices and edges.
+ANSWER: graphs
+66. Nickel is purified in the Mond process by reacting it with this compound. This compound can react with
+chlorine gas to form phosgene (FOSS-jeen), which was once used as a chemical weapon. A mixture of it
+with hydrogen gas is called syngas. It is referred to as carbonyl (CAR-bo-neel) when it functions as a ligand.
+In the body, hemoglobin (HEE-mo-glo-bin) is about two hundred times more likely to bond to this
+compound than oxygen. It is formed in incomplete but not complete combustion reactions. For 10 points,
+name this odorless, colorless gas that is often called "the silent killer," which has the formula CO.
+ANSWER: carbon monoxide [or CO before mentioned]
+67. Some models of this process have a LS factor, and the most common model for it is the revised USLE.
+This process comes in sheet, rill, and gully forms. It opposes orogeny and loosens the ped structure. The
+products of this process can undergo deposition. Fluvial, aeolian, and glacial processes cause this process,
+which can be increased by a lack of vegetation. It is similar to, but not the same as, the related concept of
+weathering. For 10 points, name this process by which materials such as soil are moved, such as when a
+stream wears down its banks.
+ANSWER: erosion
+68. A recently developed one of these with a good proven competitive ratio is called tango. One of these that
+operates on a restricted key set with log log n performance is named after van Emde Boas (vahn EM-dah
+BOH-az). The zig-zag step is one of the steps which can be used in creating the splay type of these. A set of
+coloration rules are used in the red-black type, which is an example of the balanced binary search class of
+these. Their topmost nodes are known as root nodes. For 10 points, name these data structures whose
+terminal nodes are called leaves.
+ANSWER: trees
+
+NASAT Tryout Set: Science Page 11 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+69. One section of this organ contains a mass of lymphoid (LIM-foid) tissue called Peyer’s (PAY-erz)
+Patches. Another section of this organ receives a material from the pylorus known as chyme. Like the
+esophagus, this organ uses a contractile motion known as peristalsis (PAIR-ee-STALL-sis). This organ
+receives the enzymes trypsin (TRIP-sin), lipase (LYE-"pace"), and amylase (AMM-ill-ase), which break
+down proteins, lipids, and starches, respectively. For 10 points, name this organ divided into the jejunum,
+ileum, and duodenum, whose main function is to digest food before it passes into the large intestine.
+ANSWER: small intestine [accept ileum before "chyme" is read]
+70. This function's Taylor series approximation begins 1 - X2/2! + X4/4! ("One minus X squared over two
+factorial plus X to the fourth over four factorial"). In Euler's Formula, this function added to i(sin(x)) ("I
+times the sine of X") is equal to eix ("E to the I X"). This function is also equal to the square root of 1-sin2
+(theta) ("One minus sine squared of theta") and approaches zero as theta approaches p/2 ("pi over two").
+Name this function equal to a triangle's adjacent side over its hypotenuse.
+ANSWER: cosine
+71. This law's integral and differential forms can be related by the Kelvin-Stokes Theorem. The original
+formulation of this law broke the rule that the divergence of a curl must be zero; that flaw was corrected with
+the addition of a displacement current by James Maxwell. In cases with the requisite symmetry, this law is
+used in place of the more cumbersome Biot-Savart (BEE-oh suh-VAR) Law. For 10 points, name this law
+that states that the line integral of the magnetic field around a closed loop is proportional to the current
+passing through it.
+ANSWER: Ampere's Law
+72. This is the number of variables that the Ackermann function takes. Euler's formula states that the number
+of vertices, minus the number of edges, plus the number of faces of any convex polyhedron is equal to this
+number. This is the only number for which the reciprocals of its powers sum to the number itself. This is the
+highest number x at which a to the x plus b to the x can equal c to the x, according to Fermat's Last Theorem.
+It is the third number in the Fibonacci series. For 10 points, name this number, the only even prime.
+ANSWER: two
+
+NASAT Tryout Set: Science Page 12 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+NASAT Tryout Set: Science
+Team Rounds
+1. [10] This is a 20-second calculation question. What is the perimeter of a rectangle whose area is 10 and
+whose length is 1.6 times longer than its width.
+ANSWER: 13
+[10] This is a 10-second calculation question. If a rectangular coordinate is 2,sqrt(3), what is it in polar
+form?
+ANSWER: (sqrt(7), pi/6) [or (2.646, 0.524)]
+[10]This is a 10-second calculation question. What is (2x+2sqrt(3))*(2x-2sqrt(3))?
+ANSWER: 4x2-12
+[10] This is a 20-second calculation question. What is 13.916724 divided by 3.49?
+ANSWER: 3.9876
+[10] This is a 30-second calculation question. If Ermes puts $340 in a bank account that pays 3 percent
+annual interest compounded every quarter, how much is in his bank account after four years?
+ANSWER: 383.18
+[10] This is a 30-second calculation question. What is the harmonic mean of 1 through 6 in reduced
+fractions? The harmonic mean is the reciprocal of the average of the reciprocals of the values.
+ANSWER: 120/49
+2. [10] This is a 30-second calculation question. What is 8x5 + 6x4 + 42x3+29x2+55x+35 divided by 2x2+5?
+ANSWER: 4x3+3x2+11x+7
+[10] This is a 30-second calculation question. Suppose you have 256 meters of rope. What is the largest
+rectangular area that you can enclose with the rope?
+ANSWER: 4,096 square meters
+[10] This is a 10-second calculation question. What is 9.5*7.23?
+ANSWER: 68.685
+[10] This is a 10-second calculation question. If Ludmilla has three different pairs of shoes, seven scarves,
+and eleven different hats, how many different outfits can she make from those items?
+ANSWER: 231
+[10]This is a 20-second calculation question. If a triangle has two angles of 30 and 105 degrees, a side length
+of 2*squareroot(2-squareroot(2)) opposite the unknown angle, and another side of length 2, what is the
+length of the unknown side?
+ANSWER: 2
+[10]This is a 20-second calculation question. What is 3.74?
+ANSWER: 187.4161
+
+NASAT Tryout Set: Science Page 13 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+3. [10] This is a 20-second calculation question. If Professor Persikov has has an initial population of four
+frogs and the population doubles every 4 weeks, how many frogs does he have after a year? You may
+assume that there are 52 weeks in a year.
+ANSWER: 32,768
+[10] This is a 10-second calculation question. What is the value of w if 3w=7w+11? Give your answer in
+decimal form.
+ANSWER: -2.75
+[10] This is a 10-second calculation question. What is 7/3 divided 2/9?
+ANSWER: 21/2 [or 10.5]
+[10] This is a 20-second calculation question. What is 3.567*9.877?
+ANSWER: 35.231259
+[10] This is a 30-second calculation question. Consider a cone of height h and radius r. If 14h=336 and
+3r+3=h and we approximate pi by 3.14, what is the surface area of the cone?
+ANSWER: 703.36
+[10] This is a 30-second calculation question. What are the roots of x3 - 5.5x2 - 17.5x + 49?
+ANSWER: x=-3.5, 2, 7 [accept in any order]
+4. [10] This is a 10-second calculation question. Add eight and six-sevenths plus thirty-four and one-quarter.
+ANSWER: 1207/28 [or 43 3/28]
+[10] This is a 10-second calculation question. Find 32 percent of 73.
+ANSWER: 23.36
+[10] This is a 20-second calculation question. Every domino in a set of dominoes is two inches long,
+three-quarters of an inch wide, and one-quarter of an inch thick. How many of these dominoes can fit in a
+box that is four and a half inches wide, four inches long, and two and three-quarters inches high?
+ANSWER: 132
+[10] This is a 20-second calculation question. A company finds that demand for its widgets follows the
+equation 100 minus 2p, if p is the price they charge for each widget; and the amount of money earned by the
+company is the product of the price and the quantity sold. What price earns the largest revenue?
+ANSWER: $25
+[10] This is a 30-second calculation question. You have a coin that lands heads-up 75% of the time when it
+is flipped. If you flip this coin four times, find the probability of getting exactly three heads.
+ANSWER: 27/64
+[10] This is a 30-second calculation question. Find cos(sin-1 -6/13) ("cosine of the arcsine of negative
+six-thirteenths").
+ANSWER: (square root 133)/13
+
+NASAT Tryout Set: Science Page 14 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+5. This is a 20-second calculation question. Divide 9.4624 by 7.09.
+ANSWER: 1.36
+This is a 10-second calculation question. A banner is placed on a 12-foot wall. If the banner covers 35% of
+the length of the wall, what is the length of the banner in feet and inches?
+ANSWER: 4 feet, 2.4 inches
+This is a 30-second calculation question. Solve the system of equations -8x+2y-4z = -40; 3y-8z = -12;
+-8x+9y-4z=-68.
+ANSWER: (4, -4, 0)
+This is a 10-second calculation question. Evaluate 3x2 - 7x + 9 when x = -3.
+ANSWER: 57
+This is a 20-second calculation question. Three of the corners of a rectangle are at the points (10, 10), (5,0),
+and (2, 4). Find the location of the fourth corner.
+ANSWER: (13, 6)
+This is a 30-second calculation question. According to a recent census, a certain town has 590 households
+with no children, 1826 households with one child, 1574 households with two children, 153 households with
+three children, and 26 households with four children. In this town, to the nearest tenth, what is the average
+number of children per household?
+ANSWER: 1.3
+6. This is a 20-second calculation question. Evaluate (2/15)2 times 25 plus 3 times 4/7.
+ANSWER: 136/63 [or 2 10/63]
+This is a 10-second calculation question. Find the least common multiple of 6, 12, 15, and 40.
+ANSWER: 120
+This is a 10-second calculation question. Find the center and radius of the circle with equation x2 - 12x + y2
++ 4y = 41.
+ANSWER: center (6, -2) and radius 9
+This is a 20-second calculation question. Simplify the expression (x2+11x+24)/(x2-9).
+ANSWER: (x+8)/(x-3)
+This is a 30-second calculation question. Using 3.14 as the value for pi, give the volume of a cylinder with
+radius 7 inches and height 4 inches.
+ANSWER: 615.44 cubic inches
+This is a 30-second calculation question. In a population with a mean height of 67 inches and a standard
+deviation of 2.5 inches, find the standard score (or z-score) of a person with a height of 71 inches.
+ANSWER: 1.6
+
+NASAT Tryout Set: Science Page 15 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+7. This is a 10-second calculation question. Multiply 7.55 times 3.8.
+ANSWER: 28.69
+This is a 10-second calculation question. Give the prime factorization of 16,200.
+ANSWER: 233452
+This is a 20-second calculation question. Factor: 8x2 + 78x + 85.
+ANSWER: (4x+5)(2x+17) [order of factors does not matter]
+This is a 20-second calculation question. Find the foci of the hyperbola with equation 5(x-2)2 - 3(y+1)2 = 30.
+ANSWER: (-2, -1) and (6, -1)
+This is a 30-second calculation question. Find the surface area of a cylinder that has a radius of 9 inches and
+a height of 13 inches. Use 3.14 as an approximation for pi.
+ANSWER: 1243.44 square inches
+This is a 30-second calculation question. A coin is weighted to land heads 60% of the time. If you flip this
+coin three times, what is the probability that you will get at least two heads?
+ANSWER: 81/125 [or 0.648]
+8. [10] This is a 20-second calculation question. Suppose 20% of the books on your bookshelf have covers
+and the rest do not. Furthermore, you have not read 70% of the books with covers and 60% of the books
+without covers. Given a random book off of your shelf that you have read, what is the probability in lowest
+terms that it has a cover?
+ANSWER: 3/19
+[10] This is a 10-second calculation question. Add 4/11 and 5/7.
+ANSWER: 83/77
+[10] This is a 10-second calculation question. Evaluate 3x4 + 2y when x =3 and y=7.
+ANSWER: 257
+[10] This is a 30-second calculation question. Factor 16z2 - y2 - 6y - 9.
+ANSWER: (4z-y-3) (4z+y+3)
+[10] This is a 30-second calculation question. Using 3.14 for pi find the area of the ellipse whose foci are
+(2squareroot(10), 0) and (-2squareroot(10)), and whose eccentricity is (2squareroot(10))/11.
+ANSWER: 310.86
+[10] This is a 20-second calculation question. Guglielmo wants to make as many pizzas as he can for $200.
+Sauce costs $1.50 a can and there is enough sauce per can for 2 pizzas. Cheese costs $2 a pack and has
+enough for one pizza. Dough costs $3 a can and is enough for 1.5 pizzas. Assuming he can only make an
+integer number of pizzas, if he makes the maximum number of pizzas, how much money will he have left?
+ANSWER: 50 cents
+
+NASAT Tryout Set: Science Page 16 of 16
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

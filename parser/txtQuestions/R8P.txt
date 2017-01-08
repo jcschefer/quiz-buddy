@@ -1,0 +1,606 @@
+The Illinois Mathematics and Science Academy of Aurora, IL,
+
+in partnership with Loyola Academy of Wilmette, IL, present
+
+IMSANITY 3
+-ROUND 8Editors
+
+Writers
+
+Noah Prince
+
+Lael Costa
+Siva Gangavarapu
+Webster Guan
+Adam Kalinich
+Anton Karpovich
+Sabrina Lato
+
+Adam Kalinich
+Sabrina Lato
+Morgan Venkus
+
+with special contributions from. . .
+Brad Fischer
+Jacob O’Rourke
+
+Nolan Maloney
+Eric Ordonez
+Noah Prince
+Saieesh Rao
+Ian Torres
+Morgan Venkus
+
+IMSANITY 3
+
+Tossups
+(1) CT scans have linked this disease to enlarged Sylvian fissure. This disease has
+been historically treated with chlorpromazine, although clozapine has been used
+more recently to treat suicidal behaviors. Incoherent speech and illogical thoughts
+characterize its disorganized, or (∗ ) hebephrenic, type. Other types include one marked by
+posturing and stupor and another defined by delusion and auditory hallucinations. Coming in
+catatonic and paranoid varieties, for ten points, name this psychological disorder whose name
+means “split mind”.
+ANSWER:
+
+schizophrenia
+
+(2) This artist painted a dog sleeping at the head of a bed in an otherwise-empty room
+with a single window in The Master’s Bedroom. This man painted a blonde woman
+with her hair down and topped with a bouquet in Crown of Flowers, and painted
+the same woman in a gray turtleneck sweater and a different hairstyle in Braids;
+those two are among over two hundred of his paintings of (∗ ) Helga Testorf. In his
+most famous work, a grey house atop a grassy hill is approached by a disabled woman in a pink
+dress crawling. For ten points, name this American realist painter of Christina’s World.
+ANSWER: Andrew Wyeth
+
+(3) Tushratta married his daughter to this leader hoping to ally against Suppiluliuma
+I. That daughter, Tadukhipa, is speculated to be the same person as either Kiya or
+this leader’s main wife, while another theory about that main wife is that she was
+the daughter of Ay, an advisor who succeeded this ruler’s son. His correspondence
+with the Hittites is recorded in the Amarna letters. After (∗ ) changing his name from
+Amenhotep IV, he suppressed the worship of Amon. Called “the first individual in history”, for
+ten points, name this husband of Nefertiti and predecessor of Tutankhamen who converted to
+the monotheistic religion of Aton.
+ANSWER:
+mentioned)
+
+Akhenaten (accept Amenhotep IV until mentioned, prompt on Amenhotep until
+
+Round 8- Page 1
+
+IMSANITY 3
+
+(4) In one novel set in this city, Daniel Quinn draws a map of the wandering of Peter
+Stillman as he spells out “The Tower of Babel.” This setting of Paul Auster’s City
+of Glass was also the setting of a novel where the only place quieter than Sherry’s
+to go for tea was the house of Lawrence Sheldon. In another novel set here, Ellen
+Thatcher marries George Baldwin after she divorces Jimmy Herf. Lily Bart lives
+here in Edith Wharton’s The House of Mirth, and in a short story set in this city,
+Della (∗ ) sells her hair and Jim sells his watch. The setting of The Gift of the Magi, for ten
+points, identify this city, setting of O. Henry’s collection The Four Million and John Dos Passos’s
+Manhattan Transfer.
+ANSWER:
+
+New York City
+
+(5) Svante Arrhenius convinced the Nobel Prize committee not to award the prize to this
+scientist because he claimed that man’s invention was too old. A proponent of the
+abiogenic theory of petroleum, this scientist also invented a gunpowder substitute,
+pyrocollodion, for his country’s navy using nitrocellulose. He used Sanskrit prefixes
+in naming eight undiscovered elements, as in (∗ ) ekasilicon, which was later renamed
+germanium. His most famous invention was improved by Henry Mosley who used atomic number
+instead of atomic weight. For ten points, name this Russian chemist who invented the periodic
+table of the elements.
+ANSWER: Dmitri Mendeleev
+
+(6) A recent battle in the Salaheddin district of one this country’s major cities was
+won in favor of rebel forces after the intervention of a group with ties to alQaida. That group, the Jabhat al-Nusra, has been responsible for the murder of
+Mohammed al-Saeed and a mass execution at Deiz ez-Zor. This country also saw a
+January suicide bombing in its capital city’s district of al-Midan. A ceasefire was
+announced in response to the four day (∗ ) Eid al-Adha holiday, although doubts arose
+after government attacks in the cities of Duma and Aleppo. For ten points, name this country
+currently experiencing a civil war led by Bashar al-Asad.
+ANSWER:
+
+Syrian Arab Republic
+
+(7) According to Apollodorus, one of this figure’s sons was Parthenopaeus, one of the
+Seven Against Thebes, and Medea healed a wound this Argonaut took while escaping
+Colchis. This figure defeated Peleus in a wrestling match at the funeral games of
+Pelias and prevented a rape by killing the centaurs Rhoecus and Hylaeus for an
+attempted rape. This figure (∗ ) refused to wed anyone who could not win a footrace, but
+was married after being distracted by golden apples. Turned into a lion, for ten points, name
+this Greek huntress who married Melanion.
+ANSWER:
+
+Atalanta
+
+Round 8- Page 2
+
+IMSANITY 3
+
+(8) This author wrote a poem about the love Anelida had for a false knight, and in a
+short story by this author, Canace uses a ring to talk to birds and build a cage for
+a falcon whose lover left her for a kite. He called Jason the “root of false lovers”
+in The Legend of Good Women and Scipio Africanus guides the narrator through
+Venus’s temple and outside in this author’s Parlement of Foules. Phoebus kills his
+wife and turns his pet crow’s feathers black in one story, and in another (∗ ) Arcite
+and Philamon fight over the hand of Emily. He included the Squire’s Tale, Manciple’s Tale, and
+Knight’s Tale with stories of 26 other pilgrims in his most famous work. For ten points, identify
+this author of The Canterbury Tales.
+ANSWER: Geoffrey Chaucer
+
+(9) An 1890 Harvard Law Review article titled after this concept was cited by the
+majority in Kyllo v. United States and was written by Samuel Warren and Louis
+Brandeis. Harry Blackmun claimed that the majority ignored this concept in his
+dissent in Bowers v. Hardwick. Hugo Black argued against this right because it is
+not enumerated in the constitution in his dissent in Griswold v. Connecticut, when
+this right was first (∗ ) cited by the Supreme Court. The basis for the decision in Lawrence
+v. Texas and the right to abortion in Roe v. Wade, for ten points, name this concept vaguely
+defined as the “right to be let alone.”
+ANSWER: Right to Privacy
+
+(10) Alternating groups consist of permutations with this property. A connected graph
+with this property has an Eulerian circuit. This property names a part of a function
+found by averaging f of x and f of minus x. Euler found a formula for all perfect
+numbers with this property, and all known perfect numbers have this property.
+A function satisfying f of x equals (∗ ) f of negative x has this property, which causes
+reflectional symmetry over the y-axis in the graphs of cosine of x and x squared. For ten points,
+name this property of integers which are divisible by 2.
+ANSWER:
+
+even
+
+Round 8- Page 3
+
+IMSANITY 3
+
+(11) This figure names a Jackson Pollack painting with red, yellow, and white streaks
+against a brown background entitled The Wooden [one]. These figures are the
+foremost in Alfred Stieglitz’s photograph Winter, Fifth Avenue. One of these figures
+peeks through curtains in Henry Fuseli’s The Nightmare. Leonardo da Vinci never
+completed his sculpture of one of these figures, and a statue in Padua sculpted
+by Donatello features one of these figures with (∗ ) Gattamelata. The first two title
+characters of Albrecht Dürer’s Knight, Death, and the Devil appear on these figures, as does the
+title character of Frederick Remington’s The Bronco Buster. For ten points, identify this type of
+animal featured in equestrian statues.
+ANSWER:
+
+horse (accept The Wooden Horse on an early buzz)
+
+(12) One form of this process can be used in image processing to remove noise; this is
+the Perona-Malik type. A characterization of this process involving mobility and
+the Boltzmann constant was named after Smoluchowski and Einstein. Separate
+coefficients of this process are given by the Maxwell-Stefan model and by (∗ ) Fick’s
+Laws, where its rate is proportional to the square of velocity. This process is used to separate
+isotopes of uranium, and proteins in the cell membrane give rise to its facilitated type. This
+process is characterized by Brownian motion, and this process occurring to water is called osmosis.
+For ten points, name this process where molecules move from an area of high concentration to
+low concentration.
+ANSWER:
+
+diffusion
+
+(13) In one story by this author, the title characters live in a cylinder fifty meters in
+circumference and sixteen meters high. This author of The Lost Ones wrote about
+a man who notices dangling objects when a whistle rings in Act Without Words,
+and in a novel, Jacques Moran attempts to track down the titular figure, Molloy.
+One character of his needs to look up “viduity,” a word he’d known thirty years
+before, and another discusses divine apathia, divine athambia, and divine aphasia
+when commanded to “think.” This author of (∗ ) Krapp’s Last Tape wrote a play in which
+Nell and Nagg live in trash cans and Clom serves Hamm, Endgame. For ten points, identify this
+author of Waiting for Godot.
+ANSWER: Samuel Barclay Beckett
+
+Round 8- Page 4
+
+IMSANITY 3
+
+(14) One character in this opera empties her sleeves to show her possessions to her fiance,
+but doesn’t show him her most prized possession, the knife her father used to kill
+himself. One character realizes marriage isn’t like buying a house in Io so che
+dolore, and he’d earlier promised to return “with the roses... when the robins make
+their nest.” After one character converts to Christianity, her uncle Bonze curses her,
+and she later sings the aria Un bel di. After Sharpless introduces the protagonist
+to her husband’s (∗ ) new wife Kate, she blindfolds her son Sorrow and kills herself. For ten
+points, identify this opera in which Pinkerton marries and then abandons Cio-Cio San, a work
+by Giacomo Puccini.
+ANSWER:
+
+Madama Butterfly (or Madame Butterfly)
+
+(15) The longest-lasting dynasty of these people was founded in Antioch by Bohemund,
+and Roger of these people conquered Sicily. Another leader of these people pushed
+the Byzantines out of Italy by conquering Bari; that man was Robert Guiscard. In
+addition to those members of the Hauteville family that founded the Kingdom of
+Sicily, another leader of these people married Matilda of Flanders and won a battle
+by capturing Senlac Hill. That leader of these people was nicknamed “The Bastard”
+and commissioned the (∗ ) Domesday Book and the Bayeux Tapestry, which depicted his
+victory over Harold Godwinson at the battle of Hastings. For ten points, name these people
+descended from Vikings whose leader William the Conqueror conquered England.
+ANSWER:
+
+Normans
+
+(16) One clade in this group of organisms, xenarthra, only has one species naturally
+found in the United States. This group of organisms contain two bones important
+in sensing that are derived from the quadrate and articular bones of a related group
+of vertebrate. In addition to comprising all known amniotes with reptiles, they
+contain a temporal fenestra, which labels them as synapsids. Convergent evolution
+resulted in similarities between the two largest clades of this class, the eutherians
+and (∗ ) marsupials. For ten points, name this vertebrate class whose members are characterized
+by hair and milk production.
+ANSWER:
+
+Mammalia or mammals
+
+Round 8- Page 5
+
+IMSANITY 3
+
+(17) One character in this novel correctly guesses that a previous occupant of her room
+had freckles, and in one scene, the government stops announcing the crime people
+were arrested for because they found it led to copy-cats. One character in this novel
+gets the translation “Nolite te bastardes carborundorum” and hand lotion from her
+employer. At the Rachel and Leah Re-Education Center, Moira escapes, and the
+protagonist doesn’t see her again until she goes to Jezebel’s. The main character
+has an affair with Nick and plays (∗ ) Scrabble with the Commander, and keeps both secrets
+from Serena Joy. Set in Gilead with a main character called Offred, for ten points, identify this
+novel by Margaret Atwood.
+ANSWER: The Handmaid’s Tale
+
+(18) A theorem of Koebe states that all finite simple planar graphs can be represented
+by tangencies of these objects. An Apollonian gasket is a fractal made up of these
+objects. The midpoints of the sides of a triangle and the feet of its altitudes all
+lie on one of these objects named for Feuerbach. A cycloid is traced by a point on
+this shape as it moves along a line. For shapes with a (∗ ) fixed perimeter, this shape
+maximizes area. These shapes are described by the polar equation r equals cosine theta and by
+r equals a constant. For ten points, name this shape consisting of all points at a given distance
+from its center.
+ANSWER:
+
+circle
+
+(19) The main perpetrator of this legislation met with Philip Phillips and Archibald
+Dixon to ensure its passing. The Peoria Speech arguing against this legislation was
+given by Abraham Lincoln. After a Massachusetts senator denounced the “Crime
+against” one of its states, he was nearly beaten to death by Preston Brooks of South
+Carolina. The Lecompton Constitution was issued in one of its states in response to
+violence perpetrated by (∗ ) “Border Ruffians.” For ten points, Stephen Douglas urged for
+the passing of which act that advocated for the use of popular sovereignty to organize its two
+namesake states.
+ANSWER:
+
+Kansas-Nebraska Act of 1854 (do not prompt on a partial answer)
+
+(20) This system of beliefs is associated with a feast at which bills of Joss paper are
+burned. A scholar of this faith stated that a turtle preferred living in the mud
+to being dead but venerated. Some important works to this religion include Great
+Peace, Treasury, and its namesake text. Iron Crutch Li is one of this religion’s Eight
+Immortals. Virtues form this religion’s (∗ ) Three Jewels, and its Supreme being in the
+Jade Emperor. Doing without doing, or wu-wei, is a principle upheld by, for ten points, which
+Chinese religion founded by Laozi?
+ANSWER:
+
+Daoism (or Taoism)
+
+Round 8- Page 6
+
+IMSANITY 3
+
+(21) General linear groups are made up of these objects, which are the subject of the
+Rank-Nullity Theorem. The Cayley-Hamilton Theorem states that these objects
+satisfy their own characteristic polynomial, whose roots are this object’s eigenvalues.
+These objects can be put into reduced row echelon form through (∗ ) Gaussian
+elimination, which can be used to find an inverse if it has a nonzero determinant. The transpose
+operation swaps the rows and columns of, for ten points, these rectangular arrays of numbers.
+ANSWER:
+
+matrix or matrices (accept additional adjectives “square” or “invertible”)
+
+Round 8- Page 7
+
+IMSANITY 3
+
+Bonuses
+(1) It states, “Tis our true policy to steer clear of permanent alliances with any portion of the
+foreign world.” For ten points each:
+[10] Name this speech which also warns that political parties alternating in power is just a
+different form of despotism.
+ANSWER: Washington’s Farewell Address
+[10] In Dwight Eisenhower’s farewell address, he warned against the growing influence of this
+entity. He believed that its growing influence would cause wars and create debt for future
+generations.
+ANSWER: Military-Industrial Complex (prompt on “Defense Budget”, do not prompt on
+or accept “military complex” or “industrial complex”)
+[10] This president delivered a weird farewell address where he said “Au revoir” and started
+rambling about random stuff, including a dead little girl. It came the day after he resigned on
+national television.
+ANSWER: Richard M. Nixon
+
+(2) He wrote about kringle makers and Tanya in Twenty Six Men and a Girl. For ten points each:
+[10] Identify this author who wrote a play about Luka and Vaska renting rooms in a boarding
+house from Kostilyov, The Lower Depths.
+ANSWER: Maxim Gorky (or Alexei Maximovich Peshkov)
+[10] Maxim Gorky was the first chair of this organization, which formed after the demise of
+Proletkult.
+ANSWER: USSR Union of Writers or Union of Soviet Writers
+[10] The Union of Soviet Writers formed to keep strict control on literature in the U.S.S.R.,
+including refusing publication of this author’s Doctor Zhivago. When he was offered the Nobel
+Prize in literature, they made this author refuse it.
+ANSWER: Boris Leonidovich Pasternak
+
+Round 8- Page 8
+
+IMSANITY 3
+
+(3) After a performance of this song, The Ed Sullivan Show refused to let the band return due to
+the lyrics “Girl, we couldn’t get much higher”. For ten points each:
+[10] Name this 1967 single in which “the time to hesitate is through” and the listener is
+exhorted to perform the title action.
+ANSWER: Light My Fire
+[10] This band fronted by Jim Morrison performed Light My Fire, as well as Touch Me and
+Break on Through (To the Other Side).
+ANSWER: The Doors
+[10] This Doors song begins with a minor transposition of My Country ’Tis of Thee and uses
+an anagram of Jim Morrison’s name, Mr. Mojo Risin. It asks if the title girl is in “the city of
+light” or “just another lost angel” in the “city of night”.
+ANSWER: L.A. Woman
+
+(4) Three-body scatter spikes are a common indicator of this phenomenon. For ten points each:
+[10] Name this type of precipitation formed in powerful updrafts from large thunderstorms.
+These balls of ice tend to damage crops and cars.
+ANSWER: hail
+[10] Although similar in appearance, this type of precipitation is not related to hail, as it is
+produced from the melting and refreezing of snowflakes.
+ANSWER: sleet (or ice pellets)
+[10] This type of ice crystal is formed close to the ground. It is fine, very effective at producing
+halos, and occasionally produced from snow machines.
+ANSWER: diamond dust
+
+(5) This opera was amended to include a “Polish” scene to add more female vocalists. For ten
+points each:
+[10] Name this opera based on a Pushkin play of the same name about the title Russian tsar.
+It features a Pretender seeking the throne and the love of Marina.
+ANSWER: Boris Godunov
+[10] This composer of Boris Godunov, one of the Mighty Five, depicted a witches’ sabbath in
+Night on Bald Mountain and walking through a gallery in Pictures at an Exhibition.
+ANSWER: Modest Mussorgsky
+[10] In this other Mussorgsky opera, Peter the Great destroys the rebellion of the Streltsy,
+leading to a mass suicide.
+ANSWER: Khovanshchina
+
+Round 8- Page 9
+
+IMSANITY 3
+
+(6) This woman dances the tarantella in order to distract her husband from a letter. For ten
+points each:
+[10] Name this character who refuses the love of Dr. Rank and is the friend of Christine Linde,
+though she can’t help Krogstad keep his job.
+ANSWER: Nora Helmer (accept either portion)
+[10] Nora Helmer appears in this play, where she forges a signature to borrow money for a
+trip to restore her husband Torvald’s health. Nora ultimately leaves Torvald for not equally
+sharing the burdens of marriage.
+ANSWER: A Doll’s House (or Et dukkehjem)
+[10] This Norwegian playwright wrote A Doll’s House in addition to writing about the title
+character and her new husband Jorgen Tesman in Hedda Gabler.
+ANSWER: Henrik Ibsen
+
+(7) They have a compression factor of one which is constant at all pressures. For ten points each:
+[10] Name this class of gases which have not been observed experimentally. Molecules in these
+gases experience no attractive or repulsive forces.
+ANSWER: ideal gases
+[10] The temperature of an ideal gas is proportional to the molecules’ energy of this type.
+Measuring energy of motion, it is calculated as half the product of a gas molecule’s mass and
+the square of its velocity.
+ANSWER: kinetic energy
+[10] Gases whose molecules have more of these entities possess higher heat capacities than
+those with fewer. Linear molecules possess the vibrational variety and nonlinear ones also
+possess the rotational variety.
+ANSWER: degrees of freedom
+
+(8) The Iron Throne for the King of the Seven Kingdoms is pretty awesome. Answer the following
+about some real thrones from history for ten points each.
+[10] Holders of this position sit on the Chrysanthemum Throne. One of them, Hirohito,
+delivered the Jewel Voice Broadcast, and supposedly they are all descended from the sun god
+Amaterasu.
+ANSWER: Emperor of Japan (prompt on partial answer, accept equivalents)
+[10] The Pahlavi dynasty claimed that their throne was reconstructed from the Peacock Throne
+of this empire. The original Peacock Throne was built by Shah Jahan, who also built the Taj
+Mahal while leading this empire.
+ANSWER: Mughal Empire
+[10] This throne descended from heaven to the founder of the Ashanti empire, Osei Tutu. The
+British annexed the Ashanti after the governor of the Golden Coast wanted to sit on this
+throne.
+ANSWER: Golden Stool
+
+Round 8- Page 10
+
+IMSANITY 3
+
+(9) It sees the youngest child at the table recite the Ma Nishtana, or Four Questions. For ten
+points each:
+[10] Identify this Jewish meal which takes place on the 15th of Nisan. It traditionally includes
+six symbolic foods and its participants eat matzo, or unleavened bread, and drink four cups of
+wine.
+ANSWER: seder
+[10] Seders are conducted during this holiday commemorating God’s exempting Israelites
+from the tenth Egyptian plague, the slaughter of the firstborn, leading to their delivery from
+captivity.
+ANSWER: Passover (or Pesach)
+[10] This Passover song, which sometimes involves participants hitting each other with green
+onions, translates as “It would have been enough” and recounts the blessings of God on the
+Israelites, such as feeding them manna and giving them the Torah.
+ANSWER: Dayenu
+
+(10) This region is bounded to the north by the Taklamakan desert and the Himalayas to the south.
+For ten points each:
+[10] Name this Chinese autonomous region, nicknamed the “Roof of the World,” with
+administrative capital at Lhasa.
+ANSWER: Tibetan Plateau
+[10] The Tibetan plateau gives rise to this Chinese river which empties into the Bohai Sea, an
+inlet of its namesake sea. Its tributaries include the Wei, regarded as the birthplace of ancient
+Chinese civilizations.
+ANSWER: Yellow River (or Huang-He)
+[10] Another river which rises in the Tibetan plateau is this one which flows through the
+Chinese province of Yunnan before finally emptying into the Gulf of Martaban.
+ANSWER: Salween River
+
+(11) Name the following proteins for ten points each.
+[10] This protein forms microfilaments in a cell’s cytoskeletons. It works alongside myosin in
+muscle cell contraction.
+ANSWER: actin
+[10] An important component of connective tissue, this protein returns body tissue such as
+skin to its original form after applying tension. This protein also allows the carrying of heavy
+weights without permanently deforming tissue.
+ANSWER: elastin
+[10] Fibrin is an example of this kind of protein, which may also describe the appearance of
+connective tissue very dense in proteins, such as collagen.
+ANSWER: fibrous
+
+Round 8- Page 11
+
+IMSANITY 3
+
+(12) In this work, the Earth is born from a duck egg and the first man, Väinämöinen, is born from
+the sea. For ten points each:
+[10] Name this epic of folklore and mythology that is considered a cornerstone of Finnish
+literature and nationalism.
+ANSWER: Kalevala
+[10] Like Väinämöinen, another key figure in the Kalevala is this Finnish hero, who attempts
+to win the daughter of Louhi by capturing a black swan, but fails and drowns in the river
+Tuonela.
+ANSWER: Lemminkäinen
+[10] In the Kalevala, this magical artifact forged by Ilmarinen is stolen by the sorceress Louhi
+and Väinämöinen attempts to recover it. Louhi is killed, but this artifact is destroyed in the
+struggle.
+ANSWER: Sampo
+
+(13) Name these pragmatist philosophers for ten points each.
+[10] This man wrote an essay referring to pragmatism as “A new name for some old ways of
+thinking” as well as The Will to Believe.
+ANSWER: William James
+[10] This philosopher applied pragmatism to reforming the education system in works such as
+Democracy and Education.
+ANSWER: John Dewey
+[10] This modern philosopher redefined pragmatism in works such as Feminism and Pragmatism
+and Pragmatism as Romantic Polytheism.
+ANSWER: Richard Rorty
+
+(14) Identify the following about the poetry of Alfred, Lord Tennyson for ten points each.
+[10] This poem concludes “To strive, to seek, to find, and not to yield,” and was written about
+a namesake Greek hero.
+ANSWER: Ulysses
+[10] This poem states “Theirs was not to reason why / Theirs was but to do or die / Into the
+valley of Death / rode the six hundred” about a certain group at the Battle of Balaclava.
+ANSWER: Charge of the Light Brigade
+[10] “When every morning brought a noble chance, / And every chance brought out a noble
+knight,” describes King Arthur and his knights in this cycle of Tennyson poems.
+ANSWER: Idylls of the King
+
+Round 8- Page 12
+
+IMSANITY 3
+
+(15) Jean-Paul Sartre once said “I would rather vote for God” than support this man. For ten
+points each:
+[10] Name this first president of France, who led the Free French forces during World War II.
+ANSWER: Charles de Gaulle
+[10] This only Socialist President of France opposed de Gaulle. He later ruled jointly with his
+successor Jacques Chirac.
+ANSWER: Francois Mitterrand
+[10] Mitterrand gave the order to sink this international environmental organization’s ship
+Rainbow Warrior, which was protesting French nuclear testing.
+ANSWER: Greenpeace
+
+(16) These can be computed using the Squeeze Theorem. For ten points each:
+[10] Identify this mathematical operation that gives the value that a function is approaching.
+ANSWER: limit
+[10] Limits of indeterminate forms can be computed using this rule, which states that a limit
+of the form zero over zero is equal to the limit gotten after taking derivatives in the numerator
+and denominator.
+ANSWER: L’Hôpital’s Rule (or L’Hôpital’s Theorem)
+[10] The proof of L’Hôpital’s Rule makes use of this theorem which states that, for a
+differentiable function on an interval, there is a point at which the derivative equals the average
+rate of change.
+ANSWER: Mean Value Theorem (prompt on MVT)
+
+(17) Identify the following about the beat generation for ten points each.
+[10] This beat author wrote about those “who threw potato salad at CCNY lectures on
+Dadaism” and “came back to Denver & waited in vain” in his poem about “the best minds”
+of his generation.
+ANSWER: Allen Ginsberg
+[10] Ginsberg referred to this man as the “secret hero” of that poem, Howl. This author of
+The First Third was also the inspiration for the character Dean Moriarty.
+ANSWER: Neal Cassady
+[10] Dean Moriarty appeared in this novel, where he journeyed to Denver and met up with
+Carlo Marx, based on Allen Ginsberg. They were joined by Sal Paradise, who was based on
+this novel’s author, Jack Kerouac.
+ANSWER: On the Road
+
+Round 8- Page 13
+
+IMSANITY 3
+
+(18) Examples of these include the capillary bowl and the overbalanced wheel. For ten points each:
+[10] Name this type of device which claim to output as much or more energy than is put in,
+allowing them to run forever. These devices violate the Laws of Thermodynamics.
+ANSWER: perpetual motion machine (accept over-unity or free energy devices)
+[10] This thought experiment attempts to violate the Second Law of Thermodynamics by
+postulating a creature that lets hot molecules in but keeps cold ones out. However, the energy
+is required to observe the molecules disproves the claim.
+ANSWER: Maxwell’s Demon
+[10] This exception to the Third Law of Thermodynamics occurs in imperfect crystals or
+amorphous solids as they are cooled to absolute zero.
+ANSWER: residual entropy
+
+(19) One of the leaders of this empire was known as the Slit-Nosed. For ten points each:
+[10] Name this empire, whose Heraclian dynasty was founded by a man who won the Battle of
+Ninevah but lost the battle of Yarmouk. The Varangian guard served as bodyguards of this
+empire’s leaders.
+Byzantine Empire or Eastern Roman Empire (do not prompt on or accept
+ANSWER:
+“Roman Empire”)
+[10] This Byzantine emperor compiled a namesake code. He married the prostitute Theodora,
+and his general Belisarius reconquered much of Italy and Dalmatia.
+ANSWER: Justinian I or Justinian the Great
+[10] After Justinian II the Slit-Nosed, when Byzantine Emperors were overthrown, their
+successors usually did this to them to disqualify them from ever recovering the throne, since
+the Emperor was supposed to be perfect.
+ANSWER: blinding (accept equivalents, prompt on “mutilating” or “mutilating the face”)
+
+(20) It is illuminated through a hidden window at the top of the Cornaro Chapel. For ten points
+each:
+[10] Name this sculpture in which an angel with a golden arrow stands ready to pierce the
+titular figure as she lies on a cloud. Golden rays from the sky top the scene.
+ANSWER: The Ecstasy of Saint Theresa (or L’Estasi di Santa Teresa)
+[10] This Italian artist created The Ecstasy of Saint Theresa in addition to a work in which
+Ganges, Nile, Platte, and Danube surround the base of an obelisk, The Fountain of the Four
+Rivers.
+ANSWER: Gian Lorenzo Bernini
+[10] This other Bernini sculpture sees a male figure lifting the titular female over a barking
+Cerberus. Thomas Hart Benton painted the same scene with a farmer in place of the male
+figure.
+ANSWER: The Rape of Proserpina (accept “Persephone” in place of “Proserpina”)
+
+Round 8- Page 14
+
+IMSANITY 3
+
+(21) Clarissa kissed Sally Seton and married Richard instead of Peter Walsh. For ten points each:
+[10] Identify this novel in which Septimus Smith jumps out a window when the title character
+throws a party.
+ANSWER: Mrs. Dalloway
+[10] This author wrote Mrs. Dalloway and an essay concluding women writers must have
+money and the titular Room of One’s Own, as well as describing the Ramsay family in To the
+Lighthouse.
+ANSWER: Virginia Woolf
+[10] Woolf wrote this novel in which Bernard, Susan, Rhoda, Neville, Jinny, and Louis each
+monologue and reflect on Percival.
+ANSWER: The Waves
+
+Round 8- Page 15
+
+

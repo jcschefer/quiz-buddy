@@ -1,0 +1,368 @@
+Harvard Fall Tournament VII
+Round 12
+Edited by Stephen Liu, with assistance from Eric Mukherjee and Dallas Simons
+Written by Stephen Liu, Graham Moyer, David Liu, Kuo-Kai Chin, Will Holub-Moorman, Stephen Morrison, Andy
+Dibble, Sriram Pendyala, Jared Cowan, Mark Arildsen, and Artur Meller
+Tossups
+1. The speaker of this poem compares himself and the addressee to “birds of prey” that “rather at once our time
+devour / Than languish in his slow chapp’d power.” The speaker then requests to “let us roll all our strength and all
+/ Our sweetness, up into one ball,” in order that he and the addressee might tear through “the iron gates of life.” This
+poem notes fears of “deserts of vast eternity” and how “Time’s winged chariot” is hurrying near, before the speaker
+tells his addressee that “His vegetable love should grow / vaster than empires, and more slow.” For 10 points, name
+this poem that begins “Had we but world enough and time,” written by Andrew Marvell.
+ANSWER: “To His Coy Mistress”
+2. For AC circuits, the expression for the average of this quantity includes a namesake factor which accounts for
+differences in this quantity between DC and AC currents. In fluid systems, this quantity is equal to pressure times
+volumetric flow rate. In a rotational system, this quantity equals torque times angular velocity, while its electrical
+type can be expressed as both current times voltage and as voltage squared divided by resistance. Its integral with
+respect to time gives the work done on a system, and its instantaneous form equals force dotted with velocity. For 10
+points, name this quantity measuring the rate at which energy is transferred, which is measured in watts.
+ANSWER: power
+3. The gate-house of the Porte Sainte-Antoine at this location was replaced by a triumphal arch in honor of Henry
+III's reign in Poland. Due to lack of funding, plaster was used instead of bronze to create a commemorative elephant
+commissioned by Napoleon for this location, where the July Column now stands. Bernard-Rene de Launay was in
+command when this place was besieged by a group of vainqueurs led by Camille Desmoulins and Georges Danton,
+and that attack resulted in de Launay's head being placed on a pike and carried through the streets of Paris. For 10
+points, name this French prison whose “storming” in 1789 is celebrated every year on July 14.
+ANSWER: the Bastille [Accept Bastille Saint-Antoine.]
+4. One myth from this country tells of how one of its gods saved a rabbit that had lost its fur after insulting a group
+of sharks, and later retrieved a turnip-shaped arrow from a burning field. This country's folk tales feature cucumberriding water demons called kappas as well as an eight-headed dragon that was slain by this country's sea god. This
+country was supposedly formed when its creator god Izanagi dripped brine from his spear, and its sun goddess
+retreated into a cave after her brother threw a flayed horse into her room. That goddess, Amaterasu, was the ancestor
+of this country's first emperor, Jimmu. For 10 points, name this nation home to the many kami of the Shinto religion.
+ANSWER: State of Japan [Accept Nippon-koku or Nihon-koku.]
+5. The speaker of this poem imagines that “a magic lantern threw the nerves in patterns on a screen,” and spends
+the afternoon malingering “stretched on the floor, here between you and me.” This poem notes that the speaker was
+meant to be an attendant lord or “a pair of ragged claws,” and proclaims “No! I am not Prince Hamlet!” Questions
+in this work include, “Do I dare disturb the universe?” and “Do I dare to eat a peach?”, spoken before the speaker
+sees “mermaids singing each to each” on a beach. This poem’s refrain describes women that “come and go, /
+Talking of Michelangelo.” For 10 points, name this poem which begins, “Let us go then, you and I,” written by T. S.
+Eliot.
+ANSWER: The Love Song of J. Alfred Prufrock
+
+6. The papal bull Laudabiliter allowed for an invasion of this region, a fortified part of which was known as The
+Pale. Its government was put under control of another in Poyning’s Law, while a war here known as Tyrone’s
+Rebellion or the Nine Years’ War caused the Flight of the Earls from this place. A shipment of weapons to this
+region was captured before an event that saw the imprisonment of Roger Casement and saw rebels led by Patrick
+Pearse take control of the General Post Office. Eamon de Valera participated in that event, which is now known
+as the Easter Rising. For 10 points, name this home of the left wing party Sinn Fein, an island with cities such as
+Belfast and Dublin.
+ANSWER Ireland [Accept Eire.]
+7. Hilary Putnam argued that identical states of this phenomenon can be triggered by different physical triggers in
+the multiple realizability thesis. Gilbert Ryle compares this phenomenon to a “ghost in the machine” in his work
+The Concept of this phenomenon. In an argument about the independence of this phenomenon, one philosopher
+points out that candle wax can be both solid and liquid, and that while he can doubt the existence of the exterior
+world, he can’t doubt the existence of this phenomenon. For 10 points, name this philosophical phenomenon, said by
+Descartes to be located in the pineal gland, and contrasted with the body in a namesake problem of dualism.
+ANSWER: mind or mental states [Accept reasonable equivalents; prompt on soul.]
+8. The statistical mechanics derivation of this equation assumes an interparticle potential inversely proportional
+to distance to the sixth power. Maxwell used an equal area rule to correct for an error in this equation, which can
+be written in terms of the cube of the volume and is a simplification of the virial equation. It involves two gasdependent parameters, the first dependent on interparticle attractive forces and the second on the proper volume
+of gas particles. Those are commonly written as a and b. For 10 points, name this equation of state for real gases
+developed by a Dutch theoretical chemist as an improvement upon the ideal gas law.
+ANSWER: Van der waals equation
+9. One author from this nation wrote about a king that numbers his subjects and forces them to mine gold while
+he himself lives behind an iron curtain. That author also wrote the lines “all I had achieved was carried off on the
+golden boat -- only I was left behind,” as well as a collection of poems that begins “Thou hast made me endless,
+such is thy pleasure.” Other works from this nation feature a prince’s philosophical discussion with his divine
+charioteer and a king who defeats the demon king who abducted his wife with the help of a monkey god. For
+10 points, name this home country of Rabindranath Tagore and Sanskrit epics such as the Mahabharata and the
+Ramayana.
+ANSWER: Republic of India [Accept Bharat Ganarajya.]
+10. This composer drew rhythmic inspiration from Erik Satie’s Socrate for his indeterminate piece Cheap Imitation.
+This composer of the incredibly virtuosic Freeman Etudes for violin used Finnegans Wake as the basis for his
+Roaratorio. He wrote a work for David Tudor titled Music of Changes based off of the I Ching, in addition to a
+piece in which twelve radios are tuned to twelve different stations, his “Imaginary Landscape Number 4.” In this
+man’s best known piece, a pianist is instructed to sit at his bench and flip pages of a score without playing any notes.
+For 10 points, name this American who explored composition relying on ambient noise in his 4’33”.
+ANSWER: John (Milton) Cage, Jr.
+11. Recent archaeological evidence suggests that several of this civilization’s cities were captured by a mysterious
+invader from the north named “Spearthrower Owl.” Notable rulers of this civilization include Pacal the Great, who
+built the Temple of the Inscriptions. This civilization used sacred water holes called cenotes to sacrifice to their rain
+god, Chaac. This civilization built the cities of Tikal and Palenque, and its myth of the Hero Twins is told in the
+Popol Vuh. Their mysterious collapse may have been caused by climate change and drought. For 10 points, name
+this Mesoamerican civilization from the Yucatan peninsula, whose 52-year calendar ends next month.
+ANSWER: the Mayans
+
+12. In one work by this artist, a secretary in a blue dress pulls papers out of a filing cabinet while her boss sits
+reading at a desk. This artist of Office at Night showed two rows of ceiling lights reflected in a window in a work
+showing a bowl of fruit next to a woman drinking coffee alone. Ten identical windows with yellow shades appear
+along the top of another painting by this artist that includes a deserted street with a barber pole casting a long
+shadow. The best known work of this artist behind Automat and Early Sunday Morning includes an ad for 5¢
+Phillies cigars and shows three lonely patrons at a diner at late hours. For 10 points, name this American painter of
+Nighthawks.
+ANSWER: Edward Hopper
+13. In one work by this author, an alien from near Sirius tours Saturn and the Earth after writing a heretical book on
+bugs. Another work by this author sees the titular philosopher succeed at a number of challenges and marry Astarte
+to become King of Babylon. In addition to Micromegas and Zadig, this author wrote a work in which a princess gets
+her buttock cut off and the protagonist travels to El Dorado before reuniting with friends in Constantinople, many
+of whom had started out in the castle of Baron Thunder-ten-Tronckh. For 10 points, name this French author who
+invented Cunegonde and the optimistic Dr. Pangloss in Candide.
+ANSWER: Voltaire [Accept Francois-Marie Arouet.]
+14. In one work, this thinker discussed why for-profit media outlets succeed while those solely concerned with
+reporting facts do not. This author of Manufacturing Consent developed a framework called “principles and
+parameters” that attempted to answer Plato’s problem and used a “poverty of the stimulus” argument to support his
+claim that the title set of rules is “universal.” This thinker also created a gramatically correct, nonsensical sentence
+to illustrate the difference between syntax and semantics in his book Syntactic Structures. For 10 points, name this
+MIT linguist who created the sentence “colorless green ideas sleep furiously.”
+ANSWER: (Avram) Noam Chomsky
+15. The central figure in this scandal offered an investigator the Stennis Compromise. The accidental pressing of
+a foot pedal while answering a phone resulted in the loss of a recording connected to this event, in which attorney
+G. Gordon Liddy was implicated. Elliot Richardson and William Ruckelshaus resigned in protest of the order to
+dismiss Archibald Cox in this scandal’s “Saturday Night Massacre.” FBI Associate Director Mark Felt was revealed
+to be the main inside source for Bob Woodward and Carl Bernstein, who investigated this scandal. For 10 points,
+name this political scandal that involved the break-in of a certain Washington hotel, leading to the resignation of
+Richard Nixon.
+ANSWER: Watergate scandal
+16. Unlike most Jewish holidays, business transactions may continue during this festive event, which is often
+preceded by a day of fasting. During this holiday, it is customary to “blot out the name of” the son of Amalek
+each of the 54 times his name appears during the reading of the Megillah. This holiday commemorates events that
+occurred in Shushan, including God's foiling of the plot of the vizier to King Ahaseurus to kill every Jew in the
+Persian Empire. Luckily for the Jews, Haman was stopped by Mordecai. For 10 points, name this Jewish holiday
+during which it is customary to be charitable, give candy to friends, and read from the Book of Esther.
+ANSWER: Purim
+17. Edgar Allen Poe may have made the first reference to this body of water in Western literature, but erroneously
+reported it to be located in Libya. Expansions of the dams near this river’s Inga Falls have been proposed to create
+a massive hydroelectric power plant. This river contains a series of cataracts called Boyoma Falls, though they were
+earlier named for Henry Morton Stanley. It is fed by the Lulalaba river, which itself originates from Lake Mweru
+and Lake Tangyanika. Two national capitals lie directly across this river from one another and are named Kinshasa
+and Brazzaville. For 10 points, name this central African river that lends its name to two countries.
+
+ANSWER: Congo River
+18. The lack of externally visible genitalia in this organism led to the naming of its Ken and Barbie genes, and
+maternal effect genes involved in directing its anterior-posterior axis include bicoid and hunchback. Mutations in
+the Antennapedia gene result in the growth of legs from the eyes in this organism and bithorax is another possible
+mutation. Hybrid dysgenesis works through the P element common in wild type individuals, while phenotypes
+include cinnabar, sepia, and white eyes. For 10 points, name this model organism that earned Thomas Hunt Morgan
+the Nobel Prize for his studies of inheritance, with scientific name Drosophila melanogaster.
+ANSWER: fruit fly [Accept Drosophila melanogaster before mention.]
+19. One film by this director is sectioned off with black screens that read things like “The Stanislavski Catering
+Company in action” and “God she's beautiful.” That film sees Elliot cheat on his wife after confessing his love
+to her sister through an e. e. cummings poem. This director of Hannah and Her Sisters also made a film in which
+a woman in love with the Belle Epoque chooses to remain there, and that film sees the protagonist advised by
+Gertrude Stein on his novel before he returns to his own time. This man's best known film follows Alvy Singer's
+relationship with his quirky girlfriend. For 10 points, name this director of Midnight in Paris and Annie Hall.
+ANSWER: Woody Allen [Accept Allan Stewart Konigsberg.]
+20. PG 1159 stars are thought to be the transition phase between planetary nebulae and one class of these objects,
+which, like neutron stars, cool via the emission of neutrinos in a mechanism known as the Urca process. The
+inability to sustain hydrogen-1 fusion characterizes a type of these objects known as “failed stars,” while electron
+degeneracy pressure prevents the collapse of another type until it reaches the Chandrasekhar limit. For 10 points,
+name these stellar objects that come in blue, red, brown, and white varieties and are named for their small size.
+ANSWER: dwarf stars [Do not accept any specific types of dwarf stars.]
+Bonuses
+1. During one episode of this war, one side was convinced by Alcibiades to launch a naval invasion of Syracuse that
+resulted in disaster. For 10 points each:
+[10] Name this war that arose from Spartan enmity towards Athenian hegemony enforced through its control of the
+Delian League.
+ANSWER: Second Peloponnesian War
+[10] This decisive annihilation of the Athenian fleet by Lysander's Spartan ships effectively ended the
+Peloponnesian War by crippling Athens' ability to maintain supply routes.
+ANSWER: Battle of Aegospotami
+[10] This historian fought for Athens during the war and later penned his History of the Peloponnesian War, which
+contains an account of the conflict between the Melians and the Athenians.
+ANSWER: Thucydides
+2. The title character of this play insists on bringing her little bird with her when she elopes, since her dog Diana has
+been unfaithful to her. For 10 points each:
+[10] Name this play in which the servant Jean seduces the Count’s daughter, but fails to elope with her when he
+receives orders from the Count. The title character then leaves the room with a razor, presumably to kill herself.
+ANSWER: Miss Julie [Accept Froken Julie]
+[10] In this other play by the author of Miss Julie, Agnes, the daughter of Indra, descends to earth to explore its
+problems and meets characters like The Officer, The Poet, and Ugly Edith.
+ANSWER: A Dream Play [Accept Et Dromspel]
+[10] Those plays were written by August Strindberg, who also wrote a play about the Captain, who has this relation
+to Bertha. In To Kill a Mockingbird, Atticus Finch has this relation to Scout and Jem.
+
+ANSWER: father [Accept equivalents, like paternal or dad.]
+3. This author wrote a novel in which Colonel Joll and the Third Bureau arrive in a town during a state of
+emergency. For 10 points each:
+[10] Name this author of that novel, Waiting for the Barbarians, and another, Disgrace.
+ANSWER: J(ohn) M(axwell) Coetzee
+[10] Coetzee also wrote a novel about the “Life and Times of” this hare-lipped gardener who attempts to return his
+sick mother to the birthplace of Prince Albert.
+ANSWER: Michael K [Accept Life and Times of Michael K.]
+[10] Coetzee also created the character Elizabeth Costello, an author who had rewritten this James Joyce novel from
+the perspective of the wife of Leopold Bloom, Molly Bloom.
+ANSWER: Ulysses
+4. The New York Times described this submission to the Armory Show as “an explosion in a shingle factory.” For 10
+points each:
+[10] Name this Cubist-styled painting that shows multiple copies of a woman in a yellow dress. It was strongly
+influenced by the stop-motion photography of Etienne-Jules Marey.
+ANSWER: Nude Descending a Staircase, No. 2 [Accept Nu descendant un escalier.]
+[10] Nude Descending a Staircase was painted by this Dada artist better known for signing an upturned urinal
+with “R. Mutt” and calling it Fountain.
+ANSWER: Marcel Duchamp
+[10] Fountain was one of these types of works in which the artist takes ordinary objects and makes art through their
+positioning. In advance of the broken arm, which is just a snow shovel, is also one of these works.
+ANSWER: readymades
+5. Along with Raphson, this man names a method that can be used to numerically approximate the roots of an
+equation. For 10 points each:
+[10] Name this man who discovered calculus along with Gottfried Leibniz.
+ANSWER: Sir Isaac Newton
+[10] This theorem in calculus states that for any two points on a continuous function, there is a point between them
+at which the derivative is the slope of the line connecting the two endpoints. Rolle’s theorem is a special case of it.
+ANSWER: mean value theorem [Prompt on “MVT.”]
+[10] A differential equation used often in the calculus of variations that finds stationary values is named for Euler
+and this man, who also names the remainder term from Taylor approximations.
+ANSWER: Joseph Louis Lagrange
+6. In one poem, this author coined the phrase “ignorance is bliss,” remarking that it is then “folly to be wise.” For 10
+points each:
+[10] Name this 18th century English poet who wrote “Ye distant spires, ye antique towns” in an ode to a title
+institution which he gazed at from down the Thames in “Ode on a Distant Prospect of Eton College.”
+ANSWER: Thomas Gray
+[10] Gray may be most famous for this poem, which begins “the curfew tolls the knell of parting day... and leaves
+the world to darkness and to me.” It ends with an epitaph, lamenting the death of Gray’s friend Richard West.
+ANSWER: “Elegy Written in a Country Churchyard”
+[10] In another poem, Gray mourned the death of a favorite animal of this type, “drowned in a tub of goldfishes.”
+Lewis Carroll created a “Cheshire” one of these with a mischievous grin that torments Alice.
+ANSWER: cat
+
+7. His version of demand does not consider the wealth effect in assuming fixed income, and he is better known for
+developing elasticity, consumer surplus, short and long runs, and marginal utility. For 10 points each:
+[10] Name this English economist whose textbook Principles of Economics popularized the Giffen Good, and who
+was also the teacher of John Maynard Keynes.
+ANSWER: Alfred Marshall
+[10] Marshall’s work was influenced by the work of this economist, who created the Iron Law of Wages and
+supported the repeal of the Corn Laws.
+ANSWER: David Ricardo
+[10] Ricardo’s belief in the inviability of the Corn Laws stems from this most famous contribution of his, a theory of
+trade where relative opportunity costs rather than absolute costs are most important.
+ANSWER: comparative advantage
+8. The son of the Tsarita, Gvidon, marries the princess-swan in one work by this man. For 10 points each:
+[10] Name this composer of that work, The Tale of Tsar Saltan, which contains the “Flight of the Bumblebee.”
+ANSWER: Nikolai (Andreyevich) Rimsky-Korsakov
+[10] This composition by Rimsky-Korsakov, based off A Thousand And One Nights, begins with a movement
+entitled “The Sea and Sinbad’s Ship.”
+ANSWER: Scheherazade [Accept Shekherezada.]
+[10] Another composition by Rimsky-Korsakov subtitled an “Overture on liturgical themes” describes “unbridled
+pagan-religious celebrations” on this holiday.
+ANSWER: Easter [Accept Russian Easter Festival Overture or Svetily prazdnik.]
+9. Name these cities of southern China. For 10 points each:
+[10] This largest financial center on the mainland is a special administrative region of the People’s Republic. It was
+returned to China from the United Kingdom in 1997.
+ANSWER: Hong Kong
+[10] This other Special Administrative Region is located on the western side of the Pearl River Delta across from
+Hong Kong and was administered by Portugal until 1999.
+ANSWER: Macau
+[10] North of Hong Kong and Macau is the Guangdong province, whose capital and largest city is this port, also
+located on the Pearl River.
+ANSWER: Guangzhou [accept Canton and Kwangchow]
+10. The mercurous ion is known to form covalent bonds instead of forming these structures. For 10 points each:
+[10] Name this bond formed in a lattice of atoms of the namesake kind of element, which can be sodium, copper, or
+titanium. It involves shared bonding between adjacent nuclei and can be contrasted from covalent and ionic bonds.
+ANSWER: metallic bonds
+[10] The popular model used to describe metallic bonding generally gives metals as a “sea of” this particle, because
+conduction bands overlap with valence bands, which allows its widespread delocalization.
+ANSWER: (sea of) electrons
+[10] One of the fourteen Bravais lattices, this type of metallic unit cell is formed from cubic closest packing, and
+each atom has a coordination number of 12, since lattice points occur on both the corners and the faces of the cube.
+ANSWER: face-centered cubic [Accept FCC.]
+11. The speaker of this poem tells its subject “From thy dead lips a clearer note is born / Than ever Triton blew from
+wreathed horn.” For 10 points each:
+[10] Name this poem which begins “this is the ship of pearl,” and urges “shut thee from heaven with a dome more
+vast,” and “build thee more stately mansions, O my soul!”
+ANSWER: “The Chambered Nautilus”
+
+[10] “The Chambered Nautilus” was written by this poet who wrote the essay collection The Autocrat of the
+Breakfast Table and fathered a famous supreme court justice.
+ANSWER: Oliver Wendell Holmes, Sr.
+[10] Oliver Wendell Holmes, Sr. was a member of this group of poets, whose other members included James Russell
+Lowell and the author of Evangeline and The Song of Hiawatha, Henry Wadsworth Longfellow.
+ANSWER: the Fireside poets
+12. This work depicts an episode of the Hundred Years' War in which the titular city submitted to Edward III after a
+long siege. For 10 points each:
+[10] Name this sculpture group showing six noblemen preparing to become captives of the English. They all wear
+nooses around their necks and one cradles his head in distress.
+ANSWER: The Burghers of Calais [Accept Les Bourgeois de Calais.]
+[10] The Burghers of Calais was created by this French sculptor, who also included The Kiss and The Thinker in his
+The Gates of Hell.
+ANSWER: Auguste Rodin
+[10] Rodin was a lover of this other French sculptor. As an artist, she may be best known for The Waltz, which
+shows the bodies of a dancing couple merging together into the woman's dress.
+ANSWER: Camille Claudel
+13. This quantity can be expressed as force crossed with the lever arm. For 10 points each:
+[10] Name this quantity measured in Newton-meters, making it the rotational analogue of force. It can also be given
+as angular acceleration times the rotational analogue of mass.
+ANSWER: torque
+[10] The rotational analogue of mass is this quantity, an object's resistance to rotational motion. It is given by the
+sum of all mass points multiplied by the squares of their distances from the center of mass.
+ANSWER: moment of inertia
+[10] This swaying behavior in the axis of rotation can be observed in gyroscopes. The pure form of this behavior
+results from a varying second Euler angle, as opposed to precession, which varies the first Euler angle.
+ANSWER: nutation
+14. Name these things about an Indian religion. For 10 points each:
+[10] This monotheistic tradition is common in the Indian state of Punjab. It was founded in the 15th century by
+Nanak Dev, who asserted a common basis for Islam and Hindu traditions.
+ANSWER: Sikhism [Accept Sikkhi.]
+[10] Until the eighteenth century, the history of Sikhism could be divided into the lives of these teachers, of whom
+Nanak was the first. The Sikh holy book Adi Granth is considered to be the last of these figures.
+ANSWER: gurus
+[10] This last human guru of Sikhism declared the Adi Granth to be the final and perpetual guru. He founded the
+Khalsa in 1699 and outlined the Articles of Faith, or the Five K’s of Sikhism.
+ANSWER: Guru Gobind Singh Ji [Accept Gobind Rai, prompt on “Rai.”]
+15. He founded a library that played an important role in translating works, the House of Wisdom, and helped break
+the power of the Barmakid family. For 10 points each:
+[10] Identify this ruler who sent Charlemagne a water clock and a white elephant named Abul-Abbas.
+ANSWER: Harun al-Rashid
+[10] Harun al-Rashid was a leader of this Islamic caliphate that followed the Umayyad Caliphate and had its capital
+at Baghdad. It was ended with Hulagu Khan’s brutal sack of Baghdad.
+ANSWER: Abbasid Caliphate
+
+[10] Another Muslim empire, the Ayyubid Empire, was founded by this man, who was the primary rival of Richard
+the Lionheart, losing to him at Arsuf. He took control of Jerusalem and was highly respected for his chivalry by the
+crusaders.
+ANSWER: Saladin [Accept Salah ad-Din Yusuf ibn Ayyub.]
+16. This philosopher translated the Iliad, the Odyssey and Thucydides’ History of the Peloponnesian War in
+addition to writing a study of the Long Parliament, Behemoth. For 10 points each:
+[10] Name this philosopher who wrote works like De Cive and De Corpore in addition to a work which ends with a
+discussion of ignorance, “Of the Kingdom of Darkness.”
+ANSWER: Thomas Hobbes
+[10] This Hobbes’ work which contains “Of the Kingdom of Darkness” calls human life “nasty, brutish, and short”
+and advocates an incredibly powerful absolute monarchy. It is named for a biblical monster.
+ANSWER: Leviathan, or The Matter, Forme and Power of a Common Wealth Ecclesiasticall and Civil
+[10] Hobbes says that an absolute monarchy is necessary in order to protect mankind from a state of nature, which
+he defines with this famous phrase.
+ANSWER: “war of all against all” [Accept “bellum omnium contra omnes”.]
+17. This man’s administration saw an uprising of coal miners in the Battle of Blair Mountain, and his cabinet
+included Attorney General Harry Dohery and Secretary of the Interior Albert Fall. For 10 points each:
+[10] Name this American President who succeeded Woodrow Wilson and was succeeded by Calvin Coolidge after
+he died on a return trip from Alaska.
+ANSWER: Warren G(amaliel) Harding
+[10] Albert Fall was implicated in this real estate controversy surrounding the allocation of oil fields in Wyoming to
+private companies without competitive bidding. It also involved the Elk Hills oil fields in California.
+ANSWER: Teapot Dome Scandal
+[10] Harding also called this conference in 1921 that led to the disarmament-minded Four-Power and Five-Power
+Treaties. The Nine-Power Treaty was also signed here, in order to reinforce the Open Door Policy in China.
+ANSWER: Washington Naval Conference
+18. It is mainly composed of glycine, proline, hydroxyproline, and hydroxylysine. For 10 points each:
+[10] Name this most abundant protein in mammals, a connective protein found in cartilage, bone, and teeth.
+ANSWER: collagen
+[10] The improper synthesis of collagen in the body results in this disease associated with pirates and sailors due to
+the fact that Vitamin C is required for proper collagen synthesis.
+ANSWER: scurvy
+[10] The most common amino acid in collagen, glycine, is the unique among the twenty standard amino acids in
+possessing this property. That comes from the fact that glycine’s side chain is just a hydrogen atom.
+ANSWER: achiral
+19. His father Tydeus was one of the Seven Against Thebes, so he joined Alcmaeon in sacking the city in the War of
+the Epigoni. For 10 points each:
+[10] Name this favorite of Athena who led the men of Argos during the Trojan War, during which he wounded Ares
+and Aphrodite. He shares his name with a king who owned some man-eating horses.
+ANSWER: Diomedes
+[10] Diomedes was wounded during the Trojan War when this man hit him in the shoulder with an arrow. This
+Trojan prince also pierced the heel of Achilles, killing him.
+ANSWER: Paris
+[10] As told in The Little Iliad, Diomedes and Odysseus snuck into Troy to steal this wooden statue of Athena
+because it held all of Troy's luck.
+
+ANSWER: Palladium
+20. It was formed at the Lenin Shipyards in Gdansk and faced opposition by Wojciech Jaruzelski, who declared
+martial law in late 1981 and arrested thousands of its members. For 10 points each:
+[10] Name this trade union that contributed to the fall of Communist rule in Poland.
+ANSWER: Solidarity [Accept Solidarnosc.]
+[10] This future president of Poland was an electrician at the Gdansk Shipyards and was largely responsible for the
+formation of Solidarity.
+ANSWER: Lech Walesa
+[10] Members of Solidarity participated in these negotiations with the opposition, including General Jaruzelski's
+Communists. The result was the creation of a Senate and a democratically elected President.
+ANSWER: Polish Round Table Talks [Accept Round Table Agreement.]
+
+

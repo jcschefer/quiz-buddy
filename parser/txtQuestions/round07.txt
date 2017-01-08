@@ -1,0 +1,556 @@
+TOSSUP 1
+After a happy early childhood in Cheatham, England, misfortune befell his family and he left school
+to work in a blacking warehouse, and then as an office boy. As a young man he studied shorthand
+and became a reporter of debates in the House of Commons for the “Morning Chronicle.” Only
+later did he marry Catherine Hogarth and establish himself as an author of serial fiction and an
+advocate of international copyright law. FTP name this author of Oliver Twist and A Tale of
+Two Cities.
+Charles Dickens.
+BONUS 1
+
+15:
+
+Harold Skimpole, Detective Bucket.
+
+10:
+
+John Jarndyce, Lady Dedlock.
+Bleak House .
+
+15:
+
+Tommy Traddles, Steerforth.
+
+10:
+
+Mr. Micawber, Uriah Heep.
+David Copperfield .
+
+TOSSUP 2
+It is the strongest part of the personality during infancy, but becomes less and less prominent as a
+person ages. In the ”iceberg” model of the unconscious, it would be represented by the bottom.
+Its main driving force is the ”pleasure principle”, or the need for instant gratification of all desires
+and needs. FTP, name this component of the psyche, defined by Freud to represent baser drives,
+such as hunger, thirst, or sex.
+Id
+BONUS 2
+FTPE, answer the following questions about the Id and Freud’s structural theory.
+10:
+
+Name the 1923 work in which Freud defined the Id.
+The Ego and the Id
+
+10:
+
+This component of the psyche is the opposite of the Id, representing
+cultural rules and regulations.
+Super-ego
+
+10:
+
+The Super-ego is formed through the dissolution of this complex,
+named after a mythological Greek hero who killed his father and married his mother.
+Oedipus complex
+
+1
+
+TOSSUP 3
+The opening chorus, “O Fortuna,” has been used many times in films, including in Natural
+Born Killers and even on the dance floor. First staged in Frankfurt in 1937, it is an almost
+pagan-sounding choral work which became the most commercially successful classical composition
+of the 20th century. FTP, name this work by Carl Orff.
+Carmina Burana
+BONUS 3
+FTPE, name these German musicians.
+10:
+
+He was a close confidant of Robert and Clara Schumann and when
+Robert died, he supported Clara for the rest of her life, but they never
+married.
+Johannes Brahms
+
+10:
+
+His third symphony was originally dedicated to Napoleon Bonaparte,
+but when he heard Napoleon had declared himself emperor, he defaced
+the title page and renamed the work.
+Ludwig van Beethoven
+
+10:
+
+He experimented with compositions based on electronic sounds such as
+Kontakte and helped to found the electronic music studio in Cologne
+in 1953.
+Karlheinz Stockhausen
+
+TOSSUP 4
+It originated in a 1967 Writers Rebellion in which writers and artists banded together to protest
+the censorship under president and Communist party leader Antonin Novotny. Its leaders called
+for socialism with a human face and implemented a series of economic reforms and relaxation of
+censorships between January and August of 1968. It was put down suddenly, despite a massive
+nationwide passive resistance movement, on August 22, when Soviet leader Leonid Brezhnev
+ordered an invasion of the city. For ten points, name this 1968 Czechoslovak resistance movement
+led by reformer Alexander Dubcek.
+Prague Spring.
+BONUS 4
+BONUS: FTPE answer the following questions relating to the Cold War.
+10:
+
+This comic was first published in 1961 for MAD Magazine by Antonio
+Prohias, a Cuban refugee. Its main characters engage in a wordless
+battle of booby traps and bombs in each strip.
+“Spy vs. Spy”.
+
+10:
+
+This term literally means self-published in Russian and refers to the
+underground publishing movements in the USSR, in which a writer
+would make copies of a work and pass them to friends who would in
+turn pass on more copies.
+samizdat [sam-IZ-dat].
+
+2
+
+10:
+
+He was arrested and tried in 1951 for disclosing valuable secrets to the
+KGB regarding the Manhattan Project and other U.S. defense efforts,
+and was later executed with his wife, Ethel, after both were found
+guilty under the 1917 Espionage Act.
+Julius Rosenberg.
+
+TOSSUP 5
+Pencil and paper ready. A 2 kilogram block is traveling at 6 meters per second across a frictionless
+surface. It collides inelastically with another block of unknown mass. The velocity of the center
+of mass of the two-block system is 4 meters per second. Keeping in mind that conservation of
+linear momentum requires that the product of the total mass of the system and the velocity of the
+particles in the system remains constant, FTP, what is the mass of the second block?
+1 kilogram
+BONUS 5
+Tell whether these physical quantities are conserved quantities, vector quantities, both, or neither
+FTPE.
+10:
+
+Angular momentum
+Both
+
+10:
+
+Torque
+Vector
+
+10:
+
+Electric field
+Vector
+
+TOSSUP 6
+It was first published in serial form between 1823 and 1831, and was compiled into a single volume
+in 1833. In 1879 it was adapted into an opera by Peter Ilich Tchaikovsky, and in 1964 Vladimir
+Nabokov published a 4-volume translation of the work into English. The story describes the
+romantic tensions between the wealthy title character and the bookish young Tanya Larina. FTP
+name this novel, written in the unusual form of iambic tetrameter verse, by Russia’s national poet,
+Alexander Pushkin.
+Eugene Onegin [yoo-GEEN oh-NYEH-gin]
+BONUS 6
+FTPE identify the Russian writer from his/her works.
+10:
+
+The Lady with the Dog , The Seagull , Three Sisters .
+Anton Chekov.
+
+10:
+
+Heart of a Dog , The White Guard , The Master and Margarita .
+Mikhail Bulgakov.
+
+10:
+
+The Nose , Dead Souls , The Inspector General .
+Nikolai Gogol.
+
+3
+
+TOSSUP 7
+Dynamic ones may be implemented as trees. Static ones are made of a contiguous block of
+allocated memory with a pointer to the first index, so element lookups require only that an offset
+be added to the pointer to it. Random-access lookup is possible in O(1) [oh of one] time, but
+insertion and removal require O(n) time. FTP, identify this fundamental data structure, a linear
+list of data elements.
+Array
+BONUS 7
+Identify these data structures FTPE.
+10:
+
+Elements are pushed onto the top of this data structure, then popped
+off in reverse order.
+Stack
+
+10:
+
+Elements are inserted onto the end of a list, and removed from the
+front in the same order they went on.
+Queue
+
+10:
+
+These structures consist of nodes containing data and a pointer to the
+next node; they may be unidirectional, bidirectional, and circular.
+Linked list
+
+TOSSUP 8
+Pencil and paper ready. Bob received an diving cylinder on his birthday, but no other diving gear.
+He sees that the tank has a pressure of about 200 psi at 27 degrees celsius. Bob decides to heat
+the tank to 127 degrees celsius. Remembering that by Gay-Lussac’s Law pressure is proportional
+to temperature in kelvin, and 0 celsius is equal to 273 kelvin, what is, FTP, the pressure in the
+tank after Bob heats it up?
+800/3 psi or 267 psi
+BONUS 8
+FTPE, describe what happens to the volume of a gas originally at STP when...
+10:
+
+Pressure triples.
+One third original volume. [accept variations]
+
+10:
+
+Temperature doubles.
+Doubles original volume. [accept variations]
+
+10:
+
+Moles of gas becomes 2/3 original amount.
+Two thirds original volume. [accept variations]
+
+4
+
+TOSSUP 9
+Shocked by his discovery of his father’s infidelity, he doesn’t graduate from high school, loses his
+UVA scholarship, and whiles away time on correspondence courses. He eventually leaves home,
+wandering from job to job, but is haunted by kleptomaniacal tendencies. After failing to secure
+money to start a sporting goods venture with his brother, he confronts his father with the failure
+of his dreams. FTP, name this former football star, the older son of Willy Loman in Death of a
+Salesman.
+Biff Loman
+BONUS 9
+Name these characters from Death of a Salesman FTPE.
+10:
+
+Biff’s younger brother, he buys in to Willy’s dreams of success and
+delusions of grandeur.
+Happy Loman
+
+10:
+
+Willy’s older brother, he “walked into the jungle” as a seventeen-yearold and made a fortune in diamond mines.
+Uncle Ben Loman
+
+10:
+
+Overshadowed by Biff when they were in high school together, he grows
+up to be a succesful lawyer, much to Willy’s chagrin.
+Bernard
+
+TOSSUP 10
+Pencil and paper ready. Paco is planning a meeting and wants to know the number of ways
+the seven people attending the meeting can sit around a round table. He realizes that since the
+table is round, he realizes that only a seventh of the possible permutations are actually distinct
+arrangements. FTP, how many different ways can the seven people sit around the table?
+720 (prompt on 6!)
+BONUS 10
+Paco decides that only three of the other six people really need to be at the meeting. FTPE:
+10:
+
+How many permutations of 3 people out of the six are there?
+120
+
+10:
+
+How many combinations are there?
+20
+
+10:
+
+How many seating arrangements are there for the four people around
+the table once they have been chosen?
+6
+
+5
+
+TOSSUP 11
+Studies have shown that .3 gallons of blood can be stored in it. Because of its frailty, surgery is
+rarely performed on it if it is ruptured and a common side effect of its removal is iron deficiency.
+Its major functions as the largest lymph node in the body include filtering the blood and storing
+white blood cells. FTP, name this spongy organ found behindin the lower abdomen behind the
+stomach.
+Spleen
+BONUS 11
+FTPE, name these complications that can cause inflammation of the spleen.
+10:
+
+This is an autoimmune disease that degenerates cartilage in the joints
+and causes inflammation.
+Rheumatoid Arthritis
+
+10:
+
+Graft Versus Host Disease is the most common complication associated
+with a treatment for this disease that afflicts the bone marrow.
+Leukemia
+
+10:
+
+This disease is most commonly found in African Americans and results
+in morphedred blood cells that create buildups on arterial walls.
+Sickle Cell Anemia
+
+TOSSUP 12
+They used the mansabdar system to generate land revenue, which involved promises of soldiers
+to the ruler in exchange for land. One ruler tried to create his own religion, which mixed among
+others Christianity, Zoroastrianism, and Sufi Islam, but it failed. Their fifth ruler was Jahangir,
+who fathered a more famous emperor who built a famous tomb for his dead wife. FTP, name this
+empire, founded by Babur, which controlled the Indian subcontinent and whose most famous ruler
+was Akbar.
+Mughal Empire
+BONUS 12
+Identify the following Mughal rulers based on descriptions, FTPE.
+10:
+
+This son of Babur and father of Akbar lost his kingdom early but
+eventually conquered it back and even expanded the empire.
+Humayun
+
+10:
+
+This son of Shah Jahan was known for his cruelty to non-Muslims, and
+it was during his reign that the Jizya tax was reinstated.
+Aurangzeb
+
+10:
+
+This last Mughal emperor was deposed by the British and exiled to
+Burma in 1858.
+Bahadur Shah II (accept Bahadur Shah Zafar)
+
+6
+
+TOSSUP 13
+Geographers have divided them into five regions. They contain rich mineraldeposits, especially
+in the Middle region. The other regions are the South,North, Subarctic or Pre-polar, and Arctic
+or Polar. The South is well-populatedand has a few national reserves. The Northern contains
+a site with seven stone”idols” near the river Pechora. The Arctic is almost entirely tundra and
+isnearly uninhabited. The range was formed when a continent containing Siberiacollided with
+a combination of Laurasia and Gondwanaland. FTP, name this Russianmountain range that
+separates Europe from Asia.
+Urals (also accept Ural Mountains or Riphean Mountains)
+BONUS 13
+Name these other Russian geographic features FTPE.
+10:
+
+This body of water is not a sea as the name would suggest, but the
+largestlake on Earth.
+Caspian Sea
+
+10:
+
+This river flows through Russia, Belarus, and the Ukraine and into the
+BlackSea.
+Dnieper River
+
+10:
+
+This strait flows between Cape Dezhnev in Russia and Cape Prince of
+Wales inAlaska.
+Bering Strait
+
+TOSSUP 14
+It was voted as the 77th greatest book ever written by the Modern Library, even though the
+author also holds the number one and three positions on the list. It is heavily idiosyncratic, and
+even the main character doesn’t keep the same name throughout, but tends to prefer the initials
+HCE.The most famous quote is the first sentence, which begins “riverrun, past Eve and Adam’s,
+from swerve of shore to bend to bay...”, and is also the last sentence. FTP name this last, most
+complex work of James Joyce.
+Finnegans Wake
+BONUS 14
+Identify these other James Joyce works FTPE.
+10:
+
+This book held the number one position on the Modern Library’s list
+and describes a day in the life of Leopold Bloom.
+Ulysses
+
+10:
+
+This collection of 15 short stories was meant to be a satire on the Irish
+middle classes.
+Dubliners
+
+10:
+
+The number three work on the list was this semi-autobiographical work
+depicting the life of Stephen Dedalus.
+A Portrait of the Artist as a Young Man
+
+7
+
+TOSSUP 15
+This man served as governor for the Indiana Territory, but was elected to the Senate in Ohio. He
+once called Tecumseh “one of those uncommon geniuses who spring up occasionally to produce
+revolutions.” Following this statement, he led his troops to victory in the Battle of Tippecanoe.
+FTP, name this man, who served only 30 days as the ninth president of the United States.
+William Henry Harrison
+BONUS 15
+Harrison first gained national recognition during the war of 1812. FTPE, name these figures who
+also became famous during the war.
+10:
+
+His most memorable battle was that of New Orleans, which actually
+occured after the war was over.
+Andrew Jackson
+
+10:
+
+This man witnessed the bombing of Fort McHenry, and was inspired
+to write the “Star-Spangled Banner”.
+Francis Scott Key
+
+10:
+
+He defended the Great Lakes from British takeover, but refused any
+political position.
+Oliver Hazard Perry
+
+TOSSUP 16
+The third ruler of his dynasty, he took the throne at age 20 and ruled for 67 years. In the fifth
+year of his reign he crossed the Orontes River in an attempt to maintain control of his empire, but
+the battle against the Hittites ended in a stalemate. His mummy is one of the most well-preserved.
+FTP, name this ancient Egyptian king who became famous for constructing more monuments and
+temples than any other Pharaoh, notably Abu Simbel.
+Ramesses II (accept Ramesses the Great)
+BONUS 16
+FTPE, name these other Pharaohs of Ancient Egypt.
+10:
+
+He is credited with building the Great Pyramid at Giza, the tallest
+and oldest of the Giza Pyramids.
+Khufu (accept Cheops)
+
+10:
+
+He unified Upper and Lower Egypt into a single kingdom.
+Menes (accept Narmer)
+
+10:
+
+She was the first female Pharaoh of a united Egypt.
+Hatshepsut
+
+8
+
+TOSSUP 17
+His first career was as a stockbroker, but he lost his livelihood in the crash of 1882. Freed from
+this obligation, he focused full-time on his art, creating works that abandoned linear perspective
+and shaded color. It was later in his career that he painted his famous works featuring the natives
+of Tahiti in an idealized jungle setting. FTP, identify this post-impressionist and primitivist of the
+late nineteenth century.
+Paul Gauguin
+BONUS 17
+Gauguin’s most famous Tahiti painting asks three questions in its title.
+5-510:
+
+For five points each and a five point bonus for all correct, what are the
+three questions asked in the title of that 1897 painting, which is 12 feet
+long and depicts several vignettes of Tahitian natives?
+What (who) are we?,
+Where do we come from?,
+Where are we going? (Accept reasonable equivalents; it’s in
+translation after all.)
+
+10:
+
+For ten points, another famed Gaugin work is what painting of a boldlyoutlined, unnaturally colored Jesus on the cross?
+The Yellow Christ
+
+TOSSUP 18
+It occurs at a party celebrating Agathon’s victory in theDionysia of 416 BCE. Eryximachus begins
+the conversation bysaying that since he’s a doctor, he recommends that those still recovering
+from hangovers ought not imbibe now. Theclimax occurs when Alcibiades barges in drunkenly
+to describehow Socrates refused him sex one night. FTP name thisPlatonic dialogue discussing
+educational pederasty and love.
+Symposium
+BONUS 18
+FTP name these other Platonic dialogues.
+10:
+
+It describes the speech given by Socrates at his trial,attempting to
+defend himself from accusations that he hadcorrupted the youth of the
+city.
+Apology
+
+10:
+
+An account of Socrates’ last days, it relates hiscontention that his soul
+will outlive his body and go places.
+Phaedo
+
+10:
+
+The eponymous speaker relates the story of Atlantis inthis dialogue.
+Critias
+
+9
+
+TOSSUP 19
+Calculated during a physicist’s voyage to Britain, this value was derived using Einstein’s theory
+of special relativity and principles of quantum mechanics. The approximate value is 3 × 1030
+kilograms, about 1.44 times the size of our sun. FTP, give the name of this value, the upper bound
+to the mass of a white dwarf star.
+Chandrasekhar limit
+BONUS 19
+BONUS FTPE answer the following questions about Subrahmanyan Chandrasehkar.
+10:
+
+Chandrasehkar was the nephew of this other Nobel-prize winning physicist, who won in 1930 for his work on the scattering of light.
+C.V. Raman
+
+10:
+
+This astrophysicist opposed Chandrasekhar’s ideas. He was also the
+person who announced Einstein’s theory of general relativity to the
+English-speaking world.
+Arthur Stanley Eddington
+
+10:
+
+If the Chandrasehkar limit is broken, a white dwarf may become one
+of this kind of stars, which are formed after supernovae.
+Neutron star
+
+TOSSUP 20
+First published privately in 1931, the original edition was written by a housewife mourning the
+suicide of her husband. It has been in print continuously since 1936 and has sold more copies
+than any other book in its genre. It contains over 4,500 recipes, including directions for preparing
+moose, muskrat, mincepie, and raccoon. FTP name this classic cookbook by Irma S. Rombauer.
+The Joy of Cooking .
+BONUS 20
+FTPE identify the chefs from clues.
+10:
+
+This woman was famous for introducing French cooking techniques to
+the American mainstream through her cookbooks and television shows.
+Julia Child.
+
+10:
+
+This French man has appeared on many cooking shows, including “Julia Child’s Kitchen,” and is the author of 18 books.
+Jacques Pepin.
+
+10:
+
+Also known as “The Naked Chef,” this man is known for his recent
+work in improving the eating habits at British schools.
+Jamie Oliver
+
+10
+
+

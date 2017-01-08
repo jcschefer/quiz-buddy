@@ -1,0 +1,390 @@
+VHSL Districts
+Round 2
+First Period, Fifteen Tossups
+1. In 2003, this leader removed his country from the Commonwealth of Nations in protest of pending
+suspension from the group. In 2005, he ordered the destruction of temporary housing as part of "Operation
+Drive Out the Rubbish." A 2008 power sharing agreement saw Morgan Tsvangirai (suh-VAIN-guh-ree)
+become the Prime Minister, while this man retained the Presidency and his ZANU-PF retained control of the
+Army. For 10 points, name this dictator of Zimbabwe.
+ANSWER: Robert Mugabe
+002-09-3-02101
+
+2. Joyce Carol Oates claimed that the most memorable remark in this play is that the title character is
+"liked...but not well liked." A character in this play gave up a football scholarship after he flunked a math
+class. One scene in this play takes place at Frank's Chop House, where Biff tells Happy that he stole a pen
+from Bill Oliver. This play ends with Linda talking to the grave of her dead husband. Willy Loman commits
+suicide by means of an automobile crash in, for 10 points, what play by Arthur Miller?
+ANSWER: Death of a Salesman
+003-09-3-02102
+
+3. The start of this event was signaled via telegram by Heinrich Müller. Three days after this event, the
+government ordered insurance companies not to pay out claims arising from it. It was a reaction to the
+assassination of diplomat Ernst vom Rath and was spurred on by a Joseph Goebbels (GUR-bulz) speech. It
+occurred on November 9 and 10, 1938, and targeted Jewish homes, businesses, and synagogues. For 10
+points, the smashing of windows during what event gave rise to its name, meaning "Night of the Broken
+Glass?"
+ANSWER: Kristallnacht (KREE-stahl-knocked) [accept Night of the Broken Glass before it is read]
+045-09-3-02103
+
+4. The speaker of this poem describes an "eli eli lamma lamma sabachthani (sah-BOK-tah-nee) saxophone
+cry that shivered the cities." This poem's third section features the refrain "I'm with you in Rockland." The
+second section of this poem repeatedly refers to Moloch. The opening of this poem describes the
+"angel-headed hipsters" as "starving hysterical naked." For 10 points, name this Beat Generation poem that
+begins "I saw the best minds of my generation destroyed by madness" and was written by Allen Ginsberg.
+ANSWER: "Howl"
+024-09-3-02104
+
+5. This man coined the term "symphonic poem," which is exemplified by a piece this man composed based
+on a poem by Alphonse de Lamartine (lah-mar-TEEN), titled Les Preludes. He was inspired by The Divine
+Comedy to write his "Dante" Symphony. A Hans von Bulow and the Rakoczi (rah-COK-zee) March are
+among the pieces in one collection by this man. His virtuosity as a touring pianist inspired his namesake
+mania to sweep Europe. For 10 points, name this composer of the Hungarian Rhapsodies.
+ANSWER: Franz Liszt
+030-09-3-02105
+
+6. Christmas Disease is caused by a defect in this structure, as is Duchenne (du-SHEN) muscular dystrophy.
+Martin-Bell Syndrome is a symptom of a "fragile" one of these structures. Inactive ones condense and
+become a Barr body. An abnormally low number of these structures in a person can lead to amenorrhea
+(AY-MEN-oh-REE-uh) and infertility in Turner Syndrome. For 10 points, name this structure that contains
+the genetic cause of hemophilia, two of which are found in women.
+ANSWER: X chromosome
+034-09-3-02106
+VHSL Districts Round 2 Page 1 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+7. After the death of Shirkuh (SHUR-kuh), this man became the vizier of Nur ad-Din (NUR ahd DIN). This
+ruler ended the reign of the Fatimid dynasty in Egypt, and founded the Ayyubid (EYE-oo-bid) dynasty. He
+captured Reginald of Chatillon (shah-tee-YON) and Guy of Lusignan (GEE of LOO-seen-YON) at the
+Battle of the Horns of Hattin, and he recaptured Jerusalem from the Crusaders in 1187. For 10 points, name
+this Muslim ruler who fought Richard the Lionhearted during the Third Crusade.
+ANSWER: Saladin [or Salah ah-Din Yusuf]
+004-09-3-02107
+
+8. This man's first novel is about a boy who is fixated on an Andrea Mantegna (mon-TANE-yuh) painting of
+Saint Sebastian. Another of his novels contains a riddle called "Nansen kills a kitten." This author of
+Confessions of a Mask wrote about Father Dosen, who flirts with a geisha, and Mizoguchi
+(miz-oh-GOO-chee), a stammering protagonist who burns down the title structure because it is beautiful. For
+10 points, name this seppuku (SEH-puh-koo)-committing Japanese author of The Temple of the Golden
+Pavilion and the Sea of Fertility tetralogy.
+ANSWER: Yukio Mishima [or Mishima Yukio; do not accept or prompt on "Yukio" by itself; or Kimitake
+Hiraoka; or Hiraoka Kimitake; do not accept or prompt on "Kimitake" by itself]
+034-09-3-02108
+
+9. This data structure implements hash tables, stacks, and queues (KYOOZ). "Packed" ones store multiple
+contiguous elements in one word. Associative ones can have strings for indices. These structures may be
+replaced by linked lists so that they can grow and shrink, and a naive search method on this structure
+succeeds in linear time. For 10 points, name this linear data structure in which each element can be accessed
+by its index.
+ANSWER: arrays
+022-09-3-02109
+
+10. The Trung (TROO-un) sisters fought for the independence of this modern-day country. Buddhist monks
+burned themselves to death here to protest the actions of Ngo Dinh Diem (NO din dee-EM). It was the site
+of the siege of a French garrison at Dien Bien Phu (DEE-yen BEE-yen FOO). The USS Maddox was
+allegedly attacked by part of this country in the Gulf of Tonkin; four years later, the Tet Offensive took place
+here. For 10 points, name this country where the US fought a war from 1964 to 1973.
+ANSWER: Vietnam [do not accept "North Vietnam" or "South Vietnam", as the question clearly asks for
+"this modern-day country"]
+059-09-3-02110
+
+11. This body of water's Vozrozhdeyina (vahz-RAHZ-din-ey) Island was once the site of a bioweapons
+facility. The construction of the Dike Kokaral (koh-kuh-RAHL) Dam raised the northern half of this sea by
+eight meters. That is in sharp contrast to the effects of the construction of the Qaraqum (KAR-uh-koom)
+Canal and other irrigation measures, that caused its water levels to plummet drastically during the twentieth
+century. The Amu Darya and Syr Darya rivers feed, for 10 points, which Asian sea, shared between
+Kazakhstan and Uzbekistan?
+ANSWER: Aral Sea
+040-09-3-02111
+
+12. The oxide of this element is found in rubies and sapphires as corundum. Charles Hall, Paul Heroult
+(huh-ROO), and Karl Bayer all developed methods to extract and purify this element from its main ore,
+bauxite. Though it is found along the Zintl (ZIN-tel) line, it is considered a metal and not a semimetal. For
+10 points, name this element with atomic number thirteen, that is used in soda cans and abbreviated Al.
+ANSWER: aluminum [or Al before it is read]
+032-09-3-02112
+
+VHSL Districts Round 2 Page 2 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+13. The only work by this painter that is permanently held in the United States is his portrait of Ginevra di
+Benci (jih-NAVE-ruh dee BEN-chee). He depicted the angel Uriel holding the infant John the Baptist, who
+is ushered towards the infant Christ by Mary. This artist of Lady with an Ermine used the sfumato
+(sfoo-MAH-toe) style to paint his works. This artist of Virgin of the Rocks traced out ideal human
+proportions in his sketch of the Vitruvian Man. For 10 points, name this artist who also painted the
+enigmatically smiling Mona Lisa.
+ANSWER: Leonardo da Vinci [or Leonardo di ser Piero da Vinci]
+060-09-3-02113
+
+14. Shell companies created by this corporation included a pair named JEDI and Chewco. This company's
+former president Jeffrey Skilling is serving a twenty-four-year prison sentence, and former CEO Kenneth
+Lay died after being convicted in 2006. This company's collaboration with the firm Arthur Andersen
+inspired the Sarbannes-Oxley Act, by using "creative accounting" tactics that allowed it to rise to fifth on the
+Fortune 500. For 10 points, name this Houston-based energy corporation whose collapse triggered a wave of
+corporate bankruptcies in 2002.
+ANSWER: Enron Corporation
+019-09-3-02114
+
+15. The work Peri Lithon (PEAR-ee LEE-thon) by Theophrastus (THEE-oh-FRAS-tuss) was an
+authoritative text in this field for nearly a millennium. Nicholas Steno's law of superposition was important
+to this field's development. James Hutton is considered the father of this field, and Hutton's disciples were
+called Plutonists because they believed that volcanic activity was the cause of many rock formations.
+Charles Lyell wrote a book on the principles of it. For 10 points, name this branch of science that studies the
+materials that comprise the Earth.
+ANSWER: geology [prompt on stratigraphy]
+040-09-3-02115
+
+VHSL Districts Round 2 Page 3 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Districts
+Round 2
+Directed Round
+1A. Identify the language whose main writing systems are kanji (CON-jee), katakana (kah-tuh-KAH-nuh)
+and hiragana (HEAR-uh-gah-nuh), the latter two of which are syllabic.
+ANSWER: Japanese [or Nihongo]
+1B. Identify the metabolic pathway that converts glucose into pyruvate (pie-ROO-veyt).
+ANSWER: glycolysis
+2A. In October 2009, what Burmese dissident leader's appeal of her eighteen-month prison sentence was
+rejected, effectively blocking her from participating in the 2010 elections?
+ANSWER: Aung San Suu Kyi (soo kyee)
+2B. What sculptor of The Gates of Hell and The Burghers of Calais (cah-LAY) is better known for a
+sculpture which may have been modeled on Dante?
+ANSWER: Auguste Rodin
+3A. What Colin Meloy-fronted band's most recent release is The Hazards of Love, which follows previous
+albums including Picaresque and The Crane Wife?
+ANSWER: The Decemberists
+3B. What British inventor of the analytical engine is often considered the father of the computer?
+ANSWER: Charles Babbage
+4A. This is a 10-second calculation question. Multiply one and a half by two and a third.
+ANSWER: 7/2 [or three and a half or 3.5]
+4B. This is a 10-second calculation question. Solve the equation 5x + 21 = 2x - 15.
+ANSWER: x = -12
+5A. Mauna Kea and Mauna Loa are examples of what type of volcano, which is formed from the lengthy,
+calm flow of magma over a large area?
+ANSWER: shield volcano
+5B. Identify the comic book superhero who is transformed by Vita-Rays and Super Soldier Serum, opposess
+the Red Skull, and is the alter-ego of Steve Rogers.
+ANSWER: Captain America
+6A. This is a 20-second calculation question. Give the equation of the line with slope 5 passing through the
+point (-9, -8).
+ANSWER: y = 5x+37 [or y+8 = 5(x+9)]
+
+VHSL Districts Round 2 Page 4 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6B. This is a 20-second calculation question. A regular dodecagon has a side length of 18 inches. What is
+the perimeter of this figure?
+ANSWER: 216 inches
+7A. Name the American city that lies at the confluence of the Allegheny and Monongahela rivers, where
+those waterways form the Ohio River.
+ANSWER: Pittsburgh, Pennsylvania
+7B. It was popularized by James Joyce and Virginia Woolf. Identify this narrative technique, that involves
+the representation of the interior monologues of characters.
+ANSWER: stream of consciousness
+8A. Examples of this device include Plato's tale of the cave from The Republic. Give this literary term for a
+story which metaphorically conveys a non-literal meaning.
+ANSWER: allegory
+8B. Czech President Václav Klaus has yet to sign this 2007 treaty, though the other twenty-six European
+Union member states have done so. Name this treaty that, if ratified, will amend the treaties of Rome and
+Maastricht (MAH-strict) and create a new EU constitution.
+ANSWER: Treaty of Lisbon
+9A. This is a 30-second calculation question. Find the Celsius temperature that corresponds to 77 degrees
+Fahrenheit.
+ANSWER: 25 degrees Celsius
+9B. This is a 30-second calculation question. A group of seven teams meets in a competition to select two
+qualifiers for further contests. How many different sets of two qualifiers can be chosen?
+ANSWER: 21
+10A. What quantum mechanical principle states that it is impossible to know both the position and
+momentum of a particle to arbitrary precision?
+ANSWER: Heisenberg uncertainty principle [or uncertainty principle]
+10B. Edward Sapir, Alfred Kroeber, and Margaret Mead were some of Columbia University students taught
+by what influential figure in American anthropology, who also wrote The Mind of Primitive Man?
+ANSWER: Franz Boas
+
+VHSL Districts Round 2 Page 5 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Districts
+Round 2
+Third Period, Fifteen Tossups
+1. In reaction to this character's death, her fiancee spits on the king and then falls on a sword. This character
+proclaims "if it's a crime, then it's a crime that God commands" to defend an action that she cannot persuade
+her sister Ismene (iz-MEE-nee) to assist with. Defying a decree of Creon, she performs burial rites for her
+brother Polynices (pahl-uh-NEE-keez). For 10 points, identify this daughter of Oedipus (ED-uh-poss) and
+title heroine of a Greek tragedy by Sophocles.
+ANSWER: Antigone (an-TIH-go-nee)
+019-09-3-02117
+
+2. The AKS algorithm tests to see if an entity is one of these and Wilson's theorem gives a condition for
+them. Their namesake theorem states that the probability of a number being this is about one over the natural
+log. They can be found using the Sieve of Eratosthenes (air-uh-TOSS-thuh-neez). Euclid proved there were
+infinitely many of them and types of these are named for Fermat and Mersenne. For 10 points, name these
+numbers that have no divisors other than one and itself.
+ANSWER: prime numbers
+001-09-3-02118
+
+3. Alpheus Williams took command of the slain Joseph Mansfield’s Twelfth Corps during this battle, and
+James Longstreet’s artillery drove back Richardson in the Bloody Lane here. This battle was affected by the
+discovery of "Special Order 191," containing the Confederate battle plans, and it was quickly followed by
+the Emancipation Proclamation. It featured Ambrose Hill’s crucial counterattack and McClellan’s refusal to
+press on. For 10 points, name this 1862 loss for Lee in Maryland, which was the bloodiest battle of the Civil
+War.
+ANSWER: Battle of Antietam [or Battle of Sharpsburg]
+060-09-3-02119
+
+4. This instrument now performs music that was written for the basset horn in the classical era. It has three
+registers, including one called "chalumeau" (shah-loo-MOE). One performer of this instrument was
+nicknamed “The King of Swing.” A glissando on this instrument opens George Gershwin's Rhapsody in
+Blue. This woodwind has one reed and is most commonly played in its B flat and A types. For 10 points,
+name this instrument played by artists such as Jimmy Dorsey and Benny Goodman.
+ANSWER: clarinet
+032-09-3-02120
+
+5. This author’s political pamphlets, including The Shortest Way with the Dissenters, landed him in Newgate
+in 1702. One of his characters so annoys a ship with preaching that he is put ashore in China. Another of this
+author's protagonists was based on Alexander Selkirk and is assisted by Friday. For 10 points, name this
+Englishman who wrote Moll Flanders, A Journal of the Plague Year, and a tale of a man deserted on an
+island, Robinson Crusoe.
+ANSWER: Daniel Defoe [or Daniel Foe]
+062-09-3-02121
+
+6. The mansion of John Neville was burned down during this event. The "Watermelon Army" called to put it
+down was led by "Light Horse Harry" Lee and, for the last time in American history, the sitting President.
+The cause of this insurrection was a scheme to gain more money for the government devised by Alexander
+Hamilton. For 10 points, name this rebellion centered in western Pennsylvania, which arose against an
+excise tax on the namesake liquor.
+ANSWER: Whiskey Rebellion
+023-09-3-02122
+VHSL Districts Round 2 Page 6 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+7. This man conceived of a creature that could open a trap door through which only fast-moving particles
+could enter; that creature, supposedly contradicting the Second Law of Thermodynamics, is his "demon."
+Oliver Heaviside formulated the current form of his most famous work; his main contribution to that work
+was the addition of a displacement current to Ampere's Law. For 10 points, name this Scottish physicist who
+derived four namesake equations that describe electromagnetism.
+ANSWER: James Clerk Maxwell
+001-09-3-02123
+
+8. In one TV show, this character's ability to communicate with sea monsters aids in the arrest of Nute
+Gunray (noot GUN-ray). Joe Morgenstern of The Wall Street Journal called this character a "Rastafarian
+Stepin Fetchit on platform hoofs, crossed annoyingly with Butterfly McQueen." He reveals that he has been
+banished for clumsiness after Qui-Gon Jinn frees him from Boss Nass on Naboo. For 10 points, name this
+widely panned computer-generated Gungan who travels with Jedi Knights in Star Wars: The Phantom
+Menace.
+ANSWER: Jar Jar Binks
+045-09-3-02124
+
+9. This man's son Alexis was tortured to death due to allegations of treason. In 1696, this ruler captured
+Azov from the Ottoman Empire. He traveled incognito on a European tour from 1697 to 1698 in an attempt
+to learn how to modernize his country. He was the victor at Poltava and fought Charles XII of Sweden in the
+Great Northern War. For 10 points, name this tsar who moved the capital of Russia from Moscow to his
+namesake city.
+ANSWER: Peter I [or Peter the Great; or Pyotr Veliky; prompt on Peter]
+030-09-3-02125
+
+10. One of these creatures was a ferryman who was slain by Heracles after trying to rape the hero's wife, but
+got his revenge when his poisonous blood burned the hero to death. The wisest of them was an immortal
+master of medicine and tutored such heroes as Jason and Achilles (uh-KILL-ees). Nessus and Chiron
+(KY-ron) were members of this race, who were known for their savage wars with the Lapiths. For 10 points,
+name these creatures from Greek mythology, who were half-men, half-horses.
+ANSWER: Centaurs [or Kentauroi]
+052-09-3-02126
+
+11. One character in this work saves the life of Ogier (OH-zheer) the Dane. One group in this work is
+betrayed by the evil Ganelon. That betrayal in this work leads to the ambushing of Archbishop Turpin and
+Oliver by Saracens at Roncesvalles (RON-seh-valz) Pass. The title character blows his "olifant" horn so hard
+that his temples burst open, and he dies calling for Charlemagne to avenge his death. For 10 points, name
+this French epic poem.
+ANSWER: The Song of Roland [or La Chanson de Roland]
+045-09-3-02127
+
+12. This figure created the tides when he was tricked into trying to drink the entire ocean. In one story, he
+dressed up as the goddess of love in order to retrieve a possession stolen by Thrym. This god's chariot was
+pulled by two goats, and his weapon required a belt and gloves to wield. At Ragnarok, he will kill and be
+killed by Jörmungandr (YOR-mung-ahnd-er), or the Midgard Serpent. This wielder of the hammer Mjollnir
+(ME-oll-neer) is, for 10 points, what Norse god of thunder?
+ANSWER: Thor
+026-09-3-02128
+
+VHSL Districts Round 2 Page 7 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+13. One phase of this battle was Operation Stosser, a failed paratrooper attack on the Baraque Michel
+Crossroads. An offensive by the 1st SS Panser Division resulted in the Malmedy Massacre during this event.
+The sieges of St. Vith and Bastonne occurred during it. In Bastonne that Anthony McAuliffe responded to a
+demand for surrender during this battle with the one-word reply "Nuts!" For 10 points, the Germans failed to
+reach the Meuse River in which 1944 offensive, named for the indentation that was created in the Allied
+line?
+ANSWER: Battle of the Bulge
+040-09-3-02129
+
+14. This element is incorporated into glutamine ("GLUE"-tuh-"mean") and glutamite ("GLUE"-tuh-"might")
+in a process known as assimilation of this element. The presence of this element in fertilizer causes "dead
+zones" in polluted water. Legumes ("LAY"-gyumez) convert this element into more biologically usable form
+in a process known as this element's "fixation." For 10 points, name this element whose diatomic
+("DIE"-uh-tom-ick) form is an inert gas that makes up about seventy-eight percent of the atmosphere.
+ANSWER: nitrogen [or N]
+021-09-3-02130
+
+15. A character named Oswald responds to this story by telling of a man named Symkyn (SIM-kin) who is
+cuckolded by a pair of Cambridge students. John the carpenter suspends himself from the ceiling in a
+bathtub after another character convinces him a flood is imminent. In this story, Nicholas scorches the
+backside of the clerk Absolon after seducing Allison, the wife of John. For 10 points, name this vulgar
+second story from The Canterbury Tales.
+ANSWER: "The Miller's Tale"
+045-09-3-02131
+
+VHSL Districts Round 2 Page 8 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Districts
+Round 2
+Tiebreaker Questions
+1. These compounds are called "killed," "semikilled," "capped," or "rimmed" depending on the degree of
+oxidation. One type of these compounds can be divided into austenitic (OS-ten-it-ick), ferritic (fer-RIT-ick),
+or martensitic (MAR-ten-zit-ick) types depending on the chromium and nickel content. Inexpensive
+production of these compounds was first obtained by using an air blast to remove impurities; that process
+was named after Henry Bessemer. For 10 points, name these metals that are produced by adding elements to
+pig iron.
+ANSWER: steels
+003-09-3-02132
+
+2. This religious figure was rebuked by Paul for his prejudice against Gentile Christians in the Incident at
+Antioch (ann-tee-OCK). This brother of Andrew cut off the ear of Malchus during Jesus's arrest, and this
+saint refused to be crucified in the same manner as Christ. This individual denied Jesus three times after the
+Crucifixion, though he had been told that he would be the rock upon which the Church would be built. For
+10 points, name this Apostle of Jesus considered to be the founder of the Catholic Church and holder of the
+keys of Heaven.
+ANSWER: Saint Peter [or Petros; or Cephas]
+059-09-3-02133
+
+3. This phenomenon causes a disorder observed in Erasmus Bartholin and originally thought to have been
+caused by atomic bomb testing, Patau Syndrome. Another disorder caused by one of these leads to
+hypogonadism and reduced fertility and is named after Kleinfelter. The Simian crease, an unusually round
+face, and impairment of cognitive ability are signs of Down Syndrome, which is caused by one of them at
+chromosome 21. For 10 points, name this type of aneuploidy in which there are three copies of a
+chromosome.
+ANSWER: trisomy [prompt on aneuploidy before it is read]
+040-09-3-02134
+
+4. The protagonist of one of this author’s works decides not to blackmail Bertha in order to protect
+Lawrence Selden. Another character created by this author remains faithful to May Welland even though he
+loves May's Polish cousin. This author created Lily Bart in the novel The House of Mirth and Newland
+Archer in The Age of Innocence. She also created a character who loves Mattie Silver and tries to commit
+suicide by sledding into an elm tree. For 10 points, name this American author of Ethan Frome.
+ANSWER: Edith Newbold Jones Wharton
+024-09-3-02135
+
+5. This term was used to describe Brand Whitlock, who argued against the death penalty. It was also used to
+describe two separate people who chronicled the history of Standard Oil, Henry Lloyd and Ida Tarbell. This
+word was popularized by Teddy Roosevelt, who commented on such writers' similarities to a character from
+The Pilgrim's Progress. For 10 points, give this term used to describe late-nineteenth and early-twentieth
+century writers who used novels and articles to expose corruption and poor social conditions.
+ANSWER: muckrakers [prompt on progressives before "Pilgrim's Progress" is read]
+003-09-3-02136
+
+VHSL Districts Round 2 Page 9 of 9
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

@@ -1,0 +1,578 @@
+The Illinois Mathematics and Science Academy of Aurora, IL,
+
+in partnership with Loyola Academy of Wilmette, IL, present
+
+IMSANITY 3
+-ROUND 2Editors
+
+Writers
+
+Noah Prince
+
+Lael Costa
+Siva Gangavarapu
+Webster Guan
+Adam Kalinich
+Anton Karpovich
+Sabrina Lato
+
+Adam Kalinich
+Sabrina Lato
+Morgan Venkus
+
+with special contributions from. . .
+Brad Fischer
+Jacob O’Rourke
+
+Nolan Maloney
+Eric Ordonez
+Noah Prince
+Saieesh Rao
+Ian Torres
+Morgan Venkus
+
+IMSANITY 3
+
+Tossups
+(1) This quantity can be estimated for a given liquid using Watson’s equation using its
+critical temperature. Kirchoff ’s equation can be used to estimate how this value for
+a reaction changes with temperature, and the Clausius-Clapeyron equation directly
+relates this quantity for vaporization to the natural log of vapor pressure. The change
+in this quantity divided by temperature is always less than the (∗ ) entropy change for
+a spontaneous process, and calorimeters are used to measure this value for a reaction. For ten
+points, name this thermodynamic quantity, which like Gibb’s free energy can be calculated using
+Hess’s law.
+ANSWER:
+
+enthalpy (accept enthalpy of vaporization before “reaction”)
+
+(2) This number appears as the exponent in Legendre’s Conjecture, which states that
+there is always a prime number between this power of n and this power of n + 1.
+Chebyshev proved that there is always a prime number between n and this number
+times n, a statement known as Bertrand’s Postulate. Primes which are one less than
+a power of this number are of the (∗ ) Mersenne type, and primes differing by this amount
+are referred to as twins. This is the number of positive integer factors that any prime number
+has. For ten points, identify this smallest prime number.
+ANSWER:
+
+2
+
+(3) During this event, Scottish law was invoked by Arlen Specter when he voted “not
+proven.” The man at the center of this event had earlier been investigated regarding
+dealings with Susan McDougal and the suicide of Vince Foster and defended an
+earlier statement by saying, “It depends upon what the meaning of the word ‘is’
+is.” The advice to save a blue dress was given by (∗ ) Linda Tripp. A report was
+issued by Kenneth Starr that stated that someone had lied when he said, “I did not have sexual
+relations with that woman.” For ten points, name this scandal that resulted in the impeachment
+of President Bill Clinton.
+ANSWER: Monica Lewinsky scandal (accept equivalents like “affair” for “scandal”, accept
+Impeachment of Bill Clinton until mentioned and prompt on it thereafter)
+
+Round 2- Page 1
+
+IMSANITY 3
+
+(4) In one scene of this novel, a woman testifies that she’s known her cat since he was
+a kitten, and that he had never left Armavir. Everyone believes that the telegrams
+Styopa sends from Yalta are drunken jokes, and in his absence there is a disastrous
+magic show in the Variety Theater. One character predicts Berlioz’s decapitation
+by streetcar, and the red-haired Hella, the illusionist Koroviev, fanged Azazello, and
+tomcat Behemoth accompany Professor Woland. It contains sections from a book
+that one of the title characters was writing about Pontius Pilate. (∗ ) For ten points,
+identify this novel about the devil in Moscow which was written by Mikhail Bulgakov.
+ANSWER: The Master and the Margarita (or Master I Margarita)
+
+(5) This man’s Piano Variations are based on an E-C-D#-C# motif, and this composer
+used Schoenberg’s twelve-tone technique in his Connotations. A solo clarinet and
+violin open the “siesta” section of another work by this man, which quotes the folk
+songs El Malacate and El Palo Verde. One ballet by this composer incorporates the
+song Bonaparte’s Repeat in its main theme and includes movements titled “Saturday
+Night Waltz” and “Corral Nocturne.” This composer of El Salon México quoted
+the (∗ ) Shaker hymn Simple Gifts in a work depicting a pioneer couple. For ten points, name
+this American composer of Rodeo and Appalachian Spring.
+ANSWER: Aaron Copland
+
+(6) In one story about this figure, he convinces others to count the number of yam fields
+so that they die when they say the correct number. This figure ignores the advice of
+Aso and invites fire into his house, causing the house to burn down, and drops a jar
+full of wisdom after his son Ntikuma proves to be even more wise. Though he is not
+Br’er Rabbit, one myth tells of him fighting and getting stuck to the Tar-Baby. He
+once traded a leopard, python, and hornets to (∗ ) Nyame in exchange for all the world’s
+stories. For ten points, identify this West African trickster spider god.
+ANSWER: Kwaku Anansi
+
+(7) In one scene in this film, two characters comment about penetrating the sternum
+before injecting adrenaline into another character’s chest, causing her to awaken.
+Another character and his partner visit a man played by the director of this film
+after he accidentally shot Marvin in a car. A boxer in this film does not take a dive,
+and a resulting incident revolving around his gold watch sees him murder Vincent.
+Starring Ving Rhames as the mobster Marsellus Wallace and the hitmen Jules and
+Vincent played by (∗ ) Samuel L. Jackson and John Travolta, for ten points, name this 1994
+Quentin Tarantino film.
+ANSWER:
+
+Pulp Fiction
+
+Round 2- Page 2
+
+IMSANITY 3
+
+(8) The speaker of one poem by this author sees the personifications of Love, Ambition,
+and Poesy “with bowed necks, and joined hands, side-faced.” He addressed a poem
+to a creature whose voice was heard “in ancient days by emperor and clown.” This
+author of Ode on Indolence began a poem “Much have I travel’d in the realms of
+gold” and in another poem asked “Where are the songs of spring?” This author of
+(∗ ) On First Looking into Chapman’s Homer and To Autumn tells an “immortal bird” “thou
+wast not born for death” and declares that “Beauty is truth, truth beauty.” For ten points, name
+this poet of Ode to a Nightingale and Ode on a Grecian Urn.
+ANSWER: John Keats
+
+(9) The terms of the Washington Naval Treaty limited this navy to three-fifths of the
+size of two other countries. This navy was the first to send wireless messages, in a
+battle where, after spotting light from hospital ships, it crossed the enemy’s T. This
+navy apologized for firing on the USS Panay, and this navy’s leader was killed in
+Operation Vengeance when his plane was shot down. This navy won the Battle of
+(∗ ) Tsushima Strait, but lost at the battles of Leyte Gulf and Coral Sea. Using such ships as the
+Yamato and the Musashi, for ten points, name this navy which in desperation used kamikazes
+to destroy enemy ships.
+ANSWER: Imperial Japanese Navy
+
+(10) Colin Gum catalogued these objects of the southern hemisphere, and Sharpless did
+the same thing for the northern one. The Great Debate was a question of whether
+or not some of these objects were actually outside the Milky Way. Bok globules are
+often found in the H II regions which comprise the vast majority of these objects.
+Mass loss by Asymptotic Giant Branch stars produce one variety of these objects,
+while hot stars produce ionization to form the emission variety. The Coalsack is one
+of its dark variety, while the Helix one, with a white dwarf at its center, is its (∗ )
+“planetary” variety. For ten points, identify these interstellar clouds associated with star birth
+and death.
+ANSWER:
+sentence)
+
+nebulae (or
+
+nebulas, aceept
+
+emission nebulas until the end of the second
+
+Round 2- Page 3
+
+IMSANITY 3
+
+(11) In a short story by this author, the title character pushes a palm reader into the river
+so that he can marry, and this author wrote a play where one character’s brother,
+Gerald, practices proposing all the time. This author of Lord Arthur Savile’s Crime
+wrote a play where Mrs. Erlynne pretends to own the title object to save her
+daughter the shame of running off with Lord Darlington. In addition to (∗ ) Lady
+Windermere’s Fan, he wrote a play wherein Cecily Cardew falls in love with Jack Worthing, and
+Gwendolen Fairfax finally learns that she can love Algernon Moncrieff. For ten points, identify
+this author of The Importance of Being Earnest and The Picture of Dorian Gray.
+ANSWER: Oscar Wilde
+
+(12) George Harkins stated that “we are hedged in by two evils” in a letter after this
+event began. After the Treaty of Dancing Rabbit Creek, George Gaines oversaw
+this event. It was justified by the Treaty of New Echota, although it was not signed
+by the tribe’s leader, John Ross. Andrew Jackson said “John Marshall has made
+his decision, now let him enforce it!” after the decision in Worcester v. Georgia
+failed to prevent this event. Caused by the (∗ ) Indian Removal Act and resulting in the
+Cherokee relocation to Oklahoma, for ten points, name this forced movement of Indian tribes.
+ANSWER:
+
+Trail of Tears (accept Choctaw Trail of Tears until “New Echota”)
+
+(13) This man suggested repairing railroads and lowering interest rates in his An Open
+Letter to President Roosevelt. This man noted that “Europe lacks the means,
+America the will” to bring about the titular condition in his The End of LaissezFaire. This economist wrote of four motives which cause individuals to hold cash
+rather than invest in a phenomenon he called the liquidity preference, and suggested
+that governments should (∗ ) “prime the pump” to recover from a depression. For ten points,
+name this British economist who wrote The General Theory of Employment, Interest, and Money.
+ANSWER: John Maynard Keynes
+
+(14) This organelle is affected by such drugs as erythromycin and tetracyclins, which is
+helped by the Shine-Delgarno sequence to recognize certain molecules which bind
+to it. These organelles are also the site of the wobble phenomenon. They contain
+three catalytic sites for the binding of tRNA molecules and the formation of peptide
+bonds. Assembled in the nucleolus, they contain two unequally sized subunits and
+can be bound either to (∗ ) endoplasmic reticulum or free in a cell’s cytosol. For ten points,
+name these non-membrane-bound organelles which are the site of protein translation.
+ANSWER:
+
+ribosomes
+
+Round 2- Page 4
+
+IMSANITY 3
+
+(15) This artist painted a dark-haired nude woman with her right hand behind her head,
+her eyes closed, and with a red halo in his Madonna. He also painted wide-eyed ladies
+and gentlemen experiencing the titular emotion in Anxiety. His series subtitled “A
+Poem about Life, Love and Death” included both of those works, The Sick Child
+and Death in the Sickroom, and was called (∗ ) Frieze of Life. The most famous painting
+from that series sees a man on a bridge under a swirling orange sky performing the titular action.
+For ten points, name this Norwegian expressionist painter of The Scream.
+ANSWER: Edvard Munch
+
+(16) More traditional observers of this holiday can use animals or unsuspecting friends
+to make an eruv. Zachor marks the one of these holidays before Purim, and Shuvah
+marks the one between Rosh Hashanah and Yom Kippur. Candles are lit right
+before the start of this holiday, and challah is eaten during the first meal. The
+Lecha Dodi is sung to welcome this holiday like a bride, and there are thirty-nine
+kinds of (∗ ) prohibited activities, called melakhot. It begins on Friday at sundown and lasts
+until the sighting of three stars and Havdallah the next day. For ten points, identify this Jewish
+day of rest.
+ANSWER:
+
+Shabbat (or Shabbos or Sabbath)
+
+(17) This philosophy seeks to view the world clearly by clearing away the tuphos, or
+smoke. One member of this school of thought joked that meals of only lentil would
+result in less sedition in his 36 Epistles. In addition to Crates of Thebes, another
+member of this school taught the founder of Stoicism, Zeno of Citium. That man
+would sleep in a tub and eat raw meat to illustrate this school’s principles of selfsufficiency, austerity, and shamelessness. Founded by Socrates’s pupil (∗ ) Antisthenes,
+for ten points, name this Greek philosophy associated with Diogenes of Sinope that promotes
+asceticism and aims to attain happiness through harmony with nature.
+ANSWER:
+
+cynicism
+
+(18) Case White was one operation that completed this action. The January Uprising
+and the November Uprising prompted this action to be completed a different time.
+The War of the Confederation of Bar and the defeat of the Kosciuszko Uprising
+led to this action. The presence of the Liberum Veto in the Sejm made it hard
+for this action to be prevented. This action occurred after three (∗ ) partitions by
+Russia, Austria, and Prussia. Agreed to in the Molotov-Ribbentrop Pact, for ten points, name
+this action completed by the Soviet Union and Germany in 1939 in which a certain nation was
+dismantled.
+ANSWER: annexing Poland (accept word forms, accept alternatives like conquering Poland
+or partitioning Poland, prompt on “invading Poland” or “attacking Poland”)
+
+Round 2- Page 5
+
+IMSANITY 3
+
+(19) One character created by this author feels pain where his identical twin was
+mutilated, and the Grandmother wins $25,000 for “Uncle Henry’s Day-Old Cake.”
+In one play, a character’s two empty picture frames contrast with another’s two
+parakeets. This author of The American Dream wrote about a character who
+feeds poisoned hamburgers to his landlady’s dog. One character brings home
+snapdragons in a play which contains the sections “Fun and Games,” “Exorcism,”
+and (∗ ) “Walpurgisnacht,” and Jerry stabs himself with a knife held by Peter in this author’s
+Zoo Story. For ten points, identify this author of a play in which Nick and Honey witness the
+fighting of George and Martha entitled Who’s Afraid of Virginia Woolf ?.
+ANSWER: Edward Franklin Albee III
+
+(20) The “dye” version of these objects tends to be the most versatile because the medium
+is easy to change. These objects rely upon a phenomenon known as population
+inversion, which is created by q-switching. Using Doppler cooling, a magnetic field
+and one of these objects was used to cool matter into a Bose-Einstein Condensate,
+and the first of these used a synthetic ruby as the gain medium to create a coherent
+(∗ ) monochromatic beam. CD readers and recent attempts at fusion reactors both contain, for
+ten points, what device which concentrates light?
+ANSWER:
+
+lasers (or Light Amplification through Stimulated Emission of Radiation)
+
+(21) This author wrote about Mike Curly’s unsuccessful attempt to win back Caroline
+Dandy in The Bridal Party. He wrote about the conflict between Pat Brady and
+Monroe Stahr in an unfinished novel, and about Dexter Green’s ill-fated love for
+Judy Jones in a short story. This author of The Last Tycoon and Winter Dreams
+wrote a novel where the relationship between Nicole Warren and the psychoanalyst
+Dick Diver dissolves. In his most famous work, (∗ ) George Wilson kills the title character
+after his wife Myrtle is run over by Daisy Buchanan. For ten points, identify the author of This
+Side of Paradise and Tender is the Night, who used Nick Carraway as narrator in The Great
+Gatsby.
+ANSWER: Francis Scott Key Fitzgerald
+
+Round 2- Page 6
+
+IMSANITY 3
+
+Bonuses
+(1) Answer the following about intelligence agencies for ten points each.
+[10] Willy Brandt’s aide was discovered to be a sleeper for the Stasi, the secret police of this
+nation.
+ANSWER: East Germany (accept Democratic German Republic or
+Democratic Republic of Germany)
+[10] This intelligence agency abducted Adolf Eichmann from Argentina and launched Operation
+Wrath of God to get revenge for the 1972 Munich massacres.
+Mossad (prompt on “Israel” or “Israeli Intelligence”, accept the
+ANSWER:
+Institute for Intelligence and Special Operations)
+[10] This intelligence agency overthrew Iran’s Mohammed Mosaddegh in Operation Ajax and
+trained Cuban exiles who landed at the Bay of Pigs.
+ANSWER: Central Intelligence Agency or CIA (prompt on “American”, do not accept or
+prompt on FBI)
+
+(2) This state is the primary home of the United States’s Cajun population. For ten points each:
+[10] Identify this state whose city of New Orleans lies on the Mississippi River Delta.
+ANSWER: Louisiana
+[10] This Louisiana lake, sitting just north of New Orleans, is spanned by the largest contiguous
+water bridge in the world. This lake is connected to the Mississippi River by the Industrial
+Canal.
+ANSWER: Lake Ponchartrain
+[10] This other river partially forms the Texas-Oklahoma border before entering Louisiana,
+passing through the city of Shreveport, and joining the Mississippi.
+ANSWER: Red River of the South
+
+(3) Astronomers may use a technique using this concept to produce higher resolution between
+telescopes without making them larger. For ten points each:
+[10] Identify this effect that produces the color in bubbles with thin walls, and usually manifests
+in several “fringes”.
+ANSWER: interference
+[10] This auditory effect may occur when waves of different frequencies constructively and then
+destructively interfere, forming a third oscillation with a frequency equal to the difference of
+the two original waves’ frequencies.
+ANSWER: beats
+[10] In a standing wave, this is a point where no movement occurs. Its opposite is an “anti”
+version.
+ANSWER: nodes
+
+Round 2- Page 7
+
+IMSANITY 3
+
+(4) The Puranas recount that this event was caused by the sage Durvasa, who cursed Indra and
+the other Devas to lose their power. For ten points each:
+[10] Name this event in which the Devas and the Asuras attempted to use Mount Mandara to
+draw Amrita, the nectar of immortality, from a certain body of water.
+churning of the ocean of milk (accept equivalents like “churning of the milky
+ANSWER:
+sea”, accept samudra manthan)
+[10] In addition to Amrita, the Devas also produced this goddess of wealth, who became the
+consort of Vishnu. She is celebrated at Diwali.
+ANSWER: Lakshmi
+[10] Vishnu had to intervene to prevent Mount Mandara from sinking into the ocean of milk
+by holding it up in the form of this animal. Another mythical example of this animal is one
+that “slowly and steadily” races a hare in a fable by Aesop.
+ANSWER: turtle (or tortoise, accept Kurma)
+
+(5) One of its chapters, focusing on Victoria Wren, is a reworking of its author’s short story Under
+the Rose. For ten points each:
+[10] Identify this novel in which Benny Profane hangs out with the Whole Sick Crew and
+Herbert Stencil searches for the title entity.
+ANSWER: V.
+[10] Pirate Prentice grows bananas on his roof in this other novel by the same author of V. It
+centers around Tyrone Slothrop’s search for a mysterious rocket with the serial number 00000.
+ANSWER: Gravity’s Rainbow
+[10] This author wrote Gravity’s Rainbow as well as a novel in which Oedipa Mass investigates
+a secret postal company, The Crying of Lot 49.
+ANSWER: Thomas Pynchon
+
+(6) This man created a three-part series of paintings consisting of Philosophy, Medicine, and
+Jurisprudence for the University of Vienna. For ten points each:
+[10] Name this Austrian painter of such works as Tree of Life and Portrait of Adele BlochBauer.
+ANSWER: Gustav Klimt
+[10] This most recognized work of Gustav Klimt uses paint and gold leaf to depict two
+yellow-clad lovers performing the titular action.
+ANSWER: The Kiss (or Der Kuss)
+[10] Klimt was member and first president of this artistic movement. Joseph Maria Olbrich, an
+architect of the movement, designed its namesake hall, which now houses Klimt’s Beethoven
+Frieze.
+ANSWER: Vienna Secession
+
+Round 2- Page 8
+
+IMSANITY 3
+
+(7) Examples of these include Na+ and Ca2+, and they are often found in ionic solids. For ten
+points each:
+[10] Name this class of positively charged ions which generally form from the oxidation of
+metal atoms.
+ANSWER: cations
+[10] Although not a metal, this element can become a cation in SN2 reactions when one of its
+substituents is ionized in solution. It is the second-most abundant element in the human body
+by mass, and its reactions are the focus of organic chemistry.
+ANSWER: carbon (prompt on “C”)
+[10] In SN2 reactions, the electron-deficient carbon center of the trigonal planar cation is
+classified as one of these reagents.
+ANSWER: electrophiles
+
+(8) David Copperfield wonders if he shall turn out to be this of his own life. For ten points each:
+[10] Identify this type of person, which Becky Sharp is notably not.
+ANSWER: hero
+[10] According to its subtitle, this novel does not contain a hero. It does, however, contain
+George Osborne’s death at Waterloo, and Amelia Sedley’s marriage to William Dobbin.
+ANSWER: Vanity Fair
+[10] This author of Vanity Fair wrote about a character who thinks he’s a gentleman, tries to
+court Nora, and dies in Fleet prison in The Luck of Barry Lyndon.
+ANSWER: William Makepeace Thackeray
+
+(9) The two newer buildings at this city’s Kaiser Wilhelm Memorial Church were nicknamed by
+locals “Lipstick” and “Powderbox”. For ten points each:
+[10] Name this city, a panoramic view of which can be seen from the dome atop its Reichstag
+building. That dome was added to celebrate the reunification of this city in the 1990s.
+ANSWER: Berlin
+[10] One block south of the Reichstag stands this historic entranceway to the city, which
+features twelve Doric columns and is topped by a statue of four horses pulling a chariot.
+ANSWER: Brandenburg Gate (or Brandenburger Tor)
+[10] Southwest of Berlin sits Sanssouci, the Versailles-inspired summer palace of this king.
+Adolph Menzel painted this king performing a flute concert in Sanssouci.
+ANSWER: Frederick II or Frederick the Great (prompt on “Frederick”)
+
+Round 2- Page 9
+
+IMSANITY 3
+
+(10) He won the presidency in part by accusing the Eisenhower administration of creating a “missile
+gap”. For ten points each:
+[10] Name this president who led the United States through the Cuban Missile Crisis a year
+after his failed Bay of Pigs Invasion.
+ANSWER: John Fitzgerald Kennedy (or JFK)
+[10] This Secretary of Defense under Kennedy advocated the ultimately successful blockade
+strategy in the Cuban Missile Crisis, but resigned after his escalation in Vietnam became
+unpopular.
+ANSWER: Robert McNamara
+[10] Robert McNamara used this doctrine to argue against nuclear war, particularly after the
+advent of nuclear submarines.
+ANSWER: mutually assured destruction (prompt on “MAD”)
+
+(11) One character falls in love with a duke pretending to be the student Gualtier Malde, and is
+later killed, fulfilling the curse of Count Monterone. For ten points each:
+[10] Identify this opera, in which Gilda is the daughter of the titular hunchbacked court jester.
+ANSWER: Rigoletto
+[10] Rigoletto is an opera by this Italian composer, who included “the drinking song” in La
+Traviata and wrote about an Ethiopian princess in Aida.
+ANSWER: Giuseppe Verdi
+[10] This assassin in Rigoletto is hired to kill the duke, but ends up killing Gilda instead. In
+the first act, Rigoletto compares himself to this character.
+ANSWER: Sparafucile
+
+(12) He was frequently labelled a “bizarre” monarch during his reign, although he also took the
+titles of Prime Minister and President of his country. For ten points each:
+[10] Name this only Muslim monarch of a European country, who was forced into exile before
+and after he took title as dictator of his country.
+ANSWER: Zog I
+[10] Zog was the leader of this predominantly Muslim country which was dominated by the
+influence of Italy during the post-World War I decades.
+ANSWER: Albania
+[10] King Zog ruled from this Albanian city, which now serves as its capital.
+ANSWER: Tirana
+
+Round 2- Page 10
+
+IMSANITY 3
+
+(13) Answer the following about a statistical technique for ten points each:
+[10] This measure of central tendency is also known as the second quartile.
+ANSWER: median
+[10] The median-median one of these objects is one measure of the best fit of a collection of
+data. The variables in a scatterplot are positively or negatively correlated based on the sign of
+the slope of a certain one of these objects.
+ANSWER: line (or trendline or other similar things about a line which is good)
+[10] This method, initially developed by Gauss, is the most common for computing linear
+regressions, and works by summing the namesake function of its residuals.
+ANSWER: method of least squares
+
+(14) Contrary to an internet hoax, the company responsible for this device did not pay its fine with
+thirty truckloads of nickels. For ten points each:
+[10] Identify this cellular device released in 2012, which came under fire for its copyright
+infringements of features such as “Slide to Unlock”.
+ANSWER: Samsung Galaxy SIII (accept Galaxy Note)
+[10] This tech company, formerly led by Steve Jobs, sued Samsung for patent violations, but
+a judge ruled that they were different because Samsung’s products were “not as cool” as this
+company’s.
+ANSWER: Apple Inc.
+[10] In response, Samsung threatened lawsuits against Apple’s IPhone 5. Those suits were
+shut down during the preliminary review by this organization. James Gildea, a judge in this
+organization, ruled that none of Samsung’s four patents were violated.
+ANSWER: International Trade Commission or ITC
+
+(15) The protagonist prefers to read about Western ballet in books rather than watch live
+performances. For ten points each:
+[10] Name this novel that follows the romance between Shimamura and the geisha Komako at
+a hot spring in the title place. It also features Komako’s rival, Yoko, caring for Yukio before
+dying in a fire.
+ANSWER: Snow Country (or Yukiguni)
+[10] Snow Country is a work by this Japanese author, who wrote about Shusai’s loss to Otake
+in The Master of Go.
+ANSWER: Yasunari Kawabata
+[10] Kikuji becomes obsessed with Fumiko Ota in a novel titled for a thousand of these animals.
+Traditionally, making a thousand of these birds out of origami is supposed to grant a wish.
+ANSWER: cranes (accept Thousand Cranes or Senbazuru or tsuru)
+
+Round 2- Page 11
+
+IMSANITY 3
+
+(16) Kennedy said that being a Berliner was comparable in prestige to holding this right, which
+Paul of Tarsus claimed by saying “Civis romanus sum.” For ten points each:
+[10] Name this right granted by the Edict of Caracalla to every freeman in the Empire. After
+the Social War, this right was granted to the allies.
+ANSWER: Roman citizenship (prompt on “citizenship”)
+[10] Rome’s society was divided into patricians and this class of people. One of the secessions
+by this class of people forced the adoption of the Twelve Tables.
+ANSWER: plebs or plebeians
+[10] As part of the deal that ended the first Plebeian secession, this office was created to check
+the power of the patricians. Their right to “veto” means “I forbid.”
+Tribune of the Plebs (or Plebeian tribune or Tribune of the People or
+ANSWER:
+tribuni plebis)
+
+(17) In one of his works, Bogun kidnaps Helena, but Pan Yan manages to rescue her, and in
+another, Finvicisus falls in love with the Christian Ligia. For ten points each:
+[10] Identify this author, best known for his novels With Fire and Sword and Quo Vadis.
+ANSWER: Henryk Sienkiewicz
+[10] Sienkiewicz is an author from this country. With Fire and Sword was set during the
+Khmelnytsky Uprising, where Ukraine tried to liberate itself from a commonwealth between
+Lithuania and this country.
+ANSWER: Republic of Poland
+[10] This author set a book primarily in Poland that focused on his time in Auschwitz. In
+addition to writing Night, this author said “the opposite of love is not hate, it’s indifference.”
+ANSWER: Elie Wiesel
+
+(18) Name these books of the New Testament for ten points each.
+[10] This non-synoptic Gospel claims to be based on the testimony of the “Beloved Disciple”
+and is the final canonical Gospel.
+ANSWER: Gospel according to John
+[10] This first and longest of the Pauline epistles advises that “love is the fulfilling of the law”
+and thus one should hold unconditional love towards all.
+ANSWER: Letter to the Romans
+[10] During the Protestant Reformation, this epistle was used against Lutherans, whose
+doctrine of salvation by “faith alone” is contradicted by its emphasis on virtuous deeds.
+ANSWER: Epistle of James
+
+Round 2- Page 12
+
+IMSANITY 3
+
+(19) The Four Color Theorem concerns the planar type of this object. For ten points each:
+[10] Identify these mathematical objects consisting of vertices and edges. They were invented
+to solve the Königsberg Bridge Problem.
+ANSWER: graphs (reluctantly prompt on “map(s)”)
+[10] This theorem states that large complete graphs with colored edges contain monochromatic
+complete subgraphs. A special case of this theorem says that, among six people, three are
+mutual friends or mutual enemies.
+ANSWER: Ramsey’s Theorem
+[10] Ramsey’s Theorem generalizes this theorem, which states that, with n + 1 objects split
+into n groups, some group contains 2 objects. It is often stated in terms of its namesake bird.
+ANSWER: pigeonhole principle
+
+(20) Rene Descartes hypothesized that this gland is the seat of the soul, and this gland is located
+outside the blood-brain barrier. For ten points each:
+[10] Name this endocrine gland, which in vertebrates is located near the brain and which
+produces the hormone melatonin.
+ANSWER: pineal gland
+[10] By controlling melatonin release, the pineal gland aids in this process, the oscillation of
+individual bodily function over a 24-hour cycle.
+ANSWER: circadian rhythms
+[10] Circadian rhythms are largely controlled by this small region in the brain which sends
+signals to other regions including the pineal gland. It also receives signals from the retina on
+visual clues.
+ANSWER: suprachiasmatic nucleus
+
+(21) Thomas Durant created its namesake company, although he was eventually replaced by Oakes
+Ames as its head. For ten points each:
+[10] Name this American scandal which eventually saw the sale of highly overpriced stock of
+its namesake company to prominent members of Congress as a bribe.
+ANSWER: Credit Mobilier scandal
+[10] The Credit Mobilier company was connected to this transportation system. The scandal
+eventually put this project, part of the transcontinental one, into massive debt due to
+depletions of grants it had received from Congress.
+ANSWER: Union Pacific railroad
+[10] Another prominent member of the Credit Mobilier scandal was this Vice President under
+Ulysses S. Grant who was eventually replaced by Henry Wilson.
+ANSWER: Schuyler Colfax
+
+Round 2- Page 13
+
+

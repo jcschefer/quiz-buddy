@@ -1,0 +1,354 @@
+VHSL Regular Season
+Round 32
+First Period, Fifteen Tossups
+1. The antibiotic tetracycline (TET-ruh-"sigh"-klin) acts by inhibiting this process. During this process, proteins called elongation
+factors allow a molecule with a characteristic cloverleaf structure to enter the A site. That molecule carries with it an amino acid
+joined by an ester bond and possesses a three-base sequence called an anticodon (ANN-"tie"-KO-don). Always beginning with
+methionine and ending with the stop codon, for 10 points, name this process by which a strand of mRNA is turned into a protein.
+ANSWER: translation
+022-09-2-17101
+
+2. One author born in this country wrote the verse novel The Golden Gate. The author of A Suitable Boy is from this country, as is
+the author of The Interpreter of Maladies. The earliest literature of this country includes a drama about a maiden whose signet ring
+is swallowed by a fish. The only Nobel Laureate from this country wrote a collection of poems that has a preface by Yeats and
+literally means "Song-Offerings." For 10 points, name this home country of Rabindranath Tagore and Kalidasa, the latter of whom
+wrote in Sanskrit.
+ANSWER: Republic of India [or Bharat Ganarajya]
+020-09-2-17102
+
+3. The "woven" form of this tissue is less organized and weaker, while the stronger form is called "lamellar." This tissue forms
+structures that are called "sesamoid" (SESS-uh-moyd) when they are embedded in tendons. The inorganic component of this tissue
+consists of the mineral hydroxyapatite ("high"-DROX-ee-APP-uh-"tight"). This tissue can become porous after menopause in
+osteoporosis. For 10 points, name this tissue, the component of the skeleton.
+ANSWER: bone
+022-09-2-17103
+
+4. This author instructed the title character to "go to the Western gate" in his poem "Luke Havergal." This creator of the fictional
+Tilbury Town wrote of a man who was "born too late" and "coughed, and called it fate, and kept on drinking." In addition to that
+poem about a "child of scorn," this poet wrote about a man observed by the "people on the pavement" whenever he went
+downtown. That character created by this man inexplicably "went home and put a bullet through his head." For 10 points, name
+this American poet, the creator of "Miniver Cheevy" and "Richard Cory."
+ANSWER: Edwin Arlington Robinson
+025-09-2-17104
+
+5. One modification of this policy was proposed by Richard Olney during the Venezuelan border dispute. This policy was
+famously opposed by George Canning. Caribbean debts were the impetus for a "corollary" to this policy. This policy was
+proposed by its namesake's Secretary of State, John Quincy Adams. For 10 points, name this cornerstone of American foreign
+policy named for the president under whose administration it was introduced, the doctrine which set forth a policy of U.S.
+opposition to European intervention in the Americas.
+ANSWER: Monroe Doctrine
+038-09-2-17105
+
+6. One author with this last name wrote a poem about a woman who befriends Marian Erle and falls in love with her cousin
+Romney. In addition to that author of Aurora Leigh, another author with this last name wrote a poem about the murder trial of
+Guido Franceschini as well as dramatic monologues such as "Rabbi Ben Ezra" and "Fra Lippo Lippi." A poet with this last name
+asked, "How do I love thee? Let me count the ways," in Sonnets from the Portuguese. For 10 points, give the shared last name of
+the husband-and-wife poets Elizabeth Barrett and Robert.
+ANSWER: Browning
+004-09-2-17106
+
+7. Its Courgette (core-ZHET) program takes advantage of machine instruction labels. It is the source of the a distributed storage
+system called Bigtable and a distributed compute framework called MapReduce. Hidden classes are important in its V8 project
+which is used for its chromium project. The home of a namesake code repository service and it recently announced a
+programming language called Go. For 10 points name, this large technology company best known for Internet searching.
+ANSWER: Google
+001-09-2-17107
+
+VHSL Regular Season Round 32 Page 1 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+8. This man's friends include the socialist Seneca Doane and a group known as "the Bunch." This character travels to Maine with
+his best friend Paul Riesling. This man encourages his son Ted to elope with Eunice Littlefield after his wife Myra falls ill. This
+character who has an affair with Tanis Judique slips back into a life of conformity and conservatism at the end of the work in
+which he appears. He is a resident of the fictional locale of Zenith, Winnemac. For 10 points, name this titular real estate salesman
+of a novel by Sinclair Lewis.
+ANSWER: George Folansbee Babbitt
+025-09-2-17108
+
+9. The standard of care is used to determine whether one type of these acts has been committed. Aside from negligence, types of
+these acts include nuisance, which is the act of interfering with a person's enjoyment of their property, and defamation, which is
+divided into slander and libel. For 10 points, name these wrongful acts which are remedied in civil law, usually by awarding
+damages.
+ANSWER: torts or delicts
+024-09-2-17109
+
+10. In 1871, this city was the namesake of a treaty that settled the Alabama Claims. Fifty years later, Charles Evans Hughes
+orchestrated the Five-Power Pact, which limited capital ship tonnage, at this city's namesake Naval Conference. In 1990, a mayor
+of this city was caught smoking crack in a hotel room. This home of Marion Barry's political career adopted a new license plate in
+2000 that reads "taxation without representation." For 10 points, name this city, which was designed by Pierre L'Enfant and
+includes Georgetown and Capitol Hill.
+ANSWER: Washington, D.C. [or DC; or District of Columbia]
+019-09-2-17110
+
+11. This force is necessary for the phenomenon of rolling without slipping; during that motion, this force is sometimes known as
+traction. The kinetic coefficient of this force is a constant, and is less than the maximum static coefficient, which is proportional to
+the normal force. For 10 points, name this force that retards motion of an object across a surface with which it is in contact.
+ANSWER: friction
+003-09-2-17111
+
+12. One author from this nation wrote an epic poem called the Lusiads, and another wrote novels such as The Stone Raft and one
+in which an ophthalmologist's wife is the only figure not afflited with the title condition, Blindness. The former novel sees the
+Iberian peninsula break off from the rest of Europe. A series of forty-four love poems by Elizabeth Barret Browning were
+disguised as though they were written by someone from this country. For 10 points, name this nation home to José Saramago,
+which is visited by Candide in time for an earthquake in Lisbon.
+ANSWER: Portugal
+022-09-2-17112
+
+13. An infinite series with first term one and this number as the ratio will converge to four-thirds. This is the first positive number
+x for which the tangent of pi x is undefined. This number is the slope of the equation whose standard form is x minus four y equals
+ten. This is also the probability of getting two heads in two tosses of a fair coin. For 10 points, give this number that is also equal
+to the square of one-half.
+ANSWER: 1/4 [or 0.25; or one-quarter; prompt on equivalents that are not in reduced form]
+003-09-2-17113
+
+14. One character in this novel is an African-American doctor named Benedict Copeland. In this work, the socialist Jake Blount
+eats all of his meals at the New York Café, which is owned by Biff Brannon. Other characters in this novel include Mick Kelly,
+who takes a job at Woolworth. That main character of this work kills himself after the death of his friend Spiros Antonapoulos.
+This novel begins by noting that "In the town there were two mutes, and they were always together." For 10 points, name this
+novel about John Singer, written by Carson McCullers.
+ANSWER: The Heart is a Lonely Hunter
+025-09-2-17114
+
+15. While serving in this government post, Frank Kellogg sponsored a namesake pact with French foreign minister Aristide Briand
+(ah-riss-TEED bri-AND). Cyrus Vance opposed a rescue attempt of American hostages while serving in this post. Cordell Hull
+promoted the Good Neighbor Policy while serving in this post. Dean Rusk defended the Vietnam War while serving in this
+capacity. William Seward served in this post under Abraham Lincoln. Thomas Jefferson was the first to hold this post. For 10
+points, name this government post held by Madeleine Albright and Colin Powell.
+ANSWER: United States Secretary of State
+025-09-2-17115
+
+VHSL Regular Season Round 32 Page 2 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 32
+Directed Round
+1A. In Japanese, this is the only consonant that can appear singularly without an attached vowel. In spanish, a tilde (TIL-duh)
+over this letter changes the word for "sorrow" to the word for "ridge." What is this letter?
+ANSWER: n
+1B. The name for this literary technique, characteristic of epic poetry was coined in Horace's Ars Poetica. What is this term,
+which refers to the opening of the narrative in the middle of the story?
+ANSWER: "in medias res"
+2A. This presence of this phenomenon is cited as proof of an expanding universe. Name this specific form of the Doppler effect, in
+which the light from a receding source increases in wavelength.
+ANSWER: redshift
+2B. Gordon Allport was a pioneering psychologist in the study of what phenomenon, whose different types are described by the
+Myers-Briggs test?
+ANSWER: personality
+3A. In current continuity, he claims to be reformed because he can make more money as a private detective. Name this Gotham
+villain, who leaves puzzles at his crimes that often led to his capture by Batman.
+ANSWER: Edward Nigma [or The Riddler]
+3B. An Illinois prison controversially received the inmates from what former US-operated property on Cuba, which interred
+several alleged terrorists?
+ANSWER: Guantanamo Bay [or Gitmo; prompt on Camp X-Ray]
+4A. This is a 10-second calculation question. What is the greatest common factor of 64 and 162?
+ANSWER: 2
+4B. This is a 10-second calculation question. If the sine of an angle in the first quadrant is 3/5, find the tangent of that angle.
+ANSWER: 3/4
+5A. It undergoes metamorphosis to become slate. Name this sedimentary rock, that is primarily composed of clay.
+ANSWER: shale
+5B. One part of this organ's opening releases pollen. Name this male plant organ, composed of filaments and anthers.
+ANSWER: Stamen
+6A. This is a 20-second calculation question. You are playing a game in which you roll again if you roll a five or a six. What is the
+probability that you roll at least three times?
+ANSWER: 1/9
+6B. This is a 20-second calculation question. Convert the equation y minus 6 equals negative 3 times quantity x minus 7 into
+standard form.
+ANSWER: 3x+y=27
+7A. One work by this author sees the Republic of Gilead overthrow the United States government. Name this Canadian author
+who wrote about Offred living in a dystopian future in The Handmaid's Tale.
+ANSWER: Margaret Eleanor Atwood
+7B. One game in this series followed the adventures of Ramza Beoulve (ROM-zuh bay-OOLV) in Ivalice (EE-vuh-leece). Name
+this longrunning series of roleplaying games developed by Square Enix.
+ANSWER: Final Fantasy
+8A. The western part of this state includes the confluence of the Allegheny and Monongahela (muh-NON-guh-HEEL-uh) Rivers.
+Name this "Keystone State," with a capital at Harrisburg.
+VHSL Regular Season Round 32 Page 3 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+ANSWER: Commonwealth of Pennsylvania
+8B. During his time at the University of Rome, this physicist's work led to the discovery of slow neutrons. Who was this
+Italian-American developer of the first nuclear reactor?
+ANSWER: Enrico Fermi
+9A. This is a 30-second calculation question. What is the remainder when x cubed plus 2 x squared minus 3x plus 6 is divided by
+the quantity x minus 1?
+ANSWER: 6
+9B. This is a 30-second calculation question. Find the area of the region bounded by the equations x squared plus y squared is less
+than or equal to 4 and y is greater than or equal to x minus 2. Express your answer in terms of pi.
+ANSWER: 3 pi + 2
+10A. This woman called the Associated Press fact-checking of her book "opposition research." Name this former governor of
+Alaska.
+ANSWER: Sarah Palin
+10B. A banner in this painting advertises Phillies cigars, as one man in this painting tends the counter for the three customers.
+Name this Edward Hopper painting of an near-empty diner.
+ANSWER: Nighthawks
+002-09-2-17116
+
+VHSL Regular Season Round 32 Page 4 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 32
+Third Period, Fifteen Tossups
+1. A reagent with this element makes alkenes (AL-keenz) from carbonyl (CAR-bo-NEEL) compounds in the Wittig (VIT-tig)
+reaction. Its black form has a structure like graphite. Its white allotropes has a tetrahedral structural unit, and the red kind forms a
+network of those tetrahedrons chained together. For 10 points, name this element, whose oxide is found in the backbone of DNA,
+and which is located immediately below nitrogen on the Periodic Table.
+ANSWER: phosphorus [or P]
+022-09-2-17117
+
+2. The Maritz one of these is also called the Five Shilling one and occurred at the start of the first World War. One of these that
+happened during the Meiji (MAY-gee) Restoration in Japan is called the Satsuma. One called Chimei (chee-MAY), or Red
+Eyebrows, was carried out against the Xin dynasty of Wang Mang. Another one of these actions carried out against Emperor Ling
+of Han was called Yellow Turban. For 10 points, name these events that include one which established a namesake Heavenly
+Kingdom of Great Peace at Nanjing and was named for Taiping, and another called the Boxer one.
+ANSWER: rebellions
+022-09-2-17118
+
+3. Ralph Bagnold's work on the formation of these entities, though written in 1941, is still mostly accurate. Barchans (BAR-chanz)
+are formed where there is little of their namesake substance, which is made up of particles of diameter between 0.1 and 1.6
+millimeters. The most common type of these objects is the crescentic type, which are wider than they are long. Star ones are found
+in the Namib and Sahara Deserts. For 10 points, name these massive hills built by wind-blown sand.
+ANSWER: sand dunes
+003-09-2-17119
+
+4. This nation is home to the volcanoes Iztaccihuatl (ISS-TACK-see-WAT-el) and Popocatepetl (PO-po-COT-uh-PET-el).
+Another volcano here is a cinder cone that first appeared as a hole in a corn field and within 10 years grew 9,012 feet. The Bay of
+Campeche borders this country, whose tourist destinations include Cozumel, Cabo San Lucas, Tijuana (tee-WAHN-uh), and
+Cancun. For 10 points, name this country in which Ciudad Juarez (SEE-oo-dad WAR-ez) sits on the other side of the Rio Grande
+from Texas.
+ANSWER: Mexico [or United Mexican States; or Estados Unidos Mexicanos]
+027-09-2-17120
+
+5. One form of this country was created in opposition to the Union of Arras. That Union of Utrecht in this country took part in the
+Eighty Years War before gaining independence. This country was led during that war by William the Silent against the rule of
+Philip II. Another William who led this country also ruled Great Britain after the Glorious Revolution. For 10 points, name this
+country often ruled over by the house of Orange, a country which was once a Spanish possession in the Low Countries along with
+Luxembourg and Belgium.
+ANSWER: Kingdom of the Netherlands [or Koninkrijk der Nederlanden; or Holland; or Dutch Republic]
+023-09-2-17121
+
+6. One character in this opera, Peter, is taken to jail as a material witness by the detective after Robbins is killed by a cotton hook
+wielded by Crown. One character in this opera is frequently asked to head to New York with a 'happy dust' dealer called Sportin'
+Life. This opera focuses on the inhabitants of Catfish Row, and it features the arias It ain't necessarily so and the lullaby
+Summertime. For 10 points, name this opera whose title characters are a cripple and the woman he loves, a work written by
+George Gershwin.
+ANSWER: Porgy and Bess
+023-09-2-17122
+
+7. This composer set Gerald Bullett's "The English Galaxy of Shorter Poems" for voice and harp in his Ceremony of Carols. In
+another work by this composer, variations A through M on a theme are each played by a different instrument of the orchestra, and
+each variation is based off a theme from Purcell's Abedalzar. Another work by this composer sets Wilfred Owen to music. For 10
+points, name this British composer of War Requiem and A Young Person's Guide to the Orchestra.
+ANSWER: Edward Benjamin Britten
+036-09-2-17123
+
+VHSL Regular Season Round 32 Page 5 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+8. One man with this first name defeated the Swedes at Nordlingen, issued the Edict of Restitution, and ordered the assassination
+of Albrecht von Wallenstein. Another man by this name was the brother of Charles V who engineered the Peace of Augsburg.
+Another man with this first name assumed command of American, French, and British forces in 1918. For 10 points, give this
+shared name also held by the man who completed the Reconquista by conquering Grenada, who was the husband of Isabella.
+ANSWER: Ferdinand [or Ferdinand II before "Charles V"]
+030-09-2-17124
+
+9. One book by this author sees Mickey construct an airplane out of dough in order to retrieve a bottle of milk to bake a cake. That
+book by this author, In the Night Kitchen, has been frequently challenged and banned for nudity. He also wrote a book in which a
+character "making mischief" in a wolf costume is named king by staring into a bunch of yellow eyes and never blinking. For 10
+points, who is this author who gained international recognition in 1963 for his colorful fanged monsters in the book Where the
+Wild Things Are?
+ANSWER: Maurice Bernard Sendak
+045-09-2-17125
+
+10. One character in this work is saddened when he is persuaded to consent to the shooting of his dog by Carlson. The two main
+characters of this work are forced to flee when one is accused of raping a girl in Weed. That alleged rapist in this novella is
+haunted by the memory of his Aunt Clara. At the end of this work, one character accidentally kills Curley's wife, and is then shot
+by the other main character. For 10 points, name this novella about the ranch hands George Milton and Lennie Small, which was
+written by John Steinbeck.
+ANSWER: Of Mice and Men
+025-09-2-17126
+
+11. An usurper of these peoples was Gelimer, and one of their greatest leaders was the target of plots of Majorian in 460 CE and
+Basiliscus in 468. That great leader was the father of Huneric, and their North African kingdom was destroyed by Belisarius. They
+achieved their greatest success under Gaiseric, who led them in sacking Rome in 455 CE. 10 points, name this Germanic group
+whose name has become synonymous with wanton destruction.
+ANSWER: Vandals
+030-09-2-17127
+
+12. This artist depicted disfigured and naked men trying to get into a boat that bears three people in his painting The Barque of
+Dante. In another work, this artist painted an Ottoman on a horse that is rearing above a group of thirteen Greek civilians. This
+painter of The Women of Algiers also created a work in which a man in a top hat participates in a mob that is led by a woman in a
+Phrygian cap, holding a tricolor flag. For 10 points, name this French Romantic artist who painted Massacre at Chios and Liberty
+Leading the People.
+ANSWER: Ferdinand Victor Eugene Delacroix
+036-09-2-17128
+
+13. This word is the last in the title of a play by John Dryden that ends with two characters atop the Sphinx, based on Anthony and
+Cleopatra. That play was entitled "All for" this concept. George Meredith wrote a sonnet sequence upon his marriage entitled for
+the "modern" form of this concept. This word begins the title of a Shakespeare play in which Longaville, Dumaine, Berowne, and
+Ferdinand do not get married at the end. For 10 points, name this feeling whose labors are lost in a Shakespeare play.
+ANSWER:
+love [accept All for Love; or Love's Labors Lost; or Modern Love]
+033-09-2-17129
+
+14. One former kingdom located in this present-day country was led by Taksin (tok-SIN) and called Thonburi (ton-burr-EE).
+Taksin was quickly replaced by General Chakri as a ruler in this place, after expelling Burmese invaders in this country. Upon
+gaining the throne of this country, Chakri took the name Rama I. This country is the only one in Southeast Asia that was never
+colonized by Europeans, and was once called Siam. For 10 points, name this nation with a capital at Bangkok.
+ANSWER: Kingdom of Thailand
+022-09-2-17130
+
+15. This composer remarked "the devil may play it" about his four-movement Wanderer Fantasy, which he himself could never
+play. This composer's first successful song was "Gretchen at the Spinning Wheel." Part of his incidental music to Rosamunde may
+have originally been meant for the finale of this composer's eighth symphony, which had only two movements when he died. For
+10 points, name this Austrian composer of the Unfinished Symphony and Trout Quintet.
+ANSWER: Franz Peter Schubert
+036-09-2-17131
+
+VHSL Regular Season Round 32 Page 6 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+VHSL Regular Season
+Round 32
+Tiebreaker Questions
+1. This element is single-bonded to itself in hydrazine ("HIGH"-druh-zeen) and triple-bonded to carbon in cyanide. This element
+forms in the second of three steps of a cycle of stellar fusion reactions, and the oxide that this element forms when it takes a plus
+one charge is known as laughing gas. This element's diatomic form contains a triple bond. For 10 points, name this element whose
+diatomic form is the gas most prevalent in the earth's atmosphere.
+ANSWER: nitrogen [or N]
+022-09-2-17132
+
+2. This tissue's basic functional unit is activated by calcium binding to troponin-C (truh-POH-nin-"C") and is bounded by the
+Z-line. That unit is called the sarcomere (SAR-co-meer). A disease that affects this tissue is named for Duchenne and is called its
+"dystrophy." This tissue, which can be smooth, cardiac, or skeletal, forms structures such as the gluteus maximus ("GLUE"-tee-us
+MAX-ih-mus) and the deltoid (DEL-toyd). For 10 points, name this tissue, which attaches to bone and contracts in order to permit
+motion.
+ANSWER: muscle
+022-09-2-17133
+
+3. Haydn composed one of this kind of piece labeled "for troubled times," which has been nicknamed "Lord Nelson." Beethoven
+wrote one in C Major given the Latin title Solemnis. It includes the movements "Kyrie," "Gloria," "Credo," "Sanctus," and "Agnus
+Dei." Palestrina wrote one named for Pope Marcellus. Bach's only complete one of these was in B Minor. For 10 points, name this
+sacred musical setting of the Catholic liturgy to accompany services every Sunday.
+ANSWER: Masses
+012-09-2-17134
+
+4. Brunetti wrote 44 of these for the Spanish court, while cellist Luigi Boccherini's nearly one hundred spread across Europe.
+Smetana's first one is titled "From My Life," and Dvorak (duh-VOR-zhak) wrote and "American" one. Alban Berg's Lyric Suite
+was originally composed in this musical form, inspiring the third of Bartok's six of these pieces. For 10 points, name this type of
+chamber music composition, usually featuring a cello, a viola and two violins.
+ANSWER: string quartets [prompt on quartets]
+012-09-2-17135
+
+5. One author from this country is a UC Berkeley professor who wrote The Captive Mind. This country's national epic contains a
+description of "Pocketknife" and is titled Mister Thaddeus. One author from this country wrote a historical trilogy that opens with
+With Fire and Sword and described Nero's persecution of Christians like Lydia in Quo Vadis?. Eliazer loses his faith by the end of
+one novel set in a concentration camp here. For 10 points, name this Central European country, the setting of Elie Wiesel's Night.
+ANSWER: Republic of Poland [or Rzeczpospolita Polska]
+020-09-2-17136
+
+VHSL Regular Season Round 32 Page 7 of 7
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

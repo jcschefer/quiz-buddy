@@ -1,0 +1,397 @@
+NASAT 2015 - Round 04 - Tossups
+1. Sphagnum moss and peat cores are characteristic of palsas, structures that develop in areas unfavorable to
+the formation of this layer. Aggradation of this layer around sandy sediments of drained lake bottoms forms
+conical hills topped by talik, a structure known as a pingo. Giant holes in this layer on the Yamal Peninsula
+have created concern about methane release. This layer underlays the active layer, and the thermal offset is the
+difference in the mean annual ground surface temperature and the temperature at the top of this layer. Collapse of this layer is associated with collapse-scar bogs, thermokarst lakes, and drunken trees. For 10 points,
+name this thick layer of soil that remains frozen year-round in cold climates.
+ANSWER: permafrost [or permanent frost; prompt on perennially frozen ground or perennially cryotic
+ground] <Voight>
+2. In 2012, a 100,000-person gathering at Metlife stadium celebrated participants' completion of this task in a
+Siyum hashas. The Karaite movement is defined by its refusal to accord legitimacy to this activity. In modern
+times, the Brisker method has superseded the older, casuistic pilpul method of performing this activity. Meir
+Shapiro began a popular practice in which large groups undertake this activity for seven-and-a-half year cycles, called daf yomi, meaning "a page a day." The commentaries of the "tosafists" and Rashi help Jews perform
+this action, which includes proceeding through the 63 divisions of the Mishnah. For 10 points, identify this
+practice of reading and analyzing the oral Torah.
+ANSWER: studying the Talmud [or interpreting the Talmud; or reading the Talmud; prompt on answers such
+as reading the Mishnah or reading the Gemara] <Bollinger>
+3. In this story, the protagonist wonders if women have minds or if they have "just a little buzz like a bee in a
+glass jar." The narrator of this story imagines a family party complete with men in ice-cream suits and bowties
+after another character tries to purchase herring snacks. In this story, the protagonist and his co-worker
+Stokesie are captivated by a trio of women who are led by a girl nicknamed Queenie. This story concludes
+when Lengel chastises the three women for being barefoot and wearing bikinis, prompting Sammy to wonder
+"how hard the world was going to be" after quitting his job. For 10 points, name this short story set at a convenience store, written by John Updike.
+ANSWER: "A & P" <Saric>
+
+NASAT 2015 - Round 04 - Page 1 of 14 
+
+4. Ships from this European country transported the German naturalist and historian Engelbert Kaempfer. A
+doctor serving merchants from this country was discovered to possess secret maps and was exiled from Japan
+in the "Siebold incident." Men from this country undertook annual "court journeys" and were referred to as
+"Red-Haired Barbarians." Japanese scholars learned this country's language as part of the Rangaku movement.
+This country operated a trading post which was built by Portuguese merchants on the artificial island of Dejima. The VOC, this country's East India Company, had a limited presence in Japan during its isolationist period. For 10 points, name this country whose ships often traveled to Japan from Rotterdam.
+ANSWER: the Netherlands [or de Nederlanden; or Dutch Republic: or Holland] <Brownstein>
+5. This man opened one book by aligning his own views with Socrates listening to "the old Protagoras" and rebutting "the so-called Sophist." This man described syllogisms as "ratiocination" in a text which laid out reasoning "ratiocinative" and "inductive." In this man's simple theory of names, a name's meaning is merely the
+thing it refers to and nothing more. After suffering a mental breakdown at age twenty from the prodigy training regimen of his philosopher father James, this thinker wrote A System of Logic, and collaborated with his lover Harriet Taylor on an 1869 text in favor of female equality. For 10 points, name this English author of The Subjection of Women, whose major writings defended maximal liberty and utilitarianism.
+ANSWER: John Stuart Mill <Jackson>
+6. American artists such as Frederick Carl Frieseke, Theodore Earl Butler, and Willard Metcalf established an
+artists' colony in this place. A painting set in the woods near this location shows Blanche Hoschede at her easel
+while her sister Susanne reads. This location is the subject of a 42-foot wide triptych at the MoMA depicting
+the "reflection of clouds" on a pond created by diverting the Epte river. This place is the setting of a set of
+twelve views of a Japanese footbridge. An artist suffering from cataracts retreated to this place during the last
+thirty years of his life and executed 250 paintings of Water Lilies. For 10 points, name this French commune
+where Claude Monet maintained a garden.
+ANSWER: Giverny [accept Monet's garden before "commune" is read] <Gupta>
+7. Sumner Welles resigned after his attempts to solicit sex from this company's workers were publicized. Employees of this company were addressed as "George" and were organized by C. L. Dellums. Robert Todd Lincoln served as president of this firm, and Solon Beman designed its company town. A union for this company's
+workers was led by a man who pressured FDR into passing Executive Order 9981 and directed the March on
+Washington. That man was Asa Philip Randolph. Richard Olney obtained an injunction against striking employees of this company during Grover Cleveland's presidency. This company faced a strike led by Eugene
+Debs. For 10 points, name this company which produced "palace" railroad cars.
+ANSWER: Pullman Palace Car Company <Brownstein>
+
+NASAT 2015 - Round 04 - Page 2 of 14 
+
+8. Kenneth Arrow and John Pratt developed a measure of how people react to this thing based on the ratio of
+the utility function's second derivative over its first derivative. Individuals whose behavior can be explained by
+a linear utility function are indifferent towards it. Beta is the ratio of this quantity for a specific asset over this
+quantity of the entire market. Its price for a given portfolio is the expected excess return of the portfolio over
+its standard deviation. Frank Knight treated this quantity as something measurable to distinguish it from uncertainty. The variance of an asset's return is used to measure this thing, which treasury bonds are usually assumed to be free of. For 10 points, name this measure of how likely an investment is to fail.
+ANSWER: risk [prompt on uncertainty; do not accept "ambiguity"] <Bailey>
+9. This man wrote, "Shakespeare was of us, Milton was for us," in a poem that laments, "just for a handful of silver he left
+us, just for a riband to stick in his coat," in reference to William Wordsworth. In another poem by this author, a "girl with
+eager eyes and yellow hair" waits for the speaker in a "single little turret that remains on the plains." This poet of "The
+Lost Leader" also wrote a poem in which the speaker offers to show his interlocutor a bronze statue of Neptune cast by
+Claus of Innsbruck. That poem of his describes a woman who had "a heart...too soon made glad" memorialized in a portrait by Fra Pandolf. For 10 points, name this Victorian poet of "Love among the Ruins" and "My Last Duchess."
+ANSWER: Robert Browning <O'Rourke>
+
+10. The maximum number of steps the Euclidean algorithm can take is asymptotically the natural log of n divided by the natural log of this number. The worst case of Borel's theorem on rational approximation is for
+numbers in an equivalence class with this one. The continued fraction expansion of this number consists entirely of ones, and it is equal to twice the cosine of 36 degrees. This number and its negative appear in Binet's
+formula for the nth Fibonacci number. This number is the length of a regular pentagon's diagonal divided by
+its side length. For 10 points, identify this number, equal to 1 plus the square root of 5 over two, often denoted
+by the Greek letter phi.
+ANSWER: golden ratio [or golden mean; or obvious equivalents; or phi until it is read; or (1 + sqrt(5)) / 2 until it
+is read, prompt on 1.618033…] <Schindler>
+11. A character in this play describes how the moon has passed through a secret gateway while talking to a man
+he calls "ghostly one." In this play, a woman insults the protagonist by calling him a "self-vaunted stem of the
+plantain" and accuses him of eating the "world's left-overs." This play's fourth scene opens with a band playing
+"Rule Britannia" as the Prince arrives at a masquerade. In this play, the main character tells the story of the
+"Not-I bird" to the praise-singer. After the body of the medical student Olunde is brought in rolled up in a mat
+near the end of this play, Simon Pilkings is unable to prevent Olunde's father from using his chains to strangle
+himself. For 10 points, name this play in which Elesin must commit ritual suicide, written by Wole Soyinka.
+ANSWER: Death and the King's Horseman <Brownstein>
+
+NASAT 2015 - Round 04 - Page 3 of 14 
+
+12. These objects were stolen from the chimpanzees according to a myth from the Mali Empire. The Lemba
+people believe that after the original Ark of the Covenant imploded, the Ten Commandments were housed in
+the ngoma lungundu type of these objects. Red and black felt representing death and blood cover these objects
+in the Akan and Ashanti cultures. Their bata type is used in Santeria, and the hourglass-shaped tama, or "talking," kind uses tension cords to adjust pitch to resemble human speech. The dundun is often used in an ensemble with a goblet type of these instruments called the djembe. These membranophones are frequently
+mounted with cow or goat skin. For 10 points, name these percussion instruments beaten with namesake
+sticks.
+ANSWER: drums [or obvious equivalents; or ngoma, bata tama, dundun, or djembe until they are mentioned]
+<Smart>
+13. The most detailed account of this battle comes from a chronicle compiled by a mozarab. The winning side at
+this battle lacked cavalry, causing the infantry to form a phalanx formation to counter the enemy's cavalry.
+Three years after this battle, its losing side looted Arles and successfully captured Avignon. A commander of
+the winning side at this battle was previously defeated at the Garonne River. Odo, the Duke of Aquitaine, assisted the winning side at this battle, which surrounded the forces of Abd-al-Rahman (rock-MAHN). Following this battle, its winning commander was given the epithet "Hammer" after defeating Umayyad forces. For
+10 points, name this 732 battle in which Charles Martel stopped a major Muslim invasion of Gaul.
+ANSWER: Battle of Tours [or Battle of Poitiers] <Golimlim>
+14. A character in this novel describes a novel he is writing, which features a love triangle on the planet Gazzali
+in the year 3579. In this novel, the narrator finds videos of a porn star named Melinda while searching the protagonist's apartment in Frankfurt for his green notebook. This novel includes a tape-recorded conversation in
+the New Life Pastry Shop that ends with the assassination of the director of the Institute of Education. During
+the performance of a play about "My Fatherland" in this novel, soldiers march onstage and fire into the crowd.
+The town where this novel is set is home to Blue, the radical lover of Ipek, and is plagued by the suicides of
+girls who are forced to remove their headscarves. For 10 points, name this novel about the poet Ka, by Orhan
+Pamuk.
+ANSWER: Snow [or Kar] <Brownstein>
+15. The ATPase PINA is expressed at high levels under this stimulus. The DLMO response to this stimulus triggers PRC phase-advance. Some organisms occupy the epipelagic zone during diel vertical migration in response to this exogenous stimulus. Phacelia is dependent on this stimulus for germination, and pitaya flowers
+only bloom when it is present. A condition appearing under this stimulus is often the first symptom of retinitis pigmentosa. A steady influx of sodium through certain cGMP-gated channels occurs under its namesake
+"current" and is reversed by activation of transducin by opsin. This phenomenon increases pineal gland secretion of melatonin, which stimulates sleep. For 10 points, name this phenomenon during which nocturnal animals are active.
+ANSWER: darkness [or synonyms of darkness, such as absence of light and scotopic conditions; or nighttime;
+or twilight; or day turning into night; or light turning into darkness; prompt on nocturnality, circadian
+rhythms, and sleep-wake cycle until "exogenous" is read; prompt on light/dark cycle] <Smart>
+
+NASAT 2015 - Round 04 - Page 4 of 14 
+
+16. A variant of FRET couples this effect to absorption in quantum dot nanoparticles for high-sensitivity biological imaging. H.E.S.S., an array of telescopes in Namibia, uses this effect to detect gamma rays. A Heaviside
+function appears in the integral for the energy change per unit length from this phenomenon, which is proportional to the charge squared. The cosine of the Mach cone angle produced by this effect equals one over the
+product of index of refraction and beta. Super-Kamiokande detects this effect from neutrinos colliding with
+electrons in a tank of water. This phenomenon occurs if a charge particle is accelerated beyond the velocity of
+light for a given medium. For 10 points, name this bluish glow seen near spent nuclear reactors.
+ANSWER: Cherenkov radiation [or Vavilov-Cherenkov radiation] <Silverman>
+17. When this hero's favorite bull is taken away to give as the prize for a contest, this hero enters the contest
+and wins back the bull. During a duel, this man is grabbed by his helmet and dragged along the ground until
+he is suddenly whisked away to his bedchamber. Before this hero's birth, his mother dreams of giving birth to
+a flaming torch. Ares transforms into a bull and wins a bull-judging contest arbitrated by this man. This hero
+dies when his lover Oenone refuses to heal him of the wound inflicted by Philoctetes's arrow. This man shoots
+an arrow that strikes Achilles in the heel and earlier awards a golden apple to Aphrodite. For 10 points, name
+this brother of Hector, a prince of Troy whose kidnap of Helen sparks the Trojan War.
+ANSWER: Paris [or Alexander; or Alexandrus] <Kim>
+18. This character erroneously says "Queen to bishop three" when announcing a checkmate, which may be an
+intentional blooper. In another film, this character is instructed by Dr. Chandra and tells Heywood Floyd to
+"look behind you." This character's first memory is meeting Dr. Langley in Urbana, Illinois in January 1992. At
+one point, this character babbles "My mind is going" before singing the song "Daisy." After reading lips, this
+character deduces that Frank Poole and Dave Bowman are plotting something. This character, represented as
+a red television camera eye, controls the Discovery One. It tells Dave that it cannot open the pod bay doors. For
+10 points, name this sentient computer in the film 2001: A Space Odyssey.
+ANSWER: HAL 9000 <Cheyne>
+19. The first movement of this composer's Symphony No. 5 quotes the "Habañera" from Carmen. He described
+the scherzo of one of his symphonies as a "musical portrait of" a certain historical leader, "roughly speaking."
+His fifth symphony ends with a coda dominated by repeated shrill eighth note A's, which has been interpreted
+as either a genuine triumph or as forced rejoicing. This composer depicted himself in his Symphony No. 10
+with a recurring "D, E-flat, C, B" motif also found in his String Quartet No. 8. He billed his fifth symphony as
+an "artist's response to justified criticism" after he was censured for his opera Lady Macbeth of the Mtsensk District. For 10 points, name this composer whose fifteen symphonies include the Leningrad.
+ANSWER: Dmitri Shostakovich [or Dmitri Dmitriyevich Shostakovich] <Kim>
+
+NASAT 2015 - Round 04 - Page 5 of 14 
+
+20. A supporter of this non-African political cause organized the delivery of weapons aboard the cargo ship
+Libau, and was delivered in a submarine to Banna Strand. That supporter of this movement was slandered
+through the publication of his Black Diaries during his imprisonment. During a violent incident in support of
+this movement, one of its supporters captured Boland's Mill and avoided execution due to his birth in New
+York City. Support for this ideology led to the deaths of men like Roger Casement and James Connolly, but not
+of Éamon de Valera. Arthur Griffith led a political party dedicated to this cause whose name means "we ourselves." For 10 points, name this political cause supported by Sinn Féin (shin FAYN).
+ANSWER: Irish republicanism [or Irish nationalism; or Irish independence from Great Britain; do not accept
+"Irish home rule"] <Clarke>
+21. A book by Hector Feliciano reignited investigations into these objects. The Wiesbaden manifesto was produced by a group concerned with these objects. Several of these objects were found in an apartment owned by
+Cornelius Gurlitt in 2012. These objects were held at a facility named Jeu de Paume, which used to house tennis courts. Salt mines, like the ones at Merkers and Altaussee, were often used to store these objects. A bombing raid destroyed one of these objects named The Stone-Breakers. These objects were tracked down by a group
+known as the "Monuments Men." For 10 points, name these objects that were sometimes labeled as "degenerate" by the Nazis, who also looted hundreds of them.
+ANSWER: paintings [or stolen artworks and other obvious equivalents; prompt on Nazi loot] <Golimlim>
+
+NASAT 2015 - Round 04 - Page 6 of 14 
+
+NASAT 2015 - Round 04 - Bonuses
+1. Luckily for you, you get to backpack around New Zealand. For 10 points each:
+[10] You fly into this city situated on the edge of South Island's Canterbury Plains. Visiting it lets you see how it
+is recovering after a devastating 2011 earthquake.
+ANSWER: Christchurch [or Otautahi]
+[10] You decide to visit the North Island as well, and take a ferry to Wellington. It crosses this strait, which
+runs between the two islands.
+ANSWER: Cook Strait [or Raukawa Moana]
+[10] Next, you visit this town on the Hawke's Bay. Located just east of Hastings, its downtown is the site of a
+large cluster of Art Deco buildings and lots of shops selling wool products.
+ANSWER: Napier [or Ahuriri] <Nutter>
+2. This group lost much of its power after Hugo Black replaced Willis Van Devanter. For 10 points each:
+[10] Name this subgroup of the Supreme Court which also included Pierce Butler and George Sutherland. They
+frequently voted conservatively against the New Deal.
+ANSWER: Four Horsemen
+[10] In an effort to check the Four Horsemen's power, President Roosevelt introduced a 1937 Judicial Procedures Reform Bill, which was known by this two word name because it could have greatly increased the
+Court's size.
+ANSWER: court-packing plan
+[10] The Four Horsemen's power was also decreased when Owen Roberts split with the conservatives in this
+1937 decision upholding the constitutionality of a Washington minimum wage law. That move was dubbed
+"the switch in time that saved nine."
+ANSWER: West Coast Hotel Co. v. Parrish [or Parrish v. West Coast Hotel Co.] <Cheyne>
+
+NASAT 2015 - Round 04 - Page 7 of 14 
+
+3. This man resigned from Stanford after being ridiculed for his boring teaching style and womanizing ways.
+For 10 points each:
+[10] Name this Wisconsin born sociologist who analyzed the behavior of elites in his book The Theory of the Leisure Class.
+ANSWER: Thorstein Veblen [or Torsten Veblen]
+[10] Veblen was one of the academics who founded this university located in Greenwich Village, New York.
+This progressive friendly university was founded by several former Columbia professors, and its graduate division was once known as the University in Exile.
+ANSWER: The New School [or the New School for Social Research; or the New School University]
+[10] In The Theory of the Leisure Class, Veblen uses this two-word term to refer to the rising upper class's attempt
+to equal or surpass the wealth of others. The second chapter of the book focuses on this term, whose first word
+refers to money-related factors.
+ANSWER: pecuniary emulation <Cheyne>
+4. This character laments, "Alas, men, your destiny. When all is well a shadow can overturn it." For 10 points
+each:
+[10] Name this woman who tells the Chorus, "It is my turn to die," while approaching palace doors in Argos
+that she labels the "Gates of Death."
+ANSWER: Cassandra
+[10] Cassandra appears as a prize concubine in the first play of this trilogy by Aeschylus.
+ANSWER: the Oresteia
+[10] The second play of the Oresteia, The Libation Bearers, begins with Orestes placing two collections of this substance on his father's tomb, dedicating one of them to death and one of them to Inachos.
+ANSWER: hair [or obvious equivalents] <Sy>
+5. Answer the following about key works of architecture theory by architects, for 10 points each.
+[10] This Swiss-born architect of the square, stilt-raised Villa Savoye developed a modern view of how to design buildings in Towards a New Architecture.
+ANSWER: Le Corbusier [or Charles-Edouard Jeanneret-Gris]
+[10] Architect Robert Venturi published a study about Learning from this American city, where Dale Chihuly designed a glass sculpture for the Bellagio.
+ANSWER: Las Vegas, Nevada [or Paradise, Nevada]
+[10] This architect of the CCTV television headquarters in Beijing collaborated with Bruce Mau on a theoretical
+survey of his work, and of the "Architecture of Bigness," in the book S, M, L, XL.
+ANSWER: Rem Koolhaas [or Remment Lucas Koolhaas] <Jackson>
+
+NASAT 2015 - Round 04 - Page 8 of 14 
+
+6. This statesman was killed after an old woman in Argos dropped a roof tile on his head, allowing a soldier to
+finish him off. For 10 points each:
+[10] Name this general from Epirus who waged a five-year war against the Romans. He names a costly type of
+victory exemplified by the Battle of Asculum.
+ANSWER: Pyrrhus of Epirus [prompt on "Pyrrhic victory"]
+[10] The Pyrrhic War started after Tarentum, a city in this region, asked for help against Rome. This region
+was composed of Greek colonies in Sicily and southern Italy.
+ANSWER: Magna Graecia [or Great Greece]
+[10] Pyrrhus was also opposed by this band of mercenaries hired by Agathocles, the Tyrant of Syracuse. They
+later sided with Rome against Syracuse and Carthage during the First Punic War.
+ANSWER: Mamertines <Golimlim>
+7. Max Horkheimer of the Frankfurt School defined this type of theory as one that is "explanatory, practical,
+and normative." For 10 points each:
+[10] Name this form of social theory that integrates insights from the social sciences and humanities to advocate broad social change.
+ANSWER: critical theory
+[10] In Eros and Civilization, Herbert Marcuse critiqued societal repression by drawing on ideas from this field
+of study pioneered by Sigmund Freud.
+ANSWER: psychoanalysis [prompt on psychology]
+[10] Theodor Adorno's work in critical theory included co-authoring this book, which used the results of a personality survey to describe the characteristics of supporters of repressive regimes.
+ANSWER: The Authoritarian Personality <Bollinger>
+8. In control theory, this quantity equals the ratio of the output change over the input change. For 10 points
+each:
+[10] Name this quantity that also lends its name to increase in power of a laser beam when it travels through a
+laser medium.
+ANSWER: gain [or optical gain]
+[10] For the optical gain to be greater than one, this process in a medium must occurs more rapidly than absorption. Lasers "stimulate" this process when an electron decays from the excited state.
+ANSWER: emission of a photon [or stimulated emission of radiation]
+[10] This quantity is the proportionality constant between the rate of spontaneous emission and the number of
+electrons in the excited state. It is independent of the frequency, and was developed by Albert Einstein.
+ANSWER: Einstein's A coefficient <Silverman>
+
+NASAT 2015 - Round 04 - Page 9 of 14 
+
+9. The speaker of this poem observes "assorted characters of death and blight" which mix "like the ingredients
+of a witches' broth." For 10 points each:
+[10] Name this poem in which the sight of a moth caught in the web of a "dimpled spider, fat and white" leads
+the speaker to wonder how the title operation can "govern in a thing so small."
+ANSWER: "Design"
+[10] This American poet of "Design" also wrote "The Road Not Taken" and "Stopping by Woods on a Snowy
+Evening."
+ANSWER: Robert Frost [or Robert Lee Frost]
+[10] At the end of Frost's "After Apple-Picking," the speaker wonders whether this animal could say whether
+"this sleep of mine" is like this creature's "long sleep, or just some human sleep."
+ANSWER: the woodchuck <Sy>
+10. Answer the following about the beginning of the universe, for 10 points each.
+[10] This problem of the original Big Bang theory looks at why the universe, in particular the CMBR, is isotropic, even between parts of space far apart enough to not be able to communicate with each other.
+ANSWER: horizon problem
+[10] To solve the horizon problem and the flatness problem, Alan Guth proposed this idea, in which the universe rapidly expanded soon after the Big Bang.
+ANSWER: cosmic inflation
+[10] James Hartle and this scientist names the initial state of the universe, before the Big Bang, in a theory
+stating that spacetime has no boundaries.
+ANSWER: Stephen Hawking <Lee>
+11. Henry Littlefield wrote a 1964 article claiming that this book is a metaphor for monetary policy debates. For
+10 points each:
+[10] Name this 1900 children's book whose prominent featuring of the metals gold and silver lends some credence that its author may have been thinking of Populist debates when he wrote it.
+ANSWER: The Wizard of Oz [or The Wonderful Wizard of Oz]
+[10] Under that interpretation, the Cowardly Lion is typically thought to be this politician, who delivered the
+"Cross of Gold" speech at the 1896 Democratic National Convention.
+ANSWER: William Jennings Bryan
+[10] This Georgia politician was the Populist running mate of Bryan in 1896. This nativist pushed through Rural Free Delivery legislation while in Congress.
+ANSWER: Thomas Edward Watson <Cheyne>
+
+NASAT 2015 - Round 04 - Page 10 of 14 
+
+12. Moderator note: please do not read the alternate answers to the first part. John Eliot Gardiner led an acclaimed 1964
+performance of this piece, which includes a setting of the hymn "Ave maris stella." For 10 points each:
+[10] Name this choral piece often referred to by its year of composition. It ends with two Magnificats - one for
+seven voices and orchestra, and then a smaller, rarely-performed one for six voices and continuo.
+ANSWER: Vespers of 1610 [or Vespro della Beata Vergine 1610; or Vespers for the Blessed Virgin 1610; or obvious
+equivalents that include Vespers and 1610; accept, but do not reveal, Monteverdi's Vespers]
+[10] This composer wrote the Vespers of 1610 and composed L'Orfeo, the earliest opera still regularly performed
+today.
+ANSWER: Claudio Monteverdi [or Claudio Giovanni Antonio Monteverdi]
+[10] Earlier settings of the Magnificat were composed by William Byrd, a student of this composer of the motet Spem in alium.
+ANSWER: Thomas Tallis <Kim>
+13. A character in this play remarks, "Lending one's bicycle is a form of safe sex, possibly the safest there is." For
+10 points each:
+[10] Name this play set at Sidley Park, where Septimus Hodge acts as tutor to the precocious Thomasina Coverly.
+ANSWER: Arcadia
+[10] Arcadia was written by this Czech-born British playwright, who also wrote Rosencrantz and Guildenstern Are
+Dead.
+ANSWER: Tom Stoppard [or Tomas Straussler]
+[10] In the opening scene of Arcadia, Septimus challenges Thomasina to perform this task, saying he hopes it
+will keep her busy enough to read Ezra Chater's poem. Thomasina later concludes that the inspiration to perform this task "was a joke to make you all mad."
+ANSWER: prove Fermat's last theorem [or obvious equivalents] <Sy>
+14. Recently, massive groups of schoolchildren have been the targets of crimes worldwide. For 10 points each:
+[10] Michelle Obama promoted the #BringBackOurGirls hashtag in response to this insurgent group's kidnapping of 276 schoolchildren from Chibok. This Nigerian group's name literally means "Western education is
+forbidden."
+ANSWER: Boko Haram
+[10] A man from this country interrupted the Nobel Peace Prize awards ceremony to raise awareness of the
+2014 disappearance of 43 students in its state of Guerrero.
+ANSWER: Mexico [or United Mexican States; or Estados Unidos Mexicanos]
+[10] Pakistan reinstated the death penalty following a Taliban attack on a school in this city on the eastern end
+of the Khyber Pass. A shrine to its native poet, Rahman Baba, was damaged by a 2009 bombing, presumably
+also by the Taliban.
+ANSWER: Peshawar <Golimlim>
+
+NASAT 2015 - Round 04 - Page 11 of 14 
+
+15. One of these artworks, which presents images that conflict "like pedestrians on the street," is styled after a
+Latin puzzle known as the rebus. For 10 points each:
+[10] Name these mixed-media artworks, such as one in which red paint is spilled on a quilt to evoke rape,
+called Bed, and one in which three radios blare at once, titled Broadcast.
+ANSWER: combines (COM-bines)
+[10] This bisexual American artist created many combines, such as Monogram.
+ANSWER: Robert Rauschenberg [or Milton Ernest Rauschenberg]
+[10] Rauschenberg had a long relationship with this other American artist, whose encaustic paintings often
+feature maps and American flags.
+ANSWER: Jasper Johns <Saric>
+16. In order to make this goddess laugh, two ends of a taut rope are tied to the beard of a goat and to the genitals of a god, causing both to screech in pain when the rope is tugged. For 10 points each:
+[10] Name this goddess who ends up in an unhappy marriage when she chooses her husband from a lineup of
+gods looking only at their feet.
+ANSWER: Skadi [or Skathi]
+[10] Skadi ends up marrying Njord, the father of this fertility god who has a similarly-named twin sister.
+ANSWER: Frey [or Freyr; do not accept "Freya"]
+[10] Frey bribes the giantess Gerd into marrying him by offering her, among other things, one of these objects
+named Draupnir, which creates eight copies of itself every nine nights.
+ANSWER: rings <Kim>
+17. In the prologue, this captain remarks, "I had been there before; I knew all about it," after asking Hooper for
+the name of their current location. For 10 points each:
+[10] Name this character who reads history at Oxford, where he meets Sebastian Flyte. He has an ill-fated affair with Sebastian's sister Julia.
+ANSWER: Charles Ryder [or Charles Ryder]
+[10] Charles Ryder and Sebastian Flyte appear in Brideshead Revisited, a novel by this author of A Handful of Dust
+and Decline and Fall.
+ANSWER: Evelyn Waugh [or Arthur Evelyn St. John Waugh]
+[10] Julia Flyte has an affair with Charles while still married to this politically ambitious Canadian man, who
+weds Julia to increase his social status.
+ANSWER: Rex Mottram [or Rex Mottram] <Sy>
+
+NASAT 2015 - Round 04 - Page 12 of 14 
+
+18. Members of this group built trading posts called kontors. For 10 points each:
+[10] Name this trading alliance that was centered on Lubeck and was composed of several Baltic and North Sea
+ports.
+ANSWER: Hanseatic League [or Hansa]
+[10] This Hanseatic city, the largest on the island of Gotland, was conquered by Denmark's Valdemar IV, who
+was envious of the Hanseatic League's influence.
+ANSWER: Visby
+[10] The Steelyard was built by the Hanseatic League in this city, which was later home to a police force known
+as the Bow Street Runners.
+ANSWER: London <Golimlim>
+19. The conditional form of this technique often uses Cre-Lox recombination to perform site-specific gene deletion. For 10 points each:
+[10] Name this genetic technique in which artificial DNA swaps out an existing genetic sequence to inactivate
+a gene. The 2007 Nobel Prize was awarded to researchers who first performed this technique to create namesake mice.
+ANSWER: gene knockout [or knocked out; or obvious equivalents]
+[10] Knockout mice are created by harvesting stem cells from embryos at this stage of development. The inner
+cell mass is attached to the trophoblast within a namesake cavity in these early structures, which arise from
+the morula.
+ANSWER: blastocyst [or blastula; or embryoblast]
+[10] Antibiotic resistance markers are inserted to make a targeting vector sequence, which is then introduced
+into embryonic stem cells via this process in which an electric field is used to permeabilize the cell membrane.
+ANSWER: electroporation [prompt on electropermeabilization; anti-prompt on gene electrotransfer]
+<Smart>
+20. Wire chambers use a mixture of this gas and either methane or ethane to create an inert environment. For
+10 points each:
+[10] Identify this element created by the decay of potassium-40 via electron capture.
+ANSWER: argon [or Ar]
+[10] Argon belongs to this group at the far right of the periodic table, which also includes helium, neon, and
+xenon.
+ANSWER: noble gas [or group 18; or 8A]
+[10] In 2000, NASA discovered trapped helium-3 atoms inside these molecules, which typically have either sixty or seventy two carbon atoms and no other elements in its structure.
+ANSWER: buckminsterfullerenes [or buckyballs; prompt on fullerenes] <Prieto>
+
+NASAT 2015 - Round 04 - Page 13 of 14 
+
+21. In Burma, these structures are topped by golden umbrella-like finial ornaments called hti. For 10 points
+each:
+[10] Name these tiered towers commonly constructed as a Taoist or Buddhist place of worship. These structures were an evolution of the tomb-like stupa.
+ANSWER: pagoda
+[10] The Fogong temple in Yingxian contains the oldest pagoda built entirely out of this material, one of the
+five Chinese elements. This material was also used to build the Hall of Supreme Harmony and many other
+structures within the Forbidden City.
+ANSWER: wood [or lumber; or timber]
+[10] The seven-story Yugong Pagoda is the centerpiece of the "pagoda forest" found at this Buddhist temple
+complex in Mount Song in Dengfeng, Henan Province.
+ANSWER: Shaolin Temple [or Shaolin Monastery; or Shaolin Si] <White>
+
+NASAT 2015 - Round 04 - Page 14 of 14 
+
+

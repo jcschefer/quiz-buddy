@@ -1,0 +1,54 @@
+NewTrier Varsity 2006  Round 3, Page 4 
+
+
+Bonus 6: Fine Arts (Visual Art) 
+Given a description of a Spanish speaking artist, namethe artist.
+A: This muralist's Man at the Crossroads was torn down after it was discovered ithad communist 
+pictures in it.
+B: This wife of the answer to PartA painted manyself portaits after an accident left her bedridden. 
+Many of theseportraits showed of her facial hair. 
+C: This Colombian artistis best known for his depictions of plump women. He also released 
+paintingsabout the Abu Ghraib scandal. 
+D: This artistliked to paint about Mexican history. In 1966, he won theLenin Peace Prize. 
+Answers: A: Diego RiveraB: Frida Kahlo C: Fernando Botero D: David Alfaro Siqueiros 
+
+Tossup 7: Literature (Mythology) 
+After deciding a contest between Hjalmgunnar (he-YALM-gun-er) and Agnar she is put in a magical 
+sleep byOdin, and is surounded by a ring of fire of such magnitude that onlya hero could traverse 
+it.She is eventualy awakened by Sigurd, to whom shewilinglygives herself. Folowing his death, 
+she throws herself on his funeral pyre. Identify this shieldmaiden and titular Valkyrie of one of 
+Wagner's operas.
+Answer: Brünnhilde (also accept Brynhildr) 
+
+Bonus 7: Science (Physics) 
+Find the total resistance of the circuits with the folowing configurations of resistors. Give exact 
+answers.
+A: 6 ohms and 4 ohms connected in paralel. 
+B: 8 ohms and 3 ohms connected in paralel. 
+C: Four3 ohm resistors connected in paralel. 
+D: 1 ohm connected in paralel to a series of a 2 ohm and a4 ohm resistor. 
+Answers: A: 12/5 ohms B:24/11 ohm C: 3/4 ohms D: 6/7 ohms 
+
+Tossup 8: Math (General) 
+The characteristic polynomial is found by seting it equal tozero. When applied to the Jacobian, it 
+returns a value used in the substitution rule for multiple integrals. It is equal to the product of the 
+eigenvalues of its input. Non-zero values indicate that the inputis invertible. Itis equivalent to the 
+scalartriple product of three three-dimensional vectors, and in general, returns the n-dimensional 
+volume enclosed by n n-dimensional vectors. Used in Cramer's rule, name this value associated with 
+square matrices that,for a two-by-two matrix, is equal to a d minus b c. 
+Answer: Determinant 
+
+Bonus 8: Literature (Literature) 
+Identify these facts related to Jack London. 
+A: London was born in this California city. 
+B: This novel, London's most famous work, was about a dog namedBuck. 
+C: This poet, who wrote A Wine of Wizardry,was a close friendof London's.
+D: Humphrey van Weyden is helped out by the captain of the Ghost in this London work. 
+Answers: A: San Francisco B: Cal of the Wild C: George Sterling D:Sea-Wolf 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

@@ -1,0 +1,738 @@
+IMSANITY 2
+
+January 14, 2012
+
+IMSANITY 2
+January 14, 2012
+
+-ROUND 8-
+
+Editors
+
+Writers
+
+Noah Prince
+
+Webster Guan
+Adam Kalinich
+Sabrina Lato
+Nolan Maloney
+Eric Ordonez
+Noah Prince
+Saieesh Rao
+
+Webster Guan
+Adam Kalinich
+Nolan Maloney
+Eric Ordonez
+
+Round 8- Page 0
+
+Megan Chen
+Brian Chien
+Lael Costa
+Jacob Kronenberg
+Ross Skelly
+
+IMSANITY 2
+
+January 14, 2012
+
+Tossups
+(1) In one section of this poem, the speaker asks “what men or gods are these? What maidens
+loth?” before proclaiming that “Heard melodies are sweet, but those unheard/ Are sweeter;
+therefore, ye soft pipes, play on.” Other sections describe “happy boughs! that cannot shed/
+Your leaves,” and a mysterious priest leading a town to a green altar to be sacrificed. This
+poem begins by addressing the titular object as a “Sylvan historian,” “unravish’d bride of
+quietness,” and “foster-child of Silence and slow Time.” For ten points, name this Romantic
+poem that proclaims that “Beauty is truth, truth beauty,” written by John Keats.
+
+∆
+∇
+
+ANSWER: Ode on a Grecian Urn
+(2) The intro variety of one algorithm for this process switches to use of a heap in bad cases.
+The Spaghetti algorithm for this process requires either specialized software or real spaghetti,
+and one algorithm for this problem that works by randomly permuting elements may never
+halt and is called the Bogo algorithm. Always choosing the first element as a pivot results
+in the worst-case run time of n squared for the best known algorithm for this problem, and
+another algorithm which may take n squared time works by comparing adjacent elements
+and is called the bubble algorithm. Recursive algorithms for this process include merge- and
+quick-. For ten points, name this problem in computer science which seeks to place objects
+in order.
+
+∆
+∇
+
+ANSWER: sorting
+(3) Some members of this group believe that the United States Constitution was divinely
+inspired, and one of this group’s doctrines is called the Godhead. “The Articles of Faith”,
+“The Book of Moses”, and “The Book of Abraham” are found in one of this group’s texts,
+The Pearl of Great Price. Blacks were excluded from this group’s religious hierarchy until
+1978, and this group was driven out of a settlement at Nauvoo. This group’s central text
+was translated from “reformed Egyptian” on golden plates. That text was given by the
+angel Moroni to this group’s founder, Joseph Smith. For ten points, name this offshoot of
+Christianity whose members include Brigham Young.
+
+∆
+∇
+
+ANSWER: Mormonism (or The Church of Jesus Christ of Latter-Day Saints)
+(4) Mount Muztag is the highest point in the Altun Sha forming the northern border of
+this region, and the Kunlun Mountains separate this region from the Tarim Pendi. The
+Kailas Range forms the southwestern border of this region, and rivers flowing west from
+this region include the Sutlej and the Indus. Gelugpa is the predominant variety of this
+region’s eponymous style of Buddhism, and eastward flowing rivers in this region include the
+Brahmaputra, Salween, and Mekong. The Dalai Lama lives in Lhasa’s Potala Palace in, for
+ten points, this high central Asian plateau, bounded to the south by the Himalayas.
+
+∆
+∇
+
+ANSWER: Tibetan Plateau (also accept Tibetan Autonomous Region)
+
+Round 8- Page 1
+
+IMSANITY 2
+
+January 14, 2012
+
+(5) Many Americans were convinced that this event was necessary when Spain revoked
+Pinckney’s Treaty. Another cause of this event was a failed expedition by Charles Leclerc,
+and this event was made possible by the Treaty of San Ildefonso. Federalist opposition led
+to a 57-59 vote that failed to prevent this event. Barbé-Marbois and Robert Livingston
+negotiated this agreement, which was opposed by Talleyrand. A successful slave revolt on
+Haiti motivated France to agree to this treaty. Livingston was only authorized to spend ten
+million dollars to purchase New Orleans, but he agreed to this larger agreement anyway,
+which led to the Lewis and Clark expedition. For ten points, identify this treaty by which
+Thomas Jefferson doubled the size of the United States.
+
+∆
+∇
+
+ANSWER: Louisiana Purchase
+(6) An author with this surname wrote about his relationship with Mona, a fictionalized version
+of his wife June, in The Rosy Crucifixion. Another man surnamed this wrote a work in which
+Quentin remembers Louise and Holga after the death of Maggie, titled After the Fall. One
+author with this surname wrote about MacGregor and Roy Hamilton, friends of a character
+who works at the Cosmodemonic Telegraph Company in the semi-autobiographical Tropic of
+Capricorn. In addition to Henry, a more famous author with this last name wrote about the
+husband of Linda committing suicide in a car crash to give his family insurance money. For
+ten points, give the surname of the author who created Willy Loman in Death of a Salesman,
+Arthur.
+
+∆
+∇
+
+ANSWER: Miller
+(7) Bertrand’s Postulate states that one of these numbers lies between each positive integer and
+its double. A theorem of Fermat says that one of these numbers is the sum of two squares
+if it is one greater than a multiple of four. It is conjectured that infinitely many of the twin
+type of this number exist, and Euclid proved that infinitely many of these exist by showing
+that the product of all of these numbers plus one could not be divisible by any of them.
+Every natural number can be written as a product of these numbers. For ten points, name
+this type of number whose only factors are one and itself.
+
+∆
+∇
+
+ANSWER: prime numbers
+(8) This artist created a tempera painting that depicts a man with donkey ears in his Calumny
+of the Apelles. Savanarola may have influenced this man’s only signed work, which depicts
+several angels dancing while the central figure is standing over a child, entitled The Mystical
+Nativity. A dark winged figure appears on the right while several other figures stand in
+an orange grove in his The Allegory of Spring. His most famous work depicts the Roman
+goddess of love standing on a seashell. For ten points, name this painter of The Birth of
+Venus.
+
+∆
+∇
+
+ANSWER: Sandro Botticelli
+
+Round 8- Page 2
+
+IMSANITY 2
+
+January 14, 2012
+
+(9) This man lost his job after proposing the Anti-Socialist Laws and then trying to defeat those
+laws. After gaining territory to the north, he negotiated the Gastein Convention in order to
+cause another war. He used the poisoning of a lion as an excuse for banning the Jesuits, part
+of his anti-Catholic Kulturkampf. He published a conversation between Count Benedetti and
+Wilhelm I, the Ems Dispatch. He formed the Triple Alliance with Austria and Italy, but was
+fired by Wilhelm II. For ten points, name this first Chancellor of Germany and practitioner
+of realpolitik who used “Iron and Blood” to unite Germany.
+
+∆
+∇
+
+ANSWER: Otto von Bismarck (or Otto Eduard Leopold, Prince of Bismarck, Duke of Lauenburg)
+(10) The namesake wet process of this substance uses a vanadium oxide catalyst to cause the
+oxidation of a chemical that, when added to water, produces this substance. The lead
+chamber process made use of the Glover tower to produce this compound. This can also be
+synthesized by the addition of water to oleum, or its “fuming” variety, in the contact process.
+It serves as a catalyst in the nitrosylation of nitrobenzene, and a superacid is considered to
+be any acid that is stronger than this acid. For ten points, name this acid with formula
+H2 SO4 .
+
+∆
+∇
+
+ANSWER: sulfuric acid (accept H2 SO4 before mention)
+(11) One of these entities kicks the pillars of the world when he is angry, causing earthquakes,
+and another of them trapped her sister, Ishtar, who was only able to leave when Dumuzi
+took her place. In addition to Kisin and Erishkagal, the Norse one of these was said to be
+half black and half white and had an exposed skeleton. Izanami took this role after she
+gave birth to Kagu-Tsuchi. The Greek holder of this position gained a wife with a fondness
+for pomegranates, Persephone, and the Egyptian one was once cut into many pieces by his
+brother. For ten points, name this type of god, examples of which include Hel, Osiris, and
+Hades.
+
+∆
+∇
+
+ANSWER: Deities of the Underworld (accept equivalents, accept Kisin before “another”)
+(12) In this country, one group perpetrated genocide against the Moriori of the Chatham Islands.
+Potatau I was crowned as a result of that group’s King Movement. James Busby drafted
+this nation’s Declaration of Independence in 1834, and this country was the first in the world
+to enact universal female suffrage in 1893. William Hobson signed a treaty in this country
+that granted the British the first offer on land; that treaty was the Treaty of Waitangi.
+This country was first discovered by Abel Tasman and settled by the Polynesians. For ten
+points, name this homeland of the Maori people with North and South Islands and capital
+at Wellington.
+
+∆
+∇
+
+ANSWER: New Zealand (or Aotearoa)
+
+Round 8- Page 3
+
+IMSANITY 2
+
+January 14, 2012
+
+(13) This writer wrote of a character who begs her lover to come back by saying that her dowry
+was the numerous times she’d saved his life. He wrote fictional letters from women like
+Medea, Ariadne, and Penelope to their “heroic” lovers in Heroides. He laments a “carmen et
+error” which caused Augustus to exile him to Tomis in the collection Tristia. This author also
+wrote about Apollo turning a raven’s feathers black after he killed his love, Coronis. In his
+most famous work, which introduces the story of Pyramus and Thisbe, Galatea transforms
+into a woman and Daphne changes into a laurel. For ten points, name this Roman author
+of Ars Amatoria and Metamorphoses.
+
+∆
+∇
+
+ANSWER: Ovid
+(14) Einstein showed that a gravitational field is the same as this quantity for a system through
+his equivalence principle. This quantity’s angular form is equal to torque divided by moment
+of inertia. For an object in circular motion, its centripetal variety is calculated by dividing
+the square of the object’s velocity by the radius of the object’s circular path. Defined in
+kinematics as the rate of change of velocity, for ten points, identify this vector quantity
+measured in units of meters per second squared.
+
+∆
+∇
+
+ANSWER: acceleration
+(15) Shrill octaves in the woodwinds signal the arrival of Judgment Day and four brass sections
+are positioned at different parts of the stage in the Tuba mirum of this composer’s Dies irae
+movement. His most well-known operas include Les Troyens and Benvenuto Cellini. His
+second symphony features an extensive viola solo written for Paganini and was inspired by
+a Lord Byron work; that piece is entitled Harold in Italy. His most famous composition
+features an idée fixe and an opium-induced dream in which an artist hallucinates himself
+murdering his beloved and facing his execution after a “March to the Scaffold”. For ten
+points, name this French Romantic composer of the Symphonie fantastique.
+
+∆
+∇
+
+ANSWER: Hector Berlioz
+(16) Sohaib Athar wrote a notable account of this event. At one point during this event, a
+soldier laid down next to a dead body to determine its height. Operation Infinite Reach
+was an earlier attempt to achieve the same goal as this event, whose central figure had the
+codename Geronimo and had earlier escaped from Tora Bora. One helicopter crashed and
+was intentionally destroyed with explosives during this event. The insignia of the special
+forces were referenced in this event’s codename, Operation Neptune Spear. Occurring in
+Abbottabad, Pakistan and announced by President Obama on May 1, 2011, for ten points,
+name this event in which Seal Team Six successfully raided the compound of an al-Qaeda
+leader.
+
+∆
+∇
+
+ANSWER: death of Osama bin Laden (accept either underlined name, accept equivalents of
+“assassination”, “murder”, or “capture” in place of “death”, accept Operation Neptune Spear
+before mention, accept overly-specific answers about the helicopters in the mission being noisy
+on an early buzz)
+
+Round 8- Page 4
+
+IMSANITY 2
+
+January 14, 2012
+
+(17) The blood of one member of this phylum contains Limulus Amoebocyte Lysate, which
+contains clotting factors. Though they are not molluscs, the most common respiratory
+pigment among this phylum is copper-based hemocyanin, and they contain the hemocoel, a
+body cavity which contains the hemolymph that bathes the organs of organisms. Another
+member of this phylum was a three-lobed organism prominent during the Paleozoic era, the
+trilobite. Some estimates state that up to eighty percent of animal species belong to this
+phylum. For ten points, name this invertebrate phylum, characterized by open circulatory
+systems, exoskeletons, and jointed appendages, which include arachnids, crustaceans, and
+insects.
+
+∆
+∇
+
+ANSWER: arthropods or arthropoda
+(18) The only aria from this opera in a minor key comes at the beginning of Act IV and is about
+the distress over a lost pin. Act I opens with the title character measuring the space for
+his wedding bed. At the end of that act, the Count catches his page cavorting with the
+gardener’s daughter, for which he is sent off to join the army and the title character sings
+“Non più andrai”. While dressed as a girl, Cherubino sings a song of love, “Voi che sapete”,
+and this opera’s single day of madness culminates with Count Almaviva trying to seduce his
+own wife while she is disguised as their maid Susanna. The continuation of The Barber of
+Seville is, for ten points, which Mozart opera?
+
+∆
+∇
+
+ANSWER: The Marriage of Figaro (or Le nozze di Figaro, ossia la folle giornata)
+(19) One novel from this nation revolves around the nurses and children of the dying Elizabeth
+Hunteer. In another novel partially narrated by “S.C.”, Mary Hearn moves out of this
+country while her lover stays to rescue his mother. In addition to The Eye of the Storm and
+The True History of the Kelly Gang, one work from this country is about two characters
+who bet about moving a glass church over three hundred miles in Oscar and Lucinda. Other
+authors from this country wrote about Laura Trevelyan and a German explorer in Voss as
+well as a Nazi who saves Jews in Schindler’s Ark. For ten points, name this country, home
+of the authors Patrick White, Thomas Keneally, and Peter Carey.
+
+∆
+∇
+
+ANSWER: Australia
+(20) This battle saw the debut of the Mark One, the first tank to be used in warfare. It was started
+in order to draw troops away from the Battle of Verdun. Douglas Haig was unconcerned
+with large casualties compared to the other commander Ferdinand Foch. The Germans were
+pushed back only six miles at the deepest, although this battle eventually forced a German
+retreat to the Hindenburg line. It began with a heavy artillery barrage that failed to suppress
+German fire, leading to sixty thousand British casualties in the bloodiest day of their military
+history. For ten points, name this 1916 World War I battle with over a million casualties
+that was fought along the namesake river.
+
+∆
+∇
+
+ANSWER: Battle of the Somme River (or Somme Offensive)
+
+Round 8- Page 5
+
+IMSANITY 2
+
+January 14, 2012
+
+(21) A preliminary Study for [this painting] saw only four figures, but the final version saw a fifth
+added, modeled off of Gordina de Groot. The only figure not wearing a hat in this painting
+sits with her back facing outward showing her pigtails. A framed picture on the left side of
+this painting hangs beside a clock signalling seven. One figure raises a cup to a second who
+is busy serving drinks to the others, while two figures on the other side of the table partake
+in the titular food item. Lit only by a central hanging oil lamp, for ten points, name this
+painting of a peasant family eating dinner, a work by Vincent van Gogh.
+
+∆
+∇
+
+ANSWER: The Potato Eaters (or De Aardappeleters)
+
+Round 8- Page 6
+
+IMSANITY 2
+
+January 14, 2012
+
+Bonuses
+(1) Their length serves as the basis of Lebesgue measure. For ten points each:
+[10] Identify these sets of real numbers having the property that any number between two
+numbers in the set is also in the set. Their open and closed varieties are denoted with
+parentheses and brackets, respectively.
+ANSWER: intervals
+[10] In geometry, a region in the plane has this property if, given any two of its points, the
+line segment connecting them is also in the region. Polygons with no angle larger than 180
+degrees have this property.
+ANSWER: convex
+[10] For any set of points, this is the smallest convex set containing all of them.
+ANSWER: convex hull
+
+∆
+∇
+
+(2) It is the longest-running science fiction show on television and has featured eleven different
+actors for the same main character. For ten points each:
+[10] Name this British science fiction series, featuring actors including Christopher Eccleston
+and Matt Smith, in which the titular character is hunted by Daleks trying to “Exterminate!”
+him.
+ANSWER: Doctor Who
+[10] The Doctor travels through space and time in this vehicle. Its chameleon circuit is
+broken, causing it to constantly appear as a blue police box.
+ANSWER: TARDIS (or Time and Relative Dimension in Space)
+[10] Name or number is acceptable: One regeneration of the Doctor is this man, who first
+appeared in the serial Planet of the Spiders and died in Logopolis. He was notable for
+offering jelly babies and wearing an incredibly long scarf.
+ANSWER: Tom Baker (or fourth Doctor, prompt on “Baker”)
+
+∆
+∇
+
+(3) Name some Platonic dialogues for ten points each.
+[10] This work defines justice as “what is good for the stronger” and also presents Plato’s
+theory of forms. This dialogue calls for “philosopher kings” and features the Allegory of the
+Cave.
+ANSWER: The Republic (or Politeia)
+[10] This dialogue takes place at a drinking party and features speeches by Aristophanes,
+Alcibiades, and Agathon about the nature of love. Socrates concludes that love is a
+philosopher.
+ANSWER: Symposium
+[10] The title character of this work arrives at the Porch of the King Archon to lay charges
+of murder against his father. This dialogue’s namesake dilemma asks whether the pious is
+loved by the Gods because it is pious, or pious because it is loved by Gods.
+ANSWER: Euthyphro
+
+∆
+∇
+
+Round 8- Page 7
+
+IMSANITY 2
+
+January 14, 2012
+
+(4) He studied at the Leipzig Conservatory and forged lasting relationships with Liszt, Grainger,
+and Tchaikovsky throughout his career. For ten points each:
+[10] Identify this Norwegian composer of a Piano Concerto in A minor who also wrote the
+“Elfin Dance”, “Arietta”, and sixty-four other short pieces for solo piano in his Lyric Pieces.
+ANSWER: Edvard Grieg
+[10] One of Grieg’s more famous works is this suite written “in olden style” to celebrate the
+birth of the namesake Danish playwright. Its five movements are all based on eighteenthcentury dance forms.
+ANSWER: Holberg Suite (or From Holberg’s Time)
+[10] Grieg’s most well-known composition is the incidental music to this Henrik Ibsen play.
+Two of its movements include “In the Hall of the Mountain King” and “Morning Mood”.
+ANSWER: Peer Gynt (accept Peer Gynt Suite)
+
+∆
+∇
+
+(5) The main character is in love with Clavdia Chauchat, but she is in love with the Dionysian
+Mynheer Pepperkorn. For ten points each:
+[10] Name this novel in which Hans Castorp visits his cousin in a Tuberculosis Sanatorium
+and ends up staying for seven years right before the outbreak of World War I.
+ANSWER: The Magic Mountain
+[10] The Magic Mountain was written by this author of Buddenbrooks who wrote about
+Gustav von Aschenbach and a cholera epidemic in Death in Venice.
+ANSWER: Thomas Mann
+[10] This other Mann work focuses on the assassination of Cipolla by the titular Italian
+waiter.
+ANSWER: Mario and the Magician
+
+∆
+∇
+
+(6) Answer the following about Ethiopia for ten points each:
+[10] This European nation attempted to conquer Ethiopia twice, in 1895 and 1935,
+succeeding the second time.
+ANSWER: Italy
+[10] In the first Italian invasion of Ethiopia, Menelik II’s forces overwhelmed Italian forces at
+this battle. In the aftermath, Italy recognized Ethiopia’s independence. Mussolini claimed
+that the second invasion was an attempt to avenge this battle.
+ANSWER: Battle of Adowa
+[10] This emperor of Ethiopia made an impassioned 1936 speech at the League of Nations
+condemning Italian use of chemical weapons.
+ANSWER: Haile Selassie I (or Tafari Makonnen)
+
+∆
+∇
+
+Round 8- Page 8
+
+IMSANITY 2
+
+January 14, 2012
+
+(7) Though often despised by all other gods, trickers are useful for humanity as they give us
+things like fire. For ten points each:
+[10] This god stole from the Fire Beings and was stuck with his own name because no one
+else wanted it, although he was given the power of shape-shifting with the responsibility of
+making the world safe for the Native Americans.
+ANSWER: Coyote
+[10] This other native American god created the world by dropping a stone while flying
+away from bird-land, and the smoke from his stolen fire turned his feathers black.
+ANSWER: Raven
+[10] This Carribean spider god got his stories by capturing Onini the Python, Osebo the
+Leopard, the Mmoboro Hornets, and Mmotia the dwarf and giving them to the god of the
+sky, Nyame.
+ANSWER: Anansi
+
+∆
+∇
+
+(8) The name of this field of study was coined by Max Planck, and it describes the wave-particle
+duality between energy and matter. For ten points each:
+[10] Identify this field, named because some physical quantities concerned in it come only
+in discrete amounts.
+ANSWER: quantum mechanics (or quantum theory)
+[10] The absolute value of the square of this quantity as a function of x and t gives the
+probability density for a particle being at location x. It is given as the Greek letter psi, and
+is often written in bra-ket notation.
+ANSWER: wavefunction
+[10] This description of quantum mechanics was formed in response to the findings of
+quantum mechanical experiments that did not correspond with classical physics. Much of
+it was developed by Heisenberg and Bohr, and it was named for the city in which those two
+scientists worked in the 1920s.
+ANSWER: Copenhagen interpretation
+
+∆
+∇
+
+Round 8- Page 9
+
+IMSANITY 2
+
+January 14, 2012
+
+(9) Let’s see how much you know about the works of Anton Chekhov for ten points each:
+[10] Characters in this Chekhov play include one who likes to eat sweets and play billiards,
+Gayev, as well as the servant Dunyasha. Near the end, one can hear the sound of axes
+chopping down the title location at Ranevsky’s estate, which is bought by Lopakhin at an
+auction.
+ANSWER: The Cherry Orchard (or Vishniovy Sad)
+[10] Pyotr Sorin, who is the brother of the retired actress Irina Arkadina, suggests that
+the protagonist of this Chekhov play write a short story, “The Man Who Wished.” That
+protagonist, Konstantin Treplev, later shoots himself after Nina and Trigorin have an affair.
+ANSWER: The Seagull (or Chakya)
+[10] In this short story, a lawyer leaves his fifteen-year solitary confinement five hours early
+in order to renounce the two million ruble wager made between him and a banker. The title
+action is sparked by an argument over the comparative morality of the death penalty and
+life imprisonment.
+ANSWER: The Bet
+
+∆
+∇
+
+(10) In the introduction to Ruth Benedict Fulton’s work on it, Margaret Mead defined this
+concept as “personality writ large”. For ten points each:
+[10] Identify this title concept of Fulton’s book Patterns of [this], in which she described
+the gestalt of different Native American peoples. It is defined as the characteristic beliefs
+and behaviors of a group.
+ANSWER: culture
+[10] Fulton advocated this school of cultural study, in which understanding of a culture can
+only come from within. As a corollary, although some practices may seem barbaric to an
+outsider, according to members of this school, judgment cannot be passed.
+ANSWER: cultural relativism or relativist
+[10] One advocate of cultural relativism, Clifford Geertz, described this seemingly-barbaric
+sport of Bali in his essay Deep Play.
+ANSWER: cockfighting
+
+∆
+∇
+
+(11) This man denounced the Bulgarian horrors. For ten points each:
+[10] Name this liberal rival of Disraeli who served four terms as British Prime Minister.
+ANSWER: William Ewart Gladstone
+[10] Gladstone negotiated the Kilmainham Treaty with Charles Parnell, which was part of
+his attempts to achieve this goal. A third bill to achieve this goal finally passed after the
+Easter Rising.
+ANSWER:
+Irish home rule (prompt on partial answer, do not accept “Irish
+Independence”)
+[10] Gladstone’s third term ended after the death of this popular general in Khartoum,
+Sudan. He also suppressed the Boxer Rebellion in China.
+ANSWER: Charles George “Chinese” Gordon
+
+∆
+∇
+
+Round 8- Page 10
+
+IMSANITY 2
+
+January 14, 2012
+
+(12) Abraham Lincoln was photographed giving his inaugural address in front of this building
+while its dome was still under construction. For ten points each:
+[10] Name this government building where the Senate and the House of Representatives
+meet.
+ANSWER: The Capitol Building
+[10] This architect, known as the father of American architecture, oversaw construction of
+the Capitol Building with Charles Bullfinch. He also designed the first Roman Catholic
+cathedral in America, the Baltimore Basillica.
+ANSWER: Benjamin Henry Latrobe
+[10] This man oversaw the design competition for the Capitol Building from 1792 to 1793
+before being serving as United States President from 1801 to 1809.
+ANSWER: Thomas Jefferson
+
+∆
+∇
+
+(13) It begins “I have done it again. One year in every ten I manage it.” For ten points each:
+[10] Name this poem which describes someone who returns to life, concluding “Out of the
+ash I rise with my red hair And I eat men like air.”
+ANSWER: Lady Lazarus
+[10] In this novel by the author of Lady Lazarus, the main character eventually stops seeing
+Buddy Willard, and her friend Joan Gilling kills herself, although the autobiographical
+protagonist, Ester Greenwood, recovers from her depression.
+ANSWER: The Bell Jar
+[10] Lady Lazarus and The Bell Jar were both written by this author of Daddy. After her
+suicide, her husband, Ted Hughes, collected her poems into Ariel.
+ANSWER: Sylvia Plath
+
+∆
+∇
+
+(14) He believed that a ruler should rule his family as he ruled himself and rule his family after
+he cultivated his heart. For ten points each:
+[10] Identify this Chinese philosopher who focused focused on five relationships in his
+namesake belief system.
+ANSWER: Confucius
+[10] Most of what we know about Confucius is found in this book. Many of the chapters are
+titled after students of Confucius or governmental officials.
+ANSWER: Analects (or Lun Yu)
+[10] This other Confucian philosopher believed in the innate goodness of humanity, and his
+namesake book was a collection of longer dialogues and prose.
+ANSWER: Mencius
+
+∆
+∇
+
+Round 8- Page 11
+
+IMSANITY 2
+
+January 14, 2012
+
+(15) One of these belonging to the family Orthomyxoviridae is responsible for causing the flu.
+For ten points each:
+[10] Name these infectious particles, considered to not be living, responsible for diseases
+such as polo and shingles.
+ANSWER: viruses
+[10] One type of virus is this one, which infects bacteria. They consist of a head, collar,
+and tail, and were used in the Hershey-Chase experiment to identify DNA as the genetic
+material.
+ANSWER: bacteriophages
+[10] Viruses may reproduce this cycle in which they insert their nucleic acid into the host
+DNA. It involves a prophage, and is contrasted with the lytic cycle, and kills the infected
+cell.
+ANSWER: lysogenic cycle
+
+∆
+∇
+
+(16) Posets are mathematical structures with an ordering relation obeying this property. For ten
+points each:
+[10] Name this property of a relation which states that if a is related to b and b is related to
+c, then a is related to c.
+ANSWER: transitive property or transitivity
+[10] This property of a relation states that a is always related to a.
+ANSWER: reflexive property or reflexivity
+[10] A relation which is transitive and reflexive in addition to obeying the symmetric
+property is known as one of these. Similarity of triangles and equality are notable examples.
+ANSWER: equivalence relation
+
+∆
+∇
+
+(17) Polymorphism refers to the ability of these to exist in multiple forms. For ten points each:
+[10] Name these materials, whose structures can be described by a Bravais lattice, examples
+of which include orthorhombic and cubic.
+ANSWER: crystal lattices
+[10] This law states that as the temperature of a pure crystal approaches absolute zero, its
+entropy also approaches zero. This law was formulated by Walther Nernst.
+ANSWER: Third Law of Thermodynamics
+[10] For a material to have zero entropy at absolute zero, it must be in this configuration.
+It refers to a system in the lowest possible energy state.
+ANSWER: ground state
+
+∆
+∇
+
+Round 8- Page 12
+
+IMSANITY 2
+
+January 14, 2012
+
+(18) The titular character is given the sword Hrunting by Unferth and is the king of the Geats.
+For ten points each:
+[10] Name this old English epic poem about the titular character defeating Grendel and its
+mother before a dragon kills him.
+ANSWER: Beowulf
+[10] Beowulf was famously translated by this Irish poet. He collected his poems in such
+works as Wintering Out, The Haw Lantern, Station Island, and Door into the Dark.
+ANSWER: Seamus Heaney
+[10] One poem in this book by Heaney is “Mid-term Break,” and this collection gets its title
+from a poem about a boy who loses his interest in collecting frogspawn after learning about
+it in school.
+ANSWER: Death of a Naturalist
+
+∆
+∇
+
+(19) Answer the following about an unpopular president for ten points each:
+[10] The Chicago Times responded to this failure of a speech by saying, “The cheek of every
+American must tingle with shame as he read the silly, flat and dishwatery utterances.” It
+began “Four score and seven years ago,” claimed that “government of the people, by the
+people, for the people, shall not perish from the earth,” and was delivered by Abraham
+Lincoln.
+ANSWER: Gettysburg Address
+[10] This Secretary of State to Lincoln bungled the Trent affair, almost leading to war with
+Britain, and wasted 7.2 million dollars to buy his namesake “folly,” Alaska.
+ANSWER: William Seward
+[10] One of Lincoln’s most tyrannical actions was suspending the writ of habeas corpus
+contrary to the Supreme Court’s decision in this case. He ignored the result.
+ANSWER: Ex parte Merryman
+
+∆
+∇
+
+(20) He was a professor of Roman Law at the University of Dorpat before he became an artist.
+For ten points each:
+[10] Name this artist of many works titled Composition who authored the book Concerning
+the Spiritual in Art.
+ANSWER: Wassily Kandinsky
+[10] Counting as members such figures as Paul Klee and Lyonel Feininger, this group was
+founded by Kandinsky. It was named after one of Kandinsky’s 1903 works, which features
+the titular character traveling by horse across a hilly green landscape.
+ANSWER: Blue Riders
+[10] Kandinsky was an artist from this large Slavic country. Other artists from this nation
+include Alexey von Jawlensky and Valentin Serov.
+ANSWER: Russia
+
+∆
+∇
+
+Round 8- Page 13
+
+IMSANITY 2
+
+January 14, 2012
+
+(21) Spherical aberration occurs because a spherical shape is not ideal for this kind of object.
+For ten points each:
+[10] Name these objects, coming in convergent, divergernt, and biconcave varieties, which
+can be used to focus light.
+ANSWER: lenses
+[10] The virtual kind of this entity produced by a lens occurs when the outgoing rays from
+an object diverge. In contrast, the real kind of these are produced when the outgoing rays
+from an object converge at a single point.
+ANSWER: images
+[10] This angle is the angle at which a light ray with a certain polarization must strike a
+surface for all its reflected light rays to be polarized into one plane.
+ANSWER: Brewster’s angle
+
+∆
+∇
+
+Round 8- Page 14
+
+

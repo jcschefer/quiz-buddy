@@ -1,0 +1,326 @@
+UIUC Earlybird 2006 - Round 5
+(Tossups by UIUC Academic Buzzer Team)
+1. The Lagrangian is equal to this quantity minus the potential energy. In gravitational systems, the virial
+theorem guarantees that the average of this quantity is equal to negative one half of the average potential
+energy. In special relativity, this quantity approaches infinity as the velocity approaches the speed of light.
+The rotational variety of this is given by one half times I times the angular velocity squared. FTP, identify
+this quantity, the energy of motion, that is often equal to one half times the mass times the velocity squared.
+ANSWER: the kinetic energy (prompt on “T”)
+2. Berengar of Tours and John Scotus Eregina were prominent early members of this school of thought. An
+important issue in it was the question of universals, which lead to a nominalist branch supported by
+William of Ockham. Peter Abelard and St. Anselm, creator of the ontological proof, are typical
+philosophers from this school. FTP, name this form of philosophy dominant in the Middle Ages, perhaps
+best embodied by Thomas Aquinas and the Summa Theologica, and named for its acceptance in
+universities.
+ANSWER: scholasticism (or scholastic philosophy)
+3. This person was the only man named a General of the Army during his lifetime and, as a cadet at West
+Point, he led the honor guard at the funeral of Ulysses S. Grant. He served in the Spanish-American War
+with Theodore Roosevelt and helped suppress the Philippine uprising. FTP, name this leader of the hunt for
+hunt for Pancho Villa; a general who led the American Expeditionary Force in World War I, and who was
+nicknamed “Blackjack.”
+ANSWER: John Pershing
+4. Cratinus and Eupolis were recognized as great writers in this style, but none of their plays survive. By
+definition, works in this style are not rooted in traditional myth and their resolutions are also often
+nonsensical, such as Dionysus bringing back Euripides since there are no good tragic poets. Political and
+social critiques can be found in, FTP, which ancient Greek style of drama, whose most famous writer is
+Aristophanes?
+ANSWER: Greek Old Comedy (prompt on “Comedy”)
+5. This military leader secured the support of Robert de Baudricourt, the captain of the forces in
+Vaucouleurs, and was able to meet with the King. After passing an examination and being given troops by
+Charles VII, this commander won battles at Patay and on the Loire, but failed to besiege Paris. Upon being
+captured by the Burgundians and sold to the English, this prisoner of war was tried before Pierre Cauchon
+and executed for heresy. FTP, name this famous “Maid of Orleans” who heard the voices of saints.
+ANSWER: Joan of Arc of Orleans (or Jeanne d’Arc d’Orleans)
+6. Early on, this being displaced Dione, patroness of the oracle of Dodona in Epirus. Given the epithet
+Eileithyia as the easer of childbirth, this deity was the subject of the Shield celebration at Samos, of which
+she was the patron. Homer describes this goddess as “ox-eyed,” and animals associated with her include the
+coocoo, the cow and especially the peacock. FTP, name this goddess, the Greco-Roman queen of heaven,
+best known as the angry wife of Zeus or Jupiter.
+ANSWER: Hera (or Juno)
+7. At the end of this work, the narrator discusses having shown the title figure a bronze rendition of
+Neptune taming a sea-horse The title figure had “a heart too soon made glad” as she was impressed by
+everything she saw, showing the same approval to all things, including the white mule she rode around on
+and a bough of cherries someone gave to her. FTP, what Robert Browning title female died after receiving
+a nine-hundred-year-old name from her husband, a Duke?
+ANSWER: My Last Duchess
+
+8. One of this person’s notable works centers around a wager between Alfonso and Ferrando and
+Guglielmo regarding the fidelity of Dorabella and Fiordiligi, while another tells the story of a mythical
+King of Crete. Besides Idomaneo and Così fan tutte, this artist is notable for the Haffner, Linz, and Prague
+Symphonies and the serenade Eine kleine Nachtmusik. FTP, name this composer who wrote his Jupiter
+Symphony and operas The Marriage of Figaro, Don Giovanni, and The Magic Flute in eighteenth-century
+Austria.
+ANSWER: Johann Chrysostom Wolfgang Amadeus Mozart (or Johannes Chrysostomus Wolfgangus
+Theophilus Mozart)
+9. This work requests that “mothers and fathers throughout the land” refrain from “criticiz[ing] what [they]
+can’t understand.” Because of this song’s titular truth, “the first one now / Will later be last,” “the loser
+now / Will be later to win,” and “you better start swimmin’ / Or you’ll sink like a stone.” FTP, name this
+song which calls on Senators and Congressmen to “Please heed the call;” the title track from a 1964 album
+by Bob Dylan, who claims in it that things aren’t remaining the same.
+ANSWER: The Times They Are A’Changin’
+10. Sometimes known as the Poverello, this person was named patron of ecology in 1979. According to
+Thomas of Celano, a voice from a crucifix prompted this knight to sell some of his father’s possessions to
+repair the Chapel of San Damiano; he also fixed the Porziuncola, where a lesson from Matthew 10 lead to
+his most notable accomplishment. FTP, name this Catholic saint who founded the Poor Clares and Third
+Order as well as an order of Friars Minor named for him; a patron saint of Italy from Assisi.
+ANSWER: Saint Francis of Assisi (or San Francesco d'Assisi or Francesco di Pietro di Bernardone)
+11. This person fought under Carus in Persia and was appointed as a co-ruler after the death of Numerian.
+He gained full control when Carinus was killed by his own men and among his accomplishments were
+gaining Britain and checking the Persians. He tried to restore the gold standard, but his attempts to regulate
+prices proved ruinous, which helped result in his most famous decision. FTP, name this Roman emperor
+who formally divided the Roman empire in half.
+ANSWER: Gaius Aurelius Valerius Diocletianus
+12. In this work, the protagonist and his sister move in with their uncle Ralph after the death of their father,
+but the sister Kate soon moves in with Sir Mulberry Hawk, after which the protagonist teaches at Dothesby
+Hall. The title character takes offense at to how Wackford Squeers mistreats the orphans in his charge, so
+the title character thrashes Squeers and takes the orphan Smike home with him. FTP, identify this Dickens
+novel with an alliterative title.
+ANSWER: Nicholas Nickleby
+13. The 1997 Nobel Prize in Physiology or Medicine was awarded for research into these. The disorders
+they cause are known as slow infections. This class of disease-causing agents was discovered by Stanley
+Prusiner and consists of abnormal proteins that spontaneously fold normal proteins into their configuration.
+FTP, name these pathogenic abnormal proteins best known for causing fatal familial insomnia, CreutzfeldtJakob disease, mad cow disease, and other spongiform encephalopathies.
+ANSWER: prions (or protinaceous infectious particles)
+14. A firm’s profits can be calculated by multiplying the quantity sold by the vertical distance between the
+curve for this quantity and the average cost curve. The area under this curve measures total variable costs.
+When the quantity produced is one, this quantity equals the average cost. This curve passes through the
+minimum of both average total cost and average variable cost. FTP, name this quantity that is the change in
+cost when one more unit of a good is produced.
+ANSWER: the marginal cost of production
+
+15. On a phase diagram, this state function is constant on any coexistence curve. The change in this
+quantity under standard conditions is proportional to natural logarithm of the equilibrium constant.
+Developed in the late nineteenth century by an American scientist, this measure of the available energy in a
+system is useful in chemical kinetics. A reaction will be spontaneous if the change in this quantity is
+negative. It is defined as the enthalpy minus the product of the absolute temperature and entropy. FTP,
+identify this thermodynamic quantity.
+ANSWER: the Gibbs free energy (or Gibbs function; prompt on “free energy” or “Gibbs”)
+16. Settled by Mormons in 1855, this city was intended originally as a stopover point between Salt Lake
+City and San Bernadino, California. In recent years there has been concern over this city’s water supply,
+because it is reaching the limit that can be pumped from Lake Mead and the Colorado River. As part of its
+2005 centennial celebration, Mayor Oscar Goodman helped bury a time capsule containing, among other
+things, programs from Mystere, Zumanity, and Penn and Teller. FTP, name this city home to more hotel
+rooms than any other city in the world and that is famous for its namesake Strip.
+ANSWER: Las Vegas, Nevada
+17. This period began with a revival of the Arvand-Roud waterway dispute and in Khouzestan, one side
+created unrest in labor camps and the Kurdish regions. The attacking side began on September, 22, 1980
+with bombing raids at Tabriz, Ahvaz, and others but, within hours, F-4s took off from the same bases.
+Eventually, one side resorted to poison gas while the other began attacking Kuwaiti oil fields, after which
+the UN stepped in and ordered a ceasefire. FTP, name this 1980’s conflict between two Arab nations.
+ANSWER: the Iran-Iraq War
+18. In Act 2 of this work, a stag party chagrins of Mrs. Elvsted. Eljert loses his manuscript and gets
+arrested, but Jurgen Tesman, the title character’s husband, snags it and gives it to his wife. Eljert tells the
+title character that he wants to kill himself, so she gives him a pistol. Upon learning that the gun
+accidentally went off, she is blackmailed by Judge Brack and kills herself too. FTP, name this play by
+Henrik Ibsen.
+ANSWER: Hedda Gabler
+19. Pencil and Paper Ready. What are the roots of the polynomial f of x equals x cubed minus three x
+squared plus x minus three? The rational root theorem can simplify this problem by showing that 1 is a
+root. Synthetic division will then yield a quadratic that can be easily factored. FTP, what are the roots of the
+expression quantity x minus one, close quantity, times quantity x squared minus two x minus three?
+ANSWER: one, negative one, and three (accept in any order)
+20. Called a “chief lieutenant” of the Bank War, this person was Speaker of the House from 1835-39 and
+left when he was elected governor of Tennessee. In order to avoid war, he sent an envoy to Mexico offering
+$20 million plus a damage settlement in return for California and New Mexico. The envoy was sent away,
+prompting the Mexican-American War. FTP, name the dark horse winner of the 1844 Presidential election.
+ANSWER: James Knox Polk
+21. This person dealt with insanity in Yard with Lunatics and “The Sleep of Reason Produces Monsters”,
+the latter of which is part of his series Los Caprichos. Fight with Cudgels, The Dog, and Saturn Devouring
+his Children are among the works he painted on the wall of his house, the Quinta del Sordo, which are
+called the Black Paintings. FTP, name this painter best known for The Naked Maja and The Third of May,
+1808; a Spanish painter of the late-eighteenth and early-nineteenth centuries.
+ANSWER: Francisco José de Goya y Lucientes
+
+UIUC Earlybird 2006 - Round 5
+(Bonuses by UIUC Academic Buzzer Team)
+1. Given a description, identify the work by Sir Walter Scott FTPE.
+[10] Effie Deans is spared from execution for murdering her son. She marries George Staunton, who is shot
+by the son who, as it turns out, wasn’t dead.
+ANSWER: The Heart of Midlothian
+[10] Richard the Lion-Hearted is disguised as the Black Knight and Rebecca the Jewess is rejected by the
+title knight, Wilfred, in favor of Rowena.
+ANSWER: Ivanhoe
+[10] In this work set during the Jacobite Rebellion of 1715, the title character is sent to retrieve documents
+from Rashleigh Hildebrand and kills him when Rashleigh tries to kill the narrator Franks Osbaldistone.
+ANSWER: Rob Roy
+2. Answer the following questions about a certain Japanese ruler FTPE.
+[10] Born Matsudaira Takechiyo, he defeated the forces of Hideyoshi at the battle of Sekhigahara in 1600
+and was given the title of shogun in 1603. His dynasty of Shoguns was to rule Japan until the twentieth
+century.
+ANSWER: Tokugawa Ieyasu
+[10] Tokugawa Ieyasu established his capital in this city.
+ANSWER: Edo (or Chiyoda or Tokyo)
+[10] One major event that led to the downfall of the shogunate was the signing of a treaty with this
+American Commodore in 1854 that opened-up Japan to the West.
+ANSWER: Matthew Calbrainth Perry
+3. Answer the following related to deserts FTPE.
+[10] At three-and-a-half million square miles, it’s the largest desert in the world.
+ANSWER: the Sahara Desert
+[10] This large desert in southern Africa is the ancestral home of the Bushmen. It has only one permanent
+river, the Okavango.
+ANSWER: the Kalahari Desert
+[10] This large Asian desert is famous for its fossil finds. In the 1930s, Roy Chapman discovered the first
+fossilized dinosaur eggs here.
+ANSWER: the Gobi Desert
+4. Name each of the following artists of the Northern Renaissance FTP.
+[10] This attributed inventor of oil painting created the Ghent Altarpiece with his brother Hugo and is also
+the master behind The Arnolfini Wedding.
+ANSWER: Jan van Eyck
+[10] This poorly understood proto-surrealist created Death and the Miser; The Ship of Fools; and the
+triptychs The Temptation of St. Anthony, Haywain, Garden of Earthly Delights, and Last Judgment.
+ANSWER: Hiëronymus Bosch (or Jheronimus Bos or Jerome Van Aeken or Jerome Van Aquen or
+Jerome Van Aken or Jeroen Anthoniszoon)
+[10] This great landscapist and member of a large painterly family created Landscape with the Fall of
+Icarus, The Triumph of Death, The Tower of Babel, The Hunters in the Snow, and Peasant Wedding.
+ANSWER: Pieter Bruegel the Elder (or Peasant Bruegel or Pieter Bruegel De Oudere or Boeren
+Bruegel; prompt on anything less)
+5. Name the French king from the years of their reign FTPE.
+[10] 1774-1792.
+ANSWER: Louis XVI (prompt on “Louis”)
+[10] 1589-1610.
+ANSWER: Henry IV (prompt on “Henry”)
+[10] 1814-1824.
+ANSWER: Louis XVIII (prompt on “Louis”)
+
+6. According to the Gospel of Matthew, Jesus said, “I will use parables when I speak to them; I will tell
+them things unknown since the creation of the world.” Answer these questions about parables FTPE.
+[10] According to the Parable of the Unforgiving Servant, how many times should Peter forgive his brother
+if he keeps on sinning against him? As a hint, it’s not seven.
+ANSWER: seventy-seven
+[10] What animal is featured as ‘lost’ in a Parable in which a man loses and then is joyous to find one of his
+one hundred of them?
+ANSWER: sheep
+[10] Which “smallest of all seeds” becomes the “biggest of all plants, so that birds come and make their
+nests in its branches,” according to one parable?
+ANSWER: the mustard seed
+7. Answer the following concerning an early twentieth-century writer FTPE.
+[10] In the 20’s, her salon at 27 Rue de Fleurs in Paris hosted such famous writers as Hemingway,
+Sherwood Anderson, and Thornton Wilder.
+ANSWER: Gertrude Stein
+[10] Stein’s most famous work was an “autobiography” of this woman, her lover.
+ANSWER: Alice B. Toklas
+[10] Stein coined this term for the group of expatriate writers that frequented her salon.
+ANSWER: the Lost Generation
+8. Give the bond hybridization on the following molecules FTPE.
+[10] Methane, CH4.
+ANSWER: sp3
+[10] Phosphorus pentachloride, PCl5.
+ANSWER: sp3d
+[10] Sulfur dioxide, SO2.
+ANSWER: sp2
+9. Answer each of the following about some music of the Roman Catholic Church FTP.
+[10] This term refers to the unison liturgical vocal music of the Church and is named for the Pope who
+codified it around 600 CE.
+ANSWER: Gregorian chant
+[10] As a Gregorian chant has only one note being produced by its performers at any given time, it can be
+referred to by this term, from the Greek for “one sound.”
+ANSWER: monophonic (or monophony or monophone)
+[10] This second-to-last of the canonical hours of Gregorian chant is now a term that means twilight.
+ANSWER: Vespers
+10. Answer the following about the European sixteenth-century wars of religion FTPE.
+[10] This chief minister of King Louis XIV attacked the Huguenots by using dragonnades to wreak havoc.
+ANSWER: Cardinal Jules Mazarin
+[10] The widow of Henry II and the regent for her sons, this Italian-born queen initially sought compromise
+with the Huguenots but later took more extreme actions.
+ANSWER: Catherine de Medici (prompt on “Catherine” on “Medici”)
+[10] Catherine ordered this massacre of thousands of Huguenots on the day after the wedding of her
+daughter Margot to Henry of Navarre.
+ANSWER: the St. Bartholomew’s Day massacre
+
+11. Answer the following about a philosopher and his works FTPE.
+[10] This major Greek philosopher outlined his political philosophy in the Politics. His major works in
+logic are known as the Organon and include the Prior and Posterior Analytics.
+ANSWER: Aristoteles
+[10] This incomplete work on the nature of literature defines its titular genre as a form of mimesis and
+divides it into tragedy, comedy, and epic verse.
+ANSWER: Poetics (or Peri poietikes)
+[10] Possibly compiled by the namesake son of Aristotle, this major work on virtue posits eudaimonia as
+the ultimate good and discusses the golden mean in Book 2.
+ANSWER: Nicomachean Ethics (or Ethika Nikomacheia)
+12. Identify these Native American deities FTPE.
+[10]The image of this flute-playing god is on walls, pottery, canyons, and more all over the Southwestern
+United States.
+ANSWER: Kokopelli
+[10] Sometimes noble and sometimes not, he is often a trickster and other times the butt of jokes, and is
+also sometimes given credit as a creator god.
+ANSWER: Coyote
+[10] This is Coyote’s wiser brother, who is often antagonized by Coyote.
+ANSWER: Wolf
+13. Answer each of the following about a cell membrane FTP.
+[10] Cell membranes are generally comprised of a bilayer of these chemicals, a combination of the
+constituents of fats and a compound containing element fifteen.
+ANSWER: phospholipids
+[10] The lipid tails of phospholipids are described as this, which means “water-fearing.” Because their tails
+are repelled by polar molecules like water, the phospholipids bilayer is a stable configuration in water.
+ANSWER: hydrophobic
+[10] Chemicals of this kind, proteins covalently bonded to carbohydrates, protrude from the cell membrane
+and function in identifying the cell. Their carbohydrate appendages are called oligosaccharides.
+ANSWER: glycoproteins
+14. Name the African leader from description FTPE.
+[10] He was elected President of Egypt in 1981 for a six-year term and has been re-elected four times.
+ANSWER: Hosni Mubarak
+[10] He became prime minister and eventually president of Zimbabwe in 1980 and has been the only head
+of state in its history.
+ANSWER: Robert Mugabe
+[10] The predecessor to F.W. de Klerk, he was elected Prime Minister of South Africa in 1978, but
+resigned in 1989.
+ANSWER: Pieter Willem Botha
+15. The merits of war are debatable, but does produce some fine literature. Identify the following about
+works dealing with warfare FTPE.
+[10] This Leo Tolstoy work contains three short stories, each set in a different month, which he wrote while
+serving in the Crimean War.
+ANSWER: Sevastapol Sketches (or Sevastopolskiye rasskazy)
+[10] According to the narrator of this Wilfred Owen poem, all are lame, blind, fatigued, and deaf to the
+five-nines dropping behind them.
+ANSWER: Dulce et Decorum Est
+[10] According to a John McCrae poem, what kinds of flowers “blow between the crosses, row by row?”
+ANSWER: poppies
+
+16. Answer these questions about forces FTPE.
+[10] This term is used to describe any force that is the cause of a circular motion.
+ANSWER: centripetal force
+[10] This is the force that a surface exhibits upon an object resting on that surface. It is so named because
+of the direction in which points relative to the surface.
+ANSWER: normal force
+[10] This term describes the force that a general electromagnetic field will exhibit on an object. It is named
+for a nineteenth century Dutch physicist.
+ANSWER: Lorentz force
+17. Consider the rational function y equals quantity five x squared plus 1, over the quantity x squared
+minus 4. FTPE:
+[10] What are the x-coordinates of the graph’s two vertical asymptotes?
+ANSWER: 2 and -2 (any order)
+[10] What is the equation of the graph’s horizontal asymptote?
+ANSWER: y equals 5 or y minus 5 equals 0
+[10] What is the value of the function’s derivative with respect to x at x equals zero?
+ANSWER: zero
+18. Name these directors from films FTPE.
+[10] Taxi Driver and Goodfellas.
+ANSWER: Martin Scorsese
+[10] Strangers on a Train and North by Northwest.
+ANSWER: Alfred Hitchcock
+[10] The Seventh Seal and Fanny and Alexander.
+ANSWER: Ingmar Bergman
+19. Given a description, identify the following fictional doctors FTPE.
+[10] This Sinclair Lewis physician takes his practice to Vermont and the West Indies and fails in his quest
+for “pure science”.
+ANSWER: Dr. Martin Arrowsmith
+[10] He is friends with Matthew Mugg, is the central figure in fourteen different works, and worked in
+Puddleby-on-the-March.
+ANSWER: Dr. John Doolittle
+[10] A young doctor, he likes to write religious poems and his anti-Marxist discussions with his uncle
+Kolya led to the censorship of the novel in which he appears in the Soviet Union.
+ANSWER: Dr. Yury Zhivago
+20. Name these Supreme Court cases FTPE.
+[10] This 1963 case determined that the right to council is fundamental, even if the defendant has no money
+to pay for a lawyer. It determined that the Sixth Amendment applied to the states through the Fourteenth
+Amendment.
+ANSWER: Gideon versus Wainwright
+[10] This case in 1969 decided to protect symbolic speech. Justice Fortas spoke for the majority when he
+stated that when there is no reason to regulate students’ free speech; they can have freedom of expression.
+ANSWER: Tinker versus Des Moines
+[10] This 1810 ruling decided that the Supreme Court can declare a state law to be unconstitutional. John
+Marshall concluded that Georgia state legislature could not invalidate their previous contract with the four
+companies.
+ANSWER: Fletcher versus Peck
+
+

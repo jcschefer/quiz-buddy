@@ -1,0 +1,507 @@
+Tournament-9
+Round 9
+Tossups
+1. The unique floor of this sea was submerged within the past ten thousand years. This sea's Bo Hai
+arm includes Laizhou Bay and is separated from the rest of this sea by the Shandong and Liaodong
+peninsulas. Ports on this sea include Nampo and Inchon, and the (*) Huang He and Yangtze rivers
+empty into this sea. For 10 points, name this sea, lying between China and Korea, that takes its name from
+the color its receives from the sediments of its deltas.
+ANSWER: Yellow Sea [or Huang Hai; or Hwanghae; prompt on East China Sea]
+030-09-6-09102
+
+2. One commander in this battle received word of his opponents' approach from Vitalis, a vassal of
+Odo. This battle was preceded by a landing at Pevensey. One commander in this battle had recently
+defeated the forces of (*) Harald Hardrada and Tostig at Stamford Bridge. That commander was killed
+during this battle by an arrow to the eye, according to the Bayeux Tapestry. For 10 points, name this 1066
+battle in which Harold II was killed by the forces of William the Conqueror, who successfully invaded
+England by winning here.
+ANSWER: Battle of Hastings
+030-09-6-09103
+
+3. This philosopher criticized infinitesimal calculus in The Analyst, and wrote that "Ideas can only
+resemble Ideas" in A Treatise Concerning the Principles of Human Knowledge. His most famous work
+is a dialogue in which one character represents John Locke, and which presents his belief that "to (*)
+be is to be perceived." For 10 points, name this philosopher who wrote Three Dialogues between Hylas and
+Philonous and shares his name with a California university.
+ANSWER: George Berkeley
+024-09-6-09104
+
+4. One of this type of composition by Alexander Borodin, in A minor, was later orchestrated by
+Glazunov. The Allegro brilliante from Tchaikovsky's composition of this type in E flat was reworked
+into his third piano concerto. Mahler wrote one of these with (*) Adagio and Purgatorio movements.
+Another composition of this type begins in the low strings and has its main theme stated in the oboes and
+clarinets; that piece only has two movements and comes before its composer's "Great" composition in C
+major. For 10 points, name these works like Schubert's eighth, all of which were never completed.
+ANSWER: unfinished symphonies [prompt on symphonies]
+032-09-6-09105
+
+5. Special types of these include ones that are indexed by non-integer values or begin at index 1 and
+stores children at 2n and 2n+1, and are known as hash tables and heaps, respectively. Addressing in
+this structure uses (*) pointers to refer to a specific memory address. A one-dimensional one of these can
+also be known as a vector. For 10 points, name this data structure, analogous to the matrix in mathematics,
+which stores multiple elements of the same type in contiguous memory locations.
+ANSWER: array
+051-09-6-09106
+
+Tournament-9 Round 9 Page 1 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. One of this author's poems calls mankind "the glory, jest, and riddle of the world!" and advises
+"Know then thyself, presume not God to scan." After being asked to write a couplet for a monument
+commemorating Newton, this author wrote "Nature and Nature's laws lay hid in night: God said, Let
+Newton be! And all was light." This author wrote a poem in which sylphs fail to prevent the Baron
+from using (*) scissors to cut off some of Belinda's hair, and he used heroic couplets to write "An Essay on
+Criticism" and "An Essay on Man." For 10 points, name this eighteenth-century English poet of "The Rape
+of the Lock."
+ANSWER: Alexander Pope
+004-09-6-09107
+
+7. This man argued for the system of government "that is most likely to succeed" and attempted to
+rally British and American support in his "Letter from Jamaica." This leader's chief of staff won the
+battles of Pichincha and Ayacucho. This man won one battle with his future vice president, Francisco
+Santander, at Boyocá, and this leader also commanded Antonio José de (*) Sucre. This ruler was the
+first president of a country he created, Gran Colombia. For 10 points, name this man who worked against
+Spanish rule as "The Liberator" in South America.
+ANSWER: Simón Bolívar
+023-09-6-09108
+
+8. One painting done by a member of this art movement depicts a long-necked deer next to two red
+boars. That painting, The Fate of the Animals, was completed by an artist of this movement who also
+painted Fighting Forms. Another artist of this movement discussed its use of color in his book On the
+(*) Spiritual in Art and painted Squares with Concentric Circles. This movement's foremost painters were
+Franz Marc and Wassily Kandinsky. For 10 points, name this German expressionist art movement whose
+name was inspired by a painting of an azure-clad man on horseback.
+ANSWER: The Blue Rider [or Der Blaue Reiter; prompt on German Expressionism]
+026-09-6-09109
+
+9. In one story by this author, a man is burning a cradle and two sets of clothes when he discovers that
+it is he, Armand Aubigny (AW-bin-yee), and not his exiled wife, who is secretly biracial. In addition to
+writing “Desiree’s Baby,” this author described Louise Mallard’s death from a (*) heart attack after
+her supposedly dead husband walks in the door in “The Story of an Hour.” This writer also wrote a novel in
+which painting, moving into the “pigeon house,” and dating Robert Lebrun all fail to satisfy New Orleans
+resident Edna Pontellier (poh-TELL-yeh). For 10 points, name this writer of The Awakening.
+ANSWER: Katherine O’Flaherty “Kate” Chopin
+019-09-6-09110
+
+10. In this region, the German king Ariovistus was invited to become king of a certain group in order
+to make war against the Aedui (EYE-doo-ee). That alliance provoked a larger conflict named for this
+region, that included the siege of Gergovia (ger-GO-vee-uh) by the Averni and the decisive battle of
+(*) Alesia (al-EE-zee-uh). The wars named for this place ended when Vercingetorix (VER-sin-GET-or-icks)
+was defeated by Julius Caesar, who wrote a book named for the campaign here. The Romans then portioned
+this region into Transalpine and Cisalpine provinces. For 10 points, identify this ancient equivalent of
+France.
+ANSWER: Gaul [or Gallia; prompt on France before “named for this region” is read; do not accept or
+prompt on “France” afterwards]
+019-09-6-09111
+
+Tournament-9 Round 9 Page 2 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+11. This player's 41 runs batted in during September 2006 was the highest single-month total since
+July 1962. In that same month, he hit his 49th home run of the season, breaking the previous franchise
+single-season record. One notable 2009 home run by this player was retrieved by a twelve-year -old
+girl, who was allegedly bribed with candy into giving this player his (*) 200th career home run, an
+accomplishment that he took fewer career games to achieve than any previous player. For 10 points, name
+this 2006 National League MVP, a power-hitting first baseman for the Philadelphia Phillies.
+ANSWER: Ryan Howard
+002-09-6-09112
+
+12. This and the Faraday constant are the only two constants appearing in the Nernst equation, and in
+the Arrhenius equation, e is taken to the power of negative activation energy divided by the product of
+temperature and this constant. It is equal to (*) Boltzmann's constant multiplied by Avogadro's number.
+For 10 points, name this constant equal to approximately 8.3 joules per mole Kelvin and which appears with
+pressure, volume, temperature, and number of moles in a law modeling the "ideal" variety of its namesake
+state of matter.
+ANSWER: universal or ideal gas constant
+025-09-6-09113
+
+13. The Ringelmann effect is partly responsible for this phenomenon. It was first scientifically
+demonstrated in experiments involving a person with epilepst and smoke filling up a room, conducted
+by Darley and Latane. Good Samaritan Laws are aimed at reducing it. Winston Moseley killed its
+most famous (*) victim, Kitty Genovese, who was stabbed to death despite the presence of many neighbors.
+diffusion of responsibility leads to, for 10 points, what social phenomenon, that occurs when the presence of
+other people reduces helping behavior?
+ANSWER: the bystander effect [accept Kitty Genovese effect before "Kitty Genovese" is read]
+034-09-6-09114
+
+14. One leader of this country overthrew Carol II with help from the Iron Guard, a fascist group in
+this nation. The new puppet king, Michael, later overthrew his former fascist ally, Ion (*) Antonescu.
+Gheorghe Gheorghiu-Dej (GYOR-gyeh gyor-GYOO-desh) was replaced as leader of this country by another
+Communist, whose rule of this country was ended when that man and his wife Elena were executed on
+Christmas in 1989. For 10 points, name this Eastern European country once ruled by Nicolae Ceausescu
+(chow-SESS-koo).
+ANSWER: Romania
+023-09-6-09115
+
+15. Sufferers of this disease often have white spots on their eyes known as Brushfield spots. Jerome
+Lejeune first discovered the biological cause of this disease. Sufferers of this were referred to by this
+disease's namesake discoverer as (*) mongoloids. Other physical characteristics of this disease include
+hands with only one crease and upward-slanting eyes. It is far more common in babies born to mothers over
+40. The most common cause of mental retardation is, for 10 points, what genetic disorder caused by an extra
+copy of chromosome 21?
+ANSWER: Down syndrome [prompt on mongolism before "mongoloids"]
+025-09-6-09116
+
+Tournament-9 Round 9 Page 3 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+16. At the beginning of this novel, a sunflower oil spill leads to the accidental decapitation of Berlioz.
+Another character in this novel is temporarily decapitated during a black magic act at the Variety
+Theatre. One of the title characters hosts a Satanic ball after flying naked on a broom to Apartment
+Fifty, and the other title character is the author of a novel about (*) Pontius Pilate. Azazello and
+Behemoth, a talking cat, accompany the Devil during his visit to Moscow in, for 10 points, what novel by
+Mikhail Bulgakov?
+ANSWER: The Master and Margarita [or Master i Margarita]
+024-09-6-09117
+
+17. This figure's mother was turned into a tree that produced the Balm of Gilead. This figure was
+conceived after Cinyras was seduced by his daughter Myrrha. Drops of this man's blood turned into
+anemone (ah-NEH-mow-nee). Aphrodite killed Orpheus to spite Calliope (cuh-LIE-oh-pee) for giving
+this man to (*) Persephone (per-SEF-uh-nee) for half of the year. This figure's beauty was so prized that he
+was hidden in a chest until his violent death. For 10 points, name this beautiful mortal who was killed by a
+boar sent by a jealous Ares.
+ANSWER: Adonis
+030-09-6-09118
+
+18. This character considers the possibility of asking forgiveness for his actions on Mount Niphates,
+but instead declares "Evil, be thou my good!" This character laments "Which way I fly is Hell; my
+self am Hell" after tricking Uriel into showing him the way to (*) Earth. This character leads a council in
+Pandemonium after waking up in a lake of fire, and he pridefully asserts "Better to reign in Hell, then serve
+in Heav'n" after losing a rebellion against God. For 10 points, name this character from Milton's Paradise
+Lost who enters the body of a serpent in the Garden of Eden to tempt Eve.
+ANSWER: Satan [or Lucifer; prompt on the devil or equivalents]
+004-09-6-09119
+
+19. This architect of the General Motors Technical Center in Warren, Michigan is known for his
+"thin-shell" designs, such as the Kresge Auditorium at MIT and the TWA terminal at New York's (*)
+JFK Airport. He is also responsible for the main terminal at Washington's Dulles Airport. His best known
+work, the tallest monument in the United States, sits at the Jefferson National Expansion Memorial and is in
+the shape of a catenary curve. For 10 points, name this Finnish-American architect who designed St. Louis's
+Gateway Arch.
+ANSWER: Eero Saarinen
+025-09-6-09120
+
+20. This molecule acts as a cofactor in catecholamine synthesis, such as the conversion of dopamine to
+norepinephrine. Ingestion of this molecule may decrease the risk or severity of cataracts, and it may
+help regenerate other (*) antioxidants such as Vitamin E. Ingestion of large doses of this molecule was
+advocated by Linus Pauling, though it does not appear to help prevent the common cold. For 10 points,
+name this vitamin that prevents scurvy and is found in citrus fruits.
+ANSWER: Vitamin C
+003-09-6-09121
+
+Tournament-9 Round 9 Page 4 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+21. Pat Callahan sends the protagonist of this novel to jail when he assaults his wife's boss Connor.
+The protagonist relates his story to the guests of Hind's Hotel and later meets Ostrinsky, who
+introduces him to (*) socialism. The protagonist leaves the Back of the Yards after his child drowns in
+urban muddy water. Earlier, Ona, his wife, had died in childbirth. For 10 points, name this novel about the
+Lithuanian immigrant Jurgis Rudkis, who works in the Chicago meatpacking industry, written by Upton
+Sinclair.
+ANSWER: The Jungle
+033-09-6-09122
+
+22. Llewellyn Thomas gives his name to a relativistic corrected form of this effect, and accurate
+prediction of this of the perihelion of Mercury is seen as success for general relativity. This
+phenomenon in magnetic fields is named for Larmor. This concept plays a key role in Milankovitch
+cycles, and one cycle of this for the Earth is (*) 26,000 years. It can occur when a torque causes a motion
+of the angular momentum vector. For 10 points, name this phenomenon seen in seen in the movement of a
+spinning top.
+ANSWER: precession
+001-09-6-09123
+
+23. He led some militia who were famously characterized by their opponents as "Regulars, By God!"
+at the Battle of Chippewa. This man chose William Alexander Graham as his running mate in one
+election after beating out Millard Fillmore and Daniel Webster for the Whig Party nomination.
+During the Civil War, this figure designed the (*) blockade system known as the Anaconda Plan. This
+general led American forces in the march to Mexico City after assaulting Veracruz in the Mexican War. For
+10 points, name this general, known as "Old Fuss and Feathers."
+ANSWER: Winfield Scott
+015-09-6-09124
+
+Tournament-9 Round 9 Page 5 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+Tournament-9
+Round 9
+Bonuses
+1. This artist created a miniature circus of animals made out of wire and wood. For 10 points each:
+[10] Name this American sculptor, who invented the mobile.
+ANSWER: Alexander Calder
+[10] In contrast to mobiles, Flamingo and El Sol Rojo are among this form of stationary art form that Calder
+also created.
+ANSWER: stabiles
+[10] Located in a stairwell in the Museum of Modern Art, this red and black Calder mobile made of steel
+wire and aluminum represents the title aquatic creature.
+ANSWER: Lobster Trap and Fish Tail
+030-09-6-09201
+
+2. Complex reactions use matrices for this set of analytical methods, which can also be solved in gases with
+densities. For 10 points each:
+[10] Name this term for the calculation of ratios and relationships between reactants and products, a way of
+analyzing the completion of chemical reactions.
+ANSWER: reaction stoichiometry
+[10] Stoichiometry is often used to determine this kind of reagent, which is used up completely before the
+exact number of moles necessitated by the proportion is reached.
+ANSWER: limiting reagent
+[10] In the combustion reaction of benzene, two moles of benzene are needed per fifteen moles of oxygen.
+Determine which of the two reagents is limiting if seven moles of oxygen were present. You have 5 seconds.
+ANSWER: oxygen
+020-09-6-09202
+
+3. This author collected her stories "Hell-Heaven" and "Nobody's Business" in her book Unaccustomed
+Earth. For 10 points each:
+[10] Name this author, who included the stories "Mrs. Sen's" and "The Third and Final Continent" in her
+collection Interpreter of Maladies.
+ANSWER: Jhumpa Lahiri
+[10] Jhumpa Lahiri is originally from this country, whose earliest written works include the Vedas, the epics
+Ramayana and Mahabharata, as well as the Gupta Dynasty plays of Kalidasa.
+ANSWER: Republic of India [or Bharat]
+[10] Several of Lahiri's protagonists speak this Indian language, which is centered around Kolkata and a
+country east of India. Rabindranath Tagore, India's first Nobel laureate, wrote in it.
+ANSWER: Bengali [or Bangla]
+020-09-6-09203
+
+Tournament-9 Round 9 Page 6 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+4. The Roman Empire were often bedeviled by barbarian tribes. For 10 points each:
+[10] Under the leadership of Gaiseric, this Germanic tribe captured Carthage, adopted Arianism, and, in
+455,sacked Rome.
+ANSWER: Vandals
+[10] After the collapse of the Hun empire, these people moved westward under their leader, Theodoric the
+Great, who established them as a power in northern Italy.
+ANSWER: Ostrogoths [prompt on Goths]
+[10] Emperor Valens was killed by these people at Adrianople after they invaded the northeastern empire.
+This group, the other major branch of Goths, established a kingdom in Spain that lasted 200 years.
+ANSWER: Visigoths
+043-09-6-09204
+
+5. For 10 points each, name these English philosophers.
+[10] Before being executed by Henry VIII, this "man for all seasons" described an ideal society visited by
+Raphael Hythloday in Utopia.
+ANSWER: Thomas More
+[10] This philosopher advocated experimentation and inductive reasoning in his Novum Organum. His work
+The New Atlantis helped inspire the creation of the English Royal Society.
+ANSWER: Francis Bacon
+[10] This Scholastic philosopher presented the ontological argument for the existence of God in his
+Proslogion.
+ANSWER: Saint Anselm of Canterbury
+004-09-6-09205
+
+6. It states that no two electrons can occupy the same quantum state simultaneously. For 10 points each:
+[10] Name this principle of physics named for its Austrian formulator.
+ANSWER: Pauli exclusion principle
+[10] The Pauli exclusion principle holds for fermions, which are particles with half-integer values of this
+quantum number, a measure of the particle's intrinsic angular momentum.
+ANSWER: spin
+[10] The only particle predicted to have a spin of two is this hypothetical one which mediates a fundamental
+force.
+ANSWER: graviton
+025-09-6-09206
+
+7. This mountain range cuts through both Dagestan and Chechnya. For 10 points each:
+[10] Name this mountain range that runs from the Black Sea to the Caspian Sea and includes Mount Elbrus.
+ANSWER: Caucasus Mountains
+[10] This nation in the Caucasus cuts off Nakhchivan from the rest of Azerbaijan and has its capital at
+Yerevan.
+ANSWER: Armenia
+[10] This two-peaked stratovolcano near the Armenian border is the tallest peak in Turkey.
+ANSWER: Mount Ararat [or Mount Masis]
+036-09-6-09207
+
+Tournament-9 Round 9 Page 7 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+8. His novella Raise High the Roofbeam, Carpenters is narrated by Buddy Glass. For 10 points each:
+[10] Name this author, whose other works about the Glass family include "A Perfect Day for Bananafish"
+and "Uncle Wiggly in Connecticut."
+ANSWER: Jerome David Salinger
+[10] This work of J. D. Salinger concerns Holden Caulfield's New York adventures after he drops out of
+Pencey Prep.
+ANSWER: The Catcher in the Rye
+[10] This third book by Salinger describes the breakdown of the youngest member of the Glass family, who
+is counseled by her brother after learning the "Jesus prayer" from the Russian book The Way of the Pilgrim.
+ANSWER: Franny and Zooey
+015-09-6-09208
+
+9. His jersey number, 99, was retired throughout the National Hockey League. For 10 points each:
+[10] Name this Canadian hockey player, who holds the regular-season and playoff records for both goals and
+assists.
+ANSWER: Wayne Gretzky
+[10] Gretzky began his career with this team, with which Gretzky won four Stanley Cups in the 1980s.
+ANSWER: Edmonton Oilers [or Edmonton Oilers]
+[10] In 2009, Gretzky resigned as coach of this team, which Gretzky partly owns. They moved from
+Winnipeg in 1996 and filed for bankruptcy in 2009.
+ANSWER: Phoenix Coyotes [or Phoenix Coyotes]
+025-09-6-09209
+
+10. One divorce in this novel is caused by the poor intentions of Mr. Grünlich toward Tony. For 10 points
+each:
+[10] Name this work about the decline of a family, which includes the hardworking Tom and the lazy and
+often sick Christian.
+ANSWER: Buddenbrooks: The Decline of a Family [or Buddenbrooks: Verfall einer Familie]
+[10] This man wrote Buddenbrooks, as well as a work about Hans Castorp's time in a Swiss sanatorium, The
+Magic Mountain.
+ANSWER: Thomas Mann
+[10] In this Mann work, the writer Gustav von Aschenbach becomes infatuated with the boy Tadzio while
+traveling abroad, which eventually leads to the title event during a cholera epidemic.
+ANSWER: Death in Venice [or Der Tod in Venedig]
+023-09-6-09210
+
+11. Pencil and paper may be useful. Consider the equation x squared plus 6x minus 16 equals zero. For 10
+points each:
+[10] Use any method and find either integer value of x that solves the equation. You have 10 seconds.
+ANSWER: 2 or -8
+[10] This method of solving the equation involves moving the constant to the other side, then adding a
+second constant to turn the left side of the equation into a perfect square.
+ANSWER: completing the square
+[10] The solutions can also be found using this formula, in which the solutions equal negative b plus or
+minus the square root of b squared minus 4ac, all over 2a.
+ANSWER: quadratic formula
+003-09-6-09211
+
+Tournament-9 Round 9 Page 8 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+12. For 10 points each, name these European explorers.
+[10] This Spanish conquistador overthrew Atahualpa and defeated the Incan Empire in 1533, helping Spain
+become one of the wealthiest countries in the sixteenth century world.
+ANSWER: Francisco Pizarro
+[10] This sixteenth century explorer allied with Comogre to fight indigenous tribes in the isthmus of
+Panama. In 1513, he became the first European to see the Pacific Ocean, which he claimed for Spain.
+ANSWER: Vasco Nunez de Balboa
+[10] This French explorer established Fort Saint Louis during the 1680s and subsequently claimed the
+Mississippi River for France, establishing French colonial interests in the Louisiana Territory.
+ANSWER: Sieur de La Salle [or Rene Robert Cavelier; or Robert de La Salle]
+004-09-6-09212
+
+13. This man's wedding celebration was interrupted when a golden apple marked "To the fairest" was
+thrown in by the uninvited Eris. For 10 points each:
+[10] Name this mortal, who married a nymph after using advice from Chiron, even though a prophecy said
+the nymph's son would be more powerful than the father.
+ANSWER: Peleus
+[10] This was the son born to Peleus and Thetis, who either had his mortal parts burned away incompletely
+or was dipped into the river Styx while his heel was held.
+ANSWER: Achilles
+[10] The golden apple thrown by Eris resulted in this man's judgment, which awarded the apple to Aphrodite
+over Hera and Athena.
+ANSWER: Paris [or Alexander]
+023-09-6-09213
+
+14. Several artists enjoyed painting trains. For 10 points each:
+[10] In this work by Rene Magritte, a locomotive, steam and all, juts out of a fireplace. The clock in this
+painting indicates that it is 12:43, and is flanked by two golden candleholders.
+ANSWER: Time Transfixed [or La Duree poignardee]
+[10] This Impressionist painted the Gare St. Lazare train station in one painting, but is better known for his
+Impression: Sunrise and Water-Lilies.
+ANSWER: Oscar Claude Monet
+[10] Edouard Manet executed another painting of the Gare St. Lazare, but is better known for this painting
+about a sprawled nude courtesan and her black maidservant.
+ANSWER: Olympia
+020-09-6-09214
+
+15. This man believed that society progressed between different stages, such as the theological and
+metaphysical. For 10 points each:
+[10] Name this French "father of sociology" who came up with the "law of three stages."
+ANSWER: Isidore Auguste Marie Francois Xavier Comte
+[10] Comte followed this philosophy that focuses on science and facts over metaphysical thought, and is also
+the name of the final stage in the law of three stages.
+ANSWER: positivism [or positive stage]
+[10] This Englishman subscribed to many positivist ideas, although he is more famous for the ideas he put
+forth in On Liberty and Utilitarianism.
+ANSWER: John Stuart Mill
+023-09-6-09215
+
+Tournament-9 Round 9 Page 9 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+16. This Roman emperor built the Temple of Pax and the Coliseum. For 10 points each:
+[10] Name this founder of the Flavian Dynasty, who came to power in 69 CE and was succeeded by Titus.
+ANSWER: Titus Flavius Vespasian
+[10] 69 CE is commonly known by this descriptive name due to the high turnover in rulers.
+ANSWER: Year of the Four Emperors
+[10] The death of this emperor ushered in the instability of the Year of the Four Emperors. This son of
+Agrippina the Younger was the target of Piso's conspiracy and ruled during the Great Fire of Rome.
+ANSWER: Nero Claudius Caesar
+030-09-6-09216
+
+17. Relative to the object it orbits, it is the largest satellite in the solar system. For 10 points each:
+[10] Most astronomers consider this object to be part of a binary system, rather than a "moon" of Pluto.
+ANSWER: Charon
+[10] This is the largest satellite to travel in a retrograde orbit. Imagery from Voyager 2's flyby of Neptune
+suggests it may also have nitrogen gas geysers.
+ANSWER: Triton
+[10] The Cassini mission discovered that this moon of Saturn is geologically active, and has geysers of
+liquid water erupting from its south pole.
+ANSWER: Enceladus (en-SELL-ah-dus)
+051-09-6-09217
+
+18. The critical failure of his opera Lady Macbeth of the Mtsensk District prompted him to write a symphony
+subtitled "A Soviet Artist's Reply to Just Criticsm." For 10 points each:
+[10] Name this Russian composer, who set Yevgeny Yevtushenko poems to music in his Thirteenth
+Symphony, Babi Yar.
+ANSWER: Dmitri Dmitriyevich Shostakovich
+[10] This number symphony was the aforementioned "Soviet Artist's Reply to Just Criticism." Beethoven's
+symphony of this number begins "duh-duh-duh-DUM."
+ANSWER: five [or fifth]
+[10] Shostakovich later commemorated the successful defense of a Soviet city from a Nazi siege in this
+seventh symphony, whose first movement contains the twenty-two-measure "invasion march."
+ANSWER: "Leningrad" Symphony
+003-09-6-09218
+
+19. The kingdom of Kongo once existed on the territory that is now this state. For 10 points each:
+[10] Identify this country, one of two large African countries that became independent from Portugal in
+1975, along with Mozambique.
+ANSWER: Angola
+[10] The Angolan civil war that broke out upon independence was mainly a contest between three factions:
+the MPLA, the FNLA, and this right-wing militant group, founded by Jonas Savimbi.
+ANSWER: UNITA [or National Union for the Total Independence of Angola; or Uniao Nacional para a
+Independencia Total de Angola]
+[10] In 1989, Savimbi and his rival, president Jose Eduardo dos Santos, entered into negotiations brokered
+by Zaire, which at the time was ruled by this long-tenured, leopard-hat-wearing dictator.
+ANSWER: Joseph-Desire Mobutu [or Mobutu Sese Seko Koko Ngbendu Wa Za Banga]
+043-09-6-09219
+
+Tournament-9 Round 9 Page 10 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+20. This author wrote Jane Austen's favorite novel, Sir Charles Grandison. For 10 points each:
+[10] Name this eighteenth-century British author who also wrote a novel in which the title character is
+drugged with laudanum by the lecherous Robert, called Clarissa.
+ANSWER: Samuel Richardson
+[10] The nefarious male character Robert in Richardson's Clarissa has this surname, which he shares with
+Richard, the author of the poem "To Althea, from Prison."
+ANSWER: Lovelace
+[10] Samuel Richardson may be best-known for this epistolary novel in which the title character marries Mr.
+B. This novel is subtitled "Virtue Rewarded."
+ANSWER: Pamela, or Virtue Rewarded
+026-09-6-09220
+
+21. Representatives of this tribe in Georgia signed the Treaty of New Echota. For 10 points each:
+[10] Name this "civilized tribe," whose syllabary was developed by Sequoyah before this Southeastern was
+forcibly uprooted by the Indian Removal Act.
+ANSWER: Cherokee
+[10] The Cherokee relocation is given this colloquial name, as four thousand Cherokee died during the
+process. The Cherokee victory in Worcester v. Georgia could not prevent this march.
+ANSWER: Trail of Tears [or Nu na da ul tsun yi; or tlo va sa]
+[10] The endpoint of the Cherokee Trail of Tears was this state, formerly known as the Indian Territory,
+which was heavily settled by the Homestead Act of 1862.
+ANSWER: Oklahoma
+020-09-6-09221
+
+22. Its main source is an epic poem by Giovanni Boccaccio, and it depicts Theseus's imprisonment of Arcite
+(ARK-eh-tay) and Palamon. For 10 points each:
+[10] Name this first of Chaucer's Canterbury Tales.
+ANSWER: "The Knight's Tale"
+[10] "The Knight's Tale" inspired this comedic play by William Shakespeare and John Fletcher.
+ANSWER: The Two Noble Kinsmen
+[10] Another story which both Chaucer and Shakespeare adapted is the myth of Troilus and Cressida, two
+lovers who meet during this mythological conflict involving Helen, Achilles, and a big horse.
+ANSWER: the Trojan War
+024-09-6-09222
+
+Tournament-9 Round 9 Page 11 of 11
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

@@ -1,0 +1,58 @@
+NewTrier Varsity 2006  Round 8, Page 5 
+
+
+Bonus 8: Math (General) 
+You have two binary numbers, A and B.A equals 0 1 1,and B equals 1 0 0. Perform the folowing 
+operations and give your answers in binary. 
+A: A AND B 
+B: A OR B 
+C: A XOR (x-or) B 
+D: NOT A 
+Answers: A: 0 (or 0 0 0) B:1 1 1 C: 1 1 1 D: 1 0 0 
+
+Tossup 9: Science (Chemistry) 
+Its existence was rebuted by Leo Szilard, saying that it would need to expend energy to measure 
+the speed of molecules, and the total entropy of the system would increaseanyway. Proposed in 
+1867, it refers to a being that stands between two partitioned gas chambers, opening a trapdoor to 
+letfaster molecules into one chamber, and slower molecules into another chamber. Name this 
+thoughtexperiment named after a Scotish physicist, that atempts to violate the second law of 
+thermodynamics.
+Answer: Maxwel's demon 
+
+Bonus 9: Literature (Mythology) 
+Identify the folowing mythological transformations. 
+A: This daughter of Tantalus was transformed into a rock as she weptover the loss of her fourteen 
+children. 
+B: This nymph of Artemis and lover of Zeus was turned into a bear, and consequently wasalmost
+kiled by her son duringa hunt.
+C: This nymph was changed into holow water reeds inorder to avoid the lecherous clutches of Pan.
+D: This woman was turned into a white heifer after a brief afairwith Zeus in the form of a cloud. 
+Answers: A: Niobe B:Calisto C: Syrinx D: Io 
+
+Tossup 10: Social Studies (U.S.History) 
+A parodyof typical Campari alcohol advertisements, the falseinterview described a prominent 
+Protestant minister's "first time" with Campari.Unlike real advertisements, however, this addepicted 
+him talking of the drunken tryst inthe outhouse with his mother that resulted.He sued the magazine 
+that ran the ad, claiming it was libel and led to emotional distress,though it was clearly marked as a 
+parody. Namethe 1988 Supreme Court casethat resulted, ruling 8-0 that the pornographic 
+magazine was not libelous. 
+Answer: Hustler Magazine v. Falwel (accept Flynt v. Falwel) 
+
+Bonus 10: Science (Chemistry) 
+Answerthese questions about chemicals that are not the same. 
+A: Oxygen and ozone,or diamond, graphite, and fulerene. Though al pure elemental statesof their
+atom, theyare caled these because they have diferentnumbers of thatatom.
+B: Genericaly, chemicals with thesame chemical formula but diferent structures are caled these. 
+C: This specific term refers to some chemicals, like 1-propanol and 2-propanol,that have the same 
+formulabut diferent bond structures in 2D. 
+D: This specific term refers to chemicals that have the same bond structures in 2D, but not in 3D. 
+Answers: A: AlotropeB: Isomer C: Structural isomer (prompt on isomer)D: Stereoisomer 
+(prompton isomeror geometric isomer) 
+
+
+HALFTIME 
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

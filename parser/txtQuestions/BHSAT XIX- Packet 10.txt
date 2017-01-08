@@ -1,0 +1,441 @@
+BHSAT XIX
+
+Packet 10
+
+Tossups:
+1. That the Church failed to get the input of the German emperor proved an accurate omen for this pope's
+contentious relations with the Holy Roman Empire. In his conflicts with the emperor he found allies in the
+princes of Germany who desired a religious justification for combating imperial centralization; the emperor
+allied himself with bishops who resented the growing papal power and many of whom had been appointed
+by the emperor, the basis for the lay investiture controversy. FTP name this great reforming pope whose
+most famous confrontation with Henry IV was in the snows of Canossa and who was formerly known as
+Cardinal Hildebrand.
+ANSWER: Gregory VII (prompt on Hildebrand before mention)
+2. This is the number of solutions to the three-body problem when one of the bodies is assumed to be much
+smaller than the others. This is number under the radical when finding the ratio between successively
+higher Fibonacci numbers. The Abel-Ruffini theorem states that polynomials of this degree cannot be
+solved, and this number is the second Fermat Prime and the third Sophie Germain Prime. This number is
+the When arranging this many unique objects in a circle, there are 24 possible ways to do so, while
+arranging this many objects in a straight line there are 120 ways. FTP, identify this number, which is also
+the cube root of 125 and the square root of 25.
+ANSWER: 5
+3. In one episode in this novel, Will Cutter mercilessly beats the narrator when he finds him sleeping in one
+character’s bed, and another episode involves a small feud between families over a loaned horse collar and
+a debt on a milk cow. Characters in this novel include an Austrian hired hand that looks like a cowboy,
+Otto Fuchs; the title character’s arrogant brother, Ambrosch; the flirtatious Norwegian dressmaker, Lena
+Lingard; and the eventual husband of the title character, Cuzak. FTP, Jim Burden narrates the story of his
+childhood in Black Hawk, Nebraska and his love for the title daughter of the Bohemian immigrant family,
+the Shimerdas, in what novel by Willa Cather?
+ANSWER: My Antonia
+4. In its original form it was designed to provide ultimate bliss to everyone who interacted with it, but users
+found it too unbelievable. Despite currently being in it's sixth version. Bugs persist in the form of rogue
+programs and the systematic emergence of an integral anomaly. That anomaly usually chooses to return to
+the Source and reinsert the prime program, but because of love, instead chooses to risk the extinction of the
+human race. Created by The Architect to pacify humans while they are used as an energy source,
+FTP Lawrence Fishburne as Morpheus awakens a Keanu Reeves-played Neo from what simulation of life
+in a 1999 Wachowski brothers movie that saw sequals "Reloaded" and "Revolutions"
+ANSWER: The Matrix
+5. Some of the provisions of the Peace of Constance this man signed with the pope Eugene III were to
+defend the papacy and make no peace with Roger II of Sicily. This man helped Adrian IV suppress the
+Roman Commune of Arnold of Brescia, after which he was crowned emperor. Suffering a heavy defeat at
+the battle of Legnano to the forces of the Lombard League, this man was ultimately unsuccessful in his
+numerous attempts to control Italy. A Duke of Swabia before he became Holy Roman Emperor, this man
+is perhaps most famous for the way he died in route to the Third Crusade. FTP, identify this man
+nicknamed “Red Beard,” who drowned while crossing a river.
+ANSWER: Frederick I or Barbarossa
+6. This technique is commonly described by the Smoluchowski theory, which seeks to explain movement
+of the dispersed particles independent of their shape but fails if the double layer is too thick. A zymogram
+can be used to detect enzyme activity in one variant of it, while the zone type utilizes isoelectric focusing to
+separate molecules based on their electric charge with respect to pH changes. Gene sequencing and protein
+separation can be done with the SDS-PAGE variety. FTP, name this electrokinetic technique often
+completed in agarose gel.
+ANSWER: electrophoresis
+
+1
+
+BHSAT XIX
+
+Packet 10
+
+7. This playwright’s first success was set during the Revolutionary War and sees the titular apostate, Dick
+Dudgeon, let himself be arrested instead of the minister, Anthony Anderson, The Devil’s Disciple. The title
+character of another play by this author, wishes to marry Adolphus Cusins, disapproves of her father,
+Andrew Undershaft’s armament manufacturing and is a member of the Salvation Army. While another play
+sees Colonel Pickering bet with Henry Higgins that the latter can’t turn Eliza Doolittle into a lady through
+elocution lessons. FTP, this is what Irish playwright of Major Barbara and Pygmalion?
+ANSWER: George Bernard Shaw
+8. It can be degraded to pyruvate via intermediary formation of serine via the action of serine
+hydroxymethyltransferase, and its combination with succinyl-CoA allows for the production of the
+porphyrins precursor d-aminolevulinic acid. It is needed as a co-agonist with glutamate for NMDA
+receptors, and it is one of the major components of collagen along with the amino acid proline. The chief
+inhibitory neurotransmitter of the spinal cord, FTP, names this smallest amino acid which is optically
+inactive due to its single hydrogen side chain.
+ANSWER: glycine
+9. The third piano sonata by this composer is a single-movement work in A minor that begins with repeated
+E major chords, and his seventh piano sonata features a precipitato final movement in 7/8 time. He wrote a
+flute sonata in D, opus 94, and in one of his operas the Prince and Truffaldino discover the princess
+Ninnetta after the Prince is cursed with the title affliction by the witch Fata Morgana. That opera is based
+on a play by Carlo Gozzi. In his best-known ballet, fifteen drumbeats mark the death of one of the main
+antagonists, and that ballet also features the Dance of the Knights, also known as "Montagues and
+Capulets." For 10 points, identify this Russian composer of The Love for Three Oranges, the ballet Romeo
+and Juliet, and a "Classical" Symphony.
+ANSWER: Sergei Prokofiev
+10. This man's early career included appointments as ambassador to Russia and France, but he was recalled
+to his home country to act as prime minister when the parliament refused to fund a proposed reorganization
+of his country's famous army. This man, who had a World War II battleship named after him, conquered
+Schleswig and Holstein from Denmark and then contrived a dispute over those territories with a victory at
+Sadowa. Although he earned domestic ire by restricting freedom of the press and launching the antiCatholic Kulturkampf, he took up the liberal mantle of national unification with a decidedly more martial
+Realpolitik twist, declaring that "the great questions of the time will not be resolved by speeches and
+majority decision--that was the great mistake of 1848 and 1849--but by blood and iron." FTP, name this
+minister who published the Ems Dispatch that started the Franco-Prussian war and become the Iron
+Chancellor of the German empire he united.
+ANSWER: Otto von Bismarck
+11. In solid compounds, this class of reactions occurs in three distinct phases in which preheating leads to a
+second distillation stage. At the molecular level, these types of reactions can only be initiated if a heatinduced spin-paired state is achieved, which subsequently reacts to produce the heat that propagates the
+reaction. Certain types require consideration of the air to fuel ratio, while liquid fuels used in these have to
+above the flash point temperature. They come in complete, incomplete, and smoldering forms, and are used
+in devices like the calorimeter and diesel engine. FTP, name this reaction type in which a hydrocarbon
+reacts with oxygen to form carbon dioxide and water.
+ANSWER: combustion reactions
+12. In one of several novels by this author set in Thrums, Gavin Dishart is the titular priest of the Auld
+Licht parish, The Little Minister. When the Lasenbys are shipwrecked on a deserted island in one play by
+this author, the titular butler is revealed to be the only one with practical knowledge and becomes ruler.
+That is The Admirable Crichton. Characters in his most famous novel include Tootles, the Indian princess
+Tiger Lily, and the Darling children. FTP, the titular little boy won’t grow up and fights Captain Hook in
+what Scottish author’s Peter Pan?
+ANSWER: James Barrie
+
+2
+
+BHSAT XIX
+
+Packet 10
+
+13. The eighteenth-largest country in the world, this nation of over 70 million inhabitants is bordered by
+Armenia, Azerbaijan and Turkmenistan to the north. Before Islam arrived in the seventh century, two
+ruling empires here included the Parthians and the Sassanids. Notable tourist attractions here include the
+cities of Isfahan, Qom, Shiraz and Tabriz. The US does not currently operate an embassy, following a 1979
+revolution in this nation. Formerly known as Persia, FTP, name this Middle Eastern country, whose
+supreme leader is Ayatollah Ali Khamenei, and whose president is Mahmoud Ahmadinejad.
+ANSWER: Iran
+14. The title poem of one collection by this author describes plants like the “twiggy stuff of bushes” and the
+“wildcarrot leaf” as they “grip down and begin to awaken”. While the most famous poem of another
+collection describes the “tweedle of bagpipes” and the “kicking and rolling about” in the titular painter’s
+“The Kermess’. Those are the collections Spring and All and Pictures from Breughel. But his most
+anthologized poems describe an implement that “so much depends upon” and apologize for eating “the
+plums / that were in / the icebox”. FTP, name this New Jerseyite poet of “The Read Wheelbarrow” and
+“This is Just Say”.
+ANSWER: William Carlos Williams
+15. Although the last time this title was technically conferred was in 1530, it continued to be used until it
+was abolished in 1806. Election to this post was governed by the Golden Bull of 1356, which established
+the seven prince-electors, although the electoral system required some tweaking to maintain balance. The
+name of the polity headed by this person was mocked by Voltaire, but was meant to show its continuity
+with the empire of Augustus as well as its newfound Christianity. FTP, name this title for an elected King
+of the Romans who had been crowned by the pope, notably held by Otto the Great, Frederick Barbarossa,
+and Charles V, and first granted on 25 December 800 to Charlemagne.
+ANSWER: Holy Roman Emperor (do not accept German Emperor or Holy Roman Empire)
+16. This painting was the only one signed in full by the artist, and in between the central characters lies a
+floor mosaic based on the patterns on Westminster Abbey. On a shelf sits a polyhedral sundial, and a lute
+with a broken string sits next to a Lutheran hymnal. On the floor between the titular figures is a blob of
+gray paint which, when tilted, is shown to be an anamorphic skull. FTP, name this Hans Holbein the
+Younger painting which shows the two titular figures from France at the court of Henry VIII.
+ANSWER: The Ambassadors
+17. One of the commanders in this battle reportedly told his leader “your majesty, we have lost the war,”
+after they commenced with a retreat. Following shortly after the battle of the Frontiers, this battle saw the
+sub battle of the Two Morins during it. Karl Von Bulow commanded one of the attacking forces’ armies
+while Herbert Kitchener agreed to provide 70,000 men from the British Expeditionary Force, which Joffre
+had requested. Additional reinforcements were provided by ubiquitous taxi cabs which transported French
+troops from Paris. Before retreating to the Aisne river, von Moltke suffered a nervous breakdown after
+being told that his forces would be encircled and destroyed. Marking a failure of the Schlieffen plan, a
+second battle of this name was an resulted in an allied victory in 1918. FTP, name this first major battle of
+World War I, in which German forces were barely turned back from marching on Paris at the namesake
+river.
+ANSWER: First battle of the Marne
+18. A minor character in this work is Leclere, who grants the protagonist the title he holds at the beginning
+of the work. In another episode, the protagonist gives Caderrousse a diamond in exchange for information
+and for refusing to take part in the plot hatched by Danglars, Fernand, and Villefort. After being accused of
+supporting Napolean Bonaparte, the protagonist is taken to the Chateau D'If, where he is known only as
+Prisoner 34. There, he is educated by Abbe Faria, who names him the inheritor of a vast treasure on the
+titular island. FTP, name which Edmond Dantes seeks revenge against the conspirators that falsely
+imprisoned him, by Alexander Dumas.
+ANSWER: The Count of Monte Cristo
+19. This man was a renowned opponent of the prevailing Hegelian philosophy of his day, and his attacks on
+the Church foreshadowed Nietzsche’s. He placed great emphasis on the choices of the individual, even
+
+3
+
+BHSAT XIX
+
+Packet 10
+
+claiming that “subjectivity is truth”. This emphasis on individuality had a profound influence on later
+thinkers such as Sartre, as did his notion of despair as original sin in The Sickness Unto Death. This
+philosopher claimed that reason was unable to bring the individual to love or religion, both of which
+required a “leap of faith” that overcame but also acknowledged doubt. In Fear and Trembling, he contrasts
+the “knight of faith” and “knight of infinite resignation” while discussing Abraham’s sacrifice of his son
+Isaac. For ten points, identify this hunchbacked Danish philosopher and theologian known for his Christian
+existentialism, the author of Either/Or.
+ANSWER: Soren Aabye Kierkegaard
+20. He is known as Sakra in Buddhist and Jain texts, and is related to other Indo-European gods like Zeus,
+Perun and Thor. He is the brother of Agni, and hence the son of Dyaus Pitar. His greatest enemy is the
+serpent Vritra, who traps all the waters of the world, and whom this god slays with the help of the drink
+Soma. His weapon is the thunderbolt, and his mount is the albino elephant Airavata. Although his position
+declined in modern Hinduism with the emergence of the Trimurti, this god is still an important symbol of
+rulership. For ten points, name this husband of Sachi, the head of the Vedic pantheon.
+ANSWER: Indra
+21. It can be thermodynamically demonstrated by assuming that the processes which this law characterizes
+are adiabatic. In another formulation, it yields the necessary potential energy to perform that process on a
+material over any distance. For forces below a material's yield strength, it provides approximations of linear
+deformations and Young's modulus divides the two variables present in it. FTP, "stress is proportional to
+strain" is the common formulation of what law by an English scientist that models the motion of springs?
+ANSWER: Hooke's law
+
+Bonuses:
+1. FTPE, answer questions about a type of cell.
+[10] Neurons that lack these structures are known as amacrine cells. They transmit signals away from the
+cell body towards the dendrites of other neurons, which are found across the synapse.
+ANSWER: axon
+[10] Axons are covered by this type of sheath, which improves the speed of nerve signaling. This sheath is
+lost in multiple sclerosis, and it is necessary for saltatory conduction.
+ANSWER: myelin
+[10] The myelin sheath is produced by this type of glial cell, which is found between the nodes of Ravier of
+the axon.
+ANSWER: Schwann cells
+2. FTPE name some things about the Disney Channel.
+[10] Miley Cyrus uses this phrase, which was also the name of her 2007-2008 tour, to show that she gets “a
+limo out front/ hottest styles, every shoe, every color” but can also “chill it out, take it slow” due to her
+improbably secret rock star alternate personality.
+ANSWER: “You get the best of both worlds”
+[10] This actress is the star of “Wizards of Waverly Place” and, like with her predecessor Miley Cyrus,
+Disney Channel is also marketing her as a musician.
+ANSWER: Selena Gomez
+[10] Selena Gomez starred with Demi Lovato in this 2009 Disney Channel Original Movie, in which
+Lovato plays a princess who has to live with an ordinary girl played by Gomez after a coup d’etat and
+assassination attempt. Although their different backgrounds at first make for friction, they become fast
+friends and at the end everything works out. Hooray!
+ANSWER: “Princess Protection Program”
+3. FTPE, name some things about laws relating to circuits.
+[10] This law is sometimes stated as J = σE, where J is the current density, E is the magnetic field, and
+sigma is the conductivity. This law is also commonly stated as I equals V over R, where I is the current, V
+is the voltage, and R is the resistance.
+
+4
+
+BHSAT XIX
+
+Packet 10
+
+ANSWER: Ohm’s law
+[10] This law derives from the conservation of charge, stating that the sum of currents flowing into a node
+is the sum of currents flowing out of it.
+ANSWER: Kirchhoff’s current law (also accept Kirchoff’s point, junction, or first rule/law;
+prompt on “Kirchhoff’s nodal rule”)
+4. Name the following pre-Socratic philosophers, for ten points each:
+[10] This man is said to be the first Greek philosopher. He used geometry to solve practical problems and
+claimed that water is the basis of all things.
+ANSWER: Thales of Miletus
+[10] This student of Parmenides is best known for paradoxes of motion such as the arrow paradox and
+Achilles and the Tortoise.
+ANSWER: Zeno of Elea
+[10] This famous mathematician founded a namesake cult that worshipped mathematics. He believed in
+reincarnation and was a strict vegetarian.
+ANSWER: Pythagoras
+5. For ten points each, name the following ecumenical councils that reformed the Catholic church:
+[10] This most recent ecumenical council lasted from 1962 to 1965 and greatly liberalized the church,
+allowing masses in the vernacular and establishing a spirit of open dialogue in the church.
+ANSWER: Second Vatican Council or Vatican II
+[10] This council lasting from 1545 to 1563 marked the beginning of the Counter-Reformation. It
+repudiated Protestantism and defined the role of the sacraments.
+ANSWER: Council of Trent
+[10] This council lasting from 1414 to 1418 resolved the Western Schism by electing Martin V to the
+papacy. It also condemned Jan Hus for his beliefs.
+ANSWER: Council of Constance
+6. Name these scales used for certain types of natural disasters FTPE:
+[10] Although now replaced by the moment magnitude scale, this scale is still used by the mass media to
+quantify the relative strength of earthquakes.
+ANSWER: Richter magnitude scale
+[10] Developed in 1971 at the University of Chicago, this scale refers to the damage caused by tornadoes.
+ANSWER: Fujita scale
+[10] This scale is used to classify tropical cyclones primarily through maximum sustained wind speed.
+ANSWER: Saffir-Simpson Hurricane scale
+7. Answer some questions about a monster and the work he appears in, FTPE:
+[10] This apocryphal son of Cain and an unnamed mother who tries to avenge this mute monster’s death
+stalks about Denmark “wearing God’s anger” and attacks Heorot because he cannot stand the sounds of
+their merriment.
+ANSWER: Grendel
+[10] Grendel is the first of the three chief antagonists of this Geat, the titular protagonist of an Anglo-Saxon
+epic poem.
+ANSWER: Beowulf
+[10] This Irish poet and Nobel winner published a well-received verse translation of Beowulf. His own
+poetry includes the collection Death of a Naturalist.
+ANSWER: Seamus Heaney
+8. Cordoba and Rosario are the second and third largest cities in this country. FTPE:
+[10] Jose de San Martin crossed the Andes in 1817 to help secure independence for this country. It fought
+Paraguay in the War of the Triple Alliance alongside Brazil and Uruguay.
+ANSWER: Argentina
+[10] This power couple ruled Argentina in the late 1940s and the early 1950s. After Eva died in 1952, Juan
+continued to rule until 1955, and then again from 1973-1974.
+
+5
+
+BHSAT XIX
+
+Packet 10
+
+ANSWER: Peron
+[10] This contemporary power couple has followed in some respects in the footsteps of the Perons. Their
+Justicialist Party is Peronist in its policies. Cristina is the current President; Nestor preceded her as
+President.
+ANSWER: Kirchner
+9. FTPE, answer some related chemistry questions.
+[10] This concept can be used to explain molecular structures in which the distribution of single, double,
+and triple bonds cannot be exactly portrayed by Lewis dot structures. It posits that a molecule exists in
+many intermediary states in which the only difference is the location of the pi electrons.
+ANSWER: resonance
+[10] This cyclo-alkane has molecular formula C6H12 and consists of a 6-member carbon ring with only
+single bonds. Unlike benzene, it does not contain any conjugated double bonds or exhibit resonance.
+ANSWER: cyclohexane
+[10] Cyclohexane alternates between two stable conformations in which the hydrogens move between
+equatorial and axial positions. This conformation is slightly more stable than the boat one.
+ANSWER: chair conformation
+10. Games played in this play include “Bringing up Baby”, “Humiliate the Host”, and “Get the Guests”,
+FTPE:
+[10] This is what play in which George and Martha engage in scathing verbal abuse and humiliation in
+front of their guests, Nick and Honey?
+ANSWER: Who’s Afraid of Virginia Woolf?
+[10] Who’s Afraid of Virginia Woolf? is by this American playwright of Seascape and Three Tall Women.
+ANSWER: Edward Albee
+[10] Jerry forces Peter to listen to long stories about all his problems life, before shoving him off the bench
+where they are sitting in Central Park and drawing a knife in this Albee play.
+ANSWER: Zoo Story
+11. The three acts of this play are titled “Morning”, “Noon”, and “Night”, FTPE:
+[10] This is what play in which the title entities are symbols representing the village cheiftan Baroka and
+the schoolteacher Sidi?
+ANSWER: The Lion and the Jewel
+[10] The Lion and the Jewel is by this Nigerian playwright who also wrote A Dance of the Forests.
+ANSWER: Wole Soyinka
+[10] Simon Pilkings attempts to prevent the ritual suicide of Elesin Oba, but his son Olunde carries out
+instead in this Soyinka play.
+ANSWER: Death and the King’s Horseman
+12. FTPE, answer some questions about the papacy in the 14th century.
+[10] From 1309 to 1378, the pope resided in this southern French city, where he was under the influence
+of the French king and removed from his see in Rome, the theological foundation of his power.
+ANSWER: Avignon
+[10] The Avignon papacy is sometimes termed this, an allusion to the Jews' Mesopotamian sojourn after
+Jerusalem was sacked by Nebachudnezzar.
+ANSWER: Babylonian Captivity
+[10] This 15th ecumenical council that lasted from 1414 to 1418 resolved the Western Schism that
+followed the Babylonian Captivity, made Martin V pope, and condemned Jan Hus.
+ANSWER: Council of Constance
+13. Identify some leaders from China’s Republican period FTPE:
+[10] This man was the Provisional President of the Republic of China for three months in 1912. He is still
+revered by people on both sides of the Taiwan Strait, but his plans for a Republic were quickly frustrated.
+ANSWER: Sun Yat-Sen (or Sun Zhong Shan or Sun YiXian)
+
+6
+
+BHSAT XIX
+
+Packet 10
+
+[10] This man was a Viceroy and a Minister under the Qing but then became the President after Sun YatSen. He helped kill Sun Yat-Sen’s Republican dream and had himself declared Emperor in 1916, but died a
+few months later.
+ANSWER: Yuan Shikai
+[10] Yuan Shikai feuded with the Guomingdang, which was later led by this man. He was commander of
+the Whampoa Military Academy and led the Northern Expedition in 1928. He ruled Taiwan until his death
+in 1975.
+ANSWER: Chiang Kai-Shek or Jiang Jieshi
+14. The twentieth century's most celebrated players of this instrument include David Oistrakh and Jascha
+Heifetz. For 10 points each:
+[10] Identify this instrument whose modern-day virtuosos include Gidon Kremer, Hilary Hahn, and Joshua
+Bell.
+ANSWER: violin
+[10] A popular piece for violin and orchestra is the violin concerto in E minor by this German composer
+who also wrote the "Italian" Symphony and incidental music to A Midsummer Night's Dream.
+ANSWER: Felix Mendelssohn-Bartholdy
+[10] This Italian violinist and composer wrote 24 caprices for solo violin, the last of which, in A minor, has
+served as the basis for variations by Brahms, Rachmaninoff, and Witold Lutoslawski.
+ANSWER: Niccolò Paganini
+15. This medieval African empire sprang up around the Niger river and was established by Sundiata. FTPE:
+[10] Name this empire, which had its capital at Niani. Its trading cities included Gao and Timbuktu.
+ANSWER: Mali
+[10] This man ruled Mali at its height. He established the University of Sankore and was said to have
+controlled the price of gold in the Mediterranean.
+ANSWER: Mansa Musa
+[10] Mansa Musa was devout Muslim, and undertook an extravagant pilgrimage, complete with 60,000
+men, to this city in 1324. He reportedly built a Mosque every Friday during his trip.
+ANSWER: Mecca
+16. Famous poems in this collection include “Invitation to the Voyage” and “Hypocrite Reader!”, FTPE:
+[10] This is what dedicated to the poet’s “master and friend” Théophile Gautier.
+ANSWER: Les Fleurs du mal or Flowers of Evil
+[10] This French poet, and predecessor to the Symbolists, wrote Les Fleurs du Mal.
+ANSWER: Charles Baudelaire
+[10] This word is contrasted with the “ideal” in the title of the first section of Les Fleurs du Mal and he also
+wrote a collection called the “this” of Paris. His use of this word draws upon its medieval association with
+melancholic black bile.
+ANSWER: Spleen
+17. Answer some questions about American anthropology, FTPE:
+[10] This man notably wrote the tracts Race, Language, and Culture, along with The Mind of Primitive
+man. He had many students who went on to be famous in their own right while teaching at Columbia
+University
+ANSWER: Franz Boas
+[10] One of those students, this woman went on to publish an important study of adolescent sexuality in her
+Coming of Age in Samoa
+ANSWER: Margaret Mead
+[10] Boaz made his career by studying this tribe of northwestern Indians
+ANSWER: Kwakiutl
+18. The protagonist of this novel is expelled from college by Dr. Bledsoe for accidentally showing Mr.
+Norton the unglamorous underbelly of the life of poor African-Americans, FTPE:
+
+7
+
+BHSAT XIX
+
+Packet 10
+
+[10] This is what novel in which the protagonist chronicles his life from student to Black Nationalist to
+finally his current state, living secretly underground.
+ANSWER: Invisible Man [do NOT prompt on or accept The Invisible Man]
+[10] This American author wrote Invisible Man.
+ANSWER: Ralph Ellison
+[10] The racist senator Adam Sunraider and the black Baptist minister “Daddy” Hickman are the
+protagonists of this novel, Ellion’s second, which was published posthumously.
+ANSWER: Juneteenth
+19. Answer the following about photography, for 10 points each.
+[10] This American photographer co-founded the Group f/64 with Edward Weston and Imogen
+Cunningham. He is best known for his photographs of Yosemite National Park.
+ANSWER: Ansel Adams
+[10] Copper plates were used in this early photographic process developed by Niécephore Niepce and its
+namesake Frenchman.
+ANSWER: daguerreotype
+[10] This documentary photographer is best known for her work during the Great Depression, including a
+photograph of Florence Owens Thompson flanked by two of her children, Migrant Mother.
+ANSWER: Dorothea Lange
+20. 5-5-10-10, answer some questions about Louis XIV.
+[5] Louis Quatorz was sometimes called "the Great," but was more often known by this name, which
+highlighted his radiance and his claimed connection to Apollo.
+ANSWER: The Sun King (or le Roi Soleil)
+[5] Perhaps the most lasting symbol of the power of Louis, who had one of the longest reigns of all time,
+was this monumental palace known especially for its lavish gardens and hall of mirrors.
+ANSWER: Versailles
+[10] This clergyman succeeded Richelieu as chief minister of France and was an important adviser to Anne
+of Austria, regent during Louis's youth.
+ANSWER: Cardinal Mazarin
+[10] This British nobleman was Louis's archnemesis near the end of his reign in the War of the Spanish
+Succession, where he led the Grand Alliance at the Battle of Blenheim.
+John Churchill or the Duke of Marlborough
+21. Answer these questions about a certain organ in the body and its functions FTPE:
+[10] Tumors at the head of it can be removed through the Whipple procedure. It is responsible for the
+secretion of many hormones and digestive enzymes including cholecystokinin, somatostatin, trypsin,
+lipases, and glucagon.
+ANSWER: pancreas
+[10] The endocrine action of the pancreas results from these entities, which produce the pancreas’
+hormones through its population of alpha and beta cells, as well as other smaller groups of cells.
+ANSWER: islets of Langerhans
+[10] This other group of cells in the islets of Langerhans produces somatostatin. They can also be found in
+the stomach and intestines.
+ANSWER: delta cells
+
+8
+
+

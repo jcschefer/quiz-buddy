@@ -1,0 +1,721 @@
+IMSANITY 2
+
+January 14, 2012
+
+IMSANITY 2
+January 14, 2012
+
+-ROUND 12-
+
+Editors
+
+Writers
+
+Noah Prince
+
+Webster Guan
+Adam Kalinich
+Sabrina Lato
+Nolan Maloney
+Eric Ordonez
+Noah Prince
+Saieesh Rao
+
+Webster Guan
+Adam Kalinich
+Nolan Maloney
+Eric Ordonez
+
+Round 12- Page 0
+
+Megan Chen
+Brian Chien
+Lael Costa
+Jacob Kronenberg
+Ross Skelly
+
+IMSANITY 2
+
+January 14, 2012
+
+Tossups
+(1) Donald Knuth showed that a permutation can be sorted with one of these data structures if
+and only if it does not contain the pattern “two three one”. In C-based languages, memory
+allocation at runtime takes place in the heap and in this data structure, and they are
+implemented in reverse Polish notation for calculations. Some variants of this data structure
+make use of an operation to “peek” at the top element, although there are only two essential
+operations, one which adds an element to the top and the other which removes the top
+element; those operations are push and pop. For ten points, name this last-in-first-out data
+structure.
+
+∆
+∇
+
+ANSWER: stack (accept last-in-first-out or LIFO before mentioned)
+(2) One work by this man begins with a discussion between the praise singer and protagonist
+in a land ruled by the “mother of the market,” Iyaloja. One play by this author used the
+characters Gunema, Kasco, Kaminin, and Tuboum to depict tyrants, and another follows the
+history professor Dr. Bandele. This author of A Play of Giants and The Interpreters also
+wrote about Sidi marrying a chief who will pay the bride price, Baroka, and not Lakunle.
+Another of his works features Simon Pilkings stopping the titular event, leading to Olunde
+and his father Elesin committing suicide. For ten points, name this Nigerian author of The
+Lion and the Jewel and Death and the King’s Horseman.
+
+∆
+∇
+
+ANSWER: Wole Soyinka
+(3) During this conflict, Operation Odyssey Dawn began after U.N. Resolution 1973 was passed.
+After failing to capture Brega during this conflict, Abdul Fatah Younis was assassinated.
+After one victory, Green Square was renamed Martyrs’ Square, and this conflict saw the
+Battles of Zintan and Misrata. The son of one side’s leader led a namesake Khamis Brigade,
+and that leader of this war was eventually killed after the fall of Sirte. Ending with a victory
+by Mustafa Abdul Jalil and the National Transitional Council, for ten points, name this
+rebellion which overthrew Muammar Qaddafi.
+
+∆
+∇
+
+ANSWER: Libyan Civil War (accept anything mentioning Libya and an internal conflict, accept
+rebellion against Qaddafi before mentioned, accept United States intervention in Libya on a firstline buzz)
+(4) This organization developed unused plans such as “Seven Days to the River Rhine” and “War
+of the Entire People.” Its charter was renewed for twenty years in 1985. Its only operation
+elevated Gustav Husak to power. Albania left this organization in 1968 in protest of that
+operation, and Romania repeatedly complained about its lack of independence within this
+organization. This organization conducted more military drills in 1968 than in any other
+year, mostly to intimidate Alexander Dubcek. This organization, which suppressed the
+Prague Spring, was formed in response to the creation of NATO. For ten points, name this
+military alliance of European communist nations that was led by the Soviet Union.
+
+∆
+∇
+
+ANSWER:
+Warsaw Pact (or Warsaw Treaty Organization of Friendship, Cooperation, and
+Mutual Assistance)
+Round 12- Page 1
+
+IMSANITY 2
+
+January 14, 2012
+
+(5) This artist worked with Lily Reich in the design for the Barcelona chair, and at the 1929
+International Exposition displayed his Barcelona Pavillion. This man also designed a building
+made completely of glass as well as the 860-880 Lake Shore Drive apartments in Chicago. He
+was the last director of the Bauhaus school, and his architectural philosophy is represented
+with hi mottos “skin and bones” and “less is more”. The architect of the Farnsworth House,
+for ten points, name this man who, with Phillip Johnson, co-designed the Seagram building.
+
+∆
+∇
+
+ANSWER: Ludwig Mies van der Rohe
+(6) This man forgot he could make his hands look diseased, and he needed a spokesperson since
+he had a speech impediment. His father-in-law suggested a multi-tiered court system which
+was promptly put into place. Because he used violence and hit with his staff instead of just
+talking, he died at only one hundred twenty, although the rock he hit did produce water.
+The water was needed because Miriam couldn’t bring it anymore, and his brother Aaron
+died soon after that incident. The magicians of the Pharaoh were able to copy his first few
+miracles, but could not replicate the last eight of the ten plagues. For ten points, name this
+man who, after seeing a burning bush, freed his people from Egypt.
+
+∆
+∇
+
+ANSWER: Moses or Moshe
+(7) The optical phenomenon of birefringence in the presence of one of these entities is the subject
+of the Voigt effect. Light in the presence of one of these entities has its plane of polarization
+rotated, described by the Faraday effect. The force on a charged particle in one of these
+entities is given by its charge times its velocity times the strength of the namesake field. It
+can produce an electric field if its strength changes, and is measured in Webers or Teslas.
+For ten points, name this type of field, Earth’s of which is used by compasses.
+
+∆
+∇
+
+ANSWER: magnetic field (accept B field)
+(8) This play takes place in an old café with a three-ring gas stove and a bathroom that flushes
+a couple of minutes after the chain has been pulled. One character criticizes the plates while
+preparing to make a cup of tea, and they later debate whether “light the kettle” or “put on
+the kettle” is the proper phrase. The characters send up stale cake, melted chocolate, sour
+milk, and mouldy biscuits, thereby emptying out the larder, although they still have plenty
+of matches left. While waiting for the other character to return, Gus combs his hair and
+straightens his jacket. For ten points, name this play in which the order to murder Ben is
+conveyed to Gus through the titular object, written by Harold Pinter.
+
+∆
+∇
+
+ANSWER: The Dumbwaiter
+
+Round 12- Page 2
+
+IMSANITY 2
+
+January 14, 2012
+
+(9) The colony that became this state had a dispute with King George III when he vetoed the
+“Two-Penny Act” in what became known as the Parson’s Cause. One war in what became
+this state began when colonists attacked the Occaneechi instead of the Doegs, leading to
+a rebellion against the governor, William Berkeley. This state, which was discovered by
+Christopher Newport, fought a series of wars against the Powhatan confederacy. The first
+settlement in this state saw a “starving time” and was burned down during a rebellion led
+by Nathaniel Bacon. The colonial legislature in what became this state met in Williamsburg
+and was called the House of Burgesses. For ten points, identify this state which was home
+to Jamestown and the Confederate capital of Richmond.
+
+∆
+∇
+
+ANSWER: Commonwealth of Virginia
+(10) This man proved that in any triangle, the distance from the incenter to the circumcenter
+is equal to the square root of the product of the circumradius and the difference between
+the circumradius and twice the inradius. This man also proved that the circumcenter,
+orthocenter, and centroid of a triangle all lie on a common line, his namesake line. This
+man’s namesake characteristic can be used to classify surfaces by genus, and a special case
+of that result is that, for any convex polyhedron, the number of vertices minus edges plus
+faces equals two. For ten points, name this prolific Swiss mathematician for whom the base
+of the natural logarithm, e, is named.
+
+∆
+∇
+
+ANSWER: Leonhard Euler [pronounced “Oiler”]
+(11) One narrative poem by this author parodying Swinburne’s Atalanta in Calydon features a
+character, Ah Sin, who claims to “not understand” after caught cheating. In addition to
+“The Plain Language of Truthful James,” he also created a character whose epitaph is pinned
+to an oak tree with a two of clubs. That character had earlier won $40 from “The Innocent”
+from Sandy Bar, Tom Stimson. Another of his characters dies in the arms of Kentuck during
+a flood; that character was taken care of by Stumpy because his mother, Cherokee Sal, had
+died. For ten points, name this American writer who created John Oakhurst in Luck of
+Roaring Camp and Outcasts of Poker Flat.
+
+∆
+∇
+
+ANSWER: Bret Harte
+(12) Sergius and Bonus prevented this event, allowing Heraclius to defeat the Sassanid Empire.
+Theodosius II was worried that this event would occur after the death of Valens at the battle
+of Adrianople. A rapid succession of three Alexius’s preceded one of these events that was
+led by Enrico Dandolo. Giovanni Giustiniani’s death occurred during one of these actions.
+A long chain stretching out from the Galata Tower was supposed to prevent this event, but
+it happened twice anyway. Massive triple walls and Greek fire stopped most attempts at,
+for ten points, what action, successfully completed by crusaders in the Fourth Crusade and
+by Mehmet II in 1453, in which a certain city became a military target?
+
+∆
+∇
+
+ANSWER:
+conquering Constantinople (accept “sieging”, “attacking”, “taking” in place of
+“conquering”, accept fall of Constantinople, accept all equivalents)
+
+Round 12- Page 3
+
+IMSANITY 2
+
+January 14, 2012
+
+(13) Cu Sith is a green type of this animal, and the noise it makes would warn farmers to lock up
+their wives. The Finnish Surma is this type of creature, and in Shinto mythology, Inugami is
+a guardian spirit of this type of animal. Besides one called Laeleps and one that guards the
+Cattle of Geryon, Norse mythology has one who protects Hel called Garm. Procris was given
+one of these which later hunted the Teumessian fox. Scylla had four to six of these animals’
+heads, and one of these was the first creature to recognize Odysseus upon his return and
+was named Argos. For ten points, name this type of animal which includes the three-headed
+Cerberus.
+
+∆
+∇
+
+ANSWER: dogs
+(14) The mesolimbic system carries this molecule through the amygdala and hippocampus. This
+molecule is broken down by monoamine oxidase, and antagonists of this molecule are used
+in drugs that treat schizophrenia. It also functions as a hormone by inhibiting release of
+prolactin. It is the precursor to norepinpehrine, and is synthesized from tyrosine. It is
+produced in the substantia nigra, and low levels of this molecule are related to Parkinson’s
+disease. For ten points, name this neurotransmitter that is associated with feelings of pleasure
+and reward, and whose precursor is L-DOPA.
+
+∆
+∇
+
+ANSWER: dopamine
+(15) The third and sixth movements of Brahms’s German Requiem feature these pieces at their
+climaxes as a mixture of baroque and classical structure. Another Brahms work pairs
+variations and one of these pieces on a theme by Handel. Mozart’s final symphony is a
+five-theme one of these, and Beethoven separately published the finale of his thirteenth
+string quartet as a “Grand” one of these compositions. The piccolo begins this section of
+Britten’s Young Person’s Guide to the Orchestra, and Bach wrote a book detailing the Art
+of [this form]. For ten points, name this compositional technique where one voice states a
+subject that is imitated by another voice.
+
+∆
+∇
+
+ANSWER: fugues
+(16) The Jos Plateau lies in the center of this country. Port Harcourt is a major oil-refining
+center in this country, whose southeastern portion is dominated by the Adamawa Plateau.
+The Kainji Dam lies on the course of this country’s principal river, which meets with the
+Benue River before flowing into the Gulf of Guinea. This country’s Muslim population is
+centered in the north around Kano, while its southern population is majority Christian. The
+University of Ibadan in this country is one of the premier universities in Africa. Bordering
+Lake Chad, for ten points, name this most populous nation in Africa whose largest city is
+Lagos and whose capital is Abuja.
+
+∆
+∇
+
+ANSWER: Federal Republic of Nigeria
+
+Round 12- Page 4
+
+IMSANITY 2
+
+January 14, 2012
+
+(17) By applying redox reaction potentials to determine values for Gibbs free energy, the Bordwell
+cycle functions as an extension of this scientific law. This law is applied in determining the
+lattice energy of a compound in the Born-Haber cycle, and this law is an expression of the
+First Law of Thermodynamics. The quantity involved in this law is independent of the
+reaction pathway, as that quantity is a state function. For ten points, name this law that
+states that the sum of the heats in each step of a reaction is equal to the overall heat of
+reaction.
+
+∆
+∇
+
+ANSWER: Hess’s law (accept Bordwell cycle before mention)
+(18) This man’s son Samsuiluna controlled the government during the later years of his reign.
+This leader defeated Eshnunna by damming a river that flowed through it, and fought one
+war to retain access to iron-producing regions in modern-day Iran. He took the city of Isin
+from his ally Rim-Sin, but made a truce in order to defeat a coalition of Ashur, Eshnunna,
+and Elam. This king of the Amorites turned on Rim-Sin again to capture Larsa and Uruk,
+using as a weapon his control of the Tigris River. The artifact that made this king famous
+was found in Susa. For ten points, name this king of Babylon whose code of laws uses the
+rule “An eye for an eye.”
+
+∆
+∇
+
+ANSWER: Hammurabi
+(19) One of this composer’s submissions for the Prix de Rome was his widely acclaimed String
+Quartet in F. He is not Prokofiev, but Paul Wittgenstein commissioned a Piano Concerto
+for the Left Hand from this composer. Bertrand and Poe inspired and influenced his solo
+piano piece Gaspard de la Nuit, and this composer of Rapsodie espagnole published a number
+of works while studying under Fauré, including Pavane pour une infante défunte. He was
+notably the harshest critic of what is today his most famous orchestral work, which features
+such instruments as soprano saxophones and a celesta in a crescendo built over a snare drum
+ostinato. For ten points, name this French composer of Boléro.
+
+∆
+∇
+
+ANSWER: Joseph-Maurice Ravel
+(20) In a work by this author, a pleasure city for men is founded by Leocadia Begbick, Trinity
+Moses, and Fatty the Bookkeeper. The titular character of another work by this author
+loses her oldest son when he’s shot for killing peasants, her youngest son when she can’t
+negotiate his rescue, and her daughter when she bangs a drum to wake up the townspeople.
+This author of The Rise and Fall of the City of Mahagonny wrote about Grusha Vashnadze’s
+refusal to pull Michael out of The Caucasian Chalk Circle while another of his works features
+Canteen Anna, Eilif, Kattrin, and Swiss Cheese during the Thirty Years War. For ten points,
+name this author of Mother Courage and Her Children.
+
+∆
+∇
+
+ANSWER: Bertolt Brecht
+
+Round 12- Page 5
+
+IMSANITY 2
+
+January 14, 2012
+
+(21) Alkali hydroxide is produced by the Castner-Kellner process, which uses this method.
+Fleischmann and Pons performed this action on heavy water, which led them to believe
+that they had caused cold fusion. Using Faraday’s laws, one can compute the mass of a
+substance produced due to involvement in this process, and Sir Humphrey Davy used this
+process to discover several elements. This process is performed on alumina dissolved in
+cryolite in the Hall-Heroult process to produce aluminum, and performing this process on
+water produces hydrogen and oxygen gas. For ten points, name this process in which a
+current is passed through a liquid between two electrodes.
+
+∆
+∇
+
+ANSWER: electrolysis
+
+Round 12- Page 6
+
+IMSANITY 2
+
+January 14, 2012
+
+Bonuses
+(1) It is said that George Washington did not want political parties. For ten points each:
+[10] This set of acts lengthened the amount of time before a resident became a citizen,
+and made it a crime to publish “false, scandalous, and malicious writing” against the
+government. Thomas Jefferson and James Madison wrote the Virginia and Kentucky
+resolutions against these acts.
+ANSWER: Alien and Sedition Acts of 1798 (prompt on partial answer)
+[10] Along with Dick Cheney, this man was the only sitting vice-president to shoot someone.
+Alexander Hamilton died after a duel with this New York politician.
+ANSWER: Aaron Burr
+[10] The Judiciary Act of 1801 increased the size and number of circuit and district
+courts. This was the nickname for the justices John Adams appointed before Jefferson’s
+inauguration. Marbury of Marbury v. Madison fame was one of these judges.
+ANSWER: Midnight Judges
+
+∆
+∇
+
+(2) One example of this relationship is parasitism, in which one organism is harmed and the
+other benefits. For ten points each:
+[10] Name this interaction between species, which also includes mutualism.
+ANSWER: symbiosis or symbiotic interaction or relation
+[10] An example of mutualism is this composite organism, which is formed by the
+combination of one organism capable of photosynthesis, such as algae, and a fungus.
+ANSWER: lichen
+[10] This type of symbiosis occurs when one organism is harmed while the other is unaffected.
+One example is a horse stepping on grass, killing it, while the horse is unaffected.
+ANSWER: amensalism
+
+∆
+∇
+
+(3) The speaker of this poem hears the “sound of vernal showers/On the twinkling grass” as
+well as the title figure’s “shrill delight.” For ten points each:
+[10] Name this poem which begins “hail to thee, blithe spirit!” and compares the title figure
+to a “poet hidden/In the light of thought.”
+ANSWER: To a Skylark
+[10] This Romantic poet of To a Skylark also wrote the poems Ozymandias and Ode to the
+West Wind in addition to penning an essay titled A Defence of Poetry.
+ANSWER: Percy Bysshe Shelley
+[10] This earlier English poet also wrote a similarly titled The Defence of Poesy. He is more
+famous for a collection of 108 sonnets and 11 songs, Astrophel and Stella.
+ANSWER: Sir Philip Sidney
+
+∆
+∇
+
+Round 12- Page 7
+
+IMSANITY 2
+
+January 14, 2012
+
+(4) Answer the following about the mythology of Rome for ten points each:
+[10] Rome traces its roots back to this hero, the son of Anchises and Venus, who fled the
+city of Troy after its downfall and is the main character of a work by Virgil.
+ANSWER: Aeneas
+[10] Rome’s founders, Romulus and Remus, were the children of Mars and this woman, who
+was forced to become a vestal virgin by Numitor.
+ANSWER: Rhea Silvia or Ilia
+[10] This event occurred early in the history of Rome because Romulus only brought men to
+found the city and a neighboring tribe refused to allow their daughters to marry Romans.
+rape of the Sabine women (accept “abduction” or equivalents in place of
+ANSWER:
+“rape”)
+
+∆
+∇
+
+(5) He depicted the clash between Montagues and Capulets in the “Dance of the Knights”. For
+ten points each:
+[10] This Russian composer of the ballet Romeo and Juliet also had the clarinet play a cat
+and the bassoon play the grandfather in his musical adaptation of Peter and the Wolf.
+ANSWER: Sergei Sergeyevich Prokofiev
+[10] A gavotte replaces the traditional minuet in the third movement of this Prokofiev
+symphony. Prokofiev was inspired by the musical styles and forms of Haydn’s era, which is
+reflected in the common name of this symphony.
+ANSWER: Symphony No. 1 in D major, Op. 25 “Classical” (accept either underlined
+part, accept First Symphony)
+[10] Prokofiev adapted Carlo Guzzi’s play of the same name for this opera in which the
+Prince is cursed with an infatuation for the title objects and must seek them with the help
+of Truffaldino.
+ANSWER: The Love for the Three Oranges
+
+∆
+∇
+
+(6) Their sizes can be measured by numbers like aleph-null and aleph-one. For ten points each:
+[10] Identify this type of set whose number of elements is greater than any real number.
+ANSWER: infinite
+[10] Infinite sets have the property that there exists this type of function between the set
+and a proper subset. These functions are both injections and surjections.
+ANSWER: bijection (or one-to-one correspondence)
+[10] Using diagonalization to find a bijection between rational numbers and natural numbers,
+Georg Cantor showed that the set of rational numbers have this property in which its size
+is the smallest possible infinity.
+ANSWER: countable or countability
+
+∆
+∇
+
+Round 12- Page 8
+
+IMSANITY 2
+
+January 14, 2012
+
+(7) Answer the following about the start of the French Revolution for ten points each.
+[10] This queen of France and wife of Louis XVI was guillotined with him. She was the
+daughter of Maria Theresa and famously said “Bah! Let them eat cake.”
+ANSWER: Marie Antoinette
+[10] Marie Antoinette’s image declined following this scandal, in which a con artist
+pretending to be the queen got a cardinal to buy the namesake object. Even though she
+was blameless, the French public thought this was an attempt to defraud France.
+ANSWER: Affair of the Diamond Necklace
+[10] The French Revolution is often considered to have begun with the storming of this
+French prison-fortress on July 14.
+ANSWER: Bastille
+
+∆
+∇
+
+(8) The speaker of this poem inquires the “thin men of Haddam” why they imagine golden
+birds while the title figure walks around the feet of women, and this poem ends with the
+title figure sitting “in the cedar limbs.” For ten points each:
+[10] Name this poem which begins by describing the eye of the title animal as “the only
+moving thing” “among twenty snowy mountains.”
+ANSWER: Thirteen Ways of Looking at a Blackbird
+[10] This other poem by the author of Thirteen Ways of Looking at a Blackbird contains
+the line “Let be be finale of seem” and opens with “Call the roller of big cigars.”
+ANSWER: The Emperor of Ice Cream
+[10] Name the poet of The Emperor of Ice Cream whose poetry collection Harmonium
+features other poems like The Comedian as the Letter C and Disillusionment of Ten
+O’Clock.
+ANSWER: Wallace Stevens
+
+∆
+∇
+
+(9) Substances exhibiting this phenomenon retain surface tension, which allows them to crawl
+up walls. For ten points each:
+[10] Name this phenomenon in which substances display zero viscosity.
+ANSWER: superfluidity
+[10] Superfluidity was first observed in this element, cooled to the lambda point, or about
+2.17 Kelvin. Its nucleus is an alpha particle, and it is formed from hydrogen fusion in main
+sequence stars.
+ANSWER: helium (or He)
+[10] Formation of superfluids is related to this state of matter, which is a weakly interacting
+dilute gas composed of particles with integer spin. A large portion of them collapse into the
+lowest possible quantum state.
+ANSWER: Bose-Einstein Condensate
+
+∆
+∇
+
+Round 12- Page 9
+
+IMSANITY 2
+
+January 14, 2012
+
+(10) This movement was associated with concepts such as technology, speed, and movement. For
+ten points each:
+[10] Name this movement exemplified by Gino Severini’s Armoured Train in Action and
+Giacomo Balla’s Abstract Speed + Sound.
+ANSWER: Futurism or Futurist
+[10] This Futurist artist wrote the Manifesto of Futurist Sculpture and captured the
+movement of a human figure in his sculpture Unique Forms of Continuity in Space. He also
+painted the States of Mind series.
+ANSWER: Umberto Boccioni
+[10] Boccioni hailed from this country in which the futurist movement originated.
+ANSWER: Italy
+
+∆
+∇
+
+(11) He published a paper in 1884 recommending coca for warding off hunger and sleep. For ten
+points each:
+[10] Name this Austrian psychoanalyst who wrote The Ego and the Id and Beyond the
+Pleasure Principle.
+ANSWER: Sigmund Freud (or Sigismund Schlomo Freud)
+[10] Freud also wrote this work in which he argued that the titular entities were forms of
+wish fulfillment. Freud posits that one example, “Irma’s Injection”, satisfies his wish to be
+free from a patient’s blame.
+ANSWER: The Interpretation of Dreams (or Die Traumdeutung)
+[10] In The Interpretation of Dreams, Freud introduced the idea of this psychological conflict
+in which a boy competes with his father for control of his mother.
+ANSWER: Oepidus complex
+
+∆
+∇
+
+(12) Pedro Calderon de la Barca and San Juan de la Cruz were both writers from this nation.
+For ten points each:
+[10] Name this country whose golden age of literature started after the reconquista.
+ANSWER: Spain
+[10] One author during Spain’s golden age was this poet and playwright who wrote about
+Laurencia and the titular village of Fuente Ovejuna in Sheep’s Well as well as writing The
+Dog in the Manger.
+ANSWER: Lope de Vega
+[10] Another important group of Spanish authors was this one, so named for the year of the
+Spanish-American War. It included such authors as Miguel de Unamuno and Jose Martinez
+Ruiz.
+ANSWER: Generation of ’98
+
+∆
+∇
+
+Round 12- Page 10
+
+IMSANITY 2
+
+January 14, 2012
+
+(13) This proponent of the heliocentric theory discovered four moons of Jupiter. For ten points
+each:
+[10] Name this scientist who built several weak telescopes and studied the phases of Venus.
+ANSWER: Galileo Galilei
+[10] Galileo put forth a basic principle of this concept, which tells that the laws of physics
+apply in the same way to all inertial reference frames.
+ANSWER: relativity
+[10] Galileo dropped several objects off of the Leaning Tower of Pisa to demonstrate that
+the acceleration on an object is independent of this quantity. This quantity’s namesake
+defect times c squared gives the binding energy, important in nuclear fusion.
+ANSWER: mass
+
+∆
+∇
+
+(14) He sculpted the statue of Athena in the Parthenon, Athena Parthenos. For ten points each:
+[10] Name this Greek sculptor of the Statue of Zeus at Olympia, one of the Seven Wonders
+of the ancient world.
+ANSWER: Phidias
+[10] This other Greek sculptor created Apollo Sauroctonos and Aphrodite of Cnidus, but is
+more famous for his Hermes Bearing the Infant Dionysus.
+ANSWER: Praxiteles
+[10] Both Phidias’s Athena Parthenos and Praxiteles’s Hermes Bearing the Infant Dionysus
+featured figures in this position, in which the figure appears to stand with more of its weight
+on one foot than the other to indicate a dynamic position.
+ANSWER: contrapposto (or counterpose)
+
+∆
+∇
+
+(15) This work contrasts the concepts of “infinite mode” and “finite mode” after defining God
+to be “absolutely infinity” and God’s will to be a “sanctuary of ignorance.” For ten points
+each:
+[10] “Of Human Bondage” is the fourth section of this book, a philosophical work presented
+in a “geometrical order.”
+ANSWER: Ethics (or Ethica)
+[10] This Dutch writer of Ethics also wrote On the Improvement of Understanding and
+Tractatus Theologico-Politicus.
+ANSWER: Baruch de Spinoza (or Benedict de Spinoza)
+[10] Another philosopher who wrote about ethics was this British philosopher who used his
+open question argument to determine that “good” is indefinable and discussed “naturalistic
+fallacy” in his Principia Ethica.
+ANSWER: George Edward Moore
+
+∆
+∇
+
+Round 12- Page 11
+
+IMSANITY 2
+
+January 14, 2012
+
+(16) For a real number x, it can be computed as the square root of x squared. For ten points
+each:
+[10] Identify this measure of the magnitude of a real number, equal to x if x is positive and
+negative x if x is negative.
+ANSWER: absolute value
+[10] Absolute values obey this inequality since the absolute value of x plus y is less than or
+equal to the absolute value of x plus the absolute value of y. The inequality ensures that
+there are no shortcuts walking between vertices of its namesake polygon.
+ANSWER: triangle inequality
+[10] A symmetric positive-definite function which obeys the triangle inequality is called one
+of these generalizations of distance functions. A set having one of these functions is an
+eponymous space.
+ANSWER: metric
+
+∆
+∇
+
+(17) It includes the foreman Tiurin, and the main character gets some of the food after standing
+in line to get packages for Tsezar. For ten points each:
+[10] Name this novel in which the titular Soviet prisoner goes to sleep content after a
+relatively lucky day.
+ANSWER: One Day in the Life of Ivan Denisovich
+[10] In addition to writing One Day in the Life of Ivan Denisovich, this author also wrote
+about Soviet prison camps in his nonfiction The Gulag Archipelago.
+ANSWER: Aleksandr Solzhenitsyn
+[10] Another Solzhenitsyn prisoner novel was this one, which follows the well-fed and
+decently-employed sharashka zeks through the arrest of Inokentii Volodin and the
+insubordination of Gleb Nerzhin.
+ANSWER: The First Circle
+
+∆
+∇
+
+(18) It prevented New England from winning their nineteenth consecutive game. For ten points
+each:
+[10] Name this game in which the Giants defeated the Patriots 17-14 to claim the NFL
+Championship.
+ANSWER: Super Bowl XLII or 2008 Super Bowl (prompt on a partial answer)
+[10] The MVP of Super Bowl XLII was this Giants quarterback whose older brother Peyton
+had won the Super Bowl the previous year.
+ANSWER: Eli Nelson Manning
+[10] The cornerstone of the Giants last-minute game-winning touchdown drive was “The
+Helmet Catch”, a 32-yard pass from Eli Manning to this receiver.
+ANSWER: David Mikel Tyree
+
+∆
+∇
+
+Round 12- Page 12
+
+IMSANITY 2
+
+January 14, 2012
+
+(19) It is currently led by Mahmoud Ahmedinijed. For ten points each:
+[10] Name this theocratic nation which, in 1979, saw a hostage crisis take place in its capital
+of Tehran.
+ANSWER: Islamic Republic of Iran
+[10] The 1979 Iranian Revolution was led by this man, who became the first Supreme
+Leader.
+ANSWER: Ayatollah Khomeini (do not prompt on or accept “Khameini”)
+[10] The Iranian Revolution overthrew the shahs of this dynasty. Mohammed Reza Shah
+was its last monarch.
+ANSWER: Pahlavi
+
+∆
+∇
+
+(20) Twenty-one of these are supposed to be compulsory for Vaisyas, Kshatriyas, and Brahmins.
+For ten points each:
+[10] Name this Hindu ritual which consists of offerings to the sacred fire. One ancient
+example of it is the Ashvamedha, known as the horse sacrifice.
+ANSWER: yajna (or yagna or yadna)
+[10] The sacred fire represents this Hindu fire deity. He is said to be the messenger since he
+sends offerings to the gods as smoke.
+ANSWER: Agni
+[10] Ghee, the clarified form of this substance, is the primary offering at a yajna. It is
+usually derived from milk fat and can be bought in salted and unsalted varieties.
+ANSWER: butter
+
+∆
+∇
+
+(21) Demosthenes rallied this city to a glorious defeat against Phillip II. For ten points each:
+[10] Name this city which led the Delian League and fought the Peloponnesian War against
+Sparta. Pericles was its most famous leader.
+ANSWER: Athens
+[10] This 7th century BC Athenian lawgiver created a code that was notoriously harsh. His
+name is now associated with cruelty.
+ANSWER: Draco
+[10] This man rewrote the Draconian code in his new 594 BC constitution. He failed to fix
+the societal problems of Athens, but helped lay the foundations for Athenian democracy.
+ANSWER: Solon
+
+∆
+∇
+
+Round 12- Page 13
+
+

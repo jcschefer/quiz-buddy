@@ -1,0 +1,42 @@
+NewTrier Varsity 2006  Round 1, Page 9 
+
+
+Bonus 19: Math (Algebra) 
+Given the matrix with top row 8,5, and botom row 6, 5, find the folowing. 
+A: Its inverse. 
+B: Its trace.
+C: Its transpose. 
+D: That matrix multiplied bythe matrix with top row 2, 3, and botom row 4, 1. 
+Answers: A: Top row 1/2, -1/2, botom row -3/5, 4/5 B: 13 C: Top row 8, 6, botom row 5, 5 D: 
+Top row 36, 29, botom row 32, 23 
+
+Tossup 20: Science (Physics) 
+Though it usualy doesn't need to be considered, itsderivative, jounce, was used in designingthe 
+Hubble SpaceTelescope. Roler-coaster designers also need to payatention to it, because high 
+values can cause whiplash. When multiplied by mass, it's caled yank. Sometimes caled surge,
+lurch, or jolt, name this quantity with units meters per second cubed, the third time-derivative of 
+position, and the first derivative of acceleration, which indicateshow quickly the acceleration of an 
+objectis changing.
+Answer: Jerk (accept surge,lurch, joltbefore mentioned) 
+
+Bonus 20: Social Studies (U.S. History) 
+Answerthe folowing about the American Civil War. 
+A: This confederate submersible itself sunk as a result of its successful atack on the USS 
+Housatonic. 
+B: Winfield Scotdevised this plan to win thewar, which involved blockading the major Confederate 
+ports and capturing the Mississippi River in order to split the South. 
+C: This Confederate general was accidentaly shot byhis own troops and died later after 
+complications from an amputated arm and pneumonia.
+D: This embarassing Union defeat fought from April 30 to May 6, 1863, was caled General Robert
+E. Lee's "perfect batle" due to his risky split of his own troops in the face of a much larger opposing 
+force. 
+Answers: A: H.L. Hunley (do not accept if any mention of 'CSS'; it was notcommissioned) B: The 
+Anaconda plan C: Thomas Jonathan "Stonewal" Jackson D:Batle of Chancelorsvile, 
+Virginia 
+
+
+
+
+
+Aegis Questions © 2006  htp:/www.aegisquestions.com/ 
+

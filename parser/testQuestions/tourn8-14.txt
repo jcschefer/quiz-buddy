@@ -1,0 +1,480 @@
+Tournament-8
+Round 14
+Tossups
+1. This country is separated from its southwestern neighbor by the Durand Line. It was modernized in
+great part by Amanullah Kahn. Daoud Kahn abolished this country's monarchy in 1973, and ruled as
+president until the Saur Revolution of the Marxist PDPA. The CIA backed (*) Mujahedeen rose up
+against the PDPA, causing Premier Brezhnev to order the Soviet Union to invade this country from 1979 to
+1986. For 10 points, name this nation in which Mullah Omar headed the Taliban government up to and
+during the United States invasion in 2001.
+ANSWER: Afghanistan
+015-09-4-14102
+
+2. One author from this country wrote one of the first novels about Buddhism, The Pilgrim Kamanita.
+Besides Karl Gjellerup, another author from this country included the short story "Babette’s Feast"
+in her collection Seven Gothic Tales, and wrote an autobiography about living on a coffee plantation
+near (*) Nairobi under the pen name Karen Blixen. Another author from this country wrote the short stories
+"The Little Match Girl" and "The Little Mermaid." For 10 points, name this country home to the author of
+Out of Africa, Isak Dinesen, and the author of "The Ugly Duckling," Hans Christian Andersen.
+ANSWER: Kingdom of Denmark [or Kongeriget Danmark]
+027-09-4-14103
+
+3. This concept is invoked to resolve the Kleene-Rosser paradox. Divide and conquer algorithms are
+based on the multi-branch type of this strategy, and all functions of this type can be transformed into
+iterative functions using a stack. Examples of this method include the solution to the (*) Towers of
+Hanoi problem and defining the Fibonacci sequence. For 10 points, name this method of defining function in
+which the definition applies the function itself, also a means of solving problems in computer science by
+solving many smaller instances of the same problem.
+ANSWER: recursion
+026-09-4-14104
+
+4. Pope Leo IX condemned this man's proposed marriage to the daughter of Baldwin V as incestuous,
+and one of his most trusted advisors was Lanfranc of Pavia. He had his brother Odo imprisoned for
+raising troops without his permission, and this man (*) commissioned the Domesday survey. This man
+oversaw the building of the Tower of London, and the Bayeux Tapestry depicts this man's defeat of Harald
+Godwinson. For 10 points, name this king of England who won the Battle of Hastings in 1066.
+ANSWER: William I [or William the Conqueror]
+030-09-4-14105
+
+5. The Japanese Palace is part of this city's Zwinger museum complex, and it is home to the planned
+community of Hellerau. This city saw its designation as a UNESCO World Heritage site revoked in
+2009(*), and namesake porcelain industry moved to nearby Meissen in the early 18th century. It is located
+on the Elbe River, and this city is the capital of Saxony. For 10 points, name this German city, the site of a
+massive allied bombing raid during World War II.
+ANSWER: Dresden
+030-09-4-14106
+
+Tournament-8 Round 14 Page 1 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+6. This author wrote the preface to Frantz Fanon's The Wretched of the Earth. The protagonist of one
+of this author's novels listens to "Some of These Days" to come to terms with a condition that
+overwhelms him when he looks at the roots of a chestnut tree. This author adapted the Orestia into his
+play The (*) Flies, and he wrote a novel contrasting the Self-Taught Man with Antione Roquentin. For 10
+points, name this French author of Nausea and a play in which a room in Second Empire style becomes the
+eternal home of Inez and Garcin, No Exit.
+ANSWER: Jean-Paul Sartre
+038-09-4-14107
+
+7. This figure's brothers included Jabal and Jabel, the fathers of farmers and musicians, and
+Tubal-Cain, the inventor of metalworking. This man cursed his grandson Canaan after Caanan's
+father had seen this figure drunk and naked. This father of Shem, Japheth and (*) Ham made a
+covenant with God after receiving an olive branch from a dove. That covenant took place on Mount Ararat
+and was symbolized by a rainbow. For 10 points, name this biblical figure who was ordered God to build an
+ark to survive a great flood.
+ANSWER: Noah [or Noe or Noyach]
+019-09-4-14108
+
+8. The Oren-Nayar model describes the diffuse of this phenomonenon, which is assumed to be
+Lambertian in simple models, and which occurs when surfaces are not smooth. That type contrasts
+with the (*) specular type. This phenomenon is absent when the angle of incidence of a particular ray is
+Brewster's angle. The "law of" this phenomenon states that the angle of incidence and its namesake angle are
+equal. For 10 points, name this optical phenomenon whose total internal type occurs beyond the critical
+angle, which involves waves being bounced back to its origin.
+ANSWER: reflection
+033-09-4-14109
+
+9. This composer used text by Robert Lubahn for his Olympic Hymn for chorus and orchestra, and he
+used a brass fanfare to represent a difficult mountain climb in his Alpine Symphony. This composer
+also wrote a tone poem that ends with the execution of the title trickster, Till Eulenspiegel's Merry
+Pranks. Another of his tone poems contains the sections "Of the Backworldsmen" and "Song of the
+Night Wanderer," and takes its title from a (*) Nietzsche work named for a Persian prophet. For 10
+points, name this German composer of Death and Transfiguration and Also sprach Zarathustra.
+ANSWER: Richard Strauss [prompt on Strauss]
+032-09-4-14110
+
+10. This author asserted that "love is the whole and more than all" in one poem, and repeated the line
+"with up so floating many bells down" in another. This author of "my father moved through dooms of
+love" described a time "when the world is puddle-wonderful" in his poem "in Just-." He wrote a
+novel detailing the time he spent in a French (*) prison camp during World War I, and asked "how do you
+like your blueeyed boy/Mister Death" in his poem "Buffalo Bill's defunct." For 10 points, identify this
+author of "anyone lived in a pretty how town" and The Enormous Room, known for his eccentric typography
+and capitalization.
+ANSWER: Edward Estlin Cummings
+029-09-4-14111
+
+Tournament-8 Round 14 Page 2 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+11. This artist painted a scene in which the owner of the title location stands behind a billiards table,
+although his legs mysteriously do not appear. staring out of the painting. This painter also created a
+depiction of a small room lit by a single overhead lamp, in which a meal is eaten by five simple
+peasants seated at a table. While this artist of The (*) Night Café was in an insane asylum in
+Saint-Rémy, he painted a small village under a brightly lit night sky. For 10 points, name this Dutch painter
+of The Potato Eaters and The Starry Night.
+ANSWER: Vincent Willem van Gogh
+023-09-4-14112
+
+12. One subclass of these compounds was shown by Charles Pedersen to allow potassium
+permanganate to dissolve in benzene. This functionality, produced in the Ullman reaction, is
+exemplified by tetrahydrofuran, and its polycyclic form is its crown variety. An alkyl halide reacts
+with an alkoxide ion to produce these compounds in the Williamson synthesis, and they are defined by
+the presence of an (*) oxygen atom bonded to two aryl or alkyl groups. For 10 points, name these
+compounds whose diethyl variety was once used as an anesthetic.
+ANSWER: ether
+033-09-4-14113
+
+13. According to one account, this figure was killed by Herakles for stealing Geryon's oxen; another
+account claims she aroused the wrath of Amphitrite. In a third account, this lover of Glaucus was
+transformed out of jealousy by Circe. This woman was turned into a (*) creature with twelve feet, the
+body of a dog, and six heads, each of which devoured a sailor as a ship passed through the Strait of Messina.
+For 10 points, name this sea monster located directly across from the whirlpool Charybdis.
+ANSWER: Scylla
+003-09-4-14114
+
+14. This state raised a namesake "Column" to fight in the American Civil War, and Admiral John
+Sloat occupied cities in this state during the Mexican War. Before being named to the Supreme Court,
+Earl Warren was a governor of this state. The town of Sonoma in this state was the center of (*) the
+Bear Flag Republic. This state was home to the first Republican Party presidential candidate John Fremont.
+James Marshall's discovery at Sutter's Mill in this state prompted the 1849 gold rush. For 10 points, name
+this western state home to Ronald Reagan and Richard Nixon.
+ANSWER: California
+015-09-4-14115
+
+15. As a boy, this figure prophecied that a fortress kept collapsing because it was built over a red
+dragon fighting a white dragon. This figure was imprisoned forever after falling in love with Nimue,
+and prophecized the Dolorous Stroke. This figure designed the (*) Round Table, and crowned the son of
+Uther Pendragon after that son pulled a sword from a stone. For 10 points, name this mythological wizard
+who advised King Arthur.
+ANSWER: Merlin
+004-09-4-14116
+
+16. Holospora obtusa can have a symbiotic relationship with the caudatum variety of this organism,
+while bursaria can host photosynthetic endosymbionts. Didinium almost exclusively consumes this
+organism, whose (*) macronucleus can contain eight hundred copies of a chromosome. Like similar
+organisms, this organism ingests via a cytostome and uses contractile vacuoles. For ten points, name this
+freshwater ciliate which moves about thanks to the cilia covering its body.
+ANSWER: paramecium
+001-09-4-14117
+
+Tournament-8 Round 14 Page 3 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+17. This composer used Psalm 137 as the basis for his piece "Va pensiero," or the Chorus of the
+Hebrew Slaves. That chorus is from his opera about the Jewish exile in Babylon. Another of his
+choruses precedes "Stride La Vampa" (STREE-day luh VOM-puh) and appears in his opera about
+the gypsy Azucena (AH-zoo-KAY-nuh). In addition to composing Nabucco (NAH-buh-coe) and
+creating the (*) Anvil Chorus in Il Trovatore (ill troh-vuh-TOR-ay), this composer wrote operas about the
+courtesan Violetta and an Egpytian princess. For 10 points, name this composer of La Traviata and Aida.
+ANSWER: Giuseppe Fortunino Francesco Verdi
+019-09-4-14118
+
+18. This poet wrote a long autobiographical poem involving an ascent of Mount Snowdon, as well as a
+poem asserting "the child is father of the man." His poems "Strange fits of passion have I known" and
+"A slumber did my spirit seal" were dedicated to Lucy. This author of (*) "Ode: Intimations of
+Immortality" wrote a poem inspired by a "host of golden daffodils," "I Wandered Lonely as a Cloud," and
+co-wrote Lyrical Ballads along with Samuel Taylor Coleridge. For 10 points, name this English Romantic
+poet of "The Prelude" and "Tintern Abbey."
+ANSWER: William Wordsworth
+024-09-4-14119
+
+19. This man described a solo piano work he composed in 1901 as being "inspired by the sound of
+water". That piece, Jeux d'eau, was written two years after a work that opens with a French horn solo,
+his Pavane for a Dead Princess. This man attempted to outdo Balakirev's Islamey with the extremely
+difficult (*) "Scarbo", the last section of his Gaspard de la Nuit. His best-known work features an ostinato
+snare drum rhythm over which a Spanish theme is incessantly played. For 10 points, identify this French
+composer of Boléro.
+ANSWER: Maurice Ravel [or Joseph-Maurice Ravel]
+029-09-4-14120
+
+20. A German shipment of twenty thousand rifles was intercepted on the way to this event. Three days
+before it began, Roger Casement was captured and imprisoned. This event began when Padhraic
+Pearse led the capture of a post office, and it was sparked by the suspension of the (*) Home Rule Bill.
+The failure of this event transformed Sinn Fein from a political to revolutionary organization. For 10 points,
+name this 1916 event in which Irish nationalists took over much of Dublin during the week after a certain
+April holiday.
+ANSWER: Easter Rebellion [or Easter Rising]
+003-09-4-14121
+
+21. The speaker of one of this author's poems remembers seeing a "tiny spherule traced with lines / Of
+Nature's geometric signs" after his family woke up and "looked upon a world unknown." This poet
+lamented "When faith is lost, when honor dies / the man lies dead" in a poem lambasting Daniel
+Webster for supporting the Fugitive Slave Act, "Ichabod." He wrote about an aged woman from (*)
+Frederick who tells Stonewall Jackson "shoot, if you must, this old gray head / But spare your country's
+flag," as well as a poem subtitled "A Winter Idyll." For 10 points, name this nineteenth century Quaker poet
+of "Barbara Freitche," "Maud Muller," and "Snow-Bound."
+ANSWER: John Greenleaf Whittier
+004-09-4-14122
+
+Tournament-8 Round 14 Page 4 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+Tournament-8
+Round 14
+Bonuses
+1. This phenomenon occurs when a material loses all electrical resistance. For 10 points each:
+[10] Name this phenomenon first discovered in mercury at low temperatures.
+ANSWER: superconductivity
+[10] Superconductivity was first discovered by this Dutchman, who was awarded the 1913 Nobel Prize in
+Physics for his investigations into cryogenics.
+ANSWER: Heike Kammerlingh Onnes [prompt on partial last name]
+[10] The lowest possible energy for a superconducting electron system occurs if the electrons are bound in
+pairs named after this man, the "C" in the BCS theory of superconductivity.
+ANSWER: Leon Neil Cooper
+003-09-4-14201
+
+2. This man was spiritually influenced by Adrian of Utrecht, and his mother was Joanna the Mad. For 10
+points each:
+[10] Name this opponent of the Protestant reformation who won the battle of Pavia, and who led his troops
+to march on the pope, ending in the 1527 Sack of Rome.
+ANSWER: Charles V [or Charles I of Spain; or Carlos I of Spain; or Karl V]
+[10] Charles V was both ruler of Spain and of this collection of German states, which was also ruled by
+Frederick Barbarossa and dissolved in 1806.
+ANSWER: Holy Roman Empire [or Heiliges Roemisches Reich; or Sacrum Romanum Imperium]
+[10] Charles V defeated this king of France at Pavia. He was taken prisoner and forced to sign the Treaty of
+Madrid, but renounced it as soon as he was released.
+ANSWER: Francis I [or Francis of Angouleme; or Francois d’Angouleme ]
+027-09-4-14202
+
+3. Name these American composers of twentieth-century operas, for 10 points each.
+[10] He wrote an opera about Susan B. Anthony, The Mother of Us All, but is likely better known for
+collaborating with Gertrude Stein on Four Saints in Three Acts.
+ANSWER: Virgil Thomson
+[10] This prolific scorer of films also wrote the minimalist opera landmarks Einstein on the Beach and
+Satyagraha.
+ANSWER: Philip Glass
+[10] His A Guest of Honor is lost, but Treemonisha survives. This ragtime king’s non-operatic works
+include the songs “Maple Leaf Rag,” “Elite Syncopations,” and “The Entertainer.”
+ANSWER: Scott Joplin
+019-09-4-14203
+
+Tournament-8 Round 14 Page 5 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+4. Alleles on the same chromosome tend to stay together during the process of crossing over. For 10 points
+each:
+[10] This phenomenon describes that tendency for genes to be passed down jointly because they occur on
+the same chromosome.
+ANSWER: genetic linkage
+[10] William Bateson and this man discovered genetic linkage. This scientist is better known for a tool that
+allows for a calculation of an offspring's phenotype and genotype given the parents' genotype, his namesake
+squares.
+ANSWER: Reginald Punnett
+[10] This unit is used to measure the linkage of two genes, and is equal to the distance along a chromosome
+between two genes with a recombination frequency of one percent.
+ANSWER: centimorgan [or map unit; or cM; or m.u.]
+033-09-4-14204
+
+5. This country fought the United Kingdom in the Falklands War. For 10 points each:
+[10] Name this South American country that was led to independence by Jose de San Martin.
+ANSWER: Argentina
+[10] This president of Argentina from 1946 to 1955 invested billions of dollars in national health and public
+housing. His popularity in part stemmed from his marriage to Eva Duarte.
+ANSWER: Juan Peron
+[10] From 1976 to 1983, Jorge Videla kidnapped and assassinated many Argentinians during the Dirty War,
+which was assisted by this operation targeting suspected South American Socialists and Communists.
+ANSWER: Operation Condor
+032-09-4-14205
+
+6. According to his Nobel Prize autobiography, he switched from theoretical to experimental physics after
+attempting to measure the frequency sensitivity of the ear. For 10 points each:
+[10] Name this 1997 Nobel Laureate in Physics, who headed the Lawrence Berkeley National Laboratory
+until being confirmed as the current Secretary of Energy of the United States.
+ANSWER: Steven Chu
+[10] That Nobel Prize was awarded for discovering a method to cool and trap atoms using these objects,
+which emit pulses of coherent light.
+ANSWER: lasers [or Light Amplification by Stimulated Emission of Radiation]
+[10] With Allen Mills, Chu performed laser spectroscopy of positronium, a simple system consisting of this
+subatomic particle and its antiparticle.
+ANSWER: electron
+003-09-4-14206
+
+7. This composer created 32-bar jazz with his variations on "I Got Rhythm" and used the Charleston for his
+Concerto in F. For 10 points each:
+[10] Name this composer of the Cuban Overture, who responded to Paul Whiteman's call to bring
+respectability to jazz by writing Rhapsody in Blue.
+ANSWER: George Gershwin [or Jacob Gershwin; prompt on Gershwin]
+[10] Gershwin's own foreign trips in the 1920s inspired this 1928 work, which uses the "Homesick Blues" in
+its middle and incorporates the sound of taxi horns from the namesake city.
+ANSWER: An American in Paris
+[10] The lyrics to George Gershwin's opera Porgy and Bess, as well as the songs "Embraceable You" and
+"Fascinating Rhythm," were written by this brother of George.
+ANSWER: Ira Gershwin [or Israel Gershwin]
+019-09-4-14207
+Tournament-8 Round 14 Page 6 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+8. This story ends with the title character telling Reverend Clark and his wife Elizabeth that he sees the title
+object on their faces. For 10 points each:
+[10] Name this short story about Reverend Hooper, who begins wearing the title object out of penance for
+his secret sin.
+ANSWER: "The Minister's Black Veil"
+[10] This author of The House of the Seven Gables and The Scarlet Letter wrote "The Minister's Black Veil."
+ANSWER: Nathaniel Hawthorne
+[10] In this Hawthorne short story, the title character meets the Devil in the forest and is led by his wife
+Faith to a pagan ritual.
+ANSWER: "Young Goodman Brown"
+024-09-4-14208
+
+9. For 10 points each, name these percussion instruments.
+[10] These metal disk-like instruments can be struck with a drumstick, like the "suspended" variety. They
+can also strike each other, like the "crash" variety employed in marching bands.
+ANSWER: cymbals
+[10] These metal disks of Asian origin are typically struck with a mallet. The most commonly used variety
+of these in the Western orchestra is the tam-tam.
+ANSWER: gong
+[10] Bela Bartok composed a piece for strings, percussion, and this keyboard instrument, which plays the
+beginning of "The Dance of the Sugar Plum Fairy."
+ANSWER: celesta
+003-09-4-14209
+
+10. It was built under the orders of Walter Ubricht, and it divided such locales as Potsdamer Platz. For 10
+points each:
+[10] Name this barrier which divided a city for 28 years. Ronald Reagan gave a speech beseeching Mikhail
+Gorbachev to tear it down.
+ANSWER: Berlin Wall [or Berliner Mauer]
+[10] This man was in charge of building the Berlin Wall, and he later served as the leader of East Germany
+from 1971 until shortly before the fall of the Wall.
+ANSWER: Erich Honecker
+[10] While East Berlin was the capital of East Germany, the West German capital was located in this city in
+the state of North Rhine-Westphalia.
+ANSWER: Bonn
+023-09-4-14210
+
+11. This painting's creator also made a work titled "Cannibalism on" this, and in its background, the rescue
+ship Argus can be seen, for 10 points each:
+[10] Name this painting which depicts the aftermath of a shipwreck off the coast of Africa, in which the
+survivors are lying on a hastily constructed raft.
+ANSWER: The Raft of the Medusa [or Le Radeau de la Meduse]
+[10] This French Romantic painter created The Raft of the Medusa.
+ANSWER: Theodore Gericault
+[10] This English Romantic artist portrayed vivid lighting and colors in his paintings The Fighting
+Temeraire and The Slave Ship.
+ANSWER: Joseph Mallord William Turner
+035-09-4-14211
+
+Tournament-8 Round 14 Page 7 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+12. In this epic poem, the knight Arthegall marries Britomart. For 10 points each;
+[10] Name this allegorical 16th-century epic, whose title character, Gloriana, represents Queen Elizabeth I.
+ANSWER: The Faerie Queene
+[10] This English poet used his namesake stanzas to write The Faerie Queene. He is also the namesake of
+the sonnet form a-b-a-b, b-c-b-c, c-d-c-d, e-e.
+ANSWER: Edmund Spenser
+[10] This character from The Faerie Queen travels with Una to the House of Holiness, where he is named St.
+George. He is named for the Christian symbol on his shield.
+ANSWER: Redcrosse Knight
+038-09-4-14212
+
+13. This composition includes movements depicting its composer's friends, such as "Nimrod." For 10 points
+each:
+[10] Name this musical composition that contains a "hidden theme" upon which all of its movements' themes
+are based.
+ANSWER: the Enigma Variations [accept Variations on an Original Theme for Orchestra, opus 36]
+[10] This British composer who set Cardinal Newman's poem The Dream of Gerontius to music composed
+the Enigma Variations.
+ANSWER: Sir Edward William Elgar
+[10] Elgar is perhaps best-known for these marches, the Trio section of which contains a "Land of Hope and
+Glory" section that traditionally plays at the last night of the BBC Proms, and at graduations everywhere.
+ANSWER: the Pomp and Circumstance Marches
+026-09-4-14213
+
+14. This poem notes that "on the French coast the light Gleams and is gone; the cliffs of England stand." For
+10 points each:
+[10] Name this poem which concludes "And we are here as on a darkling plain / Swept with confused alarms
+of struggle and flight / where ignorant armies clash by night."
+ANSWER: "Dover Beach"
+[10] The British poet of Thyrsis and "The Scholar Gypsy" wrote "Dover Beach."
+ANSWER: Matthew Arnold
+[10] Arnold's poem "Sohrab and Rustum" was inspired by this national epic of Iran written by Ferdowsi.
+ANSWER: Shahnameh
+015-09-4-14214
+
+15. During this event, Moses and Elijah appeared on either side of Jesus and one apostle offered to build
+three tents to commemorate their appearance. For 10 points each:
+[10] Name this event described in Matthew, Mark, and Luke in which Jesus' clothing became a radiant white
+upon a mountain and he was proclaimed the Son of God.
+ANSWER: Transfiguration
+[10] This apostle was present at the Transfiguration along with James and John. He was given the keys to the
+kingdom of heaven by Jesus and became the first pope before being crucified upsidedown.
+ANSWER: Saint Simon Peter [or Petros or Cephas or Kephas]
+[10] Peter also got into a spat over the importance of circumcision with Paul, who claimed that only
+"circumcision of the heart" mattered in this first epistle that also stated that one is justified before God
+through faith, not works.
+ANSWER: Letter to the Romans [or Epistle to the Romans]
+005-09-4-14215
+
+Tournament-8 Round 14 Page 8 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+16. This author wrote about the maid Felicite in A Simple Heart. For 10 points each:
+[10] Name this author, who wrote a novel about Frederic Moreau, A Sentimental Education, as well as a
+novel about the lover of Rodolphe Bourlanger.
+ANSWER: Gustave Flaubert
+[10] The title character of this Flaubert novel, Emma, marries the country doctor Charles after he fixes her
+father’s broken leg, but later has several affairs in Yonville.
+ANSWER: Madame Bovary
+[10] Emma Bovary's final lover is this law clerk, who runs into her in Rouen after she inspired him to go to
+Paris.
+ANSWER: Leon Dupuis [or Leon Dupuis]
+027-09-4-14216
+
+17. This city is located between the Baghmati and Vishnumati rivers, and it is the home to several palaces
+built by the Rana family. For 10 points each:
+[10] Name this capital city, the home to the Taleju temple, a building guarded by the Hindu monkey god
+Hanuman.
+ANSWER: Katmandu [or Kantipur]
+[10] Katmandu is the capital of what country, the home to part of Mt. Everest.
+ANSWER: Nepal
+[10] Located in the Karakorum range and not in Nepal, this second highest peak in the world is also known
+as Mount Godwin Austen, named for its first surveyor.
+ANSWER: K2 [or Qogir Feng; or Dapsang; or Chogori]
+030-09-4-14217
+
+18. They are classified as competitive, noncompetitive, and uncompetitive, depending on their binding site.
+For 10 points each:
+[10] Name these substances that bind to enzymes to slow the rate of a reaction.
+ANSWER: inhibitors
+[10] Competitive inhibitors work by binding to this site, where substrates bind and a reaction occurs.
+ANSWER: active site
+[10] The presence of inhibitors requires a correction to be made to this equation of enzyme kinetics, which
+describes the rate of product formation as a function of substrate concentration.
+ANSWER: Michaelis-Menten equation
+003-09-4-14218
+
+19. After he was torn apart by the Maenads, this Argonaut and Ciconian king's head floated to the island of
+Lesbos, where it uttered prophecies. For 10 points each:
+[10] Name this mythical poet, musician, and mystery cult founder who lends his name to a mystical offshoot
+of Greek mythology.
+ANSWER: Orpheus
+[10] After this wife of Orpheus died from a snakebite, Orpheus descended to Hades to retrieve her, but she
+was lost again when Orpheus disobeyed a ban on looking back at the underworld.
+ANSWER: Eurydice (yurr-ID-uh-see)
+[10] This muse of epic poetry was the mother of Orpheus by Oeagrus (oh-ee-AAH-gruss).
+ANSWER: Calliope (cah-LIE-oh-pee)
+019-09-4-14219
+
+Tournament-8 Round 14 Page 9 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+20. He served as the first Chairman of the Joint Chiefs of Staff, and war reporter Ernie Pyle called this man
+the "Soldiers' General." For 10 points each:
+[10] Name this man who after Normandy was made commander of the Twelfth Army Group, the largest
+force ever placed under the command of a group commander.
+ANSWER: Omar Bradley
+[10] Omar Bradley served under this general during the North African campaign. Nicknamed "Old Blood
+and Guts," this man was relieved of command of the Third Army when he publicly criticized denazification
+policies.
+ANSWER: George Patton
+[10] This man trained under Omar Bradley. He was replaced by Creighton Abrams in 1968 as the
+commander of U.S. forces in Vietnam.
+ANSWER: William Westmoreland
+030-09-4-14220
+
+21. Henry James's short story "Paste" is based on this work. For 10 points each:
+[10] Name this short story in which Madame Loisel spends years working off a debt incurred from losing the
+title piece of jewelery, which turns out to be fake.
+ANSWER: "The Necklace" [or "The Diamond Necklace; or "La Parure"]
+[10] This French master of the short story wrote "The Necklace" as well as "Madame Teller's Establishment"
+and "La Horla."
+ANSWER: Guy de Maupassant
+[10] In this Maupassant story, passengers on a stagecoach shun the title prostitute after convincing her to
+sleep with a Prussian officer.
+ANSWER: "Ball of Fat" [or "Boule de Suif"]
+015-09-4-14221
+
+Tournament-8 Round 14 Page 10 of 10
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only.
+
+

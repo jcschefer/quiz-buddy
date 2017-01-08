@@ -1,0 +1,808 @@
+Harvard Fall Tournament X 
+Edited by ​
+Raynor Kuang and Robert Chu 
+Questions by ​
+Raynor Kuang, Robert Chu, Jason Park, Sriram Pendyala, Roger Jin, Erik Owen, Harrison 
+Li, Mark Arildsen, Vimal Konduri, Adam Frim, and Jonah Philion 
+And with thanks to​
+ Will Holub­Moorman, MIT Quiz Bowl, and various playtesters 
+ 
+Round 11 
+ 
+Tossups 
+ 
+1. ​
+Alberto Ginastera [“hee­nuh­STER­uh”] wrote twelve “American” works in this genre, while another one 
+of these works was meant to accompany an “Interlude” and “Final Paraphrase” that were never written. 
+Works in this genre are known as ​
+vorspiel​
+ [“VOAR­shpeel”] in German. (*) ​
+“The Girl with the Flaxen Hair” is 
+an example of this type of work, as is a piece that opens with a chromatic motif in the flute and is based on a 
+Stephen Mallarmé poem. Claude Debussy composed “[​
+This type of work​
+] to the Afternoon of a Faun.” For 10 
+points, name this genre of short pieces that often precede longer works. 
+ANSWER: ​
+prelude​
+s 
+ 
+2. ​
+Several contraptions from this dynasty were detailed in the ​
+Book of Ingenious Devices​
+. This dynasty 
+defeated the Tulunids after putting down a slave rebellion by the Zanj. Forces from this dynasty defeated the 
+Tang at the Battle of the Talas River, and one ruler of this dynasty sent (*) ​
+Charlemagne a clock as a gift. 
+Forces for this dynasty won the Battle of the Zab, and this dynasty’s fifth ruler was Harun al­Rashid. This dynasty’s 
+forces were defeated by Hulagu Khan, whose destruction of the House of Wisdom caused rivers to run black with 
+ink in Baghdad. For 10 points, name this Middle Eastern dynasty that succeeded the Umayyads. 
+ANSWER: ​
+Abbasid​
+ Caliphate (or ​
+Abbasid​
+ dynasty) 
+ 
+3. ​
+For a galvanic cell, this quantity is equal to the exponential of minus the redox potential times n F over R T, 
+and the derivative of its log with respect to reciprocal temperature is the negative change in enthalpy over R. 
+For a gas­phase reaction, two forms of this quantity are related by a proportionality constant (*) ​
+R T to the 
+power of the negative change in total gaseous moles.​
+ ​
+Compounds with activity of one are left out of the expression 
+for this quantity, which is calculated with the ratio of the concentrations of the reactants and products. For 10 points, 
+name this constant representing the ratio of the forward and backward rates that is symbolized uppercase K. 
+ANSWER: ​
+equilibrium constant​
+ (accept ​
+K​
+ or ​
+K​
+eq​
+ before read) 
+​
+ 
+4. ​
+One section of this novel is written like a play script and is set at a brothel in Nighttown. The protagonist of 
+this novel spies on Gerty MacDowell during a fireworks show, and it contains the line “history is a nightmare 
+from which I am trying to awake.” A woman in this novel (*) ​
+remembers saying “yes I said yes I will Yes” to a 
+proposal and is having an affair with Blazes Boylan. This novel is set on June 16, 1904, and its protagonist is 
+married to Molly and is friends with Stephen Dedalus. For 10 points, name this stream­of­consciousness novel about 
+a day in the life of Leopold Bloom, a book by James Joyce. 
+ANSWER: ​
+Ulysses 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5. ​
+One religion originating in this country uses the acronym TULIP to organize its beliefs, which include 
+“perseverance of the saints” and “total depravity.” Religious tensions in this country erupted after one man 
+advocated breaking the Lent fast by eating sausage; that man would later die in the Second (*) ​
+Kappel War 
+after debating Martin Luther at the Marburg Colloquy. One reformer from this country outlined his religious beliefs 
+in ​
+Institutes of the Christian Religion​
+, including the idea that God predestined a select group for salvation. For 10 
+points, name this home country of Uldrich Zwingli and John Calvin, who based his namesake religion in Geneva. 
+ANSWER: ​
+Switzerland​
+ (accept Old ​
+Swiss​
+ Confederacy; accept ​
+Swiss​
+ Confederation; accept ​
+Schweiz​
+erische 
+Eidgenossenschaft; accept Confédération ​
+Suisse​
+; accept Confederazione ​
+Svizzera​
+; accept Confederaziun ​
+Svizra​
+) 
+ 
+6. ​
+Antoni Gaudi designed a building of this type with balconies featuring bone­shaped columns and a roof 
+imitating the back of a dragon. In addition to that building named for Josep Batlló [“batch­YO”], another 
+building of this type was was set on fire by the Barbadan Julian Carlton​
+. ​
+(*)​
+ Mies van der Rohe built one of 
+these structures named for Edith Farnsworth, and Philip Johnson built one in Connecticut with sides made of glass. 
+Taliesin was an example of this type of building, and Frank Lloyd Wright designed one over a waterfall in Mill Run, 
+Pennsylvania. For 10 points, name this kind of building exemplified by Fallingwater. 
+ANSWER: ​
+house​
+s (or ​
+home​
+s; accept anything indicating that these are ​
+estate​
+s or ​
+private residence​
+s; accept ​
+casa​
+s) 
+ 
+7. ​
+A house in this play was previously owned by Jack Straw and Peter Ochello. After one character in this 
+play tells another “I love you,” the latter character says “Wouldn’t it be funny if that were true?” One 
+character in this play requires a crutch after injuring himself running hurdles; later, that character admits 
+that he is fed up with everybody’s (*) ​
+“mendacity” and learned that his friend Skipper had gay feelings for him. At 
+the end of this play, Maggie lies that she is having a baby with Brick to help secure the inheritance of the 
+cancer­stricken Big Daddy. For 10 points, name this play by Tennessee Williams about the Pollitt family.  
+ANSWER: ​
+Cat on a Hot Tin Roof 
+ 
+8. ​
+Extra certification can be provided in this system with Vouch by Reference. A frequent problem with this 
+system often uses a directory harvest attack, but has been partially remedied with the use of Naive Bayesian 
+filters. The (*) ​
+SMTP protocol operates this system, and the POP and IMAP protocols are variants on how to handle 
+this service. The MIME format was developed as an extension to this system, and spoofing can be used to disguise 
+the headers in this system. Mozilla Thunderbird and Microsoft Outlook are clients for this system. For 10 points, 
+name this service that in early days was plagued by spam. 
+ANSWER: ​
+email​
+ (prompt on “spam” before “SMTP”) 
+ 
+9. ​
+Wendell Phillips claimed “that the question of [this period]” would “soon become the dominant topic of the 
+day.” The New Orleans riot and the Memphis riots occurred during this period, leading to support for a bill 
+that notably ​
+was​
+ ratified by Tennessee. An ​
+(*) “ironclad oath” at the beginning of this era was part of a bill that 
+was pocket vetoed by a president who favored the Ten Percent Plan instead of the Wade­Davis Bill. This era was 
+officially ended by the Compromise of 1877. For 10 points, name this period during which five military districts 
+were set up to govern the South following the Civil War. 
+ANSWER: ​
+Reconstruction​
+ (prompt on “post­Civil War”; do not prompt or accept just “Civil War”) 
+ 
+10. ​
+This man described a person one sees regularly, but does not interact with as a “familiar stranger.” This 
+man oversaw an experiments in which test subjects felt discomfort upon asking strangers to give up their 
+seats on the subway for no reason. In one experiment, this man asked people in (*) ​
+Kansas and Nebraska to 
+somehow get packages to Boston. In addition to the “small world” experiment, this man devised an experiment in 
+which “teachers” were responsible for punishing “learners,” with a majority of teachers willing to deliver a lethal 
+450 Volt shock. For 10 points, name this Yale psychologist who performed an obedience experiment. 
+ANSWER: Stanley​
+ ​
+Milgram  
+
+ 
+11. ​
+The trial of suspected serial killer John Bodkin Adams was an early litmus test for this institution. The 
+Agenda for Change governs the payment of workers in this institution, and Henry Willink proposed a locally 
+controlled version of this institution during World War II. Aneurin Bevan faced off against the (*) ​
+BMA to 
+help create this institution, which is not paid for by National Insurance Funds. The Beveridge Report recommended 
+the formation of this system that was first implemented by the Attlee government. For 10 points, name this 
+single­payer system that provides public medical care to citizens of the United Kingdom. 
+ANSWER: ​
+N​
+ational ​
+H​
+ealth ​
+S​
+ervice 
+ 
+12. ​
+This hero encounters the Leviathan Organization after returning from the dead. This man trained 
+Jean­Paul Valley to take over his position in the role of Azrael, and one of this hero’s associates takes over the 
+position of Oracle after being shot in the spine during ​
+The ​
+(*)​
+ Killing Joke​
+. One of this hero’s sidekicks later 
+took on the title Nightwing, and a Venom­empowered villain broke this character’s back in ​
+Knightfall.​
+ This hero 
+teamed up with Commissioner Gordon, and he began his career after Joe Chill murdered both of his parents. For 10 
+points, name this comic book superhero who fights foes like Bane and the Joker. 
+ANSWER: ​
+Batman​
+ (or the ​
+Dark Knight​
+; or the ​
+Caped Crusader​
+; or the ​
+World’s Greatest Detective​
+; or Bruce 
+Wayne​
+; ​
+Ed’s note: but don’t let the Joker know about that last one!​
+) 
+ 
+13. ​
+Because you “cannot make a single hair white or black,” this passage warns against swearing by your 
+head. This passage claims that the lamp of the body is the eye and it closes with a comparison between a 
+house built on sand versus one built on bedrock. This passage compares its addressees to “the (*)​
+ light of the 
+world” and “salt of the earth.” One section of this passage declares “Our Father in heaven, hallowed be your name,” 
+while another repeatedly describes the “blessed.” This passage includes Matthew 5, 6, and 7, and it includes the 
+Lord’s Prayer and the Beatitudes. For 10 points, name this discourse by Jesus given at the top of a high place. 
+ANSWER: ​
+Sermon on the Mount​
+ (prompt on “Gospel of Matthew” before “Matthew” is mentioned; anti­prompt 
+[ask for less specific] on “Lord’s Prayer” after “Our Father” is read; anti­prompt on “Beatitudes” after “blessed” is 
+read) 
+ 
+14. ​
+This disease’s namesake protein consists of HEAT repeats and is encoded by a gene sometimes called 
+“interesting transcript 15.” Tetrabenazine is prescribed to alleviate the main symptoms of this incurable 
+disease. In this disease, replication slippage is responsible for the expansion of (*)​
+ CAG repeats, whose 
+frequency determines the penetrance and severity of this disease. Damage to the basal ganglia in this disease also 
+called a “chorea”, can lead to jerky and erratic movements. For 10 points, name this autosomal dominant disease 
+whose neurodegenerative symptoms usually first appear in middle age. 
+ANSWER: ​
+Huntington’s​
+ disease 
+ 
+15. ​
+This figure's goat Heiorún [“Hei­drun”] produces clear mead and eats the leaves of the tree Laeror. This 
+god plunged Sigmund's sword into Barnstokk before leaving the hall of King Völsung. One of this god’s 
+possessions is known as the "dripper" and replicates itself (*) ​
+eight times every nine nights. This owner of the 
+ring Draupnir is avenged by his son ​
+Víðarr​
+ ​
+[“Vi­dar”] after being eaten by Fenrir at Ragnarok. This god gained 
+
+knowledge of the runes after hanging for nine days and nights on the roots of Yggdrasil and lost one of his eyes to 
+drink from the Well of Mímir. For 10 points, name this god, the leader of the Æsir and the Norse All­Father. 
+ANSWER: ​
+Odin​
+ ​
+(accept any name that sounds similar to ​
+Wodan​
+, as he has quite a few) 
+ 
+ 
+ 
+
+16. ​
+A speaker in one of these poems wonders, “Why nods the drowsy Worshipper outside?,” while another 
+speaker notices “a Potter thumping his wet clay.” Hector Hugh Munro took his pen name from the phrase 
+“The Eternal Saki” in this collection of poems. The 71st poem in this collection asserts (*)​
+ “The Moving Finger 
+writes; and having writ / Moves on,” and the poems in this collection are written in an “A A B A” scheme. An 
+edition of this collection of poems translated by Edward FitzGerald contains the line “A jug of wine, a loaf of 
+bread­­and thou.” For 10 points, name this collection of quatrains written by Omar Khayyam. 
+ANSWER: ​
+Rubaiyat​
+ of Omar Khayyam 
+ 
+17. ​
+The Krun Macula is among the equatorial “Brass Knuckles” region of this body. A feature called the 
+“Donut” is located near the tale of the “Whale” feature, or “Cthulu Regio,” on this body. The Sputnik 
+Planum consists of the western lobe of a large (*)​
+ heart visible on the surface of this body. This planet forms a 
+binary system with its main moon, and its five moons include Styx, Kerberos, Nix, Hydra, and Charon. In July 2015 
+the ​
+New Horizons​
+ probe passed this body that was first discovered by Clyde Tombaugh. For 10 points, name this 
+former ninth planet from the Sun. 
+ANSWER: ​
+Pluto 
+ 
+18. ​
+A flock of wild parrots can be found near one building in this city that was apocryphally constructed to 
+resemble the nozzle of a fire hose. Visitors can hike up the Filbert Steps to that landmark, the Coit Tower, on 
+this city’s Telegraph Hill. Districts in this city include the SoMa and (*)​
+ Castro neighborhoods, and another icon 
+of this city is the switchback­filled Lombard Street. This city is home to the oldest Chinatown in the United States, 
+and tourists often board ferries from Fisherman’s Wharf in order to visit Alcatraz. For ten points, name this 
+California city, home to the Golden Gate Bridge. 
+ANSWER: ​
+San Francisco 
+ 
+19. ​
+This author created a character who jumps into a crater and subsequently goes insane; that character is 
+Dr. Hatteras. This author wrote a novel in which Impey Barbicane and the Baltimore Gun Club build a 
+massive cannon. The professor Otto Lidenbrock enters an (*) ​
+Icelandic volcano and exits an Italian volcano in a 
+novel by this author of ​
+From the Earth to the Moon​
+. In another novel by this man, the professor Pierre Aronnax ends 
+up on the ​
+Nautilus​
+, a submarine captained by Nemo. For 10 points, name this science­fiction author of books like 
+Journey to the Center of the Earth​
+ and ​
+Twenty Thousand Leagues Under the Sea​
+. 
+ANSWER: Jules ​
+Verne 
+ 
+20. ​
+This artist reinterpreted a Jakob Seisenegger painting of Charles V standing with his dog. Two figures in 
+one of this man’s paintings are hypothesized to be Polia and Venere; in that painting, a child pokes his hand 
+inside a sarcophagus. In one painting by this artist, the title woman is met by a chariot led by (*)​
+ two cheetahs 
+and the title god. In the most famous painting of this artist of ​
+Bacchus and Ariadne​
+ and ​
+Sacred and Profane Love​
+, a 
+servant looks through a chest in the background while a puppy sits at the feet of a reclining nude. For 10 points, 
+name this Renaissance artist of the ​
+Venus of Urbino​
+. 
+ANSWER: ​
+Titian​
+ (accept either underlined portion of ​
+Tiziano​
+ ​
+Vecelli​
+o) 
+ 
+21. ​
+A character in this play performs a dance while yelling “OCOMOGOSIAY,” causing another character to 
+call himself “Flaming Spear.” Karl Lindner attempts to bribe the main characters of this play. Asagai asks 
+Benethea to move to Nigeria with him in this play, and Willy Harris absconds with an (*)​
+ investment meant for 
+a liquor store. The central family in this play moves to Clybourne Park after receiving ten thousand dollars of 
+insurance money, and this play takes its title from a poem that asks “What happens to a dream deferred?” For 10 
+points, name this play about the Younger family written by Lorraine Hansberry. 
+ANSWER: ​
+A ​
+Raisin in the Sun 
+ 
+
+Bonuses 
+ 
+1. This man led one of the first modern political campaigns with the Midlothian campaign. For 10 points each: 
+[10] Name this Liberal prime minister. He held the most Prime Minister­ships ever, and he frequently feuded with 
+Disraeli. 
+ANSWER: William (Ewart) ​
+Gladstone 
+[10] Unlike his rival Disraeli, Gladstone was often on rocky relations with this monarch. This queen called 
+Gladstone’s government “The worst I ever had.” 
+ANSWER: Queen ​
+Victoria 
+[10] Victoria blamed Gladstone for the death of this man, who was killed by forces under the Mahdi. This man 
+earned his nickname while leading the Ever Victorious Army. 
+ANSWER: “Chinese” ​
+Gordon​
+ (accept Charles George ​
+Gordon​
+) 
+ 
+2. This city is home to a Hanging Church sitting above a gatehouse of its Babylon Fortress. For 10 points: 
+[10] Name this “City of a Thousand Minarets.” Its Tahrir Square became a major gathering location during Arab 
+Spring. 
+ANSWER: ​
+Cairo​
+ (accept ​
+al­Qāhirah​
+) 
+[10] This Fatimid­era mosque is Cairo’s oldest. Its affiliated university is the second­longest continuously run 
+university still in operation and a world center for Sunni Islamic law and theology. 
+ANSWER: ​
+Al­Azhar​
+ Mosque 
+[10] This city on the west bank of the Nile, southwest of central Cairo, is home to such ancient wonders as its 
+namesake Great Pyramid and Great Sphinx. 
+ANSWER: ​
+Giza 
+ 
+3. This statement can be generalized to Hölder’s inequality. For 10 points each: 
+[10] Name this doubly eponymous statement that holds that the magnitude of the dot product of two vectors is no 
+greater than the product of their lengths. 
+ANSWER: ​
+Cauchy­Schwarz​
+ inequality 
+[10] The Cauchy­Schwarz inequality can be used to derive an inequality named for this geometric figure. “Solving” 
+this geometric figure may require use of the law of sines or cosines. 
+ANSWER:​
+ ​
+triangle 
+[10] The triangle inequality is one of the axioms used to define this type of mathematical structure, which formalizes 
+the notion of distance. 
+ANSWER: ​
+metric space​
+ (prompt on “metric”) 
+ 
+4. ​
+John Mayer covered this rock ’n roll artist’s “Route 66” for the ​
+Cars ​
+soundtrack. For 10 points each: 
+[10] Name this rock and roll legend who performed “Maybelline,” in addition to a song about a country boy who 
+could “play the guitar just like a ringing a bell” “deep down [in] Louisiana.” 
+ANSWER: Chuck ​
+Berry​
+ (the latter song is “Johnny B. Goode”) 
+[10] Fellow rock pioneers Buddy Holly, Ritchie Valens, and The Big Bopper all died in one of these events on 
+February 3, 1959, which became known as The Day the Music Died. 
+ANSWER: plane ​
+crash​
+ (accept anything mentioning planes) 
+[10] “The Day the Music Died” was a phrase coined in this song by Don McLean whose speaker says goodbye to 
+the title phenomenon and describes driving “my Chevy to the levee.” McLean himself admitted to sometimes 
+singing the lyrics to Weird Al’s Star Wars parody of this song. 
+ANSWER: “​
+American Pie​
+” 
+ 
+ 
+
+5. Joseph Glidden is usually credited with inventing this object, the first prototype of which he constructed using a 
+coffee mill. For 10 points each: 
+[10] Name this material first used by ranchers in the American West to enclose their lands. Its invention led to the 
+end of “open range” ranching. 
+ANSWER: ​
+barbed wire​
+ (accept ​
+barb wire​
+; accept ​
+bob wire​
+; accept ​
+bobbed wire​
+; prompt on “wire” alone) 
+[10] Before the invention of barbed wire, cattle rustling was a common practice, leading to conflicts like this feud in 
+eastern Texas. Its two namesake groups included a vigilante militia organized to control rustling and a group that 
+sprung up to oppose the militiamen. 
+ANSWER: ​
+Regulator­Moderator​
+ War (or the ​
+Shelby County​
+ War; prompt on partial answer) 
+[10] This first President of Texas and fighter in the Texas Revolution mediated a truce to end the 
+Regulator­Moderator War. Francis Scott Key defended this man after he beat William Stanberry up with a cane. 
+ANSWER: Samuel “Sam” ​
+Houston 
+ 
+6. An avalanche kills the main characters in this author’s very last play, ​
+When We Dead Awaken​
+. For 10 points each: 
+[10] Name this Norwegian playwright who created strong independent women like Nora Helmer in ​
+A Doll’s House 
+and the title woman in ​
+Hedda Gabler​
+. 
+ANSWER: Henrik ​
+Ibsen 
+[10] Hedvig shoots herself at the end of this Ibsen play, though the rest of the characters assume that she had gone to 
+kill the title bird. 
+ANSWER: ​
+The ​
+Wild Duck 
+[10] The widow Mrs. Alving is tasked with managing an orphanage in this play. This play ends with Mrs. Alving 
+deciding whether or not to euthanize her syphilis­afflicted son. 
+ANSWER: ​
+Ghosts 
+ 
+7. ​
+Name these applications related to a certain form of radiation, for 10 points each: 
+[10] First, name this persistent entity that has a temperature of about 2.7 Kelvin. It was accidentally discovered at 
+Bell Labs after researchers believed pigeon droppings had been tainting telescope readings. 
+ANSWER: ​
+cosmic microwave background​
+ radiation (or ​
+CMB​
+R) 
+[10] Microwaves can be used in these devices that send out waves and measure the time the waves take to bounce 
+back. Jamming can incidentally or purposefully interfere with these devices. 
+ANSWER: ​
+radar​
+ (or ​
+radio detection and ranging​
+) 
+[10] Microwaves were the original form of radiation used in these devices that rely on stimulated emission. The 
+hydrogen form of this device is used in atomic clocks. 
+ANSWER: ​
+maser​
+ (or ​
+microwave amplification of stimulated emission of radiation​
+; or “molecular” in place of 
+“microwave”; do NOT accept or prompt on “laser”) 
+ 
+8. This sport is covered in Roger Kahn’s book ​
+The Boys of Summer​
+, which itself takes its name from a Dylan 
+Thomas poem. For 10 points each: 
+[10] Name this sport that a “Mighty” character fails miserably at in the poem “Casey at the Bat.” 
+ANSWER: ​
+baseball  
+[10] This book by Bernard Malamud centers on Roy Hobbs, a baseball wunderkind who excels with his bat 
+“Wonderboy.” 
+ANSWER: ​
+The ​
+Natural 
+[10] This writer wrote the poem “Line­Up for Yesterday: An ABC of Baseball Immortals.” This poet and witticist 
+parodied Joyce Kilmer by sadly noting “unless the billboards fall / I’ll never see a tree at all.” 
+ANSWER: Ogden ​
+Nash 
+ 
+ 
+
+9. This sect’s core beliefs are known as the “foursquare gospel.” For 10 points each: 
+[10] Name this fastest­growing Christian denomination. Prominent practices in this church include the laying on of 
+hands and speaking in tongues. 
+ANSWER: ​
+Pentecostal​
+ism (accept equivalents like the ​
+Pentecostal​
+ Church) 
+[10] A key tenet of Pentecostalism states that baptism with this entity is distinct from the ritual of water baptism. 
+Along with the Father and the Son, this being comprises the Holy Trinity. 
+ANSWER: ​
+Holy Spirit​
+ (or ​
+Holy Ghost​
+) 
+[10] The origins of Pentecostalism lie in this early 20th­century movement led by William J. Seymour. It is named 
+for the Los Angeles road where church meetings took place. 
+ANSWER: ​
+Azusa Street​
+ Revival  
+ 
+10. This composer’s works were catalogued by Anthony von Hoboken. For 10 points each: 
+[10] Name this Classical period composer who served in the court of the Esterhazy family. He wrote 106 
+symphonies, including ones nicknamed “London” and “Surprise.” 
+ANSWER: Franz Joseph ​
+Haydn 
+[10] This other Haydn symphony is notable for its ending, in which players in the orchestra leave the stage one by 
+one. 
+ANSWER: “​
+Farewell​
+” symphony (accept Symphony No. ​
+45​
+ in F sharp minor) 
+[10] In addition to his prolific symphonic output, Haydn also wrote a concerto in E­flat major for this instrument 
+dedicated to Anton Weidinger. Jeremiah Clarke wrote a piece often known as this instrument’s “voluntary.” 
+ANSWER: ​
+trumpet 
+ 
+11. ​
+One of the boundaries this event created is known as the Radcliffe Line. For 10 points each: 
+[10] Name this event, which divided a former British colony into two distinct Hindu and Muslim­majority countries. 
+ANSWER: ​
+partition of India​
+ (accept descriptions like the “splitting of India into India and Pakistan” as long as 
+India or Pakistan is mentioned) 
+[10] This man was a strong proponent of the partition. He served as leader of the Muslim League prior to the 
+partition, and then as Pakistan’s first governor­general afterward. 
+ANSWER: Muhammad Ali ​
+Jinnah 
+[10] The Hindu Maharajah of this region decided to join India rather than Pakistan, a move Pakistan rejected as 
+invalid. India and Pakistan have fought three wars over this mountainous region. 
+ANSWER: ​
+Kashmir 
+ 
+12. In one example of this genre of films, a character named the “Stranger” protects himself from bullets by wearing 
+a massive steel plate under his clothing. For 10 points each: 
+[10] Name this genre of movie frequently incorporating cowboys and sheriffs. The “spaghetti” type of these films 
+were so named because they were often directed by Italians like Sergio Leone. 
+ANSWER: ​
+western​
+s 
+[10] This actor starred in Leone’s ​
+The Good, the Bad, and the Ugly​
+. He also won an Academy Award for directing 
+Unforgiven​
+. 
+ANSWER: Clinton “Clint” ​
+Eastwood​
+, Jr. 
+[10] The soundtrack to ​
+The Good, the Bad, and the Ugly​
+, which prominently features an ocarina, was composed by 
+this Italian. This composer of “The Ecstasy of Gold” also wrote the music to ​
+Cinema Paradiso​
+. 
+ANSWER: Ennio ​
+Morricone 
+ 
+ 
+ 
+
+13. One book opens with an “Exordium” about this figure, which is followed by a chapter with this figure’s 
+“Eulogy.” For 10 points each: 
+[10] Name this figure who is used to demonstrate the teleological suspension of the ethical in ​
+Fear and Trembling​
+. 
+In ​
+Fear and Trembling​
+, this man is the prototypical “knight of faith.” 
+ANSWER: ​
+Abraham​
+ (do not accept “Isaac,” but accept things like “Abraham and the Binding of Isaac”) 
+[10] Name this author of ​
+Fear and Trembling​
+. This Dane also wrote ​
+Either/Or​
+, and he is considered the first 
+existentialist philosopher. 
+ANSWER: Soren ​
+Kierkegaard 
+[10] Kierkegaard frequently wrote about the subjectivity of this concept. In Latin, this concept was known as 
+“veritas,” and it can be calculated using namesake “tables.” 
+ANSWER: ​
+truth 
+ 
+14. The heaviest member of this family of elements is astatine. For 10 points each: 
+[10] Name this group of elements characterized by their high reactivity, a result of their seven valence electrons. 
+This group also includes bromine, the only nonmetal that is liquid at room temperature. 
+ANSWER: ​
+halogen​
+s (prompt on “Group VII” or “Group 17”) 
+[10] Fluorinated glucose is used in this imaging technique, which visualizes the metabolic activity of tissues. This 
+three­dimensional imaging technique is often performed concurrently with CT scans. 
+ANSWER: ​
+positron emission tomography​
+ (or ​
+PET​
+ scans) 
+[10] This English chemist is credited with the discovery of both chlorine and iodine. In addition to his work on 
+discovering new elements, he also invented a safety lamp for coal miners. 
+ANSWER: Humphry ​
+Davy 
+ 
+15. In this novel, one character listens to Beethoven’s fifteenth string quartet while awaiting the arrival of men sent 
+to kill him. For 10 points each: 
+[10] Name this book, which includes a love affair between Walter Bidlake and Marjorie Carling, as well as the 
+character of Mark Rampion, a thinly­veiled portrait of D.H. Lawrence. 
+ANSWER: ​
+Point Counter Point 
+[10] This author depicted himself as the detached intellectual Philip Quarles in his ​
+Point Counter Point​
+. He’s more 
+famous for writing about a dystopian society that measures time using years “After Ford” in ​
+Brave New World​
+. 
+ANSWER: Aldous (Leonard) ​
+Huxley 
+[10] At the end of ​
+Brave New World​
+, John flees to, and eventually commits suicide in, one of these structures. In a 
+Virginia Woolf novel, the Ramsay family visits one of these buildings before and after a ten year period.. 
+ANSWER: a ​
+lighthouse​
+ (accept ​
+To the ​
+Lighthouse​
+) 
+ 
+16. The theory of punctuated equilibrium states that this process occurs in rapid bursts followed by long periods of 
+stasis. For 10 points each: 
+[10] Name this process in which two populations of an organism become unable to interbreed, and instead form a 
+new taxon. Darwin’s most famous work proposed that natural selection is the basis of this process. 
+ANSWER: ​
+speciation 
+[10] This form of speciation is the result of geographic isolation, since genetic drift and different selection pressures 
+lead to the accumulation of differences that make interbreeding no longer possible. One consequence of this form of 
+speciation is adaptive radiation. 
+ANSWER: ​
+allopatric​
+ (accept ​
+peripatric​
+ but not “parapatric”) 
+[10] This phenomenon occurs when a chain of populations wrap around a geographic barrier, and there is only one 
+location where two neighboring populations cannot interbreed. Known examples of this phenomenon include the 
+Larus​
+ gulls and the greenish warbler. 
+ANSWER: ​
+ring species​
+ (or ​
+Rassenkreis​
+) 
+
+ 
+17. A theater showing “The Jazz Singer” can be seen outside the window on the left side of this work. For ten points 
+each: 
+[10] Name this Richard Hamilton collage. In the foreground, a bodybuilder holds a gigantic lollipop, while a 
+burlesque dancer sits on the couch on the right. 
+ANSWER: ​
+Just what is it that makes today’s homes so different, so appealing?​
+ ​
+(exact wording required) 
+[10] ​
+Just what is it that makes today’s homes so different, so appealing?​
+ is an early work in this style. Other works 
+in this movement include Andy Warhol’s paintings of Campbell’s Soup cans. 
+ANSWER: ​
+Pop​
+ Art 
+[10] Warhol and his “superstars” often hung out in this building, the name given to Warhol’s New York studio. 
+ANSWER: The ​
+Factory 
+ 
+18. Poor Trojans! The gods keep on kidnapping them for lovers. For 10 points each: 
+[10] This god replaced his cupbearer Hebe with Ganymede, whom he had abducted in the form of an eagle. 
+ANSWER: ​
+Zeus 
+[10] This goddess of dawn ended up with a cicada for a husband after granting Tithonus of Troy immortality but 
+forgetting to also give him eternal youth. 
+ANSWER: ​
+Eos 
+[10] After killing her husband Priam and son Astyanax, this Greek kidnapped Andromache, though that was more as 
+a spoil of war than as a lover. This man was also known as Pyrrhus. 
+ANSWER: ​
+Neoptolemus 
+ 
+19. Wat Tyler led a revolt of these people during the Hundred Years’ War. For 10 points each: 
+[10] Name this generic term for the poor class of people who were often farmers or laborers. They were 
+disproportionately affected by the Black Death. 
+ANSWER: ​
+peasant​
+s 
+[10] Peasants and serfs made up a large part of Pugachev’s Rebellion during the reign of this empress. Grigory 
+Potemkin supposedly built fake villages to impress this monarch. 
+ANSWER: ​
+Catherine the Great​
+ (or ​
+Catherine II​
+; prompt on “Catherine”) 
+[10] Peasant anger also inspired this other revolt in France during the Hundred Years’ War. This revolt took its 
+name from the padded armor the peasants wore. 
+ANSWER: ​
+Jacquerie 
+ 
+20. This man wrote of being torn between “[b]etween this Africa and the English tongue I love.” For 10 points each: 
+[10] Name this Saint Lucian poet who wrote ​
+Omeros ​
+and described “the gorilla” wrestling with “the superman” in ​
+A 
+Far Cry from Africa. 
+ANSWER: Derek​
+ ​
+Walcott 
+[10] ​
+Omeros ​
+is a modern day retelling of this epic poem. In this Homeric epic, the title character faces a number of 
+obstacles in his 20 year voyage back home after fighting in the Trojan War. 
+ANSWER: ​
+The ​
+Odyssey 
+[10] This other Caribbean author was ethnically Indian, but was born in Trinidad. The title character takes on 
+various jobs like sign painter and journalist in this author’s ​
+A House for Mr Biswas​
+. 
+ANSWER: V(idiadhar) S(urajprasad) ​
+Naipaul 
+ 
+ 
+ 
+ 
+ 
+
+21. This process is governed by Fick’s laws. For 10 points each: 
+[10] Name this process, which occurs via Brownian motion. During this process, particles move from areas of high 
+concentration to low concentration, and effusion is a specific type of this process. 
+ANSWER: ​
+diffusion​
+ (accept word forms) 
+[10] Brownian motion is an important part of statistical mechanics, a field pioneered by this Austrian scientist. His 
+namesake constant is equal to the gas constant divided by Avogadro’s number. 
+ANSWER: Ludwig Eduard ​
+Boltzmann 
+[10] The Boltzmann distribution gives the probability of a particle being in a certain state as the exponential of that 
+state’s energy divided by Boltzmann’s constant times temperature, all divided by this quantity. It is equal to the sum 
+of all the Boltzmann factors of a system. 
+ANSWER: canonical ​
+partition function​
+ (prompt on “Q;” prompt on “Z”) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+

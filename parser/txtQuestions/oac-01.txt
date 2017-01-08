@@ -1,0 +1,595 @@
+OAC 2013
+Packet 1
+
+CATEGORY ROUND
+American Literature: Poets
+Team A: What American poet wrote "Sestina" and the villanelle "One Art"?
+ANSWER: Elizabeth Bishop
+Team B: What African slave wrote "To His Excellency, George Washington" and "On Being Brought from
+Africa to America"?
+ANSWER: Phyllis Wheatley
+Tossup: One of this writer's poems contains the line, "Do not think I underestimate your great concern,"
+and that poem describes how they had to "pick the worms off me like sticky pearls." That poem by this poet
+states that "one year in every ten I manage it." Another of her poems calls a figure "marble-heavy, a bag
+full of God" and claims that "every woman adores a Fascist" and tells a black shoe "you do not do any
+more." Name this confessional poet who wrote "Lady Lazarus" and "Daddy."
+ANSWER: Sylvia Plath
+Mathematics: Functions (All questions in this round are 30 seconds)
+Team B: Calculate all roots, real and complex, of the polynomial x cubed minus 9 x squared plus 4 x minus
+36.
+ANSWER: 9, 2i, and negative 2i [or any other order; or 9 and plus or minus 2i]
+Team A: What is the domain of the function natural log of the quantity negative x squared plus 2 x plus 3?
+ANSWER: -1 is less than x which is less than 3 [or (-1,3); or -1 to 3 exclusive;
+do not accept anything including "less than or equal to"]
+Tossup: The only idempotent, invertible matrix is one denoted by this term. An elementary matrix differs
+from a matrix denoted by this term by only a single row operation. The matrix denoted by this term is a
+square matrix with ones in the main diagonal and zeroes elsewhere. This type of function always returns its
+argument. This term is often applied to mathematical relations like sine squared of theta plus cosine
+squared of theta equals one. It is one and zero for multiplication and addition, respectively. Name this
+element that does not change the output of a binary operation.
+ANSWER: the identity element
+
+OAC 2013
+
+1
+
+Page 1 of 17
+
+World History: Explorers
+Team A: What explorer captured Atahualpa and conquered the Incan empire?
+ANSWER: Francisco Pizarro Gonzalez
+Team B: What Dutch explorer was the first European to reach New Zealand and an island once called Van
+Diemen's Land?
+ANSWER: Abel Tasman
+Tossup: Abacuk Pricket gave the only extant narrative of this man's final voyage. This man's grandfather
+was one of the founders of the Muscovy Company, and that company sponsored this man's journey to the
+Russian Arctic. This explorer sailed on the Half Moon on a voyage in which he claimed what is now New
+Amsterdam. This man's expedition on the Discovery ended in a mutiny that killed him and his son, but
+which failed to find a Northwest Passage. Name this English explorer who sailed for the Dutch and for
+whom a New York river and Canadian bay are named.
+ANSWER: Henry Hudson
+Fine Arts: Hot Art
+Team B: What Hudson River School artist's cycle The Course of Empire concludes with a depiction of the
+burning of a once great city?
+ANSWER: Thomas Cole
+Team A: What man painted the burning of the Houses of Parliament in addition to depicting a locomotive
+in his Rain, Steam, and Speed?
+ANSWER: Joseph Mallord William "J.M.W." Turner
+Tossup: This painter made the pro-republican scene The Tragedy of Lucretia to protest the return of the
+Medici family, a few years after burning his own works under the influence of the Savonarola government.
+One of his paintings depicts Zephyr abducting Chloris from an orange grove, and another shows a
+decorated pink blanket about to be thrown over a woman riding a seashell. Name this painter of Primavera
+and The Birth of Venus.
+ANSWER: Sandro Boticelli [ or Alessandro di Mariano Filipepi]
+
+OAC 2013
+
+1
+
+Page 2 of 17
+
+Life Sciences: Organelles
+Team A: This organelle is responsible for breaking down waste products and has an acidic internal pH.
+ANSWER: lysosome
+Team B: This organelle is responsible for the synthesis of proteins.
+ANSWER: ribosome
+As this cellular structure separates from the cytoskeleton during apoptosis, it can form a bulge called a bleb.
+They contain protein receptors that are rich in sphingomyelin called rafts, which are more tightly packed
+than the surrounding bilayer. Visualized by the fluid-mosaic model, they engulf and take in materials
+through endocytosis. Name these selectively permeable structures that surround cells.
+ANSWER: cell membrane [or plasma membrane]
+World Literature: Villains
+Team B: Sir Bercilak is the real identity of what mysterious figure who challenges an Arthurian knight to a
+beheading contest in a work by the Pearl poet?
+ANSWER: the Green Knight
+Team A: The devil Apollyon fights Christian in what allegorical John Bunyan novel where Christian's
+religious journey takes him to Vanity Fair?
+ANSWER: The Pilgrim's Progress from This World to That Which Is to Come
+This character is first described using the ambiguous word "aglæcwif" (og-LACK-wiff) and is compared, in
+her rejection of social roles, with the pre-marriage Modthrytho. She is said to have ruled over a court of
+serpents for a hundred years from her underwater cave. This character is killed with a magical sword,
+which melts after being used to kill her. This character recovers a severed arm after invading Heorot and is
+then pursued by her son's Geatish killer. Name this second of the three major opponents of Beowulf.
+ANSWER: Grendel's mother [or Grendel's dam; or Grendles moðor; do not
+accept or prompt on "Grendel"]
+
+OAC 2013
+
+1
+
+Page 3 of 17
+
+US Government/Economics: Opinionated People
+Team A: Conservative David Brooks and liberal Maureen Dowd, among many others, all write for what
+newspaper, nicknamed the "Old Gray Lady"?
+ANSWER: The New York Times
+Team B: The New York Times is now the third-largest newspaper in the U.S., with the largest being this
+newspaper, published in New York by Dow Jones & Company.
+ANSWER: The Wall Street Journal
+Tossup: This television host likened the potential firing of Ellen DeGeneres by J.C. Penney to
+McCarthy-era blacklisting practices in an unexpected show of support. This man recently collaborated with
+Martin Dugard on two books about the Lincoln and Kennedy assassinations. In 2012, he took part in the
+"Rumble in the Air Conditioned Auditorium" against his frequent guest Jon Stewart. His show includes the
+segments "Pinheads and Patriots" and "Talking Points Memo." Name this political commentator who runs a
+Fox show known as his namesake "factor."
+ANSWER: William James "Bill" O'Reilly, Jr.
+Physical Sciences: Phases
+Team B: This is the heat needed to add to a substance at the boiling point to make it boil.
+ANSWER: latent heat of vaporiazation
+Team A: This substance unusually has a negative-sloping solid-liquid boundary and has a maximum
+density at 4 degrees C.
+ANSWER: water [or H2O]
+Reduced temperature and pressure are defined to be pressure and temperature divided by their values at this
+state. At this state, the derivative of pressure with respect to volume is zero. Carbon dioxide in this state is
+used to decaffeinate coffee beans. At this point, a dashed line is usually drawn vertically and horizontally
+on a P-T diagram, and it occurs at the end of a coexistence curve. For water, it occurs at 647 Kelvin and
+218 atmospheres. Name this state above which a substance cannot exist as a liquid.
+ANSWER: critical point [or supercritical fluid]
+
+OAC 2013
+
+1
+
+Page 4 of 17
+
+World Geography: Southern Cities
+Team A: Name the southern capital city in which one can find both the World of Coca-Cola and the CNN
+Center.
+ANSWER: Atlanta
+Team B: AT&T and Southwest Airlines are based out of what city, which forms a metropolitan area with
+Arlington and Fort Worth?
+ANSWER: Dallas
+Tossup: This city, which was formerly known as Fort Gatlin and Jernigan, is the home of educational
+museums in Lack Haven Park and a public transit system known as SunRail. The Lake Eola fountain is a
+landmark in this metropolis, which calls itself "The City Beautiful." Though it's not in California, it is the
+seat of Orange County. Census statistics group it as the largest city of a region that also includes Sanford
+and Kissimmee. Name this Florida city, the home of the University of Central Florida, Universal Studios
+and Walt Disney World.
+ANSWER: Orlando
+American History: Cataclysms
+Team B: What Texas city experienced a devastating hurricane in 1900?
+ANSWER: Galveston
+Team A: What large state experienced the Good Friday Earthquake in 1964?
+ANSWER: Alaska
+One of these events occurred when the tug Scandia became grounded on Moonstone Beach. Techniques
+that failed to stop another of these events included the "top kill," which involved pumping down heavy
+drilling mud, and the "junk shot." A 1990 Pollution Act was passed after one of these took place in Prince
+William Sound. Name these disasters that release a liquid into the environment, including one that lasted
+for much of 2010 after an explosion on BP's Deepwater Horizon rig.
+ANSWER: oil spills
+
+OAC 2013
+
+1
+
+Page 5 of 17
+
+Alphabet Round - Letter X
+1. What percussion instrument contains wooden bars that produce sound when struck with mallets?
+2. What ancient Greek historian wrote the Anabasis?
+3. What noble gas has atomic number 54?
+4. What type of radiation was discovered by Wilhelm Roentgen?
+5. What is the name for a type of plant that has evolved to survive in extreme conditions like the desert?
+6. What autonomous region of China is inhabited by the Uyghur (WEE-gur) people?
+7. What African clawed frog serves is used as a model organism in biology?
+8. What Orson Scott Card novel is the sequel to Speaker of the Dead and Ender's Game?
+9. What scandal in American history occurred when agents of Talleyrand, the French Foreign Minister, demanded bribes from
+American diplomats?
+10. What king of Persia and son of Darius tried to conquer Greece in the fifth century BC?
+11. (TWO WORD ANSWER) What Jesuit missionary, a student of Ignatius, helped spread Christianity to India and Japan?
+12. What wife of Socrates was proverbially shrewish?
+13. What group of Marvel comics heroes includes Cyclops and Wolverine?
+14. What type of sex-linked inheritance characterizes hemophilia and is more likely to be expressed in males?
+15. Who is Dionysus' servant in the Aristophanes play The Frogs?
+16. Where does Kubla Kahn create a "stately pleasure-dome" in the poem by Samuel Taylor Coleridge?
+17. What type of transport tissue in vascular plants contains tracheids?
+18. What Olympics-like championship for extreme sports is regularly held by ESPN?
+19. What possibly legendary Chinese dynasty is said to have preceded the Shang?
+20. What language that uses tags inside angle brackets is the basis of XHTML and RSS?
+
+OAC 2013
+
+1
+
+Page 6 of 17
+
+Alphabet Round - Letter X ANSWERS
+1. xylophone
+2. Xenophon
+3. Xenon
+4. X-rays [or X-radiation]
+5. Xerophytes
+6. Xinjiang
+7. Xenopus laevis
+8. Xenocide
+9. XYZ Affair
+10. Xerxes I of Persia [or Xerxes the Great]
+11. Francis Xavier [or Francisco de Jasso y Azpilicueta]
+12. Xanthippe
+13. X-men
+14. X-linked recessive inheritance
+15. Xanthias
+16. Xanadu
+17. Xylem
+18. The X-games
+19. Xia Dynasty
+20. XML [or Extensible Markup Language]
+
+OAC 2013
+
+1
+
+Page 7 of 17
+
+FINAL ROUND
+1. The severity of this disease is monitored by the HbA1c test, and drugs used to treat it include
+sulfonylureas and metformin. Its more severe cases can lead to retinopathy and neuropathy, and its onset
+can be prevented with a high-fiber diet. Frequent urination and thirst are symptoms of this disease, which
+has type I and type II forms. Name this disease leading to high blood glucose levels, which involves an
+inability to produce and use insulin.
+ANSWER: diabetes mellitus
+192-13-81-01101
+
+2. This man claimed what he had written “seems like straw” when he refused to dictate to Reginald of
+Piperno. In his most famous work, he refers to Aristotle as “the philosopher” and labeled the first section
+“Treatise on Sacred Doctrine.” In that work, this man posed questions such as “Is sacred doctrine a
+science?” Known as “Doctor Universalis,” this man compiled a work which features the “five ways,” or
+five arguments for God’s existence. Name this Dominican priest who wrote the Summa theologiae.
+ANSWER: Thomas Aquinas [or Thomas of Aquin; prompt on Doctor Universalis until it is read]
+052-13-81-01102
+
+3. Directions in these things can be described using Miller indices. Daniel Shechtman won a Nobel for his
+discovery of the "quasi-" form of these things. These things can undergo twinning. The external shape of
+these things is their namesake habit. Solids can be divided into amorphous, a poly form of this class and
+this class. These things tend to split along certain structural lines, a property known as cleavage. Identify
+this solid form whose atoms or molecules are arranged in a repeating, periodic pattern.
+ANSWER: crystalline solids
+066-13-81-01103
+
+4. This poem states that "heard melodies are sweet, but those unheard are sweeter," and it describes "happy,
+happy boughs" that cannot shed their lives. This poem addresses its subject as "thou foster-child of silence
+and slow time," after referring to it as a "still unravished bride of quietness!" This poem ends with the lines,
+"Beauty is truth, truth beauty; that is all ye know on earth, and all ye need to know." Identify this ode about
+a work of ancient pottery written by John Keats.
+ANSWER: "Ode on a Grecian Urn"
+126-13-81-01104
+
+5. One of his poems is modeled as a letter signed, “Sincerely, GI Joe,” and asks, “Will V-Day Be Me-Day
+Too?" This poet advised “hold fast to dreams” in another poem, while he described a man “down on Lenox
+Avenue” in a work about a pianist. He declared “my soul has grown deep” like the title geographical
+features of another poem, which include the Euphrates and the Congo. Name this poet of “The Weary
+Blues” and “The Negro Speaks of Rivers,” a major figure of the Harlem Renaissance.
+ANSWER: Langston Hughes [or James Mercer Langston Hughes]
+192-13-81-01105
+
+6. In one of his poems, this man suggested wine, poetry, and virtue as three things you could use to perform
+the title action, “Be Drunk.” He imagined a trip to “sweltering Africa and languorous Asia” within the title
+body feature in “The Hair” and compared the poet to a bird who sailors kill for amusement in “The
+Albatross.” His best-known collection begins with “To the Reader,” and includes sections named “Wine,”
+“Revolt,” and “Spleen and Ideal.” Name this French Symbolist poet of Les Fleurs du Mal.
+ANSWER: Charles Baudelaire [or Charles-Pierre Baudelaire]
+192-13-81-01106
+
+OAC 2013
+
+1
+
+Page 8 of 17
+
+7. In 1922, this man attempted to reconcile the Hussein-McMahon Correspondence with the Balfour
+Declaration by drafting his namesake "White Paper." This man had to resign from his post during World
+War I after the failure of the Gallipoli Campaign. This man declared he had nothing to offer but "blood,
+toil, tears, and sweat" in one speech; in another speech, he declared, "Never...was so much owed by so
+many to so few" with reference to the RAF's success in the Battle of Britain. Name this prime minister who
+led Britain during World War II.
+ANSWER: Winston Leonard Spencer Churchill
+080-13-81-01107
+
+8. This team nearly changed its nickname in 1994 to the "Swamp Dragons." This team's first draft pick in
+the NBA was Bernard King. An expected surge in this team's performance was delayed after a 1993 car
+wreck killed guard Drazen Petrovic. This team fired Lawrence Frank in 2010 after they lost sixteen straight
+games to start the season. They reached the 2002 and 2003 NBA Finals largely due to Jason Kidd, and won
+two ABA championships behind Julius Erving. Name this NBA team, partially owned by Jay-Z, which in
+2012 moved to its new home from New Jersey.
+ANSWER: Brooklyn Nets [or Brooklyn Nets; or New Jersey Nets until it is read; prompt on New York
+Nets, their original name]
+088-13-81-01108
+
+9. Supporters of the Holy Roman Empire were barred from holding office in this city by the Ordinances of
+Justice. The Ciompi Revolt was an uprising of wool workers in this city. This city was home to the
+pro-Pope Guelphs and the Holy Roman Empire-supporting Ghibellines. The Pazzi conspiracy attemped to
+overthrow two members of this city's ruling family. The Dominican friar Savonarola burned several works
+of art in this city during the Bonfire of the Vanities. Name this Italian city ruled by the Medici family.
+ANSWER: Florence [or Firenze]
+079-13-81-01109
+
+10. The first of these institutions was bought out by Stephen Girard. William Jones was the first president
+of another of these institutions, which was also led by Langdon Cheves. The second of these institutions
+was unconstitutionally taxed according to the ruling in McCulloch v. Maryland. Roger Taney (TAW-nee)
+was directed by Andrew Jackson in a feud with Nicholas Biddle to remove all federal deposits from one.
+That second and last of these institutions did not have its charter renewed in 1836. Name these institutions
+that held and loaned money for the federal government.
+ANSWER: Banks of the United States [or Banks of the U.S.; or First and Second Banks of the United
+States; or First and Second Banks of the U.S.; or First Bank of the United States until "William Jones";
+prompt on banks; do not accept "Federal Reserve"; do not accept "the Fed"]
+121-13-81-01110
+
+11. Hermes turned Chelone (keh-LOE-nee) into a tortoise for failing to attend this goddess’s wedding.
+Pausanias (pow-SAY-nee-us) claims she married her husband after taking pity on him when he turned into
+a cuckoo. She promised Aeolus a nymph in exchange for battering the ship of Aeneas with wind. This
+goddess is the mother of the cupbearer Hebe. She sent snakes to attack an infant Heracles, and later sent the
+spell of madness that caused him to kill his family. This goddess transformed Echo, and turned Io into a
+cow out of jealousy caused by her husband’s affairs. Name this wife of Zeus.
+ANSWER: Hera
+015-13-81-01111
+
+OAC 2013
+
+1
+
+Page 9 of 17
+
+12. In 1988, fires in this state consumed part of the John D. Rockefeller Jr. Memorial Parkway. It is home
+to a location frequently used for Native American vision quests, the Medicine Wheel National Historic
+Landmark. A popular site for trapping in this state is called Jackson Hole. This state contains the first
+United States National Monument, a site known as “Bear Lodge” by the Lakota. The least populous of the
+fifty states, it is the primary location of Grand Teton and Yellowstone National Parks. Name this western
+state whose capital is Cheyenne.
+ANSWER: Wyoming
+052-13-81-01112
+
+13. Nuclei of this element were fired at the target of an experiment conducted by Ernest Rutherford
+disproving the “plum pudding” model of the atom. Pyotr Kapitsa discovered superfluidity as exhibited by
+an isotope of this element. The nuclei of this element, which were used in the gold foil experiment, are
+called alpha particles. The second least reactive element after neon, this element is the lightest noble gas.
+Name this element with atomic number 2.
+ANSWER: helium [or He]
+014-13-81-01113
+
+14. This political group ascribed to the strange "ruin value" theory, which states that buildings should be
+designed so that they leave aesthetically pleasing ruins when they collapse. One member of this group
+wears an armband and burns down a building in Marc Chagall's painting White Crucifixion. They decried
+modern art as "degenerate," showcasing the worst offenders in a 1937 exhibition. A large rally of this
+political group was depicted in the propaganda film Triumph of the Will. An atrocity perpetrated by this
+group is depicted in Pablo Picasso's Guernica. Name this political group whose symbol was the swastika.
+ANSWER: Nazis [or National Socialists; prompt on Germans]
+020-13-81-01114
+
+15. This author wrote about a man whose quince is laced with a love potion that causes him to believe that
+he is made of glass. After freeing a galley of slaves, one character created by this man encounters Cardenio
+in the Sierra Morena. He wrote the Exemplary Novels. One of this man’s characters goes mad after reading
+the romances of Amadis of Gaul. A character created by this man travels on a horse named Rocinante and
+mistakes windmills for giants. Name this Spanish author of Don Quixote.
+ANSWER: Miguel de Cervantes [or Miguel de Cervantes Saavedra]
+149-13-81-01115
+
+16. One composition by this man features flutes playing staccato to represent fallen tears, three massive
+choruses, and narration by a tenor Evangelist. This composer used an Upper Saxon dialect in a short piece
+describing tax collection in the eighteenth century, his Peasant Cantata. Due to the fact that he worked for
+Protestant princes, four of this man's five masses contain only the "Kyrie" and "Gloria," in line with the
+usual Lutheran practice. However, he set the entire Latin service in his landmark Mass in B minor. Name
+this prolific German composer of the Brandenburg Concertos and a Toccata and Fugue in D minor.
+ANSWER: Johann Sebastian Bach
+019-13-81-01116
+
+17. One statement named for this man indicates that the sharing of edges and faces in anion polyhedra
+decreases stability in an ionic structure. He published an erroneous three helix structure of DNA and helped
+elucidate the structure of the alpha helix. This man developed a formula for a certain physical quantity
+which accounts for valence bond theory and dissociation energies; hydrogen has a value of 2.20 on that
+scale. He proposed that defects in hemoglobin cause sickle cell anemia. Name this man who developed a
+scale for electronegativity and won Nobels in Chemistry and Peace.
+ANSWER: Linus Pauling
+189-13-81-01117
+OAC 2013
+
+1
+
+Page 10 of 17
+
+18. This people's strike in response to a planned expropriation of land by the government is celebrated on
+"Land Day." Roughly 700,000 of these people fled their home country in an mass exodus called "the
+Catastrophe" or "al-Nakba." Police forces fired steel bullets wrapped in rubber at them during an uprising
+called the "shaking off," or "Intifada." The Oslo Accords created a national authority for these people, who
+live in the Gaza Strip and the West Bank. Name these stateless Arabs engaged in an ongoing conflict with
+Israel.
+ANSWER: Palestinians [or Israeli Arabs; prompt on Arabs; prompt on Muslims]
+080-13-81-01118
+
+19. During the aria "Zitti, Zitti," this character is blindfolded and unwittingly assists an abduction. This
+character closes out the opera by singing "La maledizione!" recognizing the curse which has been placed on
+him when he opens a sack to discover his dying daughter, Gilda. Earlier, this character sings "Pari siamo,"
+pondering his similarity to the assassin Sparafucile (spah-RAH-foo-CHEEL-ay). This character frequently
+mocks the noblemen husbands of women that his master, the Duke of Mantua, lusts after. Name this
+hunchbacked court jester, the title character of a Verdi opera.
+ANSWER: Rigoletto
+052-13-81-01119
+
+20. Michelle Alexander wrote about the racist use of these places in her 2010 book The New Jim Crow. A
+simulation of these places put reflective sunglasses on a man nicknamed “John Wayne.” Michel Foucault
+criticized the Panopticon design for these places, in which one person can see everyone else. A fake one
+was shut down after six days by Philip Zimbardo in an out-of-control Stanford hallway. Name these
+institutions with guards and inmates.
+ANSWER: prisons [or jails]
+104-13-81-01120
+
+OAC 2013
+
+1
+
+Page 11 of 17
+
+Alphabet Round - Letter X
+1. What percussion instrument contains wooden bars that produce sound when struck with mallets?
+2. What ancient Greek historian wrote the Anabasis?
+3. What noble gas has atomic number 54?
+4. What type of radiation was discovered by Wilhelm Roentgen?
+5. What is the name for a type of plant that has evolved to survive in extreme conditions like the desert?
+6. What autonomous region of China is inhabited by the Uyghur (WEE-gur) people?
+7. What African clawed frog serves is used as a model organism in biology?
+8. What Orson Scott Card novel is the sequel to Speaker of the Dead and Ender's Game?
+9. What scandal in American history occurred when agents of Talleyrand, the French Foreign Minister, demanded bribes from
+American diplomats?
+10. What king of Persia and son of Darius tried to conquer Greece in the fifth century BC?
+11. (TWO WORD ANSWER) What Jesuit missionary, a student of Ignatius, helped spread Christianity to India and Japan?
+12. What wife of Socrates was proverbially shrewish?
+13. What group of Marvel comics heroes includes Cyclops and Wolverine?
+14. What type of sex-linked inheritance characterizes hemophilia and is more likely to be expressed in males?
+15. Who is Dionysus' servant in the Aristophanes play The Frogs?
+16. Where does Kubla Kahn create a "stately pleasure-dome" in the poem by Samuel Taylor Coleridge?
+17. What type of transport tissue in vascular plants contains tracheids?
+18. What Olympics-like championship for extreme sports is regularly held by ESPN?
+19. What possibly legendary Chinese dynasty is said to have preceded the Shang?
+20. What language that uses tags inside angle brackets is the basis of XHTML and RSS?
+
+OAC 2013
+
+1
+
+Page 12 of 17
+
+Alphabet Round - Letter X
+1. What percussion instrument contains wooden bars that produce sound when struck with mallets?
+2. What ancient Greek historian wrote the Anabasis?
+3. What noble gas has atomic number 54?
+4. What type of radiation was discovered by Wilhelm Roentgen?
+5. What is the name for a type of plant that has evolved to survive in extreme conditions like the desert?
+6. What autonomous region of China is inhabited by the Uyghur (WEE-gur) people?
+7. What African clawed frog serves is used as a model organism in biology?
+8. What Orson Scott Card novel is the sequel to Speaker of the Dead and Ender's Game?
+9. What scandal in American history occurred when agents of Talleyrand, the French Foreign Minister, demanded bribes from
+American diplomats?
+10. What king of Persia and son of Darius tried to conquer Greece in the fifth century BC?
+11. (TWO WORD ANSWER) What Jesuit missionary, a student of Ignatius, helped spread Christianity to India and Japan?
+12. What wife of Socrates was proverbially shrewish?
+13. What group of Marvel comics heroes includes Cyclops and Wolverine?
+14. What type of sex-linked inheritance characterizes hemophilia and is more likely to be expressed in males?
+15. Who is Dionysus' servant in the Aristophanes play The Frogs?
+16. Where does Kubla Kahn create a "stately pleasure-dome" in the poem by Samuel Taylor Coleridge?
+17. What type of transport tissue in vascular plants contains tracheids?
+18. What Olympics-like championship for extreme sports is regularly held by ESPN?
+19. What possibly legendary Chinese dynasty is said to have preceded the Shang?
+20. What language that uses tags inside angle brackets is the basis of XHTML and RSS?
+
+OAC 2013
+
+1
+
+Page 13 of 17
+
+Alphabet Round - Letter X
+1. What percussion instrument contains wooden bars that produce sound when struck with mallets?
+2. What ancient Greek historian wrote the Anabasis?
+3. What noble gas has atomic number 54?
+4. What type of radiation was discovered by Wilhelm Roentgen?
+5. What is the name for a type of plant that has evolved to survive in extreme conditions like the desert?
+6. What autonomous region of China is inhabited by the Uyghur (WEE-gur) people?
+7. What African clawed frog serves is used as a model organism in biology?
+8. What Orson Scott Card novel is the sequel to Speaker of the Dead and Ender's Game?
+9. What scandal in American history occurred when agents of Talleyrand, the French Foreign Minister, demanded bribes from
+American diplomats?
+10. What king of Persia and son of Darius tried to conquer Greece in the fifth century BC?
+11. (TWO WORD ANSWER) What Jesuit missionary, a student of Ignatius, helped spread Christianity to India and Japan?
+12. What wife of Socrates was proverbially shrewish?
+13. What group of Marvel comics heroes includes Cyclops and Wolverine?
+14. What type of sex-linked inheritance characterizes hemophilia and is more likely to be expressed in males?
+15. Who is Dionysus' servant in the Aristophanes play The Frogs?
+16. Where does Kubla Kahn create a "stately pleasure-dome" in the poem by Samuel Taylor Coleridge?
+17. What type of transport tissue in vascular plants contains tracheids?
+18. What Olympics-like championship for extreme sports is regularly held by ESPN?
+19. What possibly legendary Chinese dynasty is said to have preceded the Shang?
+20. What language that uses tags inside angle brackets is the basis of XHTML and RSS?
+
+OAC 2013
+
+1
+
+Page 14 of 17
+
+Alphabet Round - Letter X
+1. What percussion instrument contains wooden bars that produce sound when struck with mallets?
+2. What ancient Greek historian wrote the Anabasis?
+3. What noble gas has atomic number 54?
+4. What type of radiation was discovered by Wilhelm Roentgen?
+5. What is the name for a type of plant that has evolved to survive in extreme conditions like the desert?
+6. What autonomous region of China is inhabited by the Uyghur (WEE-gur) people?
+7. What African clawed frog serves is used as a model organism in biology?
+8. What Orson Scott Card novel is the sequel to Speaker of the Dead and Ender's Game?
+9. What scandal in American history occurred when agents of Talleyrand, the French Foreign Minister, demanded bribes from
+American diplomats?
+10. What king of Persia and son of Darius tried to conquer Greece in the fifth century BC?
+11. (TWO WORD ANSWER) What Jesuit missionary, a student of Ignatius, helped spread Christianity to India and Japan?
+12. What wife of Socrates was proverbially shrewish?
+13. What group of Marvel comics heroes includes Cyclops and Wolverine?
+14. What type of sex-linked inheritance characterizes hemophilia and is more likely to be expressed in males?
+15. Who is Dionysus' servant in the Aristophanes play The Frogs?
+16. Where does Kubla Kahn create a "stately pleasure-dome" in the poem by Samuel Taylor Coleridge?
+17. What type of transport tissue in vascular plants contains tracheids?
+18. What Olympics-like championship for extreme sports is regularly held by ESPN?
+19. What possibly legendary Chinese dynasty is said to have preceded the Shang?
+20. What language that uses tags inside angle brackets is the basis of XHTML and RSS?
+
+OAC 2013
+
+1
+
+Page 15 of 17
+
+Alphabet Round - Letter X
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+1
+
+Page 16 of 17
+
+Alphabet Round - Letter X
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+1
+
+Page 17 of 17
+
+

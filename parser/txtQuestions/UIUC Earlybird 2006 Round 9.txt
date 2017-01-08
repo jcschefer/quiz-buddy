@@ -1,0 +1,336 @@
+UIUC Earlybird 2006 - Round 9
+(Tossups by UIUC Academic Buzzer Team)
+1. In tort law, this is defined as any unwanted harmful or offensive touching, encompassing everything
+from a flick on the nose to pulling the chair out from under someone trying to sit. According to Black’s
+Law Dictionary, in criminal law, it is “The use of force against another, resulting in harmful or offensive
+contact.” Generally consisting of more than the threat of harm, it is differentiated from assault. FTP, give
+this seven-letter term, also a science term for a device that stores chemical energy for use as electrical
+energy.
+ANSWER: battery
+2. This person’s first fighting in the American Revolution was at the battle of Brandywine, where his
+actions earned him the rank of Brigadier General. He was later appointed to head South to capture
+Savannah and he assumed command after General D’Estaing fell wounded, though he was later wounded
+himself. He joined because he remembered England’s attempt to partition his homeland. FTP, name this
+Polish “Father of the American Cavalry.”
+ANSWER: Casimir Pulaski
+3. Pencil and Paper Ready. Suppose you have a regular hexagon in the plane with side length 1. What is the
+area of the octagon? The area of a regular plane polygon can be calculated as one half times the apothem
+times the perimeter. The hexagon is composed of six equilateral triangles. Each apothem will bisect the
+equilateral triangle into two 30-60-90 triangles. FTP, what is this quantity, one half times six times the
+apothem, which is the square root of 3 over two?
+ANSWER: three square root three over two (accept equivalents)
+4. After the battle of Lexington, he organized the governor’s guards in New Haven and proposed capturing
+Ticonderoga and Crown Pointe. He later captured St. John’s and returned to Cambridge, where he proposed
+to Washington an expedition into Canada. His siege of Quebec failed and he lost horribly at Valcour Island,
+but his later actions were exposed by the capture of John Andre. FTP, identify this infamous Revolutionary
+traitor.
+ANSWER: Benedict Arnold
+5. This person expressed a critical alienation from religion and nationality in Imaginary Homelands and
+produced the collection Haroun and the Sea of Stories for a son. Rock singer Vina Apsara is swallowed-up
+by an earthquake in this author’s retelling of the Orpheus myth, The Ground Beneath Her Feet. The story of
+Parvati the Witch, Shiva, Saleem Sinai, and the MCC is told in his Midnight’s Children. FTP, name this
+author who was the subject of a fatwa for The Satanic Verses; an Indian author who was in hiding for
+almost a decade.
+ANSWER: Ahmed Salman Rushdie
+6. The original building of this name was built in the fourth century CE and was later destroyed in the Nika
+revolt. The present building was commissioned by Justinian in 537. Its unique dome is supported by four
+pendentive vaults, one of the largest domes built prior to the Renaissance. It remained an Eastern Orthodox
+Church until the 1453 Ottoman conquest, when it was turned into a mosque. FTP, name this Istanbul
+landmark, now a museum, originally dedicated to “Holy Wisdom.”
+ANSWER: the Hagia Sophia
+7. The planning for this battle included the seizing of the Kerama Islands and the winning side had sent
+units to Hagushi Bay as an anchor. The opposing side was led by Lieutenant-General Ushijima, while the
+winning side was commanded by Simon Buckner. On April 24, the Machinato Line was finally breached,
+only to expose the Shuri Line. FTP, name this World War II battle fought in April, 1945, immediately
+preceded by Iwo Jima.
+ANSWER: the Battle of Okinawa
+
+8. This person’s “Double” Concerto, Op. 102, is one of the pinnacles of the violin-cello repertoire, while
+the St. Anthony Variations, on a theme of Haydn, are among numerous works of his in that genre. Though
+he almost certainly loved Clara Wieck [veak], he did not act on this even after his friend Robert Schumann,
+her husband, died. Creator of one third of the”F-A-E Sonata”, the Academic Festival Overture, and the
+Hungarian Dances, this composer wrote the German Requiem to commemorate his mother. FTP, name this
+Hamburg-born composer of four Symphonies.
+ANSWER: Johannes Brahms
+9. Conserved in a throttling process, this quantity entirely determines the temperature of an ideal gas, but
+non-ideal gasses can change temperature with this held constant in the Joule-Thompson effect. This
+energetic physical property is a canonical potential of an open system as it measures the work available
+from the system by accounting for flow and expansion work in its second term. FTP, name this state
+function symbolized h and equal to a system’s the internal energy its pressure times its volume.
+ANSWER: enthalpy (prompt on “h”)
+10. The Hasbani, Banias, and Dan rivers merge to form this river. Because it’s in such an arid region,
+approximately three-quarters of its water are used for human purposes. Having the lowest elevation of any
+river in the world, pollution has become a major problem in modern times. FTP, name this river flowing
+through the Sea of Galilee and ultimately draining into the Dead Sea; a Middle-Eastern river that defines
+the eastern border of Israel.
+ANSWER: the Jordan River
+11. This person published Reconsiderations towards the end of his life, having earlier issued Literal
+Commentary on Genesis. Heavily influenced by Cicero’s Hortentius, this religious philosopher wrote a 410
+CE work to defend Christianity from the charge that it had caused the fall of Rome, City of God. FTP,
+name this theologian, Christian saint, and Bishop of Hippo who is best known for his autobiographical
+Confessions.
+ANSWER: Saint Augustine of Hippo
+12. This personearned a scholarship to study radio electronics in Paris, where he met Ieng Sary and Song
+Sen. Upon returning home, he began working for the KPRP and, after taking it over, he renamed it the
+Workers’ Party of Kampuchea, which later formed an insurgency base called “Office 100.” After takingover Phnom Penh, he declared “Year Zero,” and by 1976 was named Prime Minister. FTP, name this
+infamous leader of the Khmer Rouge.
+ANSWER: Pol Pot (or Saloth Sar)
+13. This person’s interest in the American Southwest and Mexico is evident in the works The Plumed
+Serpent and Aaron’s Rod, which features the flutist Sisson. This writer chronicled the Bragwen family in
+The Rainbow and Women in Love, which contains his trademark devices of horse admiration and moon
+madness. The love triangle formed by Claire Dawes, Miriam Levers, and Paul Morel is central to this
+author’s Sons and Lovers. FTP, name this English writer of Lady Chatterley’s Lover.
+ANSWER: David Herbert Lawrence
+14. The patron of Amphicleia, this being’s epithets include Bromios, Taurokeros, and Tauroprosopos and
+he possessed the thyrsus and kantharos. Raised in Nysa, this deity was born twice, once from the thigh of
+his father. This god rescued and wed Ariadne and visited Hades to try to resurrect his mother Semele, who
+was destroyed when his father Zeus appeared to her in his full glory. FTP, name this god whose followers
+were the Maenads; the Greco-Roman god of ecstasy and wine.
+ANSWER: Bacchus (or Dionysus or Liber)
+
+15. This person’s notable legal works include The Elements of the Common Lawes of England and 1641’s
+Cases of Treason, while his A Naturall Historie was published posthumously along with the unfinished The
+New Atlantis. This thinker’s Advancement of Learning is the first important work of philosophy written in
+English, while his namesake method was introduced in his namesake tables in the volumes of The Great
+Instauration. FTP, name this philosopher and lord chancellor of England best known for the Novum
+Organum.
+ANSWER: Francis Bacon, Viscount Saint Alban
+16. Interestingly, a square can achieve this state on a caternary. One can easily the angular velocity of each
+section of the object undergoing this type of motion because a certain point is always stationary. This type
+of motion is useful because an object undergoing it experiences static friction even though it is in motion;
+this advantage occurs because the rolling object is in contact with a single point of the surface on which it
+rolls, and that point of contact is instantaneously stationary at all times. FTP, name this type of rolling in
+which an object moves entirely due to rotation because no translation occurs at the contact point.
+ANSWER: rolling without slipping (accept equivalents; prompt on “rolling”)
+17. In recent years, this work has been performed as a an opera in the United States, most notably in 2002
+at the Lyric in Chicago. In this musical work, Judge Turpin has taken Johanna away from her natural father
+and raised her as his own daughter, but her father comes back to London, seeking revenge against the
+people who have wronged him, with the help of Mrs. Lovett, who bakes pies. FTP, name the Stephen
+Sondheim musical cum opera about the titular demonic barber.
+ANSWER: Sweeney Todd
+18. This taxon contains sub-taxa adenophorea and secernentea. Members of this set of animals reproduce
+by exchange of chitinized spicules and have posterior sense organs known as phasmids. The important
+model species Caenorhabditis elegans is a member of this phylum, which is best known for the parasites
+that it contains. FTP, name this phylum whose name comes from the Greek for “thread-like” because it is
+comprised of the roundworms.
+ANSWER: nematoda (or nematodes)
+19. Notable stand-alone sections of this collection include “Youth, Day, Old Age, and Night;” “To Think of
+Time;” and one that exclaims “Flood-tide below me! I see your face!”, “Crossing Brooklyn Ferry.” The
+best-known entries in this collection come from the sections “Inscriptions,” “Children of Adam,” and one
+that includes “When Lilacs Last in the Dooryard Bloom’d.” FTP, name this poetry compilation that
+contains “Out of the Cradle Endlessly Rocking” and “Song of Myself;” the best-known work of Walt
+Whitman.
+ANSWER: Leaves of Grass
+20. Not much is known of this person’s thirteen-year tour of the provinces, though The Amorous Quarrel
+and The Blunderer date from that time. La Grange and du Croisy feature as spurned lovers in this author’s
+The Affected Ladies. This writer’s fortunes turned on a 1658 performance of The Amorous Doctor, which
+allowed him to obtain the patronage of the Duc d’Orleans; he would use that patronage to create The
+School for Wives, The Would-Be Gentleman, The Misanthrope, and Tartuffe. FTP, name this greatest
+French comedian.
+ANSWER: Molière (or Jean-Baptiste Poquelin)
+21. Article Two defined boundaries for one side, which led to the other side giving up its land claims South
+of the Yazoo River. It also stipulated that six months would be given for any forts on one side in the other’s
+territory to be evacuated, but they weren’t abandoned until Franco-American relations went South. Farmers
+were elated since it granted them permission to ship goods through New Orleans. FTP, name this 1795
+treaty between the U.S. and Spain.
+ANSWER: Pinckney’s Treaty (or the Treaty of San Lorenzo)
+
+UIUC Earlybird 2006 - Round 9
+(Bonuses by UIUC Academic Buzzer Team)
+1. You might know more than you think about twentieth-century philosophers. Let’s see, FTPE.
+[10] This twentieth-century British logician and analyst is popularly known for his anti-war activism, as the
+author of Why I Am Not a Christian, and as the recipient of the 1950 Nobel Prize in Literature.
+ANSWER: Bertrand Arthur William Russell, 3rd Earl Russell of Kingston Russell, Viscount Amberley of
+Amberley and of Ardsalla
+[10] With Alfred North Whitehead, Russell published this important work on predicate logic and arithmetic
+from 1910 to 1913. It shares its name with the common name of the best-known work of Isaac Newton.
+ANSWER: Principia Mathematica
+[10] Russell was loosely associated with group of writers, philosophers, and artists, named for a residential
+district of Cambridge. It included Clive Bell, G.E. Moore, E.M. Forster, J.M. Keynes, and Virginia Woolf.
+ANSWER: the Bloomsbury group
+2. Given a description, identify the ancient Greek play FTPE.
+[10] Orestes is sent by Apollo to avenge his father’s death under fear of leprosy, and is aided by his sister.
+Clytemnestra tries to plead with him, but Pylades reminds him of his duty, and he kills her.
+ANSWER: The Libation-Bearers (or Choephoroi)
+[10] Strepsiades enrolls in Socrates’ school to try to get out of debts run up by his son Phidippides, but is
+convinced to use force on his son instead. At the end, Strepsiades sets fire to the roof of the school.
+ANSWER: The Clouds (or Nephelai)
+[10] Pentheus refuses to allow the worship of Dionysus in Thebes, so Dionysus drives Semele’s sisters
+mad. Pentheus then arrests the god and Dionysus executes a plan for the title group, including Pentheus’
+own mother, to rip the king to death.
+ANSWER: Bacchae
+3. Answer the following concerning Japan’s involvement in World War II FTSNOP.
+[5] America’s involvement in the War as a combatant began with the Japanese surprise attack on this
+location on December 7, 1941.
+ANSWER: Pearl Harbor
+[10] This Minister of the Navy opposed the war, but planned-out the surprise attack on Pearl Harbor.
+ANSWER: Isokoru Yamamoto
+[15] In 1945, the Allied powers issued this document, demanding immediate surrender, but Japan did not
+surrender until after the atomic bombs were dropped.
+ANSWER: Potsdam Declaration
+4. Given the country, name its second-most-populous city FTPE.
+[10] Australia.
+ANSWER: Melbourne
+[10] Poland.
+ANSWER: Krakow
+[10] Spain.
+ANSWER: Barcelona
+
+5. Answer each of the following from elementary analysis FTP.
+[10] This property is necessary but not sufficient for differentiability. A test for it may be stated by
+requiring that every open interval have an open pre-image, or with the conventional epsilon-delta
+definition.
+ANSWER: continuity (accept word forms)
+[10] If a function is smooth on an interval, then the integral over that interval of its derivative is equal to the
+different between the value of the function itself at the interval’s endpoints according to this very important
+theorem.
+ANSWER: the fundamental theorem of the calculus
+[10] This theorem states that, if a function is differentiable on an interval and the value of the function at
+the endpoints of the interval are equal, then the derivative of the function vanishes at at least one place on
+the interval.
+ANSWER: Rolle’s theorem
+6. Identify the following concerning African colonies FTPE.
+[10] In 1957, Kwame Nkrumah became the leader of this country, the first African colony to become
+independent.
+ANSWER: Ghana
+[10] After World War II, Britain and France jointly ruled this country, a former Italian colony.
+ANSWER: Libya
+[10] After World War I, Germany lost all of its’ African colonies. FFPE, name any two of them.
+ANSWER: Burundi, Cameroon, Namibia, Rwanda, Tanganyika, or Togo (accept any two)
+7. Answer each of the following about some common assumptions in physics FTP.
+[10] The common statement of Newton’s second law as F equals m a tacitly assumes that this quantity
+appearing in the statement is constant.
+ANSWER: the mass
+[10] The acceleration of gravity is only constant at about 10 meters per second squared if this quantity,
+appearing in the denominator of the law of universal gravitation, is not significantly different from its value
+at the Earth’s surface.
+ANSWER: the distance from the center object to the center of the Earth (accept things close to that;
+prompt on “R”)
+[10] When one states the mass of nuclides as the sums of the masses of their constituent particles, one
+assumes that this quantity, the binding energy divided by the speed of light squared, is small.
+ANSWER: the mass defect (prompt on “delta”)
+8. Answer the following about an epic FTPE.
+[10] This descendant of Cain has his arm ripped off and hung in the mead-hall Heorot, a hall which used to
+serve as a feeding-place.
+ANSWER: Grendel
+[10] This Geat rips off his arm and also kills Grendel’s mother and a fire-breathing dragon.
+ANSWER: Beowulf
+[10] Beowulf is the nephew of this man, the King of the Geats and husband of Hygd.
+ANSWER: Hygelac
+9. Given a description, identify the Amendment FTPE.
+[10] It established that Congress has to meet at least once a year and allows for the Vice President to
+assume command if the President dies.
+ANSWER: the Twentieth Amendment
+[10] It bans excessive fines and “cruel and unusual punishment.”
+ANSWER: the Eighth Amendment
+[10] It put the President and Vice President on the same ticket instead of having them run separately.
+ANSWER: the Twelfth Amendment
+
+10. Consider the quadratic equation x squared plus four x minus 1 equals zero. FTPE:
+[10] This is the discriminant of the equation.
+ANSWER: twelve
+[10] Suppose the discriminant were negative. What can you tell about the roots of the quadratic?
+ANSWER: that it has two complex roots (accept any similar response as long as it notes that there are two
+roots and that they are complex; prompt if only one of these things is noted)
+[10] This is the product of the roots of the quadratic.
+ANSWER: negative one
+11. Ah, that unerring wellspring of moral behavior, the Bible. Answer each the following about some
+goings-on from the reign of King David FTP.
+[10] David coveted this beautiful daughter of Eliam, so he knocked her up on a roof, as re-told in the Pixies
+song “Dead.”
+ANSWER: Bathsheba (or Bethsabee)
+[10] Unfortunately, Bathsheba was already married to this Hittite general in David’s army. David did the
+honorable thing and had him killed.
+ANSWER: Uriah the Hittite
+[10] As outlined in Second Chronicles, all of this monkey business understandably drew the wrath of this
+prophet, who frequently excoriated David for his various moral lapses.
+ANSWER: Nathan
+12. Answer the following concerning plans for Reconstruction FTPE.
+[10] This was Lincoln’s plan for readmitting states to the Union based the namesake fraction of voters
+willing to swear an oath of allegiance to the United States.
+ANSWER: the Ten-Percent Plan
+[10] During the summer of 1864, this bill was passed to counter the Ten-Percent Plan. It demanded that
+fifty percent swear an oath and guaranteed the civil liberties of blacks.
+ANSWER: the Wade-Davis Bill
+[10] Congress set this department up in 1865 in order to distribute supplies as well as food. It was
+successful in creating schools for nearly a quarter of a million blacks.
+ANSWER: the Freedmen’s Bureau
+13. Given the term and a famous case, name the United States Chief Justice FTPE.
+[10] 1986-2005, Bush v. Gore.
+ANSWER: William Rehnquist
+[10] 1836-1864, Dred Scott v. Sandford.
+ANSWER: Roger Taney [TAW-knee]
+[10] 1953-1969, Brown v. Board of Education.
+ANSWER: Earl Warren
+14. Answer each of the following about a pretty crazy energy source FTP.
+[10] This atomic process, the combination of two light nuclei to make a heavier one and energy, works
+equally well in the sun and the stars and in hydrogen bombs.
+ANSWER: thermonuclear fusion
+[10] Much to the chagrin of several, fusion does not yet work well in these experimental energy-production
+devices, named from the Russian for “toroidal current chamber.” The largest of these currently in the world
+is JET.
+ANSWER: tokamaks
+[10] Fusion may, however, work better in this new tokamak, currently being designed and built by a large
+international coalition (that may include your author) in Cadarache, France.
+ANSWER: ITER
+
+15. Answer each of the following about a Norse hero FTP.
+[10] The product of the incestuous union of Siegmund and Sieglinde, this most famous of Norse heroes
+used the sword of his foster father Regan to recover the treasure of Hreidmar.
+ANSWER: Sigurd (or Sigfried)
+[10] To recover Hreidmar’s treasure, Sigurd slew this dragon, once the brother of Regan, who had been
+corrupted by the power of the ring Andvarinaut. By bathing in its blood and eating its heart, Sigurd became
+nearly invulnerable and able to understand birdsong.
+ANSWER: Fafnir
+[10] Sigurd used his new knowledge and power to rescue this demigoddess, who had been imprisoned in a
+ring of magical fire, but she eventually proved his undoing.
+ANSWER: Brynhild (or Brunhilda or Brunhilde or Brünhild or Brynhild)
+16. Identify each of the following characters from Les Miserables FTPE.
+[10] This strong man, the work’s protagonist, begins the work in prison. After his release, he travels to
+Montreuil-sur-mer, where he is elected mayor under the pseudonym Monsieur Madeleine.
+ANSWER: Jean Valjean (accept either name)
+[10] The daughter of Fantine and a student, she spends her childhood as a servant but is later adopted by
+Valjean and falls in love with Marius.
+ANSWER: Cosette
+[10] At first, he would stop at nothing to recapture Valjean but, in the end, hecannot decide whether or not
+Valjean deserves to be arrested.
+ANSWER: Inspector Javert
+17. Name each of the following American composers based on works FTP.
+[10] The composer of Vanessa and perhaps the shortest opera ever, A Hand of Bridge, is best known for a
+movement excerpted from his String Quartet, the Adagio for Strings.
+ANSWER: Samuel Barber
+[10] This superstar conductor’s first three symphonies are subtitled “Jeremiah”, “The Age of Anxiety”, and
+“Kaddish”. Other works include Dybbuk, Facsimile, and Candide.
+ANSWER: Leonard Bernstein
+[10] This innovative Connecticut native is responsible for The Camp Meeting, Three Places in New
+England, and The Unanswered Question.
+ANSWER: Charles Edward Ives
+18. Given the paintings, name the artist FTPE.
+[10] The Scream, The Dance of Life, and Madonna.
+ANSWER: Edvard Munch
+[10] The Gross Clinic and The Agnew Clinic.
+ANSWER: Thomas Eakins
+[10] Vision After the Sermon and Day of the God.
+ANSWER: Paul Gauguin
+19. Identify the following about pre-World-War-I alliances FTSNOP.
+[5/5] FFPE, name the two nations that were members of both the Three Emperor’s League and the Triple
+Alliance.
+ANSWER: Germany and Austria-Hungary (accept in either order)
+[10] After Austria-Hungary declared war on Serbia, this country, bound by treaty to Serbia, announced its
+plan to mobilize.
+ANSWER: Russia
+[10] Britain entered the war due to the terms of a 75-year-old treaty binding them to defend this neutral
+country.
+ANSWER: Belgium
+
+20. Identify the following futuristic works FTPE.
+[10] This work opens with a giant monolith probing the minds of man-apes and ends with David Bowman
+being made immortal and saving the Earth from nuclear destruction.
+ANSWER: 2001: A Space Odyssey
+[10] This work by Karel Capek [CHA-peck] introduced the word robot to the English language.
+ANSWER: R.U.R. (Rossum’s Universal Robots)
+[10] The narrator transports himself to the year 802,701 AD, where he encounters the Eloi, who are
+humanlike creatures, and the Morlocks, who eat them.
+ANSWER: The Time Machine
+
+

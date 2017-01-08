@@ -1,0 +1,872 @@
+Harvard Fall Tournament X 
+Edited by ​
+Raynor Kuang and Robert Chu 
+Questions by ​
+Raynor Kuang, Robert Chu, Jason Park, Sriram Pendyala, Roger Jin, Erik Owen, Harrison 
+Li, Mark Arildsen, Vimal Konduri, Adam Frim, and Jonah Philion 
+And with thanks to​
+ Will Holub­Moorman, MIT Quiz Bowl, and various playtesters 
+ 
+Round 8 
+ 
+Tossups 
+ 
+1. ​
+Ferenc Szalasi led a Hungarian Fascist party whose name combines “Cross” with one of these objects. As 
+Canada’s Prime Minister, John Diefenbaker controversially canceled an Avro­built fighter jet named after 
+these things, and accidents involving nuclear weapons are termed “broken” examples of these items. In 
+reference to these (*)​
+ weapons, the Spartan soldier Dienekes supposedly quipped, “We will fight in the shade.” 
+Thousands of heavily armored French knights died after being struck by these projectiles at Agincourt. For 10 
+points, name these weapons typically made by a fletcher and carried in a quiver. 
+ANSWER: ​
+arrow​
+s (accept bow and ​
+arrow​
+ and prompt on “bow” after “effect of these weapons” is read) 
+ 
+2. ​
+One of this man’s poems states that “[t]he Emperor's drunken soldiery are abed” and describes a floating 
+“superhuman” shade. Other than “Byzantium,” this author wrote about a cabin of “ of clay and wattles 
+made” with “Nine bean­rows” and a “a hive for the honey­bee” in “The Lake Isle of (*)​
+ Innisfree.” One of this 
+man’s poems claims that “Whatever is begotten, born, and dies” and “That is no country for old men.” This man’s 
+most famous poem contains dark omens like “Mere anarchy is loosed upon the world” and “Things fall apart; the 
+centre cannot hold.” For 10 points, name this poet who wrote “Sailing to Byzantium” and “The Second Coming.” 
+ANSWER:​
+ ​
+W(illiam) B(utler) ​
+Yeats 
+ 
+3. ​
+A compound with three aryl groups bonded to this element is a common ligand in organometallic 
+chemistry, and is used in the Wittig reaction. ​
+A now discredited 2010 article claimed that GFAJ­1 bacteria 
+could incorporate arsenic in lieu of this element. The violet allotrope of this element was discovered by (*) 
+Johann Willhelm Hittorf, though this element’s most common allotropes are its white and red forms. This element 
+was discovered while trying to make the philosopher’s stone from urine. For 10 points, name this element located 
+below nitrogen on the periodic table with symbol P. 
+ANSWER: ​
+phosphorus​
+ (prompt on “P”) 
+ 
+4. ​
+This man allegedly turned to composing after his use of a homemade finger strengthening device ended his 
+career as a pianist. One work by this composer includes an A­E flat­C­B phrase encoding the name of his 
+fiancée’s hometown of Asch. “The Wild Horseman” and “The Happy Farmer” are titles in this composer’s 
+(*)​
+ ​
+Album for the Young​
+, and this man’s first symphony reuses a theme from his ​
+Kreisleriana​
+. The final movement 
+of his third symphony was inspired by a visit to a cathedral in Cologne, which is located on the title German river. 
+For 10 points, name this composer of ​
+Carnaval ​
+and the ​
+Rhenish ​
+symphony, the husband of Clara Wieck. 
+ANSWER: Robert ​
+Schumann 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5. ​
+This author claimed “I’d wash my dirty Iran” if he were doing his laundry in the poem “Homework.” This 
+author recorded one of his poems while on a Greyhound bus, and set another on a “tincan banana dock”; 
+those are his “Wichita Vortex Sutra” and “Sunflower Sutra.” This author addressed (*) ​
+Garcia Lorca and Walt 
+Whitman in the poem “A Supermarket in California,” and he dedicated a poem to the death of his mother Naomi in 
+“Kaddish.” This author’s most famous poem opens “I saw the best minds of my generation destroyed by madness.” 
+For 10 points, name this Beat poet, the author of ​
+Howl​
+. 
+ANSWER: Allen ​
+Ginsberg 
+ 
+6. ​
+In IR spec, the spacing between the rightmost P­branch line and leftmost R­branch line is proportional to 
+the square root of this value over the reduced mass. This quantity can be generalized to a fourth­order tensor 
+called the elasticity tensor, and in the isotropic case, it is the cross­sectional area of a material times (*) 
+Young’s modulus over the equilibrium length. The frequency of an oscillator is the square root of this quantity over 
+mass. It is proportional to the stiffness for its namesake device, and force is equal to negative this constant times 
+displacement. For 10 points, name this constant symbolized ​
+k​
+ that appears in Hooke’s law. 
+ANSWER: ​
+spring constant​
+ (accept ​
+k​
+ until read, accept ​
+force constant​
+, prompt on “Young’s modulus” until read) 
+ 
+7. ​
+This ruler had Serapios, the strategos of Cypros, killed and this ruler was forced into exile by the eunuch 
+Pothinus. This ruler’s sister Arsinoe IV was scandalously murdered on the steps of the Temple of Ephesus. 
+This ruler allegedly won a bet by drinking (*)​
+ pearls dissolved in vinegar, and while besieged by enemies, this 
+monarch asked for and received a basket of figs. This ruler snuck into a room hidden inside a rolled­up carpet, and 
+after she and her lover were defeated at the Battle of Actium, this woman killed herself with an asp. For 10 points, 
+name this last Ptolemaic pharaoh of Egypt, the lover of Julius Caesar and Mark Antony. 
+ANSWER: ​
+Cleopatra​
+ VII Philopator 
+ 
+8. ​
+The Altuna Runestone shows this entity pulling a figure through wood boards. The center bottom of the 
+Ardre VIII Stone depicts the Sky­bellower being slain to bait this thing. One of the four legs of this creature 
+were apparently lifted after Utgard­Loki disguised this creature as a gigantic (*) ​
+cat, and Hymir was part of a 
+quest to catch this creature. The deity who kills this beast takes nine steps backwards and dies from poison. Thor 
+used an ox­head to catch this creature on a fishing trip, and this creature exemplifies an ouroboros since it grasps its 
+own tail. For 10 points, name this monster from Norse mythology that is wrapped around the entire world. 
+ANSWER: ​
+Midgard Serpent​
+ (accept ​
+Jörmungandr​
+ or the ​
+World Serpent​
+) 
+ 
+9. ​
+For a parabolic dispersion relation in three­dimensions, the resulting density of states is proportional to 
+this nonlinear function of the energy. For sodium chloride, the molar solubility is equal to this function of the 
+solubility product constant. Graham’s law gives the rate of (*)​
+ effusion as proportional to the reciprocal of this 
+function of the molar mass. The length of a vector is this function of the sum of the squares of each coordinate point, 
+and Pythagoras discovered that this function applied to two is irrational. This function is equivalent to the one­half 
+power. For 10 points, name this function that is the inverse of the square. 
+ANSWER: ​
+square root​
+ function (accept ​
+one­half power​
+ before read) 
+ 
+10. ​
+This figure was rescued from being killed in one story by being lowered in a basket outside the city walls. 
+While imprisoned with Silas, this figure chose not to escape after an earthquake burst his cell doors open. 
+This figure rebuked another for not eating with (*) ​
+Gentiles in the Incident at Antioch, and he frequently 
+travelled with Barnabas. After hearing a voice cry “Why do you persecute me?,” this figure is knocked off his 
+donkey and blinded for three days on the road to Damascus. For 10 points, name this apostle who wrote many New 
+Testament epistles and changed his name from Saul. 
+ANSWER: Saint ​
+Paul​
+ (accept ​
+Saul​
+ of Tarsus before being read) 
+ 
+
+11. ​
+A ​
+Life​
+ magazine cover depicts this man with a huge grin holding up an ear of corn when he visited the 
+farm of Roswell Garst as part of an effort to increase his country’s agricultural output. This man disagreed 
+with the “capitalistic attitude towards women” when shown a​
+ ​
+(*)​
+ dishwasher inside a model room. In addition to 
+confronting  Richard Nixon in the “Kitchen Debate,” this leader gave the “Secret Speech.” This man was quoted in 
+the West as saying “We will bury you,” and he gave a speech at the UN where he banged a shoe against his desk. 
+For 10 points, name this Soviet premier who succeeded Joseph Stalin. 
+ANSWER: Nikita ​
+Khrushchev 
+ 
+12. ​
+This president signed into law the Snyder Act, which granted full citizenship to Native Americans. This 
+man vetoed the McNary­Haugen Act as part of his stance against farm subsidies, and he defeated an 
+opponent nominated at “the Klanbake.” This man won an election where he defeated the third­party (*) 
+Progressive candidate Robert La Follette as well as John W. Davis. This man put down a strike by Boston police 
+while governor of Massachusetts, and anecdotally told a woman “you lose” to win a bet. For 10 points, name this 
+notoriously “silent” president who assumed office after the death of Warren Harding. 
+ANSWER: Calvin ​
+Coolidge 
+ 
+13. ​
+The breakdown of fatty acids in the mitochondria is a class of oxidation described by this term. 
+Cephalosporins, carbapenems, and penicillins form a class of lactam­based antibiotics described by this term. 
+This type of amyloid peptide forms the characteristic plaques of (*) ​
+Alzheimer’s disease. This letter describes a 
+form of carotene that causes the coloring of carrots and is a precursor to Vitamin A. A motif described by this letter 
+consists of parallel or antiparallel strands in a pleated structure. For 10 points, name this Greek letter that describes a 
+“sheet” structure contrasted with alpha helices. 
+ANSWER: ​
+beta​
+ (accept ​
+beta​
+ oxidation, ​
+beta​
+­lactams, ​
+beta​
+­amyloid, ​
+beta​
+­carotene, ​
+beta​
+­sheet) 
+ 
+14. ​
+One of this author’s novels ends with the protagonist revealing John Bristow killed the supermodel Lula 
+Landry, while another revolves around a dispute over “The Fields” by the local council of Pagford. Sales of 
+The Cuckoo’s Calling​
+ (*) ​
+shot up 500,000 percent after Roger Galbraith was discovered as a pseudonym of this 
+author. This author of ​
+The Casual Vacancy​
+ penned books supposedly written by Newt Scamander and Beedle the 
+Bard, as well as one that opens at Four Privet Drive. For 10 points, name this British author whose books ​
+Fantastic 
+Beasts and Where to Find Them​
+ and ​
+The Sorcerer’s Stone​
+ are part of her Harry Potter universe. 
+ANSWER: J.K. ​
+Rowling​
+ (or Joanne “Jo” ​
+Rowling​
+; accept Robert ​
+Galbraith​
+ before read; prompt on “Newt 
+Scamander”) 
+ 
+15. ​
+Particular points in this document include an NPT Additional Protocol and the Fordow science facility. 
+This document contains “snap back” provisions for one party violating it, and it was referred to as a “historic 
+mistake” by one leader opposed to it. The acronym for this document in one country is (*) ​
+BARJAM, while in 
+another it is the JCPOA. This document was concluded in Vienna during negotiations with the P5+1. This plan calls 
+for a gradual decrease in usage of centrifuges and enriched uranium in its namesake country. For 10 points, name 
+this agreement that resolves the future of a Middle Eastern country’s nuclear program.  
+ANSWER: ​
+Iran nuclear​
+ ​
+deal (accept basically anything mentioning ​
+Iran​
+ and ​
+nuclear​
+ programs; prompt on just 
+“Iran deal” or “nuclear deal,” but accept ​
+Iran deal​
+ after “nuclear” is read; accept ​
+J​
+oint ​
+C​
+omprehensive ​
+P​
+lan​
+ ​
+o​
+f 
+A​
+ction or ​
+JCPOA​
+ before it’s read; accept ​
+BARJAM​
+ before it’s read) 
+ 
+ 
+ 
+ 
+ 
+
+16. ​
+Junot Diaz’s first short story collection is titled for this occurrence. This occurs to Rabbit’s daughter 
+June, and a very handsome man named Esteban is discovered after having undergone this fate in a story by 
+Gabriel Garcia Marquez. Thomas Gray laments an occurrence of this type in a poem about his (*) ​
+cat Selima. 
+Maggie Tulliver dies in this fashion at the end of ​
+The Mill on the Floss​
+, while Edna Pontellier dies in this fashion at 
+the end of ​
+The Awakening​
+. The poet Li Bo supposedly underwent this fate while trying to reach a reflection of the 
+Moon in a pond. For 10 points, name this manner in which Ishmael’s crewmates die after their ship wrecks. 
+ANSWER: ​
+drown​
+ing (accept word forms and equivalents, as long as they mention a watery death; prompt on just 
+“dying” or “suicide”) 
+ 
+17. ​
+The oldest living human in history once sold this artist canvas and colored pencils. This artist depicted a 
+skeleton smoking a cigarette in one painting, and he painted several works depicting his own shoes. A room 
+with red walls and a green ceiling holds a centered (*) ​
+billiards table in one of this man’s works, and he painted a 
+family eating a meal in a poorly lit room. Two portraits of the physician Paul Gachet were made by this resident of 
+Arles, as well as a painting showing a crescent moon and a swirling sky. For 10 points, name this Dutch artist of ​
+The 
+Potato Eaters​
+, ​
+The Night Café​
+, and ​
+The Starry Night​
+. 
+ANSWER: Vincent (Willem) ​
+van Gogh​
+ ([“fun HOKH”] for the purists, but the customary [“van GO”] is just fine) 
+ 
+18. ​
+The Peter Sellars staging of this opera depicts the main character as a drug dealer in the South Bronx. 
+The duet “​
+La cì darem mano​
+,” or “​
+There we will give our hands​
+” is sung in this opera between the main 
+character and Zerlina, though they are interrupted by the angry Donna Elvira.​
+ ​
+(*)​
+ The servant Leporello sings 
+the Catalogue Aria in this opera, describing a man who had earlier murdered the Commendatore after trying to 
+seduce Donna Anna. A stone statue ultimately drags the title character of this opera to hell. For 10 points, name this 
+opera by Mozart about a villainous seducer of women. 
+ANSWER:​
+ ​
+Don Giovanni 
+ 
+19. ​
+This man claimed that acting morally and acting logically are equivalent with the assertion “ought implies 
+can.” This man argued that public use of reasoning ought not be entirely free in a work that describes the title 
+concept as “man's emergence from his self­incurred immaturity.” In addition to the essay ​
+What is (*) 
+Enlightenment?​
+, this man wrote that he awoke from his “dogmatic slumber” after reading David Hume. This thinker 
+formulated the idea of a universal moral law in his categorical imperative. For 10 points, name this German 
+philosopher who discussed ​
+a priori​
+ truths in his book ​
+Critique of Pure Reason​
+. 
+ANSWER: Immanuel ​
+Kant 
+ 
+20. ​
+A poem in this language describes a journey to an island by exhorting the reader to “hope your road is a 
+long one, full of adventure, full of discovery.” Another poem in this language asks “Why did our emperor get 
+up so early?” and notes “Those people were a kind of solution.” (*) ​
+Constantine Cavafy’s poem “Waiting for the 
+Barbarians” is in this language, as is a novel about a character who plays the cimbalom, seduces Madame Hortense, 
+and works in a lignite mine.  The character of Zorba was created using this language by Nikos Kazantzakis. For 10 
+points, name this language, the modern variant of an ancient language used to write epics like ​
+The Iliad​
+. 
+ANSWER: Modern ​
+Greek​
+ (do not accept “Ancient Greek”; the first poem is ​
+Ithaca​
+ by Cavafy, and the last novel 
+described is ​
+Zorba the Greek​
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+21. ​
+In one book this character assists John Douglas, who is being hunted by a secret society, and in another 
+book he learns that Mary Morstan has begun receiving pearls shortly after Major Sholto died. This 
+protagonist of ​
+The Valley of Fear​
+ and ​
+The​
+ (*) ​
+Sign of the Four​
+ discovers that a gigantic animal has been painted 
+with phosphorus in one novel, and he is outwitted in “A Scandal in Bohemia” by Irene Adler. This protagonist of 
+The Hound of the Baskervilles​
+ appeared to die in a fight with Professor Moriarty, and he lives at 221B Baker Street 
+with Doctor Watson. For 10 points, name this detective created by Sir Arthur Conan Doyle. 
+ANSWER: ​
+Sherlock​
+ ​
+Holmes​
+ (accept either or both names) 
+ 
+ 
+ 
+ 
+ 
+
+Bonuses 
+ 
+1. In June 2015, thousands of “love locks” were removed from a bridge spanning this river. For ten points each: 
+[10] Name this waterway crossed by the Pont des Arts and the Pont Neuf. The Île de la Cité [“ill duh la see­tay”] is 
+located in this body of water. 
+ANSWER: ​
+Seine​
+ River 
+[10] The Seine runs through this capital city. Popular tourist attractions here include the Musée d’Orsay and the 
+Eiffel Tower. 
+ANSWER: ​
+Paris​
+, France 
+[10] Another frequently­visited site in Paris is this graveyard in the twentieth ​
+arrondissement​
+, which contains the 
+tombs of notable French figures such as Delacroix and Proust, along with those of foreign celebrities like Oscar 
+Wilde and Jim Morrison. 
+ANSWER: ​
+Père Lachaise  
+ 
+2. Name the following intersections between classical music and cetaceans, for ten points each: 
+[10] The contemporary composer John Tavener wrote “The Whale,” which he called a “dramatic” example of this 
+type of choral work. J.S. Bach included a character addicted to coffee in one of his many works in this genre, whose 
+name comes from the Italian for “sing.” 
+ANSWER: ​
+cantata​
+s 
+[10] Actual whale calls were used in “And God Created Great Whales,” a work by Alan Hovhaness 
+[hoe­VAHN­ess], whose father was of this ethnicity. The composer of “Sabre Dance,” Aram Khachaturian, was also 
+of this ethnicity, which predominates in a former Soviet republic. 
+ANSWER: ​
+Armenian​
+ (accept anything about being from the Republic of ​
+Armenia​
+) 
+[10] Whales may very well live in the “Aquarium” depicted in one section of this composer’s ​
+The Carnival of the 
+Animals​
+.  
+ANSWER: Camille ​
+Saint­Saëns​
+ [“sahn­SAWN”]  
+ 
+3. ​
+After his death at the Battle of Nancy, this ruler’s body was not found for another three days. For 10 points each: 
+[10] Name this leader, the son of Philip the Good. His territorial ambitions led him to organize the League of the 
+Public Weal against the “Spider King,” Louis XI. 
+ANSWER: ​
+Charles the Bold​
+ (accept ​
+Charles le Téméraire​
+; accept ​
+Karel de Stoute​
+; prompt on just “Charles”) 
+[10] Charles the Bold was the last great duke of this polity. It shares its name with a modern­day region in the 
+northeast of France famous for its wine production. 
+ANSWER: Duchy of ​
+Burgundy​
+ (accept Duché de ​
+Burgogne​
+) 
+[10] After Charles’ death, Burgundy was split between France and the Netherlands, which were then ruled by this 
+royal family. The death of Charles II, a member of this Austrian­based family, led to the War of the Spanish 
+Succession. 
+ANSWER: ​
+Hapsburg​
+ Empire (or ​
+Habsburg​
+ Empire) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4. Old McAbraham had a farm­­name these animals from the Abrahamic religions, for 10 points each: 
+[10] One of Jesus’s parables describes a man who searches for a lost one of these animals despite having 99 others 
+in his flock. Jesus is typically symbolized both as a man tending these animals and a young one of these animals. 
+ANSWER: ​
+sheep​
+ (accept ​
+shephard​
+; accept ​
+lamb​
+ or ​
+lamb​
+ of god) 
+[10] One of these animals talks to Balaam after he beats it three times before he realizes it was trying to help him 
+avoid being skewered by the Angel of the Lord. In Jewish tradition, the Messiah will arrive on one of these animals. 
+ANSWER: ​
+donkey​
+ (or ​
+ass​
+) 
+[10] According to the longest surah of the Quran, the Israelites sacrifice a yellow one of these animals to please 
+Allah. 
+ANSWER: ​
+cow​
+ (do not accept or prompt on “bull”) 
+ 
+5. You are a landowner in 11th­century England. Answer some questions about what could happen to your property, 
+for 10 points each: 
+[10] Your possessions were probably recorded in the Domesday Book compiled by this ruler. This king gained 
+power after defeating Harold Godwinson in 1066. 
+ANSWER: ​
+William I​
+ (accept ​
+William the Conqueror​
+; accept ​
+William the Bastard​
+; prompt on “William”) 
+[10] If you supported William’s conquest, you might be rewarded with one of these land grants given to a vassal in 
+exchange for service. These plots of land were the central blocks of feudalism.  
+ANSWER: ​
+fief​
+s or ​
+fief​
+doms 
+[10] If you owned land in places like Northumbria and Yorkshire, however, you probably would have had a pretty 
+bad time during this campaign led by William to stamp out rebels. 
+ANSWER: ​
+Harrying of the North 
+ 
+6. Name the following European soccer teams involved in bitter rivalries, for 10 points each: 
+[10] Perhaps the most famous European rivalry is “El Clásico,” which pits Barcelona against this team. Cristiano 
+Ronaldo stars for this side based in Spain’s capital. 
+ANSWER: ​
+Real Madrid​
+ Club de Fútbol (prompt on “Real” or “Madrid”; do not accept or prompt on “Atlético 
+Madrid”) 
+[10] A local building names the Derby della Mole, in which Torino plays against this other Italian squad. In contrast 
+to Torino’s working class fans, this team has traditionally been supported by Turin’s upper class. 
+ANSWER: ​
+Juventus​
+ Football Club S.p.A. (prompt on “Juve”) 
+[10] The Eternal Derby is a rivalry between Partizan and this other Serbian team. This team won the Champions 
+League in 1991, becoming the only team from the former Yugoslavia to do so. 
+ANSWER: ​
+Red Star​
+ Belgrade (or Fudbalski klub ​
+Crvena Zvezda Beograd​
+; prompt on “Belgrade”) 
+ 
+7. This deity rides the white elephant Airavata. For 10 points each: 
+[10] Name this god, the ex­chief of the Devas. This god releases the world’s floods by defeating the serpent Vritra. 
+ANSWER: ​
+Indra​
+ (accept ​
+Śakra​
+) 
+[10] Indra wields Vajra, a weapon of this type. In Greek mythology, the Cyclopes forge a weapon of this kind in the 
+war against the Titans. 
+ANSWER: thunder​
+bolt​
+ (or lightning​
+bolt​
+; accept anything that sort of mentions thunder or lightning) 
+[10] Indra once struck this figure on the jaw after this figure tried to eat the sun, believing it to be a mango. 
+ANSWER: ​
+Hanuman 
+ 
+ 
+ 
+ 
+ 
+
+8. Name these things related to food, and how angry people get when they don’t have it, for 10 points each: 
+[10] Though this woman never actually declared “Let them eat cake!” in response to French bread shortages, that 
+didn’t stop the angry peasantry from executing her during the French Revolution. 
+ANSWER: Marie ​
+Antoinette​
+ (or Maria ​
+Antonia​
+ Josepha Johana) 
+[10] A series of riots over this food occurred in Russia in the mid­1800s. A shortage of this food elsewhere caused 
+by a namesake “blight” led Robert Peel to repeal the Corn Laws. 
+ANSWER: ​
+potato​
+es (accept Irish ​
+Potato​
+ Famine) 
+[10] Serious bread riots occurred in Egypt during the presidency of this man. He won the Nobel Peace Prize with 
+Menachem Begin despite earlier leading the Yom Kippur War. 
+ANSWER: Muhammad Anwar El ​
+Sadat 
+ 
+9. ​
+The pitch drop experiment demonstrates the high value of this property for pitch. For 10 points each: 
+[10] Name this property that measures the resistance of a fluid to flow.  
+ANSWER: ​
+viscosity​
+ (accept word forms) 
+[10] This set of differential equations describes viscous flow. In 2014, Terence Tao published a partial solution to 
+the notoriously difficult existence and smoothness problems for these equations. 
+ANSWER: ​
+Navier­Stokes​
+ equations (prompt on partial) 
+[10] These non­Newtonian fluids decrease in viscosity when a stress is applied to them. They are the opposite of 
+rheopectic, and ketchup and lava are examples. 
+ANSWER: ​
+thixotropic​
+ fluids (accept word forms) 
+ 
+10. This organ secretes a namesake juice containing the digestive enzymes lipase, amylase, and carboxypeptidase. 
+For 10 points each: 
+[10] Name this digestive organ found behind the stomach in the abdomen. Its cells in the Islets of Langerhans 
+produce insulin. 
+ANSWER: ​
+pancreas 
+[10] Pancreatic juice drains through the pancreatic ducts and the ampulla of Vater into this first section of the small 
+intestine. This section’s name comes from the Latin for twelve. 
+ANSWER: ​
+duodenum 
+[10] This peptide is secreted by delta cells in both the duodenum and pancreas. It often goes by the name of growth 
+hormone­inhibiting hormone. 
+ANSWER: ​
+somatostatin​
+ (accept ​
+somatotropin­release inhibiting​
+ factor/hormone) 
+ 
+11. Answer the following about the 1948 election, for 10 points each: 
+[10] The ​
+Chicago Daily Tribune​
+ erroneously printed a headline claiming that Thomas Dewey had defeated this man, 
+who became president after the death of FDR. 
+ANSWER: Harry S. ​
+Truman 
+[10] Dewey defeated an Ohio senator with this surname for the Republican nomination. That man with this surname 
+sponsored an anti­union bill with Fred Hartley. 
+ANSWER: Robert Alphonso ​
+Taft​
+ (do not accept “William Howard Taft”) 
+[10] Strom Thurmond won four states running on the platform of this party, nicknamed for its southern origin. This 
+party supported a bunch of segregationist policies. 
+ANSWER: ​
+Dixiecrat​
+s (or ​
+States’ Rights Democratic​
+ Party) 
+ 
+ 
+ 
+ 
+ 
+
+12. A useful property of this operation is that’s linear and monotonic. For 10 points each: 
+[10] Name this operation symbolized with a capital E and square brackets, though physics uses angular brackets. 
+The value of this operation for a fair, six­sided dice is 3.5. 
+ANSWER: ​
+expected value​
+ (or ​
+expectation​
+) 
+[10] The expected value is essentially a weighted form of this value. This measure of the center of a distribution is 
+typically grouped in statistics with the median and the mode. 
+ANSWER: ​
+mean​
+ (or ​
+average​
+) 
+[10] This inequality named after a Russian bounds the expected value of falling outside of a region within ​
+k​
+ standard 
+deviations of the mean. It states that “nearly all” values in a distribution are close to the mean. 
+ANSWER: ​
+Chebyshev​
+’s inequality 
+ 
+13. This author wrote the poem ​
+Thyrsis​
+ in memory of his friend Arthur Hugh Clough. For 10 points each: 
+[10] Name this Victorian period poet whose best known poem was parodied by Anthony Hecht. 
+ANSWER: Matthew ​
+Arnold 
+[10] Hecht was parodying this poem by Matthew Arnold that opens “The sea is calm tonight.” It is written from the 
+perspective of someone looking across the English Channel. 
+ANSWER: “​
+Dover Beach​
+” 
+[10] Guy Montag reads “Dover Beach” during this novel, emotionally troubling the people listening. The title of this 
+novel by Ray Bradbury refers to the temperature at which paper burns. 
+ANSWER: ​
+Fahrenheit 451 
+ 
+14. This author wrote a play about a character who tries to give a lecture ​
+On the Harmful Effects of Tobacco​
+, despite 
+that character being a smoker. For 10 points each: 
+[10] Name this Russian author, probably better known for a play about the selling of Madame Ranevskya’s title 
+estate in ​
+The Cherry Orchard​
+. 
+ANSWER: Anton ​
+Chekhov 
+[10] Though Chekhov described ​
+The Cherry Orchard​
+ as a comedy, this Russian directed it as a tragedy. This actor 
+and director names a “system” of theater training that uses “emotional memory” and was used by the Actors Studio. 
+ANSWER: Constantin ​
+Stanislavski 
+[10] Chekhov also wrote this play about the actress Nina and the writer Trigorin, who waxes rhapsodic about the 
+title bird. 
+ANSWER: ​
+The ​
+Seagull​
+ (or ​
+Chayka​
+) 
+ 
+15. John Crowe Ransom established a powerhouse of literature at Kenyon College in the mid­1900s. In honor of 
+him, name some literary alumni of Kenyon, for 10 points each: 
+[10] This writer’s many bestselling young adult novels include ​
+Looking for Alaska​
+, ​
+Paper Towns​
+, and ​
+The Fault in 
+Our Stars​
+. 
+ANSWER: John (Michael) ​
+Green 
+[10] This author wrote several historical novels like ​
+Ragtime​
+ and ​
+Billy Bathgate.​
+ His novel ​
+The Book of Daniel​
+ is 
+based on the son of the executed Rosenbergs. 
+ANSWER: E(dgar) L(awrence) ​
+Doctorow 
+[10] Though he technically didn’t go to Kenyon­­he went to Amherst instead­­this author delivered a 
+commencement address at Kenyon in 2005 that was adapted as the book ​
+This is Water​
+. This author made liberal 
+usage of endnotes in his ​
+Infinite Jest​
+. 
+ANSWER: David Foster ​
+Wallace​
+ (accept ​
+DFW​
+) 
+ 
+ 
+ 
+
+16.  A woman in the bottom left of this painting can be seen recoiling in horror. For 10 points each: 
+[10] Name this Thomas Eakins work depicting a lecture being given by the title surgeon. A self­portrait of Eakins is 
+included taking sketches. 
+ANSWER: ​
+The ​
+Gross Clinic 
+[10] This other Eakins work depicts six naked men collected around the title location. The pose of one figure sitting 
+on a rock in this work is believed to be based on ​
+The Dying Gaul​
+. 
+ANSWER: ​
+The ​
+Swimming Hole 
+[10] Another painting about swimming is this American’s depiction of several boys running past a sign on which 
+“No Swimming” is crudely scrawled. That painting, like depictions of Rosie the Riveter and the Four Freedoms also 
+by this man, appeared on the cover of the ​
+Saturday Evening Post​
+. 
+ANSWER: Norman Percevel ​
+Rockwell 
+ 
+17. In general, SQL [“sequel”] stores these entities in the CHAR or VARCHAR datatypes. For 10 points each: 
+[10] Name this basic datatype that stores text. It can be considered as an array of characters. 
+ANSWER: ​
+string 
+[10] Perhaps the most common string in all of programming is these two words, often a programmer’s first test of 
+knowledge. In Python, it’s as easy as typing “print [these two words].” 
+ANSWER: “​
+Hello, world​
+” (accept exact answer only) 
+[10] In Javascript, printing “Hello, world” requires “logging” to this browser­based entity. In Chrome, this tool is 
+nicely accessed with “Control­Shift­J.” 
+ANSWER: ​
+console 
+ 
+18. Two characters in this play debate the theory of evolution after one of them names Charles Darwin as a “man of 
+magnitude.” For 10 points each: 
+[10] Name this play that depicts the deterioration of the relationship between the teenager Hally and his servants, 
+Sam and Willie. 
+ANSWER: ​
+“​
+Master Harold​
+”​
+...and the Boys 
+[10] ​
+“Master Harold”...and the Boys​
+ is a play by Athol Fugard, a writer from this country. This country is also the 
+setting of Nadine Gordimer’s novels ​
+July’s People​
+ and ​
+The Conservationist​
+. 
+ANSWER: Republic of ​
+South Africa 
+[10] In ​
+“Master Harold”...and the Boys​
+, Sam creates this kind of toy for Hally. A “runner” of these toys titles the 
+debut novel of Khaled Hosseini. 
+ANSWER: ​
+kite​
+s (accept ​
+The ​
+Kite​
+ ​
+Runner​
+)  
+ 
+19. ​
+Chocolate syrup was used in this film to simulate the blood of Janet Leigh’s character. For 10 points each: 
+[10] Name this film. The villain of this film, a motel manager played by Anthony Perkins, is eventually revealed to 
+have undergone a case of a split psychosis. 
+ANSWER: ​
+Psycho 
+[10] ​
+Psycho​
+ is a horror masterpiece by this British director, whose other thrillers include ​
+The Birds​
+ and ​
+Vertigo​
+. 
+ANSWER: Alfred Joseph ​
+Hitchcock 
+[10] In this Hitchcock film, the title group of spies tries to use a man with a photographic memory to smuggle 
+industrial secrets out of the country before they are stopped by Richard Hannay. 
+ANSWER: ​
+The ​
+39 Steps 
+ 
+ 
+ 
+ 
+
+20. This man popularized the idea of an “oceanic feeling” that exists in infants prior to the conception of the self. 
+For 10 points each: 
+[10] Name this German thinker whose ideas of psychoanalysis include concepts like projection and the Oedipus 
+complex. 
+ANSWER: Sigmund ​
+Freud 
+[10] Freud’s model of the psyche includes this portion of yourself that strives for perfection and clashes with the id. 
+You can think of it as the naggy parent that’s always with you. 
+ANSWER: ​
+super­ego​
+ (do not accept or prompt on just “ego” as that’s another concept) 
+[10] Freud also identified this practice of when a patient converts the sexual drive into some other socially 
+acceptable pastime, like clock making or quizbowl. Don’t confuse it with displacement. 
+ANSWER: ​
+sublimation​
+ (accept word forms) 
+ 
+21. ​
+Name these thorns in the late Roman Republic and early Roman Empire’s side, for 10 points each: 
+[10] This barbarian tribe was united by Vercingetorix against “pacified” by Julius Caesar.  
+ANSWER: ​
+Gauls 
+[10] This Queen of the Iceni waged war against governor Gaius Suetonius Paulinus after Rome annexed her 
+kingdom in present day Wales. 
+ANSWER: ​
+Boudicca 
+[10] Boudicca’s rebellion occurred during the reign of this Roman emperor. This man is better known for 
+apocryphally fiddling while Rome burned and was later assassinated by the Praetorian Guard. 
+ANSWER: ​
+Nero 
+
+

@@ -1,0 +1,564 @@
+TOSSUP 1
+Just before slipping into a coma, the victim recalls the first letter of the license plate of the main
+character’s Mercedes Benz. The incident, which had the main character’s wife Maria Ruskin
+behind the wheel, ruins his career. Intended to be a satire on 1980’s New York City, the novel
+features Sherman McCoy as the protagonist. FTP name this best-selling, 1987 work written by
+Tom Wolfe.
+The Bonfire Of The Vanities
+BONUS 1
+FTPE name these other novels by Tom Wolfe.
+10:
+
+This 1979 book tells the story of the first seven astronauts selected by
+NASA.
+The Right Stuff
+
+10:
+
+This novel follows Ken Kesey as he takes a roadtrip across the United
+States in a painted school bus.
+The Electric Kool-Aid Acid Test
+
+10:
+
+Taking place in the fictional Dupont University, this work focuses on
+sexual relationships of students who go there.
+I Am Charlotte Simmons
+
+TOSSUP 2
+During its third season, model Jia Santos was forced to leave the competition after a bicycle
+accident and Keith Michael became the first contestant to be eliminated for rule violations. The
+show has many catchphrases such as Make it work, Carry on, and Auf Wiedersehen. FTP, name
+this Bravo reality show featuring hostess and model Heidi Klum and design mentor Tim Gunn.
+Project Runway
+BONUS 2
+FTPE, Name these other Bravo television shows:
+10:
+
+It is filmed at Pace University and hosted by James Lipton
+Inside The Actor’s Studio
+
+10:
+
+Contestants compete in two cooking challenges per episode
+Top Chef
+
+10:
+
+Reality show revolving around a comedienne whose act focuses on stories about celebrities
+Kathy Griffin: My Life on the D-List
+
+TOSSUP 3
+Traditionally used on electric oven hardware for its electrical insulate at higher temperatures and
+in buildings as flame-retardant, it has largely been replaced with fiberglass. It is resistant to fire
+and heat and includesthe group of fibrous magnesium silicate compounds. For ten points, name
+thismineral, Greek for ”not extinguishable” which may cause lung cancer if inhaled.
+Asbestos
+
+1
+
+BONUS 3
+FTPE, name these other magnesium minerals:
+10:
+
+This wide solid mineral is used to preserve and deacidify paper, including the Constitution and the Declaration of Independence. Its
+empirical formula is MgO.
+Magnesium Oxide
+
+10:
+
+It is the white powder used by cooks to prevent salt from cakingand
+by gymnasts with an empirical formula of MgCO3.
+Magnesium Carbonate
+
+10:
+
+All magnesium compounds and minerals are categorized under this
+name.
+Alkaline earth metal
+
+TOSSUP 4
+It affects the movement of air masses and without it air would rush into a region of low pressure.
+It exists only when a rotating reference frame is chosen, but can be described using the law of
+inertia. This force causes cyclones to rotate counterclockwise in the Northern Hemisphere and
+clockwise in the Southern Hemisphere. FTP, name this pseudoforce which causes a falling body
+dropped from a height to hit a point slightly east of the release point.
+Coriolis effect
+BONUS 4
+Name these things about the Coriolis effect FTPE.
+10:
+
+When balanced with the pressure gradient, the Coriolis effect produces
+this.
+Geostrophic winds
+
+10:
+
+Geostrophic winds can be found in this layer of the atmosphere.
+Troposphere
+
+10:
+
+It is a result of the Coriolis effect that causes planes moving east to
+feel lighter and planes moving west to feel heavier.
+Eotvos effect
+
+TOSSUP 5
+They were first assembled into one written volume by Demetius of Phaleron around 300 B.C.E.,
+and later translated into Latin from its original Greek by the freed Greek slave Phaedrus. Around
+230 C.E., the writer Valerius Babrius translated the stories, combined with other stories from
+India, into Greek verse. Over time, the stories have been retold and expanded, and have inspired
+the work of French author Jean de la Fontaine. FTP identify these stories that feature animals
+with human characteristics and that usually end in a moral or piece of advice.
+Aesop’s Fables (prompt on either part).
+BONUS 5
+FTPE name these authors who collected and created classic fairy tales.
+
+2
+
+10:
+
+This Danish writer published collections of his original stories, which
+include “The Ugly Duckling” and “The Emperor’s New Clothes,” from
+1835 until 1875.
+Hans Christian Andersen.
+
+10:
+
+This Frenchman published his Tales of Mother Goose in 1697. This
+compilation of old folk stories contained “Cinderella” and “Sleeping
+Beauty.”
+Charles Perrault.
+
+10:
+
+In addition to their work with German linguistics, these two German
+scholars were known for retelling many folk stories in a collection first
+published in 1812. The stories included “Little Red Riding Hood” and
+“Rumplestiltsken.”
+Jakob and Wilhelm Grimm (also accept the Brothers Grimm
+and equivalents).
+
+TOSSUP 6
+The splay version guarantees amortized log n time for most operations, and the AVL version
+ensures that the height of children differs by at most one. The red-black version is another famous
+type of this structure; but if none of these modifications are used, most operations will run in
+worst-case order n, which occurs when the graph degenerates into a linked list. Because of its
+invariant, an in-order traversal of this type of graph returns elements in sorted order. FTP identify
+this structure in computer science, where each element in a tree is larger than all those to its left
+and smaller than those to its right.
+Binary search tree or BST (Prompt on tree before mention)
+BONUS 6
+
+30:
+
+Games such as Civilization IV and Battlefield 2 used this interpreted
+language to allow easier modding.
+
+20:
+
+Guido van Rossum created this modern language, which is best known
+for using indentation to indicate the contents of loops.
+
+10:
+
+Its name originated from its creator reading old 11Flying Circus”
+scripts as he was writing the language.
+Python
+
+3
+
+TOSSUP 7
+Amalasuntha, the daughter of Theodoric the Great, was exiled and assassinated by agents of her
+nephew, Theodahad, providing a pretext for invasion. The war ended with the battles of Mons
+Lacterius and Taginae, won by Narses over the remnants of the armies of Theodahad’s successors,
+Totila and Teias. It lasted seventeen years, mainly because the best general in the Empire was not
+given sufficient resources to complete the campaign satisfactorily due to the Emperor’s jealousy.
+FTP name this war of the sixth century CE, during whichthe Byzantine Empire reconquered Italy.
+Gothic War (accept ”Byzantine reconquest of Italy” and alternatives
+BONUS 7
+before ”Byzantine”)
+10:
+
+The final king of Visigothic Spain, he was defeated by the Moors at
+Guadalete in 711.
+Roderic (accept Luhdriq with reluctance)
+
+10:
+
+One of the most consistent enemies of the Western Roman Empire, he
+and his foederati repeatedly invaded Italy, and even sacked Rome for
+the first time in eight hundred years.
+Alaric I
+
+10:
+
+He was the leader of the Gothic coalition at Adrianople in 378, at which
+the Eastern Roman Emperor Flavius Valens was defeated and killed.
+Fritigern (accept Frithugairns)
+
+TOSSUP 8
+TOSSUP This man took an adult education oil painting course in the 1960’s, which led him to
+create 18 canvases featuring prominent themes of war, pain, and suicide. He started advertising
+in 1987 as a “death counselor”. In 1998 60 Minutes aired a broadcast of this man and Thomas
+Youk, who died on screen. FTP, name this American pathologist, who advocated and practiced
+his “assisted suicide” treatment.
+Jack Kevorkian
+BONUS 8
+BONUS FTSNOP, answer the following questions about the work of Jack Kevorkian.
+5:
+
+This device, developed by Dr. Kevorkian, assisted deaths by use of a
+needle.
+Thanatron
+
+5:
+
+This other device, also developed by Dr. Kevorkian, used a gas mask
+that supplied carbon monoxide.
+Mercitron
+
+10:
+
+Kevorkian practiced this, a term for assisted dying that ends the lives
+of people or animals in a merciful way.
+Euthanasia
+
+4
+
+10:
+
+Kevorkian was born, worked, and currently is locked up in an Oakland
+County jail in this state.
+Michigan
+
+TOSSUP 9
+The Senate, with its tradition of unlimited debate, does not have one. Since it views every bill
+that goes through its chamber, the majority party has a large amount of control over what bills
+are voted on by the full House. FTP, identify this committee in the House of Representatives that
+controls the amount of time that may be spent on a given bill in the House.
+House Rules Committee
+BONUS 9
+FTPE, tell whether these standing committees exist in the house, the Senate, both, or neither.
+10:
+
+Appropriations
+Both
+
+10:
+
+Ways and Means
+House
+
+10:
+
+Finance
+Senate
+
+TOSSUP 10
+Each book tells the story of a knight, who represents a particular Christian virtue. The author
+sent a letter to Sir Walter Raleigh, in which he explained that the work was really an allegory
+for 16th century England. Perhaps the most famous symbol in the book links the title character
+with Queen Elizabeth. FTP, identify this poem, the unfinished yet most famous work of Edmund
+Spenser.
+The Faerie Queene
+BONUS 10
+Answer the following questions related to 16th century English literature.
+10:
+
+This collection of 154 sonnets was dedicated to one “Mr. W.H.” when
+first published.
+Shakespeare’s sonnets
+
+10:
+
+Spenser’s first major poetic work was this series of pastorals featuring
+Colin Clout.
+The Shepheardes Calendar
+
+10:
+
+First of the famous English sonnet sequences, this work was composed
+in the 1580’s by Philip Sidney.
+Astrophel and Stella
+
+5
+
+TOSSUP 11
+Theodore Taylor based his book “The Bomb” on the events which occured here between 1946
+and 1958. The indigenous population was relocated to nearby Rongerik in 1946, and they were
+again removed from here in 1978 because the strontium-90 level in their bodies was becoming
+dangerously high. The islanders sued the United States and received $100 million in compensation,
+although this is a minute amount compared to the cost of a cleanup operation. The United States
+conducted more than 23 nuclear tests on, FTP, what Micronesian island group for which a type of
+female swimwear is named?
+Bikini Atoll (prompt on Bikini)
+BONUS 11
+Identify the following countries given descriptions of a nuclear test.
+10:
+
+In October 2006 this country detonated a nuclear explosive, although
+an official at the country’s embassy in Beijing told reporters that the
+resulting explosion was ”smaller than expected”.
+North Korea
+
+10:
+
+This country detonated the “Tsar Bomba”, which was the largest bomb
+ever detonated.
+U.S.S.R. (Accept CCCP, Soviet Union, prompt on Russia)
+
+10:
+
+This country detonated “Smiling Buddha” at Pokhran in 1974.
+India
+
+TOSSUP 12
+Born in East London, he wrote poetry and acted professionally before turning to directing and
+a career as a playwright. His first major play, The Birthday Party, was badly received, but was
+later revived with the success of his subsequent efforts. He was also responsible for screenplays for
+films such as The Pumpkin Eaters and The French Lieutenants Woman. He is married to Lady
+Antonia Fraser, herself a historian and prolific author. FTP name this author of plays such as The
+Homecoming and Betrayal who won the 2005 Nobel Prize for Literature.
+Harold Pinter
+BONUS 12
+FTPE, name these works by Antonia Fraser:
+10:
+
+Her biography of Frances last queen which was adapated for a recent
+film by Sofia Coppola:
+Marie Antoinette or Marie Antoinette: The Journey
+
+10:
+
+The first book in the Jemima Shore mystery series which was broadcast
+on PBS:
+Quiet as a Nun
+
+10:
+
+One of Frasers most noted biographies, the name of which is simply
+the name of its subject, the mother of James I of England:
+Mary, Queen of Scots
+
+6
+
+TOSSUP 13
+His works were influenced by Schopenhauer and Russell. His works dealtprimarily with human
+logic, and the relation of logic to ethics, mathematics,and language. SOme of his works include
+On Certainty, PhilosophicalInvestigations, and Remarks on the Foundations of Mathematics.
+FTP, namethis 20th century German philosopher, whose most famous work was theTractatus
+Logico-Philosophicus.
+Ludwig Wittgenstein
+BONUS 13
+FTPE, name these other German philosophers from works.
+10:
+
+Critique of Pure Reason .
+Immanuel Kant
+
+10:
+
+The Phenomenology of Spirit , the Science of Logic , and the Encyclopediaof the Philosophical Sciences .
+Georg Wilhelm Friedrich Hegel
+
+10:
+
+Being and Time and The Origin of the Work of Art .
+Martin Heidegger
+
+TOSSUP 14
+In 2004, the United States Coast Guard almost violated it when they installed machine guns on
+11 of their vessels. It is one of the shortest agreements to disarmament ever written, and called
+for a reduction of each country’s naval forces on the Great Lakes to one or two vessels per lake.
+FTP, name this 1817 agreement between the US and Britain named after the American Secretary
+of State and the Governor-General of Canada.
+Rush-Bagot Agreement
+BONUS 14
+FTPE name these other treaties from the 1810’s.
+10:
+
+It ended the War of 1812, and was signed in a city in Belgium.
+Treaty of Ghent
+
+10:
+
+Under this treaty, Spain sold East and West Florida to the US.
+Adams-Onis Treaty
+
+10:
+
+This treaty followed the defeat of Napoleon at Waterloo.
+Treaty of Paris of 1815 or Fourth Treaty of Paris (prompt on
+Treaty of Paris)
+
+TOSSUP 15
+Diogenes, Heraclitus, Euclid, Ptolemy, Pythagoras, Epicurus, and the artist are all pictured in the
+crowd. Athena and Apollo, in statue form, overlook the scene. Plato and Aristotle are placed front
+and center in, FTP, what fresco by Raphael depicting a coterie of philosophers in a Greek setting?
+The School of Athens
+BONUS 15
+Identify these Renaissance artworks FTPE.
+7
+
+10:
+
+Probably the most famous image in the world, this painting by da
+Vinci depicts a serenely smiling woman.
+The Mona Lisa or La Giaconde
+
+10:
+
+A masterwork of the Northern Renaissance, this triptych is most famous for its grotesque third panel depicting scenes from Hell.
+The Garden of Earthly Delights by Hieronymus Bosch
+
+10:
+
+This quiz bowl standby of a painting depicts a young couple without
+their shoes on and a cute little dog.
+The Arnolfini Marriage or Arnolfini Wedding (accept clearknowledge equivalents)
+
+TOSSUP 16
+Johann Nikolaus Forkel wrote that it was originally composed to give comfort to the composer’s
+ill student, who became the work’s namesake. Unusually, it was published in the composer’s life
+time. It begins with an aria, followed by 30 sections using the bass line and chords of the aria.
+Each of these variations is in canon form and in G major, with the exception of the 15th, 21st,
+and 25th. FTP, name this Bach work, one of the most famous examples of variation music form.
+Goldberg Variations (prompt on Goldberg)
+BONUS 16
+Bonus: Name these other baroque composers from works, FTPE.
+10:
+
+The Four Seasons
+Antonio Vivaldi
+
+10:
+
+The Messiah
+George Handel
+
+10:
+
+12 Concerti Grossi
+Arcangelo Corelli
+
+TOSSUP 17
+He edited the newspaper Reconciler during the late 1920s, and soon went to Britain to be a
+lobbyist. In 1934, he was cast as an extra in Sanders of the River, but spent more of that decade
+in a group of African, Caribbean, and American intellectuals. With Kwame Nkrumah, he founded
+the Pan-African Federation, which led to his arrest by the British as a suspected Mau Mau
+sympathizer or member. After decolonization, he attempted to help his native Kikuyu tribe gain
+predominance. FTP name this first prime minister of Kenya.
+Jomo Kenyatta
+BONUS 17
+FTPE name these other anticolonialists.
+wasn’t murdered.
+
+These men are different from Kenyatta in that he
+
+8
+
+10:
+
+The first Prime Minister of the Democratic Republic of the Congo, he
+was assassinated by either Belgian or American operatives in 1961.
+Patrice mery Lumumba
+
+10:
+
+He was the head of the Black Consciousness Movement in South Africa,
+and was probably killed by vengeful Afrikaner police in 1977.
+Stephen Bantu Biko
+
+10:
+
+He was the first Prime Minister of united Nigeria, and was killed during
+a military coup in 1966.
+Alhaji Sir Ahmadu Bello
+
+TOSSUP 18
+Found in 1924 by Dr. Raymond Dart, it was disregarded at first due to its close resemblance to
+a modern-day monkey. After further research, the skeleton indicated an immature status along
+with the ability to walk upright. FTP, name this infant skull found in South Africa, an example
+of Australopithecus africanus.
+Taung baby or Taung child (prompt on Taung)
+BONUS 18
+FTPE, identify these taxonomical classifications of Australopithecus africanus.
+10:
+
+Its phylum, all of whose members have a notochord at one point in
+their lifetimes.
+Chordata
+
+10:
+
+Its order, which is further divided based on global location.
+Primate
+
+10:
+
+Its subfamily, under Hominidae.
+Homininae
+
+TOSSUP 19
+In her early career, she flirted with Gustav Klimt, Max Burckhard, and Alexander von Zemlinsky.
+She composed several musical works, primarily during her first marriage, and also painted. However, her main contributions tothe arts include her works about her first husband, providing an
+insight into his character, and her many affairs and marriages. FTP name this turn-of-the-century
+Viennese woman, notable for having affairs and marriages with authors, artists, composers, and
+architects, eulogized in a Tom Lehrer song.
+Alma Mahler-Werfel, ne Schindler (accept Schindler alone, all other
+BONUS 19
+last names must be accompanied by her first name)
+
+9
+
+10:
+
+Her first husband, he composed The Song of the Earth and Songs of
+a Wayfarer .
+Gustav Mahler
+
+10:
+
+The second husband, he founded the Bauhaus school and designed the
+University of Baghdad.
+Walter Gropius
+
+10:
+
+A Jewish Austro-Bohemian writer who wrote in German, he wrote
+The Song of Bernadette and The Forty Days of Musa Dagh , and was
+Alma’s third and final husband.
+Franz Werfel
+
+TOSSUP 20
+Interest in the idea that the “just following orders” defense might excuse Nazi war criminals was
+running high as the Adolf Eichmann trial got underway. One of the participants, an accomplice of
+the experimenter, would go behind a wall and answer questions asked by the subject, who usually
+would continue following the instructions of the experimenter despite hearing screams of pain and
+terror and even pleas for mercy come from the next room.FTP, name this experiment in which
+subjects were shown to be willing to administer dangerous electric shocks under orders.
+Milgram experiment
+BONUS 20
+FTPE, answer these questions about authority and conformity.
+10:
+
+It ended prematurely, as the subjects assigned the role of guards began
+to demonstrate severe sadistic tendencies.
+Stanford prison experiment
+
+10:
+
+The “just following orders” defense is this kind of social phenomenon,
+when blame for an action is psychologically assigned to someone else.
+Diffusion of responsibility
+
+10:
+
+The Stanford prison experiment more closely exemplifies this phenomenon, when individuals make strange decisions because they think
+it is the consensus.
+Groupthink
+
+10
+
+

@@ -1,0 +1,599 @@
+OAC 2013
+Packet 3
+
+CATEGORY ROUND
+American Literature: Literary Discoveries
+Team A: In this American author's short story "The Gift of the Magi," a couple discovers they have sold
+their possessions to buy now inappropriate gifts for each other.
+ANSWER: O. Henry [or William Sydney Porter]
+Team B: In a novel by Dashiell Hammett, detective Sam Spade discovers that a statue of this type of bird
+made on the island of Malta is actually a worthless copy of the original.
+ANSWER: falcon
+Tossup: A white man named Neil discovers he has African American heritage in this author’s Kingsblood
+Royal, while Buzz Windrip is elected president in his It Can’t Happen Here. One of his title characters is a
+realtor who goes camping in Maine with his best friend, Paul Riesling. Another of his protagonists, Carol
+Milford, marries Will Kennicott and subsequently moves to the boring town of Gopher Prairie, Minnesota.
+Name this realist American novelist of Main Street and Babbitt.
+ANSWER: Sinclair Lewis [or Harry Sinclair Lewis]
+Mathematics: Vectors (All questions in this round are 30 seconds)
+Team B: Find the magnitude of the vector 3i minus 12j plus 4k.
+ANSWER: 13
+Team A: What is the angle between the vector "2i plus 6j" and the vector "negative 3i plus j"?
+ANSWER: 90 degrees [or pi/2 radians]
+Tossup: The "directional" form of this operation dots the gradient with a vector over the vector's
+magnitude. The gradient consists of a vector where each component was created with the "partial" version
+of this operation. When applied to compositions of functions, it can be found with the chain rule. It can
+only be applied to continuous functions and yields e to the x when applied to e to the x. Leibniz's notation
+of d over dx is used for this operation. Name this mathematical operation that finds the instantaneous rate
+of change of a function, which is the inverse of integration.
+ANSWER: partial derivative [or partial differentiation]
+
+OAC 2013
+
+3
+
+Page 1 of 17
+
+World History: European Neutrality
+Team A: Name the small country neighboring Switzerland that abolished its army in 1868 and has been
+neutral since.
+ANSWER: Principality of Liechtenstein [or Fuerstentum Liechtenstein]
+Team B: Name the country that made a 1955 Declaration of Neutrality after it was no longer occupied by
+other countries, starting with Nazi Germany and then by the Allied Powers.
+ANSWER: Republic of Austria [or Republik Oesterreich]
+Tossup: Spencer Tucker called this country "The Neutral Ally" for its close relations with the UK during
+World War I. During World War II, this country was occupied by Germany, and some of its citizens wore
+an "H7" to support their exiled king, Haakon VII. Hitler placed Vidkun Quisling in charge of this country,
+which at various times has been united with Iceland, Denmark, and Sweden. Name this Scandinavian
+country where Bill Clinton helped mediate the Oslo Accords.
+ANSWER: Kingdom of Norway [or Kongeriket Norge]
+Fine Arts: Scary Paintings
+Team B: What Belgian artist painted Skeletons Fighting over a Pickled Herring, a skeleton in a top hat
+viewing Christ's Entry Into Brussels, and medical experiments in The Vile Vivisectors?
+ANSWER: James Ensor
+Team A: What common motif in medieval art depicts Death leading plague victims or other recently
+deceased away from the world?
+ANSWER: danse macabre [prompt on dance of death]
+Tossup: One painting by this man shows several mounted Mamelukes charging a crowd. In another
+painting by him, a gray-haired man gnaws on the bloody arm of a headless corpse. He painted a Christ-like
+man dressed in white with outstretched arms being fired upon by French soldiers. On the walls of the
+Quinta del Sordo, or the House of the Deaf, he painted a series that includes Saturn Devouring His Son.
+Mame this Spanish artist of the Black Paintings and The Third of May, 1808.
+ANSWER: Francisco Goya [or Francisco Jose de Goya y Luciente]
+
+OAC 2013
+
+3
+
+Page 2 of 17
+
+Life Sciences: Internal Organs
+Team A: The human heart is divided into two of these chambers. The right one pumps blood into
+pulmonary circulation, while the left one pumps it through the rest of the body.
+ANSWER: ventricle
+Team B: The interior of the lungs is covered in these structures, which allow carbon dioxide to diffuse out
+of the blood and bring oxygen into it.
+ANSWER: pulmonary alveoli [or alveolus]
+Tossup: This organ overproduces mucus in Menetrier's disease, while the Roux-en-Y procedure works on
+it. One part of this structure is the fundus, and the folds of this organ are called rugae. The pyloric sphincter
+originates in it. This organ's contents are often called chyme, and are broken down by a mixture including
+hydrochloric acid. Name this organ in the digestive system which receives food from the esophagus.
+ANSWER: stomach
+World Literature: Greek Tragedy
+Team B: Who wrote the only extant Greek tragedy based on historical events, The Persians?
+ANSWER: Aeschylus
+Team A: What term, coined by Aristotle, refers to the emotional purification a viewer experiences after
+seeing a tragedy?
+ANSWER: catharsis
+Tossup: A seer in this play relates how a gall bladder exploded and dark liquid oozed from an animal's
+thighs when he was performing an augury due to the carrion around the city. In this play, Haemon stabs
+himself in front of his father after the title character is found dead in a cave outside Thebes. Its central
+conflict is between Creon, who enforces the laws of his city, and the title character, who piously buries her
+brother. Name this Sophocles play about a daughter of Oedipus.
+ANSWER: Antigone
+
+OAC 2013
+
+3
+
+Page 3 of 17
+
+US Government/Economics: Federal Finances
+Team A: Name the independent federal agency led by Ben Bernanke that controls monetary policy.
+ANSWER: Federal Reserve
+Team B: Bernanke's predecessor as Fed chairman was this man, who cautioned against “irrational
+exuberance” in 1996.
+ANSWER: Alan Greenspan
+Tossup: In 2011, Mitch McConnell compared refusing to do this action to "a hostage that's worth
+ransoming." This action was done in 2011 after the passage of the Budget Control Act, which created a
+Congressional "Supercommittee: to propose a deficit reduction plan. Paul Krugman suggested the U.S.
+mint a trillion dollar coin to get around intransigence to performing this action. Standard and Poor's
+downgraded the U.S.'s credit rating for the first time in history four days after this action belatedly
+occurred. Name this legislative action that increases the amount the federal government can legally borrow.
+ANSWER: raising the debt ceiling [or increasing the debt limit; or obvious
+equivalents]
+Physical Sciences: Copper
+Team B: Copper effectively demonstrates this physical characteristic, which is a material's ability to deform
+under tensile stress, often to be drawn into a wire.
+ANSWER: ductility [or ductile]
+Team A: Copper and this chemical element with atomic number 50 are the two main elements found in
+bronze. It is typically obtained from cassiterite.
+ANSWER: tin [or Sn]
+Tossup: This metal is bounded to two ethyl groups or coupled to copper in a reaction which ultimately
+yields cyclopropanes; that is the Simmons-Smith reaction. Its sulfide largely comprises its chief ore on
+earth, which is called sphalerite, and the "gag knuckle" and "treble clef" are two classes of its namesake
+"finger" domains. This element has an atomic mass of 65.38, and this d-block element has one less proton
+in its nucleus than gallium. It is colorless or blue-green in a flame test, and with copper, it forms the alloy
+known as brass. Identify this metal with chemical symbol Zn.
+ANSWER: zinc [or Zn before it is read]
+
+OAC 2013
+
+3
+
+Page 4 of 17
+
+World Geography: Natural Wonders
+Team A: Name the geographical feature on the border of Zambia and Zimbabwe whose native name,
+Mosi-oa-Tunya, means "the Smoke that Thunders."
+ANSWER: Victoria Falls
+Team B: Name the South American nation which contains Chimborazo, whose peak is the point on Earth's
+surface that is farthest from the Earth's center.
+ANSWER: Ecuador
+Tossup: Great Palm Island and Orpheus National Park are located between this structure and the mainland.
+A lab on Heron Island is the center of scientific work on this structure, which began forming during the
+Miocene Epoch. Its characteristic colors have been reduced by half since 1985 as a result of bleaching and
+the introduction of the predatory crown-of-thorns starfish. The Trunk, Dingo, and Kangaroo are
+components of what 1600-mile mass in the Coral Sea off the coast of Australia?
+ANSWER: the Great Barrier Reef
+American History: International Politics
+Team B: This organization was created by the Bretton Woods conference in 1944.
+ANSWER: IMF [or International Monetary Fund]
+Team A: The so-called "Father of the United Nations" was Cordell Hull, who served in this cabinet position
+for 11 years.
+ANSWER: Secretary of State
+Tossup: Owen Roberts headed a commission to investigate this event, which resulted in the dismissal of
+Walter Short and Husband E. Kimmel. It took place several days after Cordell Hull delivered a note to one
+country's government. This event was triggered by the code phrase "Climb Mount Niitaka" and reportedly
+led to a quote about waking a "sleeping giant" delivered by Admiral Yamamoto. This event is
+commemorated by the U.S.S. Arizona memorial. Name this attack on a Hawaiian naval base by Japanese
+forces on December 7, 1941.
+ANSWER: attack on Pearl Harbor [or Operation Z]
+
+OAC 2013
+
+3
+
+Page 5 of 17
+
+Alphabet Round - Letter M
+1. Which Gospel in the Bible comes directly before the Gospel of Luke?
+2. What tribe is Uncas "The Last of" in a James Fenimore Cooper novel?
+3. What composer wrote the "Scottish" and "Italian" Symphonies?
+4. What planet was visited by Mariner 10 and MESSENGER?
+5. What country's city of Kuala Lumpur is the site of the Petronas Towers?
+6. What president's namesake "doctrine" warns European nations not to interfere with events in the Americas?
+7. What economist predicted famine due to his Iron Law of Population in "An Essay on the Principle of Population"?
+8. What Egyptian author wrote the Cairo Trilogy?
+9. What 490 BCE battle during the Persian Wars was announced to the Athenian public by the runner Pheidippides?
+10. What is the name of the curve, caused by surface tension, that forms with liquids in laboratory containers?
+11. What Belgian artist painted The Son of Man, which depicts a man in a bowler hat with an apple covering his face?
+12. What mayor of Bordeaux included "An Apology for Raymond Sebond" in his Essais?
+13. What Mediterranean island does the Jew Barabbas inhabit in a Christopher Marlowe play?
+14. What 2000 Christopher Nolan film depicts Leonard Shelby's difficulties with amnesia?
+15. What English queen and daughter of Catherine of Aragon ordered the deaths of religious dissenters in her namesake
+"Persecutions"?
+16. What French author wrote "Ball of Fat" and "The Necklace"?
+17. What name is given to the spread of cancer from one organ in the body to another?
+18. What member of the Pleiades was the mother of Hermes?
+19. What silicate minerals include muscovites and display perfect basal cleavage?
+20. What politician, the president of France from 1981 to 1995, was a member of the Socialist Party?
+
+OAC 2013
+
+3
+
+Page 6 of 17
+
+Alphabet Round - Letter M ANSWERS
+1. Gospel of Mark
+2. Mohicans
+3. Felix Mendelssohn
+4. Mercury
+5. Malaysia
+6. James Monroe
+7. Thomas Malthus
+8. Naguib Mahfouz
+9. Battle of Marathon
+10. meniscus
+11. Rene Magritte
+12. Michel de Montaigne
+13. Malta
+14. Memento
+15. Mary I [or Bloody Mary]
+16. Guy de Maupassant
+17. metastasis [accept verb forms]
+18. Maia
+19. micas
+20. Francois Mitterrand
+
+OAC 2013
+
+3
+
+Page 7 of 17
+
+FINAL ROUND
+1. This author wrote about a perfume shop employee whose body is fished out of the Seine River. He also
+created a character who accidentally kills a woman when trying to shave her. In one of this author’s stories,
+the Minister D steals the title compromising document and hides it in plain sight. He pioneered the mystery
+story with a work in which two killings are committed by a sailor’s orangutan. Name this American author
+who featured detective C. Auguste Dupin in the stories “The Purloined Letter” and “The Murders in the
+Rue Morgue.”
+ANSWER: Edgar Allan Poe
+052-13-81-03101
+
+2. Beethoven fused this genre with a piano trio in his "Triple" work of this type and introduced three
+recurring, improvisatory cadenzas in the fifth and last of a set of them. Eight bell-like chords open another
+of these works, dedicated to the hypnotist Nikolai Dahl, Rachmaninoff's second piece of this type for piano.
+Arcangelo Corelli composed twelve pieces in a similar form to this one called "grosso" ones. The first
+movements of these pieces often contain a sonata-allegro structure followed by a cadenza, and in general,
+they have a three-movement, fast-slow-fast form. Name this type of piece in which a soloist "competes"
+against an orchestra.
+ANSWER: concertos [or piano concertos; or concerti]
+080-13-81-03102
+
+3. In one story by this author, James Nolan writes a script for the assassination of Fergus Kirpatrick, who
+betrayed the 1821 Irish rebellion. Another Irish rebellion one hundred years later is the setting for his story
+of how John Vincent Moon came to bear a scar on his face. This author of "The Theme of the Traitor and
+the Hero" and "The Form of the Sword" also wrote of a lottery which grows to encompass the entirety of
+life in Babylon, and of an endless structure containing all possible books, the Library of Babel. Name this
+blind Argentinian author of Ficciones.
+ANSWER: Jorge Luis Borges
+019-13-81-03103
+
+4. This man painted a rifleman with a deer pelt in the Adirondacks in his A Huntsman and Dogs. One of his
+paintings depicts the battlefield of Petersburg in the background as Brigadier General Francis Channing
+Barlow reviews the title figures. Several boys link arms to play the title game in another painting by this
+artist of Prisoners from the Front, who showed a lone black man sitting in a capsizing boat that is
+surrounded by sharks. Name this American painter of Snap the Whip and The Gulf Stream.
+ANSWER: Winslow Homer
+030-13-81-03104
+
+5. This country was home to “Flo,” an animal who was the matriarch of the “F-family.” A mountain here
+contains a remnant of an icecap called the Furtwangler Glacier. A scientist in this country observed animals
+creating tools to extract termites from hills and engaging in cannibalism. In its west, Jane Goodall studied
+chimpanzees at Gombe Stream National Park. This country contains the Serengeti National Park and
+Africa’s highest peak, Mount Kilimanjaro. Name this African country whose largest city is Dar es Salaam.
+ANSWER: Tanzania
+052-13-81-03105
+
+OAC 2013
+
+3
+
+Page 8 of 17
+
+6. This man advocated the value of private tutors in Some Thoughts Concerning Education. While working
+for Anthony Ashley Cooper, he advocated for freedom of religion for everyone but atheists in The
+Fundamental Constitutions of Carolina. He argued that the human mind originally resembles a "blank
+slate," or "tabula rasa." Name this philosopher who wrote the Essay Concerning Human Understanding and
+a work influencing the American Founding Fathers, Two Treatises of Government.
+ANSWER: John Locke
+030-13-81-03106
+
+7. One leader sent the generals Manuel Boutoumites and Tatikios to take part in a siege during this conflict,
+during which Bohemond of Taranto and Godfrey of Bouillon were victorious at the Battle of Dorylaeum.
+Peter the Hermit was defeated by Seljuk Turks during this conflict, which was prompted by a speech by the
+pope at the Council of Clermont. That pope who called for this conflict and caused a crowd to state, "God
+wills it!" was Urban II. Name this earliest expedition to take back the Holy Land that was launched in
+1095.
+ANSWER: First Crusade [prompt on partial answer]
+189-13-81-03107
+
+8. William Blake used lines comprised of this poetic foot in The Book of Thel. This poetic foot is
+exclusively used in Alexander Pushkin's The Bronze Horseman and dominates Tennyson's "The Lady of
+Shalott." A tetrameter using this foot is exemplified by Christopher Marlowe's "The Passionate Shepherd to
+His Love." A rhyming pair of lines using five of these feet is known as a heroic couplet, and its unrhymed
+pentameter form is known as blank verse. Identify this poetic foot consisting of an unstressed syllable
+followed by a stressed one.
+ANSWER: iambs [or obvious equivalents]
+019-13-81-03108
+
+9. The reionization of this element is a major era in the universe's history. The Lyman series occurs in this
+element. The Rydberg equation is used to find the Balmer series for this element, which is the namesake of
+an interaction between oxygens and amides in secondary structures of proteins. pH is the measure of the
+concentration of an ion of this element. It is fused in the proton-proton chain. An explanation for the high
+boiling point of water is provided by this element's namesake bonds. This lightest element with atomic
+number one.
+ANSWER: hydrogen
+189-13-81-03109
+
+10. In a price-versus-quantity graph of this market structure, the point at which marginal cost equals
+average revenue occurs at the right side of a triangle that represents a deadweight loss to consumer surplus.
+When extremely high barriers to entry are present, such as in telephone or water distribution networks, the
+"natural" form of this structure arises. Identify this microeconomic structure which occurs when a market
+has only one seller.
+ANSWER: monopoly
+019-13-81-03110
+
+11. This leader spent 800 days in a headquarters called the "Wolf's Lair." This ruler's last will named his
+secretary Martin Bormann as Party Minister. This man's military drafted planned invasions known as Case
+White and Case Blue. He was almost killed during the failed 20 July Plot, which was part of Operation
+Valkyrie. This man dictated his autobiography to Rudolf Hess while imprisoned after the failed Beer Hall
+Putsch. He committed suicide shortly after marrying Eva Braun. Name this dictator who led Nazi Germany
+from 1934 to 1945.
+ANSWER: Adolf Hitler
+052-13-81-03111
+OAC 2013
+
+3
+
+Page 9 of 17
+
+12. A disease related to a malfunction in this object dramatically affects eye movement and is called
+Kearns-Sayre syndrome. Its inner membrane is composed of large amounts of cardiolipin. According to the
+endosymbiotic theory, this organelle originated from proteobacteria. This organelle contains namesake
+DNA which are only inherited from the mother. Its internal compartments called cristae are studded with
+proteins. Name this ATP generating organelle described as the “power plant” of the cell.
+ANSWER: mitochondria [or mitochondrion]
+052-13-81-03112
+
+13. After a great battle, this god defeated the "mist calf" and its creator, Hrungnir. In the Thrymskvida, this
+owner of Megingjard (muh-GIN-yard) dressed as a woman to regain a prized possession. This god rides on
+a chariot pulled by two goats, whose names mean "gap-tooth" and "tooth-grinder." This figure went fishing
+with Hymir, who cut his line before he could capture the Midgard Serpent. His wife Sif had her hair stolen
+by Loki. His hammer comes back to him whenever he throws it. Name this owner of Mjollnir and Norse
+god of Thunder.
+ANSWER: Thor
+186-13-81-03113
+
+14. A Boltzmann factor is the reciprocal of the product of Boltzmann's constant and this quantity. When
+this quantity is held constant in a process, the work done is proportional to the logarithm of the ratio of the
+volumes. Although it's not heat, the efficiency of a heat engine equals one minus the ratio of this quantity
+for the reservoirs. In the expression for Gibbs free energy, entropy is multiplied by this quantity. Average
+kinetic energy of a gas is proportional to this quantity, which can be measured on the Rankine scale. Name
+this quantity also measured in Kelvins or degrees Fahrenheit.
+ANSWER: temperature [or T]
+190-13-81-03114
+
+15. In the voiceover on one of this singer's music videos, she describes how something is "like a
+kaleidoscope of memories." That song by this singer describes how she heard "from whispers on the street"
+that a man had "a new notch in [his] belt" and that she's now "lying on the cold hard ground." The music
+video for another song by this singer shows a band dressed up as woodland creatures and was done in a
+single continuous take. Name this singer whose album Red includes the songs "I Knew You Were Trouble"
+and "We Are Never Ever Getting Back Together."
+ANSWER: Taylor Alison Swift
+023-13-81-03115
+
+16. This man seized power in a coup largely financed by his mistress Harriet Howard. He appointed the
+liberal Emile Ollivier as a Prime Minister. This ruler's "Grand Scheme for the Americas" involved
+appointing Maximillian I to rule Mexico. He commissioned Baron Haussman to modernize the capital of
+his empire with building projects. This man was overthrown after losing the Battle of Sedan during the
+Franco-Prussian War. Name this ruler of the Second French Empire who was the nephew of the loser at
+Waterloo.
+ANSWER: Napoleon III [or Charles Louis-Napoleon Bonaparte; prompt on Bonaparte; do not accept
+"Napoleon"]
+052-13-81-03116
+
+OAC 2013
+
+3
+
+Page 10 of 17
+
+17. This building's pediment features sculptures by Pierre-Jean d’Angers (don-JAIR). This building was
+originally known as the Church of Sainte-Geneviève when it was designed by Jacques-Germain Soufflot. It
+has been a church three times and is now on its third stint as a public monument, where it holds the remains
+of Marie Curie, Victor Hugo, and Voltaire. Name this neoclassical building in Paris, which resembles a
+Roman temple to "all the gods."
+ANSWER: the Pantheon
+019-13-81-03117
+
+18. The rise of this state's Democratic party under Theodore F. Green is called the "Bloodless Revolution."
+This state's governor Samuel Ward King put down a rebellion that issued the People's Constitution, leading
+to the Supreme Court case Luther v. Borden. In one incident on this state's coast, the sailors of the Hannah
+burned a British schooner. Anne Hutchinson moved to this state after she was banished from
+Massachusetts. This state was the site of Dorr's Rebellion and the Gaspee Affair. Name this New England
+state where Roger Williams established his Providence Plantations.
+ANSWER: State of Rhode Island and Providence Plantations
+079-13-81-03118
+
+19. When this property is present in a molecule, one set of atomic orbitals are depicted at a higher energy
+on an MO diagram. This property occurs when two atoms have a difference of greater than 0.4 on the
+Pauling scale. Boron trifluoride does not possess this property because it has a trigonal planar geometry, so
+the moments cancel out. Carbon-hydrogen bonds don't have this property because they have very similar
+electronegativities. Name this property in which a molecule has partially positive and partially
+negatively-charged regions because atoms in bonds aren't shared equally.
+ANSWER: polarity [or word forms]
+190-13-81-03119
+
+20. This man wrote of how he “had a dream, which was not all a dream” in a poem describing the end of
+humanity after the sun goes out. This author of “Darkness” wrote a poem in his collection Hebrew
+Melodies that declares, “All that's best of dark and bright meets in her aspects and her eyes.” This man
+wrote an unfinished epic in ottava rima about a man who is repeatedly seduced by women. His most
+famous lyric begins, “She walks in beauty like the night.” Name this Romantic poet who wrote Don Juan.
+ANSWER: Lord Byron [or George Gordon Byron; or Baron Byron]
+121-13-81-03120
+
+OAC 2013
+
+3
+
+Page 11 of 17
+
+Alphabet Round - Letter M
+1. Which Gospel in the Bible comes directly before the Gospel of Luke?
+2. What tribe is Uncas "The Last of" in a James Fenimore Cooper novel?
+3. What composer wrote the "Scottish" and "Italian" Symphonies?
+4. What planet was visited by Mariner 10 and MESSENGER?
+5. What country's city of Kuala Lumpur is the site of the Petronas Towers?
+6. What president's namesake "doctrine" warns European nations not to interfere with events in the Americas?
+7. What economist predicted famine due to his Iron Law of Population in "An Essay on the Principle of Population"?
+8. What Egyptian author wrote the Cairo Trilogy?
+9. What 490 BCE battle during the Persian Wars was announced to the Athenian public by the runner Pheidippides?
+10. What is the name of the curve, caused by surface tension, that forms with liquids in laboratory containers?
+11. What Belgian artist painted The Son of Man, which depicts a man in a bowler hat with an apple covering his face?
+12. What mayor of Bordeaux included "An Apology for Raymond Sebond" in his Essais?
+13. What Mediterranean island does the Jew Barabbas inhabit in a Christopher Marlowe play?
+14. What 2000 Christopher Nolan film depicts Leonard Shelby's difficulties with amnesia?
+15. What English queen and daughter of Catherine of Aragon ordered the deaths of religious dissenters in her namesake
+"Persecutions"?
+16. What French author wrote "Ball of Fat" and "The Necklace"?
+17. What name is given to the spread of cancer from one organ in the body to another?
+18. What member of the Pleiades was the mother of Hermes?
+19. What silicate minerals include muscovites and display perfect basal cleavage?
+20. What politician, the president of France from 1981 to 1995, was a member of the Socialist Party?
+
+OAC 2013
+
+3
+
+Page 12 of 17
+
+Alphabet Round - Letter M
+1. Which Gospel in the Bible comes directly before the Gospel of Luke?
+2. What tribe is Uncas "The Last of" in a James Fenimore Cooper novel?
+3. What composer wrote the "Scottish" and "Italian" Symphonies?
+4. What planet was visited by Mariner 10 and MESSENGER?
+5. What country's city of Kuala Lumpur is the site of the Petronas Towers?
+6. What president's namesake "doctrine" warns European nations not to interfere with events in the Americas?
+7. What economist predicted famine due to his Iron Law of Population in "An Essay on the Principle of Population"?
+8. What Egyptian author wrote the Cairo Trilogy?
+9. What 490 BCE battle during the Persian Wars was announced to the Athenian public by the runner Pheidippides?
+10. What is the name of the curve, caused by surface tension, that forms with liquids in laboratory containers?
+11. What Belgian artist painted The Son of Man, which depicts a man in a bowler hat with an apple covering his face?
+12. What mayor of Bordeaux included "An Apology for Raymond Sebond" in his Essais?
+13. What Mediterranean island does the Jew Barabbas inhabit in a Christopher Marlowe play?
+14. What 2000 Christopher Nolan film depicts Leonard Shelby's difficulties with amnesia?
+15. What English queen and daughter of Catherine of Aragon ordered the deaths of religious dissenters in her namesake
+"Persecutions"?
+16. What French author wrote "Ball of Fat" and "The Necklace"?
+17. What name is given to the spread of cancer from one organ in the body to another?
+18. What member of the Pleiades was the mother of Hermes?
+19. What silicate minerals include muscovites and display perfect basal cleavage?
+20. What politician, the president of France from 1981 to 1995, was a member of the Socialist Party?
+
+OAC 2013
+
+3
+
+Page 13 of 17
+
+Alphabet Round - Letter M
+1. Which Gospel in the Bible comes directly before the Gospel of Luke?
+2. What tribe is Uncas "The Last of" in a James Fenimore Cooper novel?
+3. What composer wrote the "Scottish" and "Italian" Symphonies?
+4. What planet was visited by Mariner 10 and MESSENGER?
+5. What country's city of Kuala Lumpur is the site of the Petronas Towers?
+6. What president's namesake "doctrine" warns European nations not to interfere with events in the Americas?
+7. What economist predicted famine due to his Iron Law of Population in "An Essay on the Principle of Population"?
+8. What Egyptian author wrote the Cairo Trilogy?
+9. What 490 BCE battle during the Persian Wars was announced to the Athenian public by the runner Pheidippides?
+10. What is the name of the curve, caused by surface tension, that forms with liquids in laboratory containers?
+11. What Belgian artist painted The Son of Man, which depicts a man in a bowler hat with an apple covering his face?
+12. What mayor of Bordeaux included "An Apology for Raymond Sebond" in his Essais?
+13. What Mediterranean island does the Jew Barabbas inhabit in a Christopher Marlowe play?
+14. What 2000 Christopher Nolan film depicts Leonard Shelby's difficulties with amnesia?
+15. What English queen and daughter of Catherine of Aragon ordered the deaths of religious dissenters in her namesake
+"Persecutions"?
+16. What French author wrote "Ball of Fat" and "The Necklace"?
+17. What name is given to the spread of cancer from one organ in the body to another?
+18. What member of the Pleiades was the mother of Hermes?
+19. What silicate minerals include muscovites and display perfect basal cleavage?
+20. What politician, the president of France from 1981 to 1995, was a member of the Socialist Party?
+
+OAC 2013
+
+3
+
+Page 14 of 17
+
+Alphabet Round - Letter M
+1. Which Gospel in the Bible comes directly before the Gospel of Luke?
+2. What tribe is Uncas "The Last of" in a James Fenimore Cooper novel?
+3. What composer wrote the "Scottish" and "Italian" Symphonies?
+4. What planet was visited by Mariner 10 and MESSENGER?
+5. What country's city of Kuala Lumpur is the site of the Petronas Towers?
+6. What president's namesake "doctrine" warns European nations not to interfere with events in the Americas?
+7. What economist predicted famine due to his Iron Law of Population in "An Essay on the Principle of Population"?
+8. What Egyptian author wrote the Cairo Trilogy?
+9. What 490 BCE battle during the Persian Wars was announced to the Athenian public by the runner Pheidippides?
+10. What is the name of the curve, caused by surface tension, that forms with liquids in laboratory containers?
+11. What Belgian artist painted The Son of Man, which depicts a man in a bowler hat with an apple covering his face?
+12. What mayor of Bordeaux included "An Apology for Raymond Sebond" in his Essais?
+13. What Mediterranean island does the Jew Barabbas inhabit in a Christopher Marlowe play?
+14. What 2000 Christopher Nolan film depicts Leonard Shelby's difficulties with amnesia?
+15. What English queen and daughter of Catherine of Aragon ordered the deaths of religious dissenters in her namesake
+"Persecutions"?
+16. What French author wrote "Ball of Fat" and "The Necklace"?
+17. What name is given to the spread of cancer from one organ in the body to another?
+18. What member of the Pleiades was the mother of Hermes?
+19. What silicate minerals include muscovites and display perfect basal cleavage?
+20. What politician, the president of France from 1981 to 1995, was a member of the Socialist Party?
+
+OAC 2013
+
+3
+
+Page 15 of 17
+
+Alphabet Round - Letter M
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+3
+
+Page 16 of 17
+
+Alphabet Round - Letter M
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+3
+
+Page 17 of 17
+
+

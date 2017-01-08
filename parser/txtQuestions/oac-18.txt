@@ -1,0 +1,619 @@
+OAC 2013
+Packet 18
+
+CATEGORY ROUND
+American Literature: Socially Conscious Literature
+Team A: What Upton Sinclair novel shows Jurgus Rudkis's horror at the Chicago meatpacking industry?
+ANSWER: The Jungle
+Team B: What Richard Wright novel about the murderous black man Bigger Thomas was meant to inspire
+racial protest?
+ANSWER: Native Son
+Tossup: This novel features the real-world facility of Weedpatch Camp. Near its end, Al announces that he
+will marry Agnes Wainwright while in a boxcar. In its third chapter, a truck runs into and flips over a
+plodding turtle, which the protagonist picks up. In this novel, Rose of Sharon breastfeeds a starving
+stranger, and a policeman kills retired preacher Jim Casy, who meets Tom in Oklahoma. Name this novel
+about the Joad family’s move to California, written by John Steinbeck.
+ANSWER: The Grapes of Wrath
+Mathematics: Expected Value (All questions in this round are 20 seconds)
+Team B: A spinner is divided into four equal portions with values marked -2, -1, 0, and 5. What is the
+expected value of one spin?
+ANSWER: 0.5 [or 1/2]
+Team A: A certain raffle sells 1000 tickets, each for $20. One winner is drawn, who will receive $15,000.
+What is the expected value of buying a ticket?
+ANSWER: -$5 [or lose five dollars; or equivalents for "lose"]
+Tossup: The expected value of this operation applied to a random variable X minus this operation applied
+to the expected value of X yields the variance. One of the simplest data fitting algorithms minimizes the
+sum of this function of the error. Every number can be represented by a sum of four of these according to a
+theorem of Lagrange's. A number is said to be this-free if it contains no repeated prime factors. Identify this
+term that also applies to a shape with four equal orthogonal sides.
+ANSWER: squares
+
+OAC 2013
+
+18
+
+Page 1 of 17
+
+World History: Early Christianity
+Team A: What 325 ecumenical council rejected Arianism and issued a namesake "creed?"
+ANSWER: Council of Nicea
+Team B: What emperor persecuted Christians and divided the empire into four parts?
+ANSWER: Diocletian [or Gaius Aurelius Valerius Diocletianus Augustus]
+Tossup: This emperor had Cornelius Sulla executed after making the notorious Tigellinus his praetorian
+prefect. During his reign, Suetonius Paulinus won the Battle of Watling Street, which ended Boudicca's
+Revolt in Britannia. This emperor, who killed his mother Agrippina, had the writers Lucan and Seneca
+killed for their involvement in the Pisonian Conspiracy. He constructed the Domus Aurea, a magnificent
+"golden house" that he apocryphally lit by setting Christians on fire. Name this Roman emperor known for
+fiddling during the Great Fire.
+ANSWER: Nero Claudius Caesar Augustus Germanicus
+Fine Arts: Kissing
+Team B: What sculptor depicted Paolo and Francesca in his work, The Kiss?
+ANSWER: Auguste Rodin
+Team A: In an Alfred Eisenstaedt photo, a nurse in Times Square is kissing a man of what occupation?
+ANSWER: a soldier [or a sailor]
+A photograph from this country shows a young man suddenly kissing his girlfriend amidst bystanders next
+to a hotel. A pioneer of street photography from this country published the collection The Decisive Moment
+. Another photographer from this country created a neat "revolving self-portrait" and built himself a hot air
+balloon called the Giant. It was also home to an experimenter who put light-sensitive silver iodide on a thin
+copper sheet to create the "daguerreotype." Name this country home to Nadar, Robert Doisneau, and Henri
+Cartier-Bresson.
+ANSWER: France
+
+OAC 2013
+
+18
+
+Page 2 of 17
+
+Life Sciences: Hormones
+Team A: Name the class of plant hormone produced in the roots that promotes shoot growth and cell
+division.
+ANSWER: cytokinins
+Team B: Name the hormone produced by a stressed plant that inhibits cell growth and promotes seed
+dormancy.
+ANSWER: abscisic acid
+Tossup: ZEA is a fungal compound that imitates these hormones, whose receptors are activated by
+bisphenol A. These compounds’ receptors are selectively modulated by raloxifene and tamoxifen. Their
+levels are decreased by anastrozole because they require aromatase for their production. These compounds,
+which contain eighteen carbons and are derived from cholesterol, are secreted from the ovaries along with
+progesterone. Name this hormone family, important for sexual development in women.
+ANSWER: estrogens [prompt on sex hormones; prompt on steroid hormones]
+World Literature: Russian Novels
+Team B: What Lermontov novel is about Pechorin, a Byronic hero and superfluous man?
+ANSWER: A Hero of Our Time [or Geroy nashevo vremeni]
+Team A: What Fyodor Dostoyevsky novel is about the epileptic Prince Myshkin?
+ANSWER: The Idiot [or Idiot]
+Tossup:One character in this novel, who owns a dog named Gray, is shot after collapsing while marching
+and is named Platon. Another character's marriage prospects are thwarted by her seduction by Anatole.
+Much of this novel is a series of digressions about the author's theories of history. This novel ends as
+Natasha Rostova marries the protagonist, Pierre Bezukhov, who had earlier participated in the Battle of
+Borodino. Name this long novel that includes an account of Napoleon's invasion of Russia, by Leo Tolstoy.
+ANSWER: War and Peace [or Voyna i Mir]
+
+OAC 2013
+
+18
+
+Page 3 of 17
+
+US Government/Economics: POLITICAL SOUNDBITES
+Team A: What unfortunately-worded phrase did Mitt Romney use in the second 2012 debate to represent
+his efforts in diversifying his cabinet as governor?
+ANSWER: "binders full of women"
+Team B: What Republican candidate stumbled in naming a third government agency he would axe during a
+debate in the primaries?
+ANSWER: James Richard "Rick" Perry
+Tossup: Lane Turner wrote a song responding to this statement in which he described his "two rugged
+hands." Similar to a controversial speech given by Elizabeth Warren in 2011, this statement was uttered
+during a campaign stop in Roanoke. It was reversed in the motto of Day 2 of the RNC and refers back to a
+comment about "roads and bridges." Name this soundbite of Barack Obama claiming that "if you've got a
+business," you received help from the government along the way.
+ANSWER: "If you've got a business, you didn't build that" [or "We Built It"
+until "Warren" is read]
+Physical Sciences: Physical Values
+Team B: Name the quantity that is equal to internal energy minus the product of temperature and entropy.
+ANSWER: Helmholtz free energy
+Team A: The change in internal energy is equal to the work plus the amount of this transferred.
+ANSWER: heat
+Tossup: Pure species are ignored during the computation of this value because they have no activity. The
+change in Gibbs free energy is equal to negative RT times the natural log of this value. Comparing this
+value to the reaction quotient is used to apply Le Chatlier’s law, and this quantity is usually calculated as
+products over reactants. Name this quantity used to characterize reactions in which the forward and reverse
+rates are equal, usually symbolized K.
+ANSWER: equilibrium constant [or mass action constant; accept K before it is
+read; accept reaction quotient or Q before it is read]
+
+OAC 2013
+
+18
+
+Page 4 of 17
+
+World Geography: Park Places
+Team A: What Moscow amusement park is named for the Soviet author of The Lower Depths?
+ANSWER: Gorky Park
+Team B: The first LEGOLAND theme park was built in 1968 in Billund in what country?
+ANSWER: Denmark
+Tossup: The Pierres du Niton are two prominent rocks that can be found in this city’s harbor. The Jet
+d’Eau is located in this city and is the world’s tallest fountain. Ariana Park is the location of this city’s
+Palace of Nations, which serves as the headquarters of the ECE and IAEA. This city is located at the
+junction of the Rhone River and its namesake lake. Name this Swiss city that is the home of the World
+Health Organization and the Red Cross.
+ANSWER: Geneva
+American History: Southern Politicians
+Team B: Name the President and former Texan Senator who said, "We have lost the South for a
+generation" after signing the 1964 Civil Rights Act.
+ANSWER: Lyndon Baines Johnson [or LBJ]
+Team A: Name the Senator and Jackson's first Vice President who defended nullification in his South
+Carolina Exposition and Protest.
+ANSWER: John Caldwell Calhoun
+Tossup: This man wrote a 1500-page history of his later political life while living on the estate of Sarah
+Ellis Dorsey. He supported a southern transcontinental railroad as Secretary of War for Franklin Pierce. His
+vice-president gave the Cornerstone Speech, which argued that the new constitution was founded on the
+conviction slavery was a moral good. He had plans to flee to Havana when his capital city was about to be
+taken by Ulysses Grant. Name this only president of the Confederacy.
+ANSWER: Jefferson Finis Davis
+
+OAC 2013
+
+18
+
+Page 5 of 17
+
+Alphabet Round - The Letter E
+1. What devices, often found inside tall buildings, were built to run up the Empire State Building by the Otis company?
+2. Roman legionary standards were topped with an image of what creature?
+3. What African animal is exemplified by the French children’s book character Babar?
+4. What poems for the dead are exemplified by Milton’s “Lycidas” and many Rilke poems written in Duino castle?
+5. The house of Fabergé made many ornate jeweled objects in what three-dimensional shape?
+6. Margaret Sanger was part of what social movement which urged society to breed evolutionary-advanced children and sterilize
+others?
+7. (MULTIPLE WORD ANSWER) What three-word phrase describes a measure of the separation between positive and
+negative charges in a polar substance?
+8. What alloy of silver and gold was used to make the first coins?
+9. What Anatolian city, an addressee of a Pauline epistle, was also home to a wondrous temple of Artemis?
+10. What economic quantity’s “price” form measures the responsiveness of a good’s change in price to a change in its quantity
+along the demand curve?
+11. (TWO WORD ANSWER) What fictional area of Wessex was the setting for Thomas Hardy’s The Return of the Native and
+parts of The Mayor of Casterbridge?
+12. What items of Icelandic literature, in “poetic” and “prose” segments, are our main source of Norse mythology knowledge?
+13. What phylum contains sea stars, sea urchins, and other creatures with pentaradial symmetry?
+14. What Cabinet department, a target of many Republican Presidential candidates, launched the “Race to the Top” to disburse
+funds under current leader Arne Duncan?
+15. What quantity’s “binding” type is higher for iron than for any other element?
+16. What Amharic-speaking present-day country is home to many stone stelae erected by the Kingdom of Axum?
+17. What nickname was given to Beethoven’s 3rd symphony, which depicts an anonymous hero instead of its original dedicatee,
+Napoleon?
+18. What Richard Strauss opera is named for a sister of Orestes who also names the female equivalent of Freud’s Oedipus
+complex?
+19. What special attack is the lowest-level Fire-type move learned by Charmander in the Pokemon video game series?
+20. What member of the Justice and Development Party is the current Prime Minister of Turkey?
+
+OAC 2013
+
+18
+
+Page 6 of 17
+
+Alphabet Round - The Letter E ANSWERS
+1. elevators
+2. eagles
+3. elephants
+4. elegy [or elegies]
+5. egg [or Fabergé eggs; prompt on ellipsoid]
+6. eugenics
+7. electric dipole moment
+8. electrum
+9. Ephesus
+10. price elasticity of demand
+11. Egdon Heath
+12. the Eddas [or Eddur]
+13. Echinodermata [or Echinoderms]
+14. United States Department of Education
+15. binding energy
+16. Federal Democratic Republic of Ethiopia [or Ityop'iya Federalawi Demokrasiyawi Ripeblik]
+17. “Eroica”
+18. Elektra
+19. Ember
+20. Recep Tayyip Erdogan
+
+OAC 2013
+
+18
+
+Page 7 of 17
+
+FINAL ROUND
+1. This number divided by four is the sum of the sequence beginning one minus one third plus one fifth
+minus one seventh. The sum of the squares of the reciprocals of the natural numbers is equal to one sixth
+the square of this number. Archimedes approximated this value by calculating the area of a regular 96-gon.
+This number is the period of tangent of x and half the period of sine of x. It is sometimes approximated as
+22/7. Name this number that is the ratio of a circle's circumference to its diameter.
+ANSWER: pi [prompt on 3.14159; prompt on 22/7 before it is read]
+131-13-81-18101
+
+2. In one of this man’s stories, Benjamin Driscoll rides a motorcycle across a planet planting trees. He also
+wrote about a robotic house that keeps running long after a nuclear attack has killed its inhabitants. That
+story, "There Will Come Soft Rains," was included in this man’s Martian Chronicles. Another book by this
+author centers on a fireman who is tasked with memorizing the Book of Ecclesiastes, named Guy Montag.
+Name this science fiction author of Fahrenheit 451.
+ANSWER: Ray Bradbury [or Ray Douglas Bradbury]
+149-13-81-18102
+
+3. ?In one painting by this artist, a large red curtain hangs from the wooden ceiling above the title woman,
+who is barefoot and prone in a dark pink dress. This painter of Death of the Virgin showed three men
+pointing towards a character who is illuminated by a ray of light and intently counting coins in his The
+Calling of St. Matthew. A man journeying to Damascus is pinned on the ground by divine light and is near
+a large horse in his The Conversion of St. Paul. For 10 points, name this Italian Baroque painter whose
+drastic changes in illumination across a canvas were known as "tenebrism."
+ANSWER: Caravaggio [or Michelangelo Merisi]
+019-13-81-18103
+
+4. One of this composer’s symphonies has an extra movement marked “Feierlich” and quotes the main
+theme of Brahms’s third symphony in its opening Lebhaft movement. He never completed his "Zwickau"
+Symphony, but included “The Poet Speaks” and “Traumerai” among his Scenes from Childhood. The
+poems of Adolph Boettger inspired his first symphony, nicknamed the "Spring." Name this German
+composer married to Clara Wieck, who composed the "Rhenish" Symphony.
+ANSWER: Robert Schumann
+192-13-81-18104
+
+5. The states of this empire participated in ritual battles called Flower Wars. This empire was consolidated
+with two alliances arranged under the rule of Itzcoatl (ITS-coh-AW-tul). After the death of one of their
+rulers, the people of this empire successfully drove invaders from their capital in "La Noche Triste." This
+empire had its capital at Tenochtitlan (TEN-ok-TEET-lan) and was led by Montezuma. Name this
+Mesoamerican empire conquered by the Spanish under Hernan Cortes.
+ANSWER: Aztec Empire
+014-13-81-18105
+
+6. This author based his character Mark Rampion on his friend D. H. Lawrence. He depicted himself as
+Philip Quarles in that same novel, Point Counter Point. He wrote a novel in which Podsnap's Technique
+speeds up reproduction and people regularly use the drug soma. That novel by this author takes place in the
+"year of Our Ford 632." Name this English author who wrote about a dystopian future in Brave New World.
+ANSWER: Aldous Huxley [or Aldous Leonard Huxley]
+023-13-81-18106
+
+OAC 2013
+
+18
+
+Page 8 of 17
+
+7. Activation frames are stored in this type of data structure. Adding and removing those frames is called
+winding and unwinding, respectively, and this stores memory concerning a program's subroutines.
+Programs such as Java have a "peek" function which allows the top value in one of these structures to be
+accessed without being removed. The most basic operations on this structure are "push" and "pop." Name
+this last-in-first-out data structure.
+ANSWER: stack [or call stack]
+121-13-81-18107
+
+8. One example of this substance was placed on an oak tree by a son of Athamas and Nephele named
+Phrixus after he was flown from Thessaly. A vehicle shaped like a giant cup of this substance was used by
+Heracles to reach the Hesperides. Nathaniel Hawthorne added to a Greek myth about this substance,
+claiming that a daughter of the Lydian king turned into it as part of his reward for saving the satyr Silenus.
+Zeus appeared as this substance to impregnate Danae. Name this precious substance which appeared with
+King Midas’s cursed touch.
+ANSWER: gold [accept golden fleece during the first sentence]
+104-13-81-18108
+
+9. Karin intentionally mutilates herself in one of this director's rare color films, Cries and Whispers. In
+another of his works, a nurse takes care of an actress who has decided to stop talking. This director of
+Persona dramatized a professor's memories while making a trip to receive an award in Wild Strawberries.
+Antonius Block plays chess with Death in this director's hallmark film. Name this Swedish director of The
+Seventh Seal.
+ANSWER: Ingmar Bergman
+192-13-81-18109
+
+10. James Meade claimed that bees pollinating flowers was one of these situations. These will be resolved
+if property rights are clearly defined and transaction costs are low, according to Coase's Theorem. The
+efficient equilibrium is different than the market equilibrium as a result of these situations, but the market
+equilibrium can become efficient by assessing a Pigouvian tax. Common resources often result in positive
+ones, which can lead to many free riders. Examples include the overuse of antibiotics or pollution. Name
+these economic "spill-overs" in which a cost or benefit of a good is transferred to someone who doesn't
+purchase it.
+ANSWER: externalities [or externality; or spillover before mention]
+190-13-81-18110
+
+11. Conductivity times the electric field give the current type of this quantity. The square root of bulk
+modulus over this quantity gives the speed of sound in a fluid. Also, in fluids, this quantity times
+gravitational acceleration times height yields pressure. At room temperature, osmium has the highest value
+for it. It must be smaller for an object in a fluid than the fluid it is in for the object to float. Name this
+physical quantity equal to mass per unit of volume.
+ANSWER: density [prompt on rho]
+104-13-81-18111
+
+OAC 2013
+
+18
+
+Page 9 of 17
+
+12. This author created a story-within-a-story in which Richard and Coco work out in a gym near doctor
+Alberto de Quinteros. In another of his novels, the zealous Counselor warns of the devil’s influence and
+raises an army in Canudos. He fictionalized himself in a book interspersed with radio soap opera excerpts
+by Pedro Camacho, whose narrator falls in love with a woman fifteen years older than him. Name this
+author of The War of the End of the World and Aunt Julia and the Scriptwriter, a Peruvian who won the
+2010 Nobel Prize in Literature.
+ANSWER: Jorge Mario Pedro Vargas Llosa, 1st Marquis of Vargas Llosa [or Jorge Mario Pedro Vargas
+Llosa, Primer Marques de Vargas Llosa]
+104-13-81-18112
+
+13. A group of photographs of this battle known as the Magnificent Eleven were taken by Robert Capa.
+The earliest fighting in this battle occurred with Operation Deadstick, which used glider borne forces to
+capture a key pair of bridges. This battle was given the codename Operation Overlord, and began with
+coordinated amphibious assaults on beaches named Gold, Juno, Utah, Omaha, and Sword. Name this Allied
+invasion of occupied France during World War II that began on D-Day.
+ANSWER: Normandy Invasion [accept equivalent answers; accept Operation Overlord before mentioned;
+accept D-Day before mentioned]
+015-13-81-18113
+
+14. The grammarian Servius wrote a commentary on this poet's works, which incude a four-book farming
+manual in epic meter, the Georgics. Christians believed he foretold the coming of the Messiah in the fourth
+of his Eclogues. The hero of his most famous poem reaches Carthage after a frightening storm, where he
+meets Queen Dido. In that poem, Juno conspires to stop a Trojan prince from becoming the ancestor of the
+Romans. Name this ancient Roman poet of the Aeneid.
+ANSWER: Vergil [or Publius Vergilius Maro]
+080-13-81-18114
+
+15. Shane Smith was responsible for organizing what some labeled a stunt in this country that also involved
+correspondent Ryan Duffy. The leader of this country was told "you have a friend for life" by a person who
+claims that leader said "I don't want to do war." This country was visited in February 2013 by a
+documentary crew for the HBO series "VICE," as well as some members of the Harlem Globetrotters and a
+former Chicago Bull. Name this country that was visited by Dennis Rodman, who met with its leader Kim
+Jong-Un.
+ANSWER: North Korea [or Democratic People's Republic of Korea; or DPRK; or Choson
+-minjujuui-inmin-konghwaguk; prompt on Korea; do not accept "Republic of Korea"]
+023-13-81-18115
+
+16. According to a popular midrash, a coal burned this man’s tongue as a child, resulting in his shyness
+and stutter. In Scripture, this man performs the scientifically-impossible task of crushing gold into powder
+and dissolving it. This father of Gershom died on Mount Nebo, in part because he struck a rock to produce
+water against God’s command. Zipporah the Midianite married this prophet, a brother of Miriam and
+Aaron who saw God in a burning bush. Name this man who led the enslaved Jews out of Egypt and
+received the Ten Commandments.
+ANSWER: Moses [or Moshe; or Musa]
+104-13-81-18116
+
+OAC 2013
+
+18
+
+Page 10 of 17
+
+17. This city is the site of a restaurant that only sells fried chicken and doughnuts called Federal Donuts.
+The oldest ice cream company in the US is this city's Bassetts Ice Cream, which has a location in this city's
+Reading Terminal Market. Craig Laban ran a project that found the best vendor in this city of a certain dish
+to be John's Roast Pork. That dish often named for this city includes melted thinly-sliced ribeye beef topped
+with Cheez Whiz in a sandwhich. Name this city known for its cheese steaks.
+ANSWER: Philadelphia [or Philly]
+023-13-81-18117
+
+18. This city's mayor Eugene Schmitz organized a Committee of Fifty following a large natural disaster
+here. This city experienced the White Night riots following a sentencing in a trial over the killing of George
+Moscone. That trial about murders in this city included the introduction of the Twinkie defense for Dan
+White. The Haight-Ashbury district in this city experienced the Summer of Love in 1967, the same year it
+elected as a city supervisor the openly gay Harvey Milk. Name this city in Northern California.
+ANSWER: San Francisco
+023-13-81-18118
+
+19. One side in this battle gained a strategic advantage by removing espolones in advance of the fight. The
+victorious side in this battle had a gap in its line held by reserves under Alvaro de Bazan. Augustino
+Barbarigo was outflanked in this battle by the forces of Mahomet Sirocco. The losing commander's head
+was displayed on a pike in this battle that involved forces under Uluj-Ali and Ali Pasha losing to Andrea
+Doria and Don John of Austria. Name this 1571 naval battle in which the Holy League fleet defeated the
+Ottomans.
+ANSWER: Battle of Lepanto
+023-13-81-18119
+
+20. Tendons attached to the muscles that control this body part are injured in De Quervain's syndrome.
+Stephen Jay Gould wrote an essay about a body part in pandas that resembles this human part but is
+actually a modified radial sesamoid bone. This body part is moved by the flexor pollicis longus. Some
+genetic disorders cause these to have the potter's or murder's morphology. The first metacarpal is located in
+this body part Some people have a hitchiker's one. Name this first and opposable digit of the hand.
+ANSWER: thumb
+001-13-81-18120
+
+OAC 2013
+
+18
+
+Page 11 of 17
+
+Alphabet Round - The Letter E
+1. What devices, often found inside tall buildings, were built to run up the Empire State Building by the Otis company?
+2. Roman legionary standards were topped with an image of what creature?
+3. What African animal is exemplified by the French children’s book character Babar?
+4. What poems for the dead are exemplified by Milton’s “Lycidas” and many Rilke poems written in Duino castle?
+5. The house of Fabergé made many ornate jeweled objects in what three-dimensional shape?
+6. Margaret Sanger was part of what social movement which urged society to breed evolutionary-advanced children and sterilize
+others?
+7. (MULTIPLE WORD ANSWER) What three-word phrase describes a measure of the separation between positive and
+negative charges in a polar substance?
+8. What alloy of silver and gold was used to make the first coins?
+9. What Anatolian city, an addressee of a Pauline epistle, was also home to a wondrous temple of Artemis?
+10. What economic quantity’s “price” form measures the responsiveness of a good’s change in price to a change in its quantity
+along the demand curve?
+11. (TWO WORD ANSWER) What fictional area of Wessex was the setting for Thomas Hardy’s The Return of the Native and
+parts of The Mayor of Casterbridge?
+12. What items of Icelandic literature, in “poetic” and “prose” segments, are our main source of Norse mythology knowledge?
+13. What phylum contains sea stars, sea urchins, and other creatures with pentaradial symmetry?
+14. What Cabinet department, a target of many Republican Presidential candidates, launched the “Race to the Top” to disburse
+funds under current leader Arne Duncan?
+15. What quantity’s “binding” type is higher for iron than for any other element?
+16. What Amharic-speaking present-day country is home to many stone stelae erected by the Kingdom of Axum?
+17. What nickname was given to Beethoven’s 3rd symphony, which depicts an anonymous hero instead of its original dedicatee,
+Napoleon?
+18. What Richard Strauss opera is named for a sister of Orestes who also names the female equivalent of Freud’s Oedipus
+complex?
+19. What special attack is the lowest-level Fire-type move learned by Charmander in the Pokemon video game series?
+20. What member of the Justice and Development Party is the current Prime Minister of Turkey?
+
+OAC 2013
+
+18
+
+Page 12 of 17
+
+Alphabet Round - The Letter E
+1. What devices, often found inside tall buildings, were built to run up the Empire State Building by the Otis company?
+2. Roman legionary standards were topped with an image of what creature?
+3. What African animal is exemplified by the French children’s book character Babar?
+4. What poems for the dead are exemplified by Milton’s “Lycidas” and many Rilke poems written in Duino castle?
+5. The house of Fabergé made many ornate jeweled objects in what three-dimensional shape?
+6. Margaret Sanger was part of what social movement which urged society to breed evolutionary-advanced children and sterilize
+others?
+7. (MULTIPLE WORD ANSWER) What three-word phrase describes a measure of the separation between positive and
+negative charges in a polar substance?
+8. What alloy of silver and gold was used to make the first coins?
+9. What Anatolian city, an addressee of a Pauline epistle, was also home to a wondrous temple of Artemis?
+10. What economic quantity’s “price” form measures the responsiveness of a good’s change in price to a change in its quantity
+along the demand curve?
+11. (TWO WORD ANSWER) What fictional area of Wessex was the setting for Thomas Hardy’s The Return of the Native and
+parts of The Mayor of Casterbridge?
+12. What items of Icelandic literature, in “poetic” and “prose” segments, are our main source of Norse mythology knowledge?
+13. What phylum contains sea stars, sea urchins, and other creatures with pentaradial symmetry?
+14. What Cabinet department, a target of many Republican Presidential candidates, launched the “Race to the Top” to disburse
+funds under current leader Arne Duncan?
+15. What quantity’s “binding” type is higher for iron than for any other element?
+16. What Amharic-speaking present-day country is home to many stone stelae erected by the Kingdom of Axum?
+17. What nickname was given to Beethoven’s 3rd symphony, which depicts an anonymous hero instead of its original dedicatee,
+Napoleon?
+18. What Richard Strauss opera is named for a sister of Orestes who also names the female equivalent of Freud’s Oedipus
+complex?
+19. What special attack is the lowest-level Fire-type move learned by Charmander in the Pokemon video game series?
+20. What member of the Justice and Development Party is the current Prime Minister of Turkey?
+
+OAC 2013
+
+18
+
+Page 13 of 17
+
+Alphabet Round - The Letter E
+1. What devices, often found inside tall buildings, were built to run up the Empire State Building by the Otis company?
+2. Roman legionary standards were topped with an image of what creature?
+3. What African animal is exemplified by the French children’s book character Babar?
+4. What poems for the dead are exemplified by Milton’s “Lycidas” and many Rilke poems written in Duino castle?
+5. The house of Fabergé made many ornate jeweled objects in what three-dimensional shape?
+6. Margaret Sanger was part of what social movement which urged society to breed evolutionary-advanced children and sterilize
+others?
+7. (MULTIPLE WORD ANSWER) What three-word phrase describes a measure of the separation between positive and
+negative charges in a polar substance?
+8. What alloy of silver and gold was used to make the first coins?
+9. What Anatolian city, an addressee of a Pauline epistle, was also home to a wondrous temple of Artemis?
+10. What economic quantity’s “price” form measures the responsiveness of a good’s change in price to a change in its quantity
+along the demand curve?
+11. (TWO WORD ANSWER) What fictional area of Wessex was the setting for Thomas Hardy’s The Return of the Native and
+parts of The Mayor of Casterbridge?
+12. What items of Icelandic literature, in “poetic” and “prose” segments, are our main source of Norse mythology knowledge?
+13. What phylum contains sea stars, sea urchins, and other creatures with pentaradial symmetry?
+14. What Cabinet department, a target of many Republican Presidential candidates, launched the “Race to the Top” to disburse
+funds under current leader Arne Duncan?
+15. What quantity’s “binding” type is higher for iron than for any other element?
+16. What Amharic-speaking present-day country is home to many stone stelae erected by the Kingdom of Axum?
+17. What nickname was given to Beethoven’s 3rd symphony, which depicts an anonymous hero instead of its original dedicatee,
+Napoleon?
+18. What Richard Strauss opera is named for a sister of Orestes who also names the female equivalent of Freud’s Oedipus
+complex?
+19. What special attack is the lowest-level Fire-type move learned by Charmander in the Pokemon video game series?
+20. What member of the Justice and Development Party is the current Prime Minister of Turkey?
+
+OAC 2013
+
+18
+
+Page 14 of 17
+
+Alphabet Round - The Letter E
+1. What devices, often found inside tall buildings, were built to run up the Empire State Building by the Otis company?
+2. Roman legionary standards were topped with an image of what creature?
+3. What African animal is exemplified by the French children’s book character Babar?
+4. What poems for the dead are exemplified by Milton’s “Lycidas” and many Rilke poems written in Duino castle?
+5. The house of Fabergé made many ornate jeweled objects in what three-dimensional shape?
+6. Margaret Sanger was part of what social movement which urged society to breed evolutionary-advanced children and sterilize
+others?
+7. (MULTIPLE WORD ANSWER) What three-word phrase describes a measure of the separation between positive and
+negative charges in a polar substance?
+8. What alloy of silver and gold was used to make the first coins?
+9. What Anatolian city, an addressee of a Pauline epistle, was also home to a wondrous temple of Artemis?
+10. What economic quantity’s “price” form measures the responsiveness of a good’s change in price to a change in its quantity
+along the demand curve?
+11. (TWO WORD ANSWER) What fictional area of Wessex was the setting for Thomas Hardy’s The Return of the Native and
+parts of The Mayor of Casterbridge?
+12. What items of Icelandic literature, in “poetic” and “prose” segments, are our main source of Norse mythology knowledge?
+13. What phylum contains sea stars, sea urchins, and other creatures with pentaradial symmetry?
+14. What Cabinet department, a target of many Republican Presidential candidates, launched the “Race to the Top” to disburse
+funds under current leader Arne Duncan?
+15. What quantity’s “binding” type is higher for iron than for any other element?
+16. What Amharic-speaking present-day country is home to many stone stelae erected by the Kingdom of Axum?
+17. What nickname was given to Beethoven’s 3rd symphony, which depicts an anonymous hero instead of its original dedicatee,
+Napoleon?
+18. What Richard Strauss opera is named for a sister of Orestes who also names the female equivalent of Freud’s Oedipus
+complex?
+19. What special attack is the lowest-level Fire-type move learned by Charmander in the Pokemon video game series?
+20. What member of the Justice and Development Party is the current Prime Minister of Turkey?
+
+OAC 2013
+
+18
+
+Page 15 of 17
+
+Alphabet Round - The Letter E
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+18
+
+Page 16 of 17
+
+Alphabet Round - The Letter E
+Team Name: _________________________________________________
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+6. _________________________________________________
+7. _________________________________________________
+8. _________________________________________________
+9. _________________________________________________
+10. _________________________________________________
+11. _________________________________________________
+12. _________________________________________________
+13. _________________________________________________
+14. _________________________________________________
+15. _________________________________________________
+16. _________________________________________________
+17. _________________________________________________
+18. _________________________________________________
+19. _________________________________________________
+20. _________________________________________________
+
+OAC 2013
+
+18
+
+Page 17 of 17
+
+
