@@ -1,5 +1,5 @@
-parser/www.quizbowlpackets.com/
-parser/pdfQuestions/
+www.quizbowlpackets.com/
+pdfQuestions/
 __pycache__/
 venv/
 *.swp
