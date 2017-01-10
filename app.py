@@ -5,14 +5,14 @@ from flask_socketio import SocketIO, emit
 from os             import getenv, urandom
 #
 app = Flask( __name__ )
-app.secret_key = urandom( 24 )
+app.config['SECRET_KEY'] = b'\x01t;2\xb1\xb4\xd9w\xaf\xf1\x12\xbd\xe3D\xff\xb2\xc8\xbc\xdc\xe6\xd3\x93\x85'
 socketio = SocketIO( app )
 #
 class Player:
     #
-    def __init__( name ):
+    def __init__( self, n ):
         #
-        self.name  = name
+        self.name  = n
         self.score = 0
         #
     #
@@ -21,7 +21,6 @@ class Player:
     def __lt__( self, other ): return self.score < other.score
     #
 #
-id_to_name = {}
 players = []
 #
 ########################################################################################
@@ -64,8 +63,8 @@ def join():
     emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' }, broadcast = True )
     #
     myid = urandom( 64 )
-    id_to_name[ myid ] = session[ name ]
-    players.append( myid )
+    p = Player( session['name'] )
+    players.append( p )
     #
     print(session.get('name'), 'has entered the room.')
     #
