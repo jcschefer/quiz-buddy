@@ -19,6 +19,10 @@ $( document ).ready( function() {
       console.log(data['msg']);
    });
    //
+   socket.on( 'pause', function(data){
+      console.log(data['msg'])
+   });
+   //
    document.body.onkeyup = function(e){
       if( e.keyCode == 32 ) //Spacebar pressed to answer question
       {

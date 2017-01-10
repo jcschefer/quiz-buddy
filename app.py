@@ -21,6 +21,7 @@ class Player:
     def __lt__( self, other ): return self.score < other.score
     #
 #
+id_to_name = {}
 players = []
 #
 ########################################################################################
@@ -51,25 +52,29 @@ def play():
 # SOCKET FUNCTIONS
 ########################################################################################
 #
-@socketio.on('click')
+@socketio.on( 'click' )
 def handleclick():
     #
     print('it got clicked')
     #
 #
-@socketio.on('joined_room')
+@socketio.on( 'joined_room' )
 def join():
     #
-    room = session.get( 'room' )
     emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' }, broadcast = True )
+    #
+    myid = urandom( 64 )
+    id_to_name[ myid ] = session[ name ]
+    players.append( myid )
+    #
     print(session.get('name'), 'has entered the room.')
     #
 #
-@socketio.on('spacebar')
+@socketio.on( 'spacebar' )
 def pause_all_answers():
     #
     print('spacebar pressed')
-    
+    emit( 'pause', {'msg': session[ 'name' ] + 'has buzzed in.'}, broadcast = True )
     #
 #
 #
