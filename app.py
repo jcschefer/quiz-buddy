@@ -61,7 +61,7 @@ def handleclick():
 def join():
     #
     room = session.get( 'room' )
-    emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' })
+    emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' }, broadcast = True )
     print(session.get('name'), 'has entered the room.')
     #
 #
