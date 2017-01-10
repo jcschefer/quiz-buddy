@@ -20,7 +20,7 @@ $( document ).ready( function() {
    });
    //
    socket.on( 'pause', function(data){
-      console.log(data['msg'])
+      console.log(data['msg']);
    });
    //
    document.body.onkeyup = function(e){

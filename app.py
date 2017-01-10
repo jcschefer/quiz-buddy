@@ -52,13 +52,13 @@ def play():
 # SOCKET FUNCTIONS
 ########################################################################################
 #
-@socketio.on( 'click' )
+@socketio.on('click')
 def handleclick():
     #
     print('it got clicked')
     #
 #
-@socketio.on( 'joined_room' )
+@socketio.on('joined_room')
 def join():
     #
     emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' }, broadcast = True )
@@ -70,7 +70,7 @@ def join():
     print(session.get('name'), 'has entered the room.')
     #
 #
-@socketio.on( 'spacebar' )
+@socketio.on('spacebar')
 def pause_all_answers():
     #
     print('spacebar pressed')
