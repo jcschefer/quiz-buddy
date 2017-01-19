@@ -3,3 +3,4 @@ pdfQuestions/
 __pycache__/
 venv/
 *.swp
+secret_key

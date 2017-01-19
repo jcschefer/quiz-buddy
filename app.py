@@ -2,11 +2,26 @@
 #
 from flask          import Flask, render_template, request, session
 from flask_socketio import SocketIO, emit
-from os             import getenv, urandom
+from os             import getenv, path, urandom
+from sys            import argv
 #
 app = Flask( __name__ )
-app.config['SECRET_KEY'] = b'\x01t;2\xb1\xb4\xd9w\xaf\xf1\x12\xbd\xe3D\xff\xb2\xc8\xbc\xdc\xe6\xd3\x93\x85'
+#app.config['SECRET_KEY'] = b'\x01t;2\xb1\xb4\xd9w\xaf\xf1\x12\xbd\xe3D\xff\xb2\xc8\xbc\xdc\xe6\xd3\x93\x85'
 socketio = SocketIO( app )
+#
+fname = path.join( path.dirname( path.abspath( argv[ 0 ] ) ), 'secret_key' )
+try:
+    #
+    with open( fname, 'rb' ) as f: app.config[ 'SECRET_KEY' ] = f.read()
+    #
+except IOError:
+    #
+    print('Error: no secret key, making new one')
+    newf = open( fname, 'wb' )
+    app.config[ 'SECRET_KEY' ] = urandom( 24 )
+    newf.write( app.config[ 'SECRET_KEY' ] )
+    newf.close()
+    #
 #
 class Player:
     #
