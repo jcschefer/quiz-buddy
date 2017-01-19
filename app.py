@@ -62,7 +62,6 @@ def join():
     #
     emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' }, broadcast = True )
     #
-    myid = urandom( 64 )
     p = Player( session['name'] )
     players.append( p )
     #
@@ -73,7 +72,8 @@ def join():
 def pause_all_answers():
     #
     print('spacebar pressed')
-    emit( 'pause', {'msg': session[ 'name' ] + 'has buzzed in.'}, broadcast = True )
+    emit( 'message', {'msg': session[ 'name' ] + 'has buzzed in.'}, broadcast = True )
+    emit( 'pause', broadcast = True )
     #
 #
 #

@@ -12,6 +12,7 @@ $( document ).ready( function() {
    });
    //
    $( '#button' ).on('click', function(){
+      responsiveVoice.speak("hello and welcom to the website", "UK English Male");
       socket.emit('click');
    });
    //
@@ -19,8 +20,11 @@ $( document ).ready( function() {
       console.log(data['msg']);
    });
    //
-   socket.on( 'pause', function(data){
-      console.log(data['msg']);
+   socket.on( 'pause', function(){
+      if( responsiveVoice.isPlaying())
+      {
+         responsiveVoice.pause();
+      }
    });
    //
    document.body.onkeyup = function(e){
