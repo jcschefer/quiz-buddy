@@ -10,18 +10,12 @@ app = Flask( __name__ )
 socketio = SocketIO( app )
 #
 fname = path.join( path.dirname( path.abspath( argv[ 0 ] ) ), 'secret_key' )
-try:
-    #
-    with open( fname, 'rb' ) as f: app.config[ 'SECRET_KEY' ] = f.read()
-    #
-except IOError:
+if not path.isfile( fname ):
     #
     print('Error: no secret key, making new one')
-    newf = open( fname, 'wb' )
-    app.config[ 'SECRET_KEY' ] = urandom( 24 )
-    newf.write( app.config[ 'SECRET_KEY' ] )
-    newf.close()
+    with open( fname, 'wb' ) as newf: newf.write( urandom( 24 ) )
     #
+with open( fname, 'rb' ) as f: app.config[ 'SECRET_KEY' ] = f.read()
 #
 class Player:
     #
