@@ -59,7 +59,7 @@ def play():
 @app.route('/storm')
 def show_storm_tracker():
     #
-    return app.send_static_file( 'onefile.html' )
+    return render_template( 'onefile.html' )
     #
 #
 ########################################################################################
