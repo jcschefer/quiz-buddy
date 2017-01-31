@@ -59,7 +59,7 @@ def play():
 @app.route('/storm/<path:filename>')
 def serve_storm_functions(filename):
     #
-    return send_from_directory('static/storm-tracker/', filename)
+    return send_from_directory('static/storm-tracker', filename)
     #return app.send_static_file('storm-tracker/' + filename)
     #
 #
