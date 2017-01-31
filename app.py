@@ -1,6 +1,6 @@
 # Jack Schefer
 #
-from flask          import Flask, render_template, request, session
+from flask          import Flask, render_template, send_from_directory, request, session
 from flask_socketio import SocketIO, emit
 from os             import getenv, path, urandom
 from sys            import argv
@@ -56,10 +56,11 @@ def play():
     return render_template( 'play.html', name = name )
     #
 #
-@app.route('/storm')
-def show_storm_tracker():
+@app.route('/storm/<path:filename>')
+def serve_storm_functions(filename):
     #
-    return render_template( 'onefile.html' )
+    #return send_from_directory('storm-tracker/', filename)
+    return app.send_static_file('storm-tracker/' + filename)
     #
 #
 ########################################################################################
