@@ -5,7 +5,7 @@ from flask_socketio import SocketIO, emit
 from os             import getenv, path, urandom
 from sys            import argv
 #
-app = Flask( __name__ )
+app = Flask( __name__, static_url_path = 'static/' )
 #app.config['SECRET_KEY'] = b'\x01t;2\xb1\xb4\xd9w\xaf\xf1\x12\xbd\xe3D\xff\xb2\xc8\xbc\xdc\xe6\xd3\x93\x85'
 socketio = SocketIO( app )
 #
