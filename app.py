@@ -5,7 +5,7 @@ from flask_socketio import SocketIO, emit
 from os             import getenv, path, urandom
 from sys            import argv
 #
-app = Flask( __name__, static_url_path = 'static/' )
+app = Flask( __name__ )
 #app.config['SECRET_KEY'] = b'\x01t;2\xb1\xb4\xd9w\xaf\xf1\x12\xbd\xe3D\xff\xb2\xc8\xbc\xdc\xe6\xd3\x93\x85'
 socketio = SocketIO( app )
 #
@@ -59,8 +59,8 @@ def play():
 @app.route('/storm/<path:filename>')
 def serve_storm_functions(filename):
     #
-    #return send_from_directory('storm-tracker/', filename)
-    return app.send_static_file('storm-tracker/' + filename)
+    return send_from_directory('static/storm-tracker/', filename)
+    #return app.send_static_file('storm-tracker/' + filename)
     #
 #
 ########################################################################################
