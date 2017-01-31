@@ -142,5 +142,5 @@ def parseAnswers( answer_text , trivialWords): #similar treatment as parseKeywor
 #
 #
 #
-main()
+if name == '__main__': main()
 
