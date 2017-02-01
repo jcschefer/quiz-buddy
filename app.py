@@ -56,11 +56,10 @@ def play():
     return render_template( 'play.html', name = name )
     #
 #
-@app.route('/storm/map/')
+@app.route('/onefile')
 def serve_map():
     #
-    #return app.send_from_directory('static/storm-tracker', filename)
-    return app.send_static_file('storm-tracker/map.html')
+    return render_template('onefile.html')
     #
 #
 ########################################################################################
