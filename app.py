@@ -59,7 +59,7 @@ def play():
 @app.route('/onefile')
 def serve_map():
     #
-    return render_template('onefile.html')
+    return render_template('map.html')
     #
 #
 ########################################################################################
