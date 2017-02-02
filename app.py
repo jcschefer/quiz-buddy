@@ -59,7 +59,8 @@ def play():
 @app.route('/onefile')
 def serve_map():
     #
-    return render_template('map.html')
+    #return app.send_static_file('storm-tracker/map.html')
+    return render_template('onefile.html')
     #
 #
 ########################################################################################
