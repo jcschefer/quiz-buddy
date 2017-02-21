@@ -88,6 +88,47 @@ def areSameNode( node1 , node2 ):
         return True
 #
 #
+def parseFolderExplicit( folder_name ):
+    packet = [ ( packetname , parsePacketExplicit( folder_name + packetname ) for packetname in os.listdir( folder_name ) ) ]
+    return packet
+#
+#
+def parsePacketExplicit( packetname ) :
+    raw_question_text = open( packetname , 'r' ).read()
+    #regex = re.compile(r'(\d+\..+?)\n(Answer:[^\n]+)\n', re.MULTILINE | re.DOTALL) #original samuel magic!
+    regex = re.compile(r'(\d+\..+?)\n((Answer:|ANSWER)[^\n]+)\n', re.MULTILINE | re.DOTALL)
+    raw_packet = regex.findall( raw_question_text )
+
+    packet = [ makeNodeExplicit( question , packetname ) for question in raw_packet ]
+
+    return packet
+#
+#
+def makeNodeExplicit( question , packetname ): #depends on commonWords.p and trivialWords.p
+    commonWords = pickle.load( open( 'commonWords.p' , 'rb' ))   #top 7500 words
+    trivialWords = pickle.load( open( 'trivialWords.p' , 'rb' ))    #top 48 words plus prompt and accept
+    #
+    question_text = question[ 0 ] 
+    answer_text = question[ 1 ]
+
+    node =  {
+            'answer' : parseAnswers( answer_text , trivialWords ) , 
+            'raw_answer' : answer_text ,
+            'keywords' : parseKeywords( question_text , commonWords ) ,
+            'neighbors' : set() ,
+            'rank' : -1 , 
+            'packetname' : packetname
+            }    
+
+    return node
+
+
+#
+#
+#
+#
+#
+#
 def parseFolder( folder_name ):
     packet = [ parsePacket( folder_name + packetname ) for packetname in os.listdir( folder_name ) ]
 
