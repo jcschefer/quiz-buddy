@@ -12,7 +12,7 @@ $( document ).ready( function() {
    });
    //
    $( '#button' ).on('click', function(){
-      responsiveVoice.speak("hello and welcom to the website", "UK English Male");
+      responsiveVoice.speak("hello and welcome to the website", "UK English Male");
       socket.emit('click');
    });
    //

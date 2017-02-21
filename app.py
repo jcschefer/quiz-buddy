@@ -6,7 +6,6 @@ from os             import getenv, path, urandom
 from sys            import argv
 #
 app = Flask( __name__ )
-#app.config['SECRET_KEY'] = b'\x01t;2\xb1\xb4\xd9w\xaf\xf1\x12\xbd\xe3D\xff\xb2\xc8\xbc\xdc\xe6\xd3\x93\x85'
 socketio = SocketIO( app )
 #
 fname = path.join( path.dirname( path.abspath( argv[ 0 ] ) ), 'secret_key' )
@@ -59,7 +58,6 @@ def play():
 @app.route('/onefile')
 def serve_map():
     #
-    #return app.send_static_file('storm-tracker/map.html')
     return render_template('onefile.html')
     #
 #
