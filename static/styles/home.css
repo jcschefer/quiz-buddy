@@ -5,6 +5,11 @@
    background-color: #1a1aff;
 }
 
+h3.header-wrapper
+{
+   color: white;
+}
+
 #pier-pic
 {
    width: 100%;

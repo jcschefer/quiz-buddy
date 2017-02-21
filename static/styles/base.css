@@ -14,9 +14,20 @@ h1
    font-weight: 700;
 }
 
+img
+{
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+
+.heading
+{
+   color: black;
+}
+
 h3
 {
-   color:white; 
+   color: white;
 }
 
 .link-wrapper

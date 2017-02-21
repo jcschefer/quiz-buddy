@@ -12,11 +12,19 @@ $( document ).ready( function() {
    });
    //
    $( '#button' ).on('click', function(){
+      responsiveVoice.speak("hello and welcom to the website", "UK English Male");
       socket.emit('click');
    });
    //
    socket.on('message', function(data){
       console.log(data['msg']);
+   });
+   //
+   socket.on( 'pause', function(){
+      if( responsiveVoice.isPlaying())
+      {
+         responsiveVoice.pause();
+      }
    });
    //
    document.body.onkeyup = function(e){
