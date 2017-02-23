@@ -84,12 +84,8 @@ def join():
     p = Player( session['name'] )
     players.append( p )
     #
-    global playing
-    if not playing:
-        #
-        playing = True
-        emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
-        #
+    emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
+    #
     #
     print( session.get('name'), 'has entered the room.' )
     #
