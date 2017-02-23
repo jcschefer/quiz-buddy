@@ -16,7 +16,7 @@ $( document ).ready( function() {
       socket.emit('click');
    });
    //
-   socket.on('message', function(data){
+   socket.on('message', function( data ){
       console.log(data['msg']);
    });
    //
@@ -25,6 +25,10 @@ $( document ).ready( function() {
       {
          responsiveVoice.pause();
       }
+   });
+   //
+   socket.on( 'incoming_question', function( data ){
+      responsiveVoice.speak( data );
    });
    //
    document.body.onkeyup = function(e){

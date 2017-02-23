@@ -2,6 +2,7 @@
 #
 from flask          import Flask, render_template, send_from_directory, request, session
 from flask_socketio import SocketIO, emit
+from json           import load
 from os             import getenv, path, urandom
 from sys            import argv
 #
@@ -29,7 +30,10 @@ class Player:
     def __lt__( self, other ): return self.score < other.score
     #
 #
+playing = False
 players = []
+try: questions = load( 'parser/all_tournaments.json' )
+except: print('cannot find json file of questions')
 #
 ########################################################################################
 # APP ROUTING
@@ -79,7 +83,13 @@ def join():
     p = Player( session['name'] )
     players.append( p )
     #
-    print(session.get('name'), 'has entered the room.')
+    if not playing:
+        #
+        playing = True
+        emit( 'incoming_qustion', questions[7][1][0][1][0][0] )
+        #
+    #
+    print( session.get('name'), 'has entered the room.' )
     #
 #
 @socketio.on('spacebar')
