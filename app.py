@@ -83,6 +83,7 @@ def join():
     p = Player( session['name'] )
     players.append( p )
     #
+    global playing
     if not playing:
         #
         playing = True
