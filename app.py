@@ -32,7 +32,8 @@ class Player:
 #
 playing = False
 players = []
-try: questions = load( 'parser/all_tournaments.json' )
+try: 
+    with open('parser/all_tournaments.json') as f: questions = load( f )
 except: print('cannot find json file of questions')
 #
 ########################################################################################
@@ -87,7 +88,7 @@ def join():
     if not playing:
         #
         playing = True
-        emit( 'incoming_qustion', questions[7][1][0][1][0][0] )
+        emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
         #
     #
     print( session.get('name'), 'has entered the room.' )

@@ -28,7 +28,8 @@ $( document ).ready( function() {
    });
    //
    socket.on( 'incoming_question', function( data ){
-      responsiveVoice.speak( data );
+      console.log('question received');
+      responsiveVoice.speak( data['q'], 'UK English Male' );
    });
    //
    document.body.onkeyup = function(e){
