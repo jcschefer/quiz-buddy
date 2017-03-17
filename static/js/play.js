@@ -2,11 +2,20 @@
 //
 // Handle the joining of rooms
 //
+//
+function question_end(){
+   console.log('** stopped saying stuff');
+   socket.emit(' question_over' ) ;
+}
+function question_start(){
+   console.log('started saying stuff');
+}
+//
 $( document ).ready( function() {
    //
    console.log('play.js loaded')
-   //
    var socket = io.connect('//' + document.domain + ':' + location.port) ;
+   //
    socket.on('connect', function(){
       socket.emit('joined_room');
    });
@@ -25,12 +34,37 @@ $( document ).ready( function() {
       {
          responsiveVoice.pause();
       }
+      else
+      {
+         console.log('** tried to pause when it\'s not playing') ;
+      }
+   });
+   //
+   socket.on( 'hearbeat', function(){
+      socket.emit('heartbeat') ;
+   });
+   //
+   socket.on( 'resume', function(){
+      responsiveVoice.resume() ;
+   });
+   socket.on( 'resume', function(){
+      responsiveVoice.resume() ;
    });
    //
    socket.on( 'incoming_question', function( data ){
+      responsiveVoice.cancel() ;
       console.log('question received');
-      responsiveVoice.speak( data['q'], 'UK English Male' );
+      //
+      responsiveVoice.speak( data['q'], 'UK English Male', {
+         'onstart': function(){ console.log('** started saying stuff');}, 
+         'onend': function(){ 
+            console.log('** stopped saying stuff');
+            socket.emit('question_over');
+         },
+         'onerror': function(){ console.log('** there was an error?');}
+      } );
    });
+      //responsiveVoice.speak( data['q'], 'UK English Male', {onend: function(){socket.emit('question_over')} } );
    //
    document.body.onkeyup = function(e){
       if( e.keyCode == 32 ) //Spacebar pressed to answer question

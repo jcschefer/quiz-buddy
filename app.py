@@ -4,7 +4,9 @@ from flask          import Flask, render_template, send_from_directory, request,
 from flask_socketio import SocketIO, emit
 from json           import load
 from os             import getenv, path, urandom
+from random         import choice
 from sys            import argv
+from time           import time
 #
 app = Flask( __name__ )
 socketio = SocketIO( app )
@@ -28,8 +30,10 @@ class Player:
     def get_name( self ): return self.name
     def get_score( self ): return self.score
     def __lt__( self, other ): return self.score < other.score
+    def __str__( self ): return self.name
     #
 #
+last_buzz = time() 
 playing = False
 players = []
 try: 
@@ -76,16 +80,42 @@ def handleclick():
     print('it got clicked')
     #
 #
+@socketio.on('answered_correct')
+def handle_correct():
+    #
+    #sm about points and such
+    on_question_over()
+    #
+#
+@socketio.on('answered_wrong')
+def handle_wrong():
+    #
+    emit( 'resume' )
+    #
+#
+@socketio.on('question_over')
+def on_question_over():
+    #
+    emit( 'incoming_question', { 'q': choice(['hey', 'what is up', 'hello', 'my name is jeff']) } )
+    #emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
+    #
+#
 @socketio.on('joined_room')
 def join():
     #
-    emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' }, broadcast = True )
+    emit( 'message', { 'msg': session[ 'name' ] + ' has entered the room.' } )
     #
     p = Player( session['name'] )
     players.append( p )
     #
-    emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
+    #emit( 'message', { 'msg': '***players: ' + ', '.join(pl.get_name() for pl in players) }, broadcast = True )
     #
+    emit( 'incoming_question', { 'q': 'first thing\'s first' } )
+    emit( 'heartbeat' )
+    #if not playing: emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
+    #
+    #global playing
+    #playing = True
     #
     print( session.get('name'), 'has entered the room.' )
     #
@@ -94,10 +124,17 @@ def join():
 def pause_all_answers():
     #
     print('spacebar pressed')
-    emit( 'message', {'msg': session[ 'name' ] + 'has buzzed in.'}, broadcast = True )
-    emit( 'pause', broadcast = True )
+    last_buzz = time()
+    emit( 'message', {'msg': session[ 'name' ] + 'has buzzed in.'} )
+    emit( 'pause' )
     #
 #
+@socketio.on( 'heartbeat' )
+def stay_alive():
+    #
+    emit('message', {'msg': 'heartbeat'} )
+    emit( 'heartbeat' )
+    #
 #
 ########################################################################################
 # APP RUNNING
