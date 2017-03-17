@@ -52,7 +52,7 @@ $( document ).ready( function() {
    });
    //
    socket.on( 'incoming_question', function( data ){
-      responsiveVoice.cancel() ;
+      //responsiveVoice.cancel() ;
       console.log('question received');
       //
       responsiveVoice.speak( data['q'], 'UK English Male', {
