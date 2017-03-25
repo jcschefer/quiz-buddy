@@ -96,7 +96,7 @@ def handle_wrong():
 @socketio.on('question_over')
 def on_question_over():
     #
-    emit( 'incoming_question', { 'q': choice(['hey', 'what is up', 'hello', 'my name is jeff']) } )
+    emit( 'incoming_question', { 'q': choice(['hey', 'what is up', 'hello', 'my name is jeff']) }, broadcast=True )
     #emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
     #
 #

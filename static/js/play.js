@@ -59,8 +59,7 @@ $( document ).ready( function() {
          'onstart': function(){ console.log('** started saying stuff');}, 
          'onend': function(){ 
             console.log('** stopped saying stuff');
-            socket.emit('question_over');
-         },
+            socket.emit('question_over');},
          'onerror': function(){ console.log('** there was an error?');}
       } );
    });
@@ -74,7 +73,6 @@ $( document ).ready( function() {
    };
    //
 }) ;
-//
 //
 //
 //
