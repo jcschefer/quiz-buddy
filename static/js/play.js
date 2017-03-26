@@ -2,14 +2,14 @@
 //
 // Handle the joining of rooms
 //
+var CURR_ANSWER ;
+var interval    ;
 //
-function question_end(){
-   console.log('** stopped saying stuff');
-   socket.emit(' question_over' ) ;
+function is_correct( answer )
+{
+   return CURR_ANSWER.includes( answer ) ;
 }
-function question_start(){
-   console.log('started saying stuff');
-}
+//
 //
 $( document ).ready( function() {
    //
@@ -51,24 +51,68 @@ $( document ).ready( function() {
       responsiveVoice.resume() ;
    });
    //
-   socket.on( 'incoming_question', function( data ){
+   socket.on( 'incoming_question', function( q ){
       //responsiveVoice.cancel() ;
-      console.log('question received');
+      console.log( 'question received' );
+      console.log( q );
       //
-      responsiveVoice.speak( data['q'], 'UK English Male', {
+      CURR_ANSWER = q['answer'] ;
+      //
+      responsiveVoice.speak( q['prompt'], 'UK English Male', {
          'onstart': function(){ console.log('** started saying stuff');}, 
          'onend': function(){ 
             console.log('** stopped saying stuff');
-            socket.emit('question_over');},
+            socket.emit('question_over' );},
          'onerror': function(){ console.log('** there was an error?');}
       } );
    });
       //responsiveVoice.speak( data['q'], 'UK English Male', {onend: function(){socket.emit('question_over')} } );
    //
    document.body.onkeyup = function(e){
+      //
+      var txtfield = document.getElementById("answer-box") ;
+      //
       if( e.keyCode == 32 ) //Spacebar pressed to answer question
       {
-         socket.emit('spacebar');
+         console.log(CURR_ANSWER);
+         //socket.emit('spacebar');
+         if( !responsiveVoice.isPlaying())
+            return ;
+         //
+         responsiveVoice.pause() ;
+         //
+         txtfield.readOnly = false ;
+         txtfield.focus() ;
+         //
+         var timer = 5.0 ;
+         interval = setInterval(function() {
+            document.getElementById("timer").innerHTML = Number(timer).toFixed(3) ;
+            timer -= 0.01 ;
+            //
+            if( timer <= 0 )
+            {
+               if( is_correct(txtfield.value))
+                  console.log("it's right");
+               clearInterval( interval ) ;
+            }
+         }, 1);
+         //
+      }
+      else if( e.keyCode == 13 ) //enter pressed to submit anser
+      {
+         if( txtfield.readOnly == true )
+            return ;
+         //
+         if( is_correct( txtfield.value ) )
+         {
+            //stop the clock, add to score, new question
+            socket.emit('answered_correct') ;
+         }
+         else
+         {
+            // end the clock, reduce score, resume
+            socket.emit('answered_wrong')
+         }
       }
    };
    //

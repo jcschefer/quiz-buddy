@@ -8,6 +8,8 @@ from random         import choice
 from sys            import argv
 from time           import time
 #
+QUESTION_FILENAME = 'parser/formatted_small_tournaments.json'
+#
 app = Flask( __name__ )
 socketio = SocketIO( app )
 #
@@ -37,12 +39,13 @@ last_buzz = time()
 playing = False
 players = []
 try: 
-    with open('parser/all_tournaments.json') as f: questions = load( f )
+    with open( QUESTION_FILENAME ) as f: questions = load( f )
 except: print('cannot find json file of questions')
 #
 ########################################################################################
 # APP ROUTING
 ########################################################################################
+#
 @app.route('/')
 @app.route('/index.html')
 def index():
@@ -84,6 +87,7 @@ def handleclick():
 def handle_correct():
     #
     #sm about points and such
+    
     on_question_over()
     #
 #
@@ -96,7 +100,8 @@ def handle_wrong():
 @socketio.on('question_over')
 def on_question_over():
     #
-    emit( 'incoming_question', { 'q': choice(['hey', 'what is up', 'hello', 'my name is jeff']) }, broadcast=True )
+    emit( 'incoming_question', get_random_question(), broadcast=True )
+    #emit( 'incoming_question', { 'q': choice(['hey', 'what is up', 'hello', 'my name is jeff']) }, broadcast=True )
     #emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
     #
 #
@@ -110,9 +115,9 @@ def join():
     #
     #emit( 'message', { 'msg': '***players: ' + ', '.join(pl.get_name() for pl in players) }, broadcast = True )
     #
-    emit( 'incoming_question', { 'q': 'first thing\'s first' } )
+    #emit( 'incoming_question', { 'q': 'first thing\'s first' } )
     emit( 'heartbeat' )
-    #if not playing: emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
+    emit( 'incoming_question', questions[2]['questions'][1] )
     #
     #global playing
     #playing = True
@@ -137,8 +142,23 @@ def stay_alive():
     #
 #
 ########################################################################################
+# OTHER HELPER FUNCTIONS
+########################################################################################
+#
+def get_random_question():
+    #
+    while True:
+        try: 
+            r = choice(questions)
+            q = choice(r['questions'])
+            return q
+        except: pass
+    #
+#
+########################################################################################
 # APP RUNNING
 ########################################################################################
+#
 if __name__ == '__main__':
     #
     #app.run( port = int(getenv( 'PORT' )) , debug = True )
