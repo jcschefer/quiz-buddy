@@ -87,8 +87,13 @@ def handleclick():
 def handle_correct():
     #
     #sm about points and such
-    
     on_question_over()
+    #
+#
+@socketio.on('get_question')
+def handle_wrong():
+    #
+    emit( 'incoming_question', get_random_question(), broadcast=True )
     #
 #
 @socketio.on('answered_wrong')

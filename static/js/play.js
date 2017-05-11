@@ -3,11 +3,21 @@
 // Handle the joining of rooms
 //
 var CURR_ANSWER ;
+var SCORE_INCREMENT = 15 ;
 var interval    ;
+var TIMER_LENGTH = 8.00 ;
 //
 function is_correct( answer )
 {
-   return CURR_ANSWER.includes( answer ) ;
+   console.log('answer: ' + CURR_ANSWER + ' given answer: ' + answer);
+   if(answer.length < 2) return false ;
+   return CURR_ANSWER.toUpperCase().includes( answer.toUpperCase() ) ;
+}
+//
+function increment_score( num )
+{
+   var scorebox = document.getElementById('score') ;
+   scorebox.innerHTML = parseInt(scorebox.innerHTML) + num ;
 }
 //
 //
@@ -15,6 +25,8 @@ $( document ).ready( function() {
    //
    console.log('play.js loaded')
    var socket = io.connect('//' + document.domain + ':' + location.port) ;
+   //
+   document.getElementById('score').readonly = true ;
    //
    socket.on('connect', function(){
       socket.emit('joined_room');
@@ -46,13 +58,18 @@ $( document ).ready( function() {
    //
    socket.on( 'resume', function(){
       responsiveVoice.resume() ;
-   });
+   }) ;
+   //
    socket.on( 'resume', function(){
       responsiveVoice.resume() ;
    });
    //
    socket.on( 'incoming_question', function( q ){
       //responsiveVoice.cancel() ;
+      var txtfield = document.getElementById("answer-box") ;
+      txtfield.readonly = true ;
+      txtfield.value = "" ;
+      //
       console.log( 'question received' );
       console.log( q );
       //
@@ -84,18 +101,27 @@ $( document ).ready( function() {
          txtfield.readOnly = false ;
          txtfield.focus() ;
          //
-         var timer = 5.0 ;
+         var timer = TIMER_LENGTH ;
          interval = setInterval(function() {
-            document.getElementById("timer").innerHTML = Number(timer).toFixed(3) ;
+            document.getElementById("timer").innerHTML = Number(timer).toFixed(2) ;
             timer -= 0.01 ;
             //
             if( timer <= 0 )
             {
                if( is_correct(txtfield.value))
+               {
                   console.log("it's right");
+                  socket.emit('get_question') ;
+                  increment_score( SCORE_INCREMENT ) ;
+               }
+               else 
+               {
+                  socket.emit('get_question') ;
+               }
+               //
                clearInterval( interval ) ;
             }
-         }, 1);
+         }, 10);
          //
       }
       else if( e.keyCode == 13 ) //enter pressed to submit anser
@@ -105,14 +131,19 @@ $( document ).ready( function() {
          //
          if( is_correct( txtfield.value ) )
          {
-            //stop the clock, add to score, new question
-            socket.emit('answered_correct') ;
+            console.log("it's right");
+            socket.emit('get_question') ;
+            increment_score( SCORE_INCREMENT ) ;
          }
-         else
-         {
-            // end the clock, reduce score, resume
-            socket.emit('answered_wrong')
-         }
+         // end the clock, reduce score, make text field read only, resume
+         clearInterval( interval ) ;
+         document.getElementById("timer").innerHTML = Number(TIMER_LENGTH).toFixed(2) ;
+         //
+         increment_score( -5 ) ;
+         //
+         txtfield.readOnly = true ;
+         //
+         responsiveVoice.resume() ;
       }
    };
    //
