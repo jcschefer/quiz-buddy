@@ -3,6 +3,7 @@
 // Handle the joining of rooms
 //
 var CURR_ANSWER ;
+var CURR_PROMPT ;
 var SCORE_INCREMENT = 15 ;
 var interval    ;
 var TIMER_LENGTH = 8.00 ;
@@ -18,6 +19,25 @@ function increment_score( num )
 {
    var scorebox = document.getElementById('score') ;
    scorebox.innerHTML = parseInt(scorebox.innerHTML) + num ;
+}
+//
+function append_question() 
+{
+   var pr = document.createElement('p') 
+   pr.appendChild( document.createTextNode( CURR_PROMPT ) ) ;
+   var ans = document.createElement('div');
+   ans.appendChild( document.createTextNode( CURR_ANSWER ) ) ;
+   //
+   var div = document.createElement('div') ;
+   div.className += 'question' ;
+   div.appendChild(pr);
+   div.appendChild(ans);
+   div.appendChild(document.createElement('br'))
+   div.appendChild(document.createElement('br'))
+   var board = document.getElementById('game-board') ;
+   //board.insertBefore(div, board.childNodes[1]) ;
+   //
+   $('#game-board').prepend(div).fadeIn() ;
 }
 //
 //
@@ -74,6 +94,7 @@ $( document ).ready( function() {
       console.log( q );
       //
       CURR_ANSWER = q['answer'] ;
+      CURR_PROMPT = q['prompt'] ;
       //
       responsiveVoice.speak( q['prompt'], 'UK English Male', {
          'onstart': function(){ console.log('** started saying stuff');}, 
@@ -119,6 +140,8 @@ $( document ).ready( function() {
                   socket.emit('get_question') ;
                }
                //
+               append_question() ;
+               //
                clearInterval( interval ) ;
             }
          }, 10);
@@ -133,9 +156,12 @@ $( document ).ready( function() {
          {
             console.log("it's right");
             socket.emit('get_question') ;
+            responsiveVoice.cancel() ;
             increment_score( SCORE_INCREMENT ) ;
          }
          // end the clock, reduce score, make text field read only, resume
+         append_question() ;
+         //
          clearInterval( interval ) ;
          document.getElementById("timer").innerHTML = Number(TIMER_LENGTH).toFixed(2) ;
          //

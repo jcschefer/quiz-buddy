@@ -1,5 +1,11 @@
 @import url('base.css');
 
+.instructions
+{
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+
 .header-wrapper
 {
    background-color: #1a1aff;
