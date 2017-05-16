@@ -121,7 +121,7 @@ def join():
     #emit( 'message', { 'msg': '***players: ' + ', '.join(pl.get_name() for pl in players) }, broadcast = True )
     #
     #emit( 'incoming_question', { 'q': 'first thing\'s first' } )
-    emit( 'heartbeat' )
+    #emit( 'heartbeat' )
     emit( 'incoming_question', questions[2]['questions'][1] )
     #
     #global playing
@@ -156,7 +156,7 @@ def get_random_question():
         try: 
             r = choice(questions)
             q = choice(r['questions'])
-            return q
+            if 'ANSWER' not in q['prompt'] : return q
         except: pass
     #
 #

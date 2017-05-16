@@ -35,9 +35,9 @@ function append_question()
    div.appendChild(document.createElement('br'))
    div.appendChild(document.createElement('br'))
    var board = document.getElementById('game-board') ;
-   //board.insertBefore(div, board.childNodes[1]) ;
    //
    $('#game-board').prepend(div).fadeIn() ;
+   $(document).scrollTop() ;
 }
 //
 //
@@ -55,6 +55,17 @@ $( document ).ready( function() {
    $( '#button' ).on('click', function(){
       responsiveVoice.speak("hello and welcome to the website", "UK English Male");
       socket.emit('click');
+   });
+   //
+   $( '#play-pause' ).on('click', function(){
+      if(responsiveVoice.isPlaying())
+      {
+         responsiveVoice.pause() ;
+      }
+      else
+      {
+         responsiveVoice.resume() ;
+      }
    });
    //
    socket.on('message', function( data ){
@@ -89,6 +100,11 @@ $( document ).ready( function() {
       var txtfield = document.getElementById("answer-box") ;
       txtfield.readonly = true ;
       txtfield.value = "" ;
+      //
+      if(CURR_ANSWER)
+      {
+         append_question() ;
+      }
       //
       console.log( 'question received' );
       console.log( q );
@@ -132,15 +148,11 @@ $( document ).ready( function() {
                if( is_correct(txtfield.value))
                {
                   console.log("it's right");
-                  socket.emit('get_question') ;
                   increment_score( SCORE_INCREMENT ) ;
                }
-               else 
-               {
-                  socket.emit('get_question') ;
-               }
                //
-               append_question() ;
+               socket.emit('get_question') ;
+               //
                //
                clearInterval( interval ) ;
             }
@@ -152,24 +164,33 @@ $( document ).ready( function() {
          if( txtfield.readOnly == true )
             return ;
          //
+         // end the clock, reduce score, make text field read only, resume
+         //
          if( is_correct( txtfield.value ) )
          {
             console.log("it's right");
-            socket.emit('get_question') ;
-            responsiveVoice.cancel() ;
+         //   responsiveVoice.cancel() ;
             increment_score( SCORE_INCREMENT ) ;
+            responsiveVoice.speak('Correct!') ;
          }
-         // end the clock, reduce score, make text field read only, resume
-         append_question() ;
+         else 
+         {
+            increment_score( -5 ) ;
+         }
          //
-         clearInterval( interval ) ;
+         try 
+         {
+            clearInterval( interval ) ;
+         }
+         catch(err) 
+         { 
+            console.log(err) ;
+         }
          document.getElementById("timer").innerHTML = Number(TIMER_LENGTH).toFixed(2) ;
-         //
-         increment_score( -5 ) ;
          //
          txtfield.readOnly = true ;
          //
-         responsiveVoice.resume() ;
+         socket.emit('get_question') ;
       }
    };
    //
