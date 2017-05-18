@@ -34,6 +34,7 @@ function append_question()
    div.appendChild(ans);
    div.appendChild(document.createElement('br'))
    div.appendChild(document.createElement('br'))
+   div.className += ' question' ;
    var board = document.getElementById('game-board') ;
    //
    $('#game-board').prepend(div).fadeIn() ;
@@ -171,7 +172,6 @@ $( document ).ready( function() {
             console.log("it's right");
          //   responsiveVoice.cancel() ;
             increment_score( SCORE_INCREMENT ) ;
-            responsiveVoice.speak('Correct!') ;
          }
          else 
          {
