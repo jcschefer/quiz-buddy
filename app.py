@@ -6,7 +6,7 @@ from json           import load
 from os             import getenv, path, urandom
 from random         import choice
 from sys            import argv
-from time           import time
+from time           import sleep, time
 #
 QUESTION_FILENAME = 'parser/formatted_small_tournaments.json'
 #
@@ -36,6 +36,7 @@ class Player:
     #
 #
 last_buzz = time() 
+demo_pos = 2
 playing = False
 players = []
 try: 
@@ -152,11 +153,17 @@ def stay_alive():
 #
 def get_random_question():
     #
+    global demo_pos
+    #sleep( 2 )
+    #
     while True:
         try: 
-            r = choice(questions)
-            q = choice(r['questions'])
-            if 'ANSWER' not in q['prompt'] : return q
+            #r = choice(questions)
+            #q = choice(r['questions'])
+            demo_pos += 1
+            q = questions[2]['questions'][demo_pos]
+            if 'ANSWER' not in q['prompt'] : 
+                return q
         except: pass
     #
 #

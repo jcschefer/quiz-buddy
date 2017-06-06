@@ -10,7 +10,7 @@ var TIMER_LENGTH = 8.00 ;
 //
 function is_correct( answer )
 {
-   console.log('answer: ' + CURR_ANSWER + ' given answer: ' + answer);
+   //console.log('answer: ' + CURR_ANSWER + ' given answer: ' + answer);
    if(answer.length < 2) return false ;
    return CURR_ANSWER.toUpperCase().includes( answer.toUpperCase() ) ;
 }
