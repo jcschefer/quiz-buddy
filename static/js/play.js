@@ -4,6 +4,7 @@
 //
 var CURR_ANSWER ;
 var CURR_PROMPT ;
+var CURR_POS    ;
 var SCORE_INCREMENT = 15 ;
 var interval    ;
 var TIMER_LENGTH = 8.00 ;
@@ -20,7 +21,6 @@ function increment_score( num )
    var scorebox = document.getElementById('score') ;
    scorebox.innerHTML = parseInt(scorebox.innerHTML) + num ;
 }
-//
 function append_question() 
 {
    var pr = document.createElement('p') 
@@ -112,12 +112,13 @@ $( document ).ready( function() {
       //
       CURR_ANSWER = q['answer'] ;
       CURR_PROMPT = q['prompt'] ;
+      CURR_POS    = q['pos'] ;
       //
       responsiveVoice.speak( q['prompt'], 'UK English Male', {
          'onstart': function(){ console.log('** started saying stuff');}, 
          'onend': function(){ 
             console.log('** stopped saying stuff');
-            socket.emit('question_over' );},
+            socket.emit('question_over', CURR_POS );},
          'onerror': function(){ console.log('** there was an error?');}
       } );
    });
@@ -152,7 +153,7 @@ $( document ).ready( function() {
                   increment_score( SCORE_INCREMENT ) ;
                }
                //
-               socket.emit('get_question') ;
+               socket.emit('get_question', CURR_POS) ;
                //
                //
                clearInterval( interval ) ;
@@ -190,7 +191,7 @@ $( document ).ready( function() {
          //
          txtfield.readOnly = true ;
          //
-         socket.emit('get_question') ;
+         socket.emit('get_question', CURR_POS) ;
       }
    };
    //
