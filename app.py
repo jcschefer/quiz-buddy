@@ -6,7 +6,7 @@ from json           import load
 from os             import getenv, path, urandom
 from random         import choice
 from sys            import argv
-from time           import time
+from time           import sleep, time
 #
 QUESTION_FILENAME = 'parser/formatted_small_tournaments.json'
 #
@@ -91,9 +91,9 @@ def handle_correct():
     #
 #
 @socketio.on('get_question')
-def handle_wrong():
+def handle_wrong(p):
     #
-    emit( 'incoming_question', get_random_question(), broadcast=True )
+    emit( 'incoming_question', get_random_question(p+1), broadcast=True )
     #
 #
 @socketio.on('answered_wrong')
@@ -103,9 +103,9 @@ def handle_wrong():
     #
 #
 @socketio.on('question_over')
-def on_question_over():
+def on_question_over(p):
     #
-    emit( 'incoming_question', get_random_question(), broadcast=True )
+    emit( 'incoming_question', get_random_question(p+1), broadcast=True )
     #emit( 'incoming_question', { 'q': choice(['hey', 'what is up', 'hello', 'my name is jeff']) }, broadcast=True )
     #emit( 'incoming_question', { 'q': questions[7][1][0][1][0][0] }, broadcast = True)
     #
@@ -122,7 +122,9 @@ def join():
     #
     #emit( 'incoming_question', { 'q': 'first thing\'s first' } )
     #emit( 'heartbeat' )
-    emit( 'incoming_question', questions[2]['questions'][1] )
+    q = questions[2]['questions'][1]
+    q['pos'] = 1
+    emit( 'incoming_question', q )
     #
     #global playing
     #playing = True
@@ -150,13 +152,18 @@ def stay_alive():
 # OTHER HELPER FUNCTIONS
 ########################################################################################
 #
-def get_random_question():
+def get_random_question(p):
+    #
+    #sleep( 2 )
     #
     while True:
         try: 
-            r = choice(questions)
-            q = choice(r['questions'])
-            if 'ANSWER' not in q['prompt'] : return q
+            #r = choice(questions)
+            #q = choice(r['questions'])
+            q = questions[2]['questions'][p]
+            q['pos'] = p
+            if 'ANSWER' not in q['prompt'] : 
+                return q
         except: pass
     #
 #
