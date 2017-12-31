@@ -20,5 +20,6 @@ from django.http import HttpResponseRedirect
 urlpatterns = [
     path('', lambda r: HttpResponseRedirect('gp/')),
     path('gp/', include('gameplay.urls')),
+    path('data/', include('data.urls')),
     path('admin/', admin.site.urls),
 ]
