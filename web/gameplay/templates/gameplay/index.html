@@ -1,8 +1,9 @@
 {% extends "gameplay/layout.html" %}
+{% load staticfiles %}
 
 {% block head %}
-   <link rel="stylesheet" href="/static/styles/home.css">
-   <script type="text/javascript" src="/static/js/index.js"></script>
+   <link rel="stylesheet" href="{% static "gameplay/styles/home.css" %}">
+   <script type="text/javascript" src="{% static "gameplay/js/index.js" %}"></script>
 {% endblock head %}
 
 {% block body %}
@@ -21,7 +22,7 @@
          <div class="row">
             <div class="col-sm-12">
                <center>
-                  <img src="/static/logo.png">
+                  <img src="{% static "gameplay/logo.png" %}">
                </center>
             </div>
             <div class="col-sm-12">
