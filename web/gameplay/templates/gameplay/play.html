@@ -1,4 +1,4 @@
-{% extends "layout.html" %}
+{% extends "gameplay/layout.html" %}
 
 {% block head %}
    <link rel="stylesheet" href="/static/styles/play.css">
@@ -25,11 +25,6 @@
             </div>
          </div>
          <div class="row">
-            <div class="col-sm-12 instructions">
-               <span>Welcome, you are playing as <strong>{{name}}</strong></span>
-            </div>
-         </div>
-         <div class="row">
             <div class="col-sm-4">
                <div class="answer-box">
                   <input id="answer-box" readOnly type="text" placeholder="Type your answer here"></input>
@@ -44,7 +39,6 @@
             </div>
             <div class="col-sm-2">
                <p class="big-number"><span id="timer">8.00</span>&nbsp;seconds</p>
-               <p class="label">{{name}}</p>
             </div>
          </div>
          <div class="row">
@@ -58,7 +52,6 @@
             </div>
             <div class="col-sm-2 score-column">
                <p class="big-number"><span id="score">0</span></p>
-               <p class="label">{{name}}</p>
             </div>
          </div>
       </div>

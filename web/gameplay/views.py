@@ -8,3 +8,6 @@ def index(request):
 
 def about(request):
     return HttpResponse(get_template('gameplay/about.html').render())
+
+def play(request):
+    return HttpResponse(get_template('gameplay/play.html').render())

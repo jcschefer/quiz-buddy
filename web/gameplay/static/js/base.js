@@ -4,14 +4,6 @@
 $( document ).ready( function() {
    //
    console.log('base.js loaded') ;
-   //
-   $( "#popup" ).hide() ;
-   //
-   $( "#play-link" ).click( function() {
-      console.log("clicked") ;
-      $( "#popup" ).show() ;
-   });
-   //
 }) ;
 //
 //
