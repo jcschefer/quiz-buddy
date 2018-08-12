@@ -26,7 +26,7 @@ SECRET_KEY = 'j6#q__sd_sgv(*znbdhx3$z5**rgvmh3avxa+lpq53a1@_^^do'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'lit-caverns-28453.herokuapp.com',
+    'quizbuddy.herokuapp.com',
     'localhost',
 ]
 
