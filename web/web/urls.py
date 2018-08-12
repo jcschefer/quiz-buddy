@@ -21,5 +21,6 @@ urlpatterns = [
     path('', lambda r: HttpResponseRedirect('gp/')),
     path('gp/', include('gameplay.urls')),
     path('data/', include('data.urls')),
+	path('guides/', include('guides.urls')),
     path('admin/', admin.site.urls),
 ]
