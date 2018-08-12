@@ -1,0 +1,37 @@
+{% extends "gameplay/layout.html" %}
+{% load staticfiles %}
+
+{% block head %}
+	<link rel="stylesheet" href="{% static "gameplay/styles/guides.css"  %}">
+{% endblock head %}
+
+{% block body %}
+<div class="header-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<h1>Study Guides</h1>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="guides-wrapper">
+	<div class="container content">
+		<div class="row">
+			<div class="col-xs-12">
+				<h3 class="heading">Download Links</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<ol>
+					<li>
+						<a href="/guides/random">Downlaoad a guide of random questions</a>
+					</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock body %}
