@@ -15,7 +15,7 @@ class Round(models.Model):
 
 
 class Question(models.Model):
-    packet_id = models.ForeignKey(Round, on_delete=models.CASCADE)
+    round_id = models.ForeignKey(Round, on_delete=models.CASCADE)
     text_part_1 = models.CharField(max_length=1000)
     text_part_2 = models.CharField(max_length=1000, default='')
     text_part_3 = models.CharField(max_length=1000, default='')
