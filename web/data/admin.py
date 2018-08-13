@@ -1,9 +1,8 @@
 from django.contrib import admin
 
-from .models import Tournament, Packet, Question
+from .models import Tournament, Round, Question
 
 # Register your models here.
 admin.site.register(Tournament)
-admin.site.register(Packet)
+admin.site.register(Round)
 admin.site.register(Question)
-
