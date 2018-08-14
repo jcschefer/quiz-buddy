@@ -18,7 +18,7 @@ class Packet(models.Model):
     tournament_id = models.ForeignKey(Tournament, on_delete=models.CASCADE)
     name = models.CharField(max_length=200)
     round_number = models.IntegerField(help_text='Corresponding round from which the packet comes')
-    type = models.CharField(max_length=20, help_text='Oneof PacketType values')
+    packet_type = models.CharField(max_length=20, help_text='Oneof PacketType values')
 
 
 class Question(models.Model):
