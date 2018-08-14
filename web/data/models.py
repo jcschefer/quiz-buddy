@@ -27,6 +27,8 @@ class Question(models.Model):
     text_part_2 = models.CharField(max_length=1000, default='')
     text_part_3 = models.CharField(max_length=1000, default='')
     answer = models.CharField(max_length=250)
+    number = models.IntegerField(
+        help_text='Order in which the question comes in the packet', default=0)
 
     def toJson(self):
         joined_text = ' '.join([self.text_part_1, self.text_part_2, self.text_part_3])
