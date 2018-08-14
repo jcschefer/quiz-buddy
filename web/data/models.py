@@ -1,6 +1,12 @@
 from django.db import models
 
+from enum import Enum
 import json
+
+
+class PacketType(Enum):
+    TOSSUP = 'TOSSUP'
+    BONUS = 'BONUS'
 
 
 class Tournament(models.Model):
@@ -8,14 +14,15 @@ class Tournament(models.Model):
     year = models.IntegerField()
 
 
-class Round(models.Model):
+class Packet(models.Model):
     tournament_id = models.ForeignKey(Tournament, on_delete=models.CASCADE)
     name = models.CharField(max_length=200)
-    index = models.IntegerField(help_text='Order that the packet comes in the tournament')
+    round_number = models.IntegerField(help_text='Corresponding round from which the packet comes')
+    type = models.CharField(max_length=20, help_text='Oneof PacketType values')
 
 
 class Question(models.Model):
-    round_id = models.ForeignKey(Round, on_delete=models.CASCADE)
+    packet_id = models.ForeignKey(Packet, on_delete=models.CASCADE)
     text_part_1 = models.CharField(max_length=1000)
     text_part_2 = models.CharField(max_length=1000, default='')
     text_part_3 = models.CharField(max_length=1000, default='')
