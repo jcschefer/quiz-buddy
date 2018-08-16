@@ -15,14 +15,14 @@ class Tournament(models.Model):
 
 
 class Packet(models.Model):
-    tournament_id = models.ForeignKey(Tournament, on_delete=models.CASCADE)
+    tournament = models.ForeignKey(Tournament, on_delete=models.CASCADE)
     name = models.CharField(max_length=200)
     round_number = models.IntegerField(help_text='Corresponding round from which the packet comes')
     packet_type = models.CharField(max_length=20, help_text='Oneof PacketType values')
 
 
 class Question(models.Model):
-    packet_id = models.ForeignKey(Packet, on_delete=models.CASCADE)
+    packet = models.ForeignKey(Packet, on_delete=models.CASCADE)
     text_part_1 = models.CharField(max_length=1000)
     text_part_2 = models.CharField(max_length=1000, default='')
     text_part_3 = models.CharField(max_length=1000, default='')

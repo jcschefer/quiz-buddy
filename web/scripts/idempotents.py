@@ -20,7 +20,7 @@ def get_or_create_tournament(tournament):
 
 def get_or_create_packet(packet):
     obj, created = Packet.objects.get_or_create(
-        tournament_id=packet.tournament_id,
+        tournament=packet.tournament,
         name=packet.name,
         round_number=packet.round_number,
         packet_type=packet.packet_type
@@ -34,7 +34,7 @@ def get_or_create_packet(packet):
 
 def get_or_create_question(question):
     obj, created = Question.objects.get_or_create(
-        packet_id=question.packet_id,
+        packet=question.packet,
         text_part_1=question.text_part_1,
         text_part_2=question.text_part_2,
         text_part_3=question.text_part_3,

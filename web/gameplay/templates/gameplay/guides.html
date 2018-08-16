@@ -27,7 +27,19 @@
 			<div class="col-xs-12">
 				<ol>
 					<li>
-						<a href="/guides/random">Downlaoad a guide of random questions</a>
+						<a href="/guides/random">Download a guide of random questions</a>
+					</li>
+					<li>
+						<p>Packet Downloads</p>
+						<ul>
+							{% for obj in ids_and_links %}
+								<li>
+									<a href="{% url 'packet_guide' obj.packet_id %}">
+										{{ obj.title }}
+									</a>
+								</li>
+							{% endfor %}
+						</ul>
 					</li>
 				</ol>
 			</div>
