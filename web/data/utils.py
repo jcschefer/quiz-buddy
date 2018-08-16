@@ -1,4 +1,4 @@
-import random
+from random import choice
 from .models import Question
 
 q = [
@@ -26,4 +26,5 @@ q = [
 
 
 def fetch_random_question():
-    return random.choice(q)
+    # return random.choice(q)
+    return choice(list(Question.objects.all()))

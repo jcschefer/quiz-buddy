@@ -14,10 +14,18 @@ DEFAULT_QUESTION_NUMBER = 20
 
 
 def random_guide(request):
+    # must manually compile the question text because templates don't support complex things
+    random_questions = [fetch_random_question() for i in range(DEFAULT_QUESTION_NUMBER)]
+
+    questions = [{
+        'text': ' '.join(['\\textbf{', q.text_part_1, '(*)}', q.text_part_2, q.text_part_3]),
+        'answer': q.answer
+    } for q in random_questions]
+
     params = {
         'title': 'Random Study Guide',
         'date': datetime.date.today().strftime('%x'),
-        'questions': [fetch_random_question() for i in range(DEFAULT_QUESTION_NUMBER)]
+        'questions': questions
     }
 
     template = get_template('guide.tex')
@@ -27,9 +35,12 @@ def random_guide(request):
         process = Popen(['pdflatex', '-output-directory', tempdir], stdin=PIPE, stdout=PIPE)
         process.communicate(rendered_template)
 
-        with open(os.path.join(tempdir, 'texput.pdf'), 'rb') as f:
-            pdf = f.read()
-
-    r = HttpResponse(content_type='application/pdf')
-    r.write(pdf)
-    return r
+        try:
+            with open(os.path.join(tempdir, 'texput.pdf'), 'rb') as f:
+                r = HttpResponse(content_type='application/pdf')
+                r.write(f.read())
+                return r
+        except FileNotFoundError:
+            with open(os.path.join(tempdir, 'texput.log'), 'r') as f:
+                print(f.read())
+            raise Exception('Error compiling template, check logs...')

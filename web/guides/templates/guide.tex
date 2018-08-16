@@ -22,8 +22,8 @@
 
 \begin{enumerate}
 	{% for q in questions %}
-    \item {{ q.text }} \\\\
-    Answer: {{ q.answer }} \\
+    \item {{ q.text |safe}} \\\\
+    Answer: {{ q.answer |safe }} \\
 	{% endfor %}
 \end{enumerate}
 

@@ -5,5 +5,4 @@ venv/
 *.swp
 secret_key
 
-*.sqlite3
 web/staticfiles/*
