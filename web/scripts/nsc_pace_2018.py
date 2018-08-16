@@ -309,3 +309,133 @@ r2_q21_t3 = 'For 10 points, name this type of animal, whose form is taken by Han
 r2_q21_answer = 'monkeys'
 r2_q21 = get_or_create_question(Question(packet=round_2, text_part_1=r2_q21_t1,
                                          text_part_2=r2_q21_t2, text_part_3=r2_q21_t3, answer=r2_q21_answer, number=21))
+
+# 4. Packet for round three
+round_3 = get_or_create_packet(Packet(tournament=tournament,
+                                      name='Round 03', round_number=3, packet_type=PacketType.TOSSUP.name))
+
+r3_q01_t1 = 'A character in this play accuses another man of just hitting "younger men... and children... women... birds." Another character in this play tells the story of a fifteen-year old boy who accidentally killed his mother with a shotgun, and who caused much laughter by ordering "bergin and water." In another story about that boy in this play, he was taken to the hospital after he crashed his car while'
+r3_q01_t2 = 'swerving to avoid a porcupine in the road. In this play, a "hysterical pregnancy" supposedly caused Nick to marry his wife. During the "Walpurgisnacht" act of this play, George suggests that a game of "Get the Guests" be played to humiliate Martha and Honey.'
+r3_q01_t3 = 'For 10 points, name this domestic drama by Edward Albee.'
+r3_q01_answer = 'Who\'s Afraid of Virginia Woolf?'
+r3_q01 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q01_t1, text_part_2=r3_q01_t2, text_part_3=r3_q01_t3, answer=r3_q01_answer, number=1))
+
+r3_q02_t1 = 'Calcium copper titanate is a particularly strong one of these materials due to a grain boundary. Energy dissipation in these materials is quantified by the loss tangent. Implicit models of solvation treat the solvent as one of these materials, which name a quantity used to measure solvent polarity. The namesake "strength" of these materials is measured in volts per meter and gives the applied field needed to make them conduct above the'
+r3_q02_t2 = 'breakdown voltage. A quantity named for these materials is also called "relative permittivity" and is multiplied by epsilon-naught times area over distance in the parallel-plate model.'
+r3_q02_t3 = 'For 10 points, what insulating materials are placed between the plates of a capacitor to increase capacitance?'
+r3_q02_answer = 'dielectrics'
+r3_q02 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q02_t1, text_part_2=r3_q02_t2, text_part_3=r3_q02_t3, answer=r3_q02_answer, number=2))
+
+r3_q03_t1 = 'One of the first stars in this profession collaborated on some projects with Reform Club member and architect Charles Barry and was named Alexis Soyer. Massimo Bottura wrote a 2011 book titled for people in this profession, some of whom run businesses called "trattoria." These people often wear a starched hat called a "toque blanche." In the US, the'
+r3_q03_t2 = 'James Beard foundation gives out awards to people in this profession. In 2012, one of these people named Bernard Loiseau killed himself amidst rumors that he would be downgraded from three to two Michelin stars. Auguste Escoffier\'s hierarchy of this profession puts their "sous" variety second in command.'
+r3_q03_t3 = 'For 10 points, an apron is usually worn by members of what food preparation profession?'
+r3_q03_answer = 'chef or cook'
+r3_q03 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q03_t1, text_part_2=r3_q03_t2, text_part_3=r3_q03_t3, answer=r3_q03_answer, number=3))
+
+r3_q04_t1 = 'This organization was likened to a cult in the title of a 1974 book by Victor Marchetti. It\'s not the NSC, but in 1946 Harry Truman appointed Sidney Souers to be this organization\'s first leader. Its one-time leader William Colby devised many of the "stay-behinds" for Operation Gladio. Its "Family Jewels" documents were released to the public during the'
+r3_q04_t2 = 'Church Committee hearings, in which Mary Embree claimed that this organization developed a "heart attack gun." Gerald Ford appointed George H. W. Bush to serve as its director in the 1970s. This organization succeeded the Office of Strategic Services and generally lacks a domestic charter.'
+r3_q04_t3 = 'For 10 points, name this US government agency that gathers information about foreign espionage.'
+r3_q04_answer = 'CIA or the Central Intelligence Agency'
+r3_q04 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q04_t1, text_part_2=r3_q04_t2, text_part_3=r3_q04_t3, answer=r3_q04_answer, number=4))
+
+r3_q05_t1 = 'A character in this play is asked about the views of Pythagoras on birds and believes himself to be the addressee of a letter written to "M, O, A, I." That character in this play is asked if he thinks, because he is virtuous, "there shall be no more cakes and ale?" After being locked in a room, that character in this play is visited by a man disguised as the priest Sir Topas, who insists that character has gone'
+r3_q05_t2 = 'mad. The primary subplot in this play revolves around a forged love letter from Olivia that tricks the prudish servant Malvolio.'
+r3_q05_t3 = 'For 10 points, name this play about the shipwrecked Viola and Sebastian, a Shakespearean comedy named for the fact that it was originally performed at the end of Christmas festivities.'
+r3_q05_answer = 'Twelfth Night'
+r3_q05 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q05_t1, text_part_2=r3_q05_t2, text_part_3=r3_q05_t3, answer=r3_q05_answer, number=5))
+
+r3_q06_t1 = 'Angelo Tani commissioned a painting of this scene that ended up in Poland after Paul Benecke captured the ship transporting it. St. Peter shakes hands with one of the naked men in a procession in the left-hand side of an altarpiece of this scene by Hans Memling. One version of this scene was altered by "Il Braghettone," Daniele da Volterra. The artist of one version of this scene depicted himself as the man holding his'
+r3_q06_t2 = 'own flayed skin, St. Bartholomew. Memling\'s version of this scene depicts an armor-clad Michael in the foreground. This scene decorates the altar wall of a building that Michelangelo had earlier painted the ceiling for.'
+r3_q06_t3 = 'For 10 points, name this Biblical scene of Christ sending souls to Heaven and Hell.'
+r3_q06_answer = 'The Last Judgment'
+r3_q06 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q06_t1, text_part_2=r3_q06_t2, text_part_3=r3_q06_t3, answer=r3_q06_answer, number=6))
+
+r3_q07_t1 = 'Removing three holes from one of these objects creates a topological surface called the "pair of pants." A Morin surface is formed by manipulating one of these objects, and David Hilbert illustrated that all geodesics on this structure are closed curves. The number of these objects that can touch another one of these objects is known as the'
+r3_q07_t2 = 'kissing number. Johannes Kepler proposed a famous conjecture about the optimal packings for this structure in three-dimensional space. A coordinate system named after this object represents points as a distance, a polar angle, and an azimuthal angle.'
+r3_q07_t3 = 'For 10 points, name this object that consists of all points in three-dimensional space that are equidistant to a given point.'
+r3_q07_answer = 'sphere'
+r3_q07 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q07_t1, text_part_2=r3_q07_t2, text_part_3=r3_q07_t3, answer=r3_q07_answer, number=7))
+
+r3_q08_t1 = 'A Homeric hymn to this deity ends with him being advised to visit a trio of honeycomb-eating nymphs at Parnassus called the Thriae; that poem also describes him encountering an old man on the plain of Onchestus after weaving some sandals. Aeneas\'s ally Evander was a son of this god. The nymph Salmacis fell in love with, and then merged with, a son of this god. An esoteric religious tradition based on texts attributed to this god dubbed him'
+r3_q08_t2 = '"thrice-great." This father of the thief Autolycus used a strategy involving reversing footprints to successfully steal cattle belonging to another god, to whom this god gave the lyre as compensation. A snake-wrapped staff called the "caduceus" was carried by,'
+r3_q08_t3 = 'for 10 points, what winged-sandal-wearing Greek messenger god?'
+r3_q08_answer = 'Hermes'
+r3_q08 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q08_t1, text_part_2=r3_q08_t2, text_part_3=r3_q08_t3, answer=r3_q08_answer, number=8))
+
+r3_q09_t1 = 'In the early 2000s, environmentalists successfully diverted a Transneft oil pipeline from passing within 3,000 feet of this body of water. A polluting pulp and paper mill on its banks was closed in 2013. A first millennium BC stele near this lake shows a giant lizard-like monster similar to the cryptid Lusud-Khan said to live here. The Buryat people who live around this lake refer to it as the "blue eye." This lake is threatened by a plan to open a uranium plant in'
+r3_q09_t2 = 'Angarsk. The Selenga river flows into this lake, which is home to nerpa seals. The 45-mile-long island of Olkhon is located in this lake. It is both the oldest freshwater lake on Earth and, at 1,620 meters, the deepest.'
+r3_q09_t3 = 'For 10 points, name this Siberian lake.'
+r3_q09_answer = 'Lake Baikal'
+r3_q09 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q09_t1, text_part_2=r3_q09_t2, text_part_3=r3_q09_t3, answer=r3_q09_answer, number=9))
+
+r3_q10_t1 = 'The victorious forces at this battle had to wait a month at the mouth of the Dives River for favorable weather. At a ceremony conducted on the Christmas Day following this battle, its victor\'s troops set fire to nearby buildings after mistaking cries of acclamation for insurrection. The Battle Abbey was built to commemorate this battle, which was the culmination of a campaign begun at Pevensey. Two years after this battle, the victor wrought destruction on territories beyond the'
+r3_q10_t2 = 'River Humber in the Harrying of the North.The losing side in this battle had just fought the Battle of Stamford Bridge. The loser of this battle is depicted taking an arrow to the eye in the Bayeux Tapestry.'
+r3_q10_t3 = 'For 10 points, name this 1066 victory for William the Conqueror.'
+r3_q10_answer = 'Battle of Hastings'
+r3_q10 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q10_t1, text_part_2=r3_q10_t2, text_part_3=r3_q10_t3, answer=r3_q10_answer, number=10))
+
+r3_q11_t1 = 'A protein in the HSP70 family that is localized to the ER is named for "binding" to these molecules. The kinetoplast of "Crithidia luciliae" is used to detect examples of these entities that bind to dsDNA. The binding of these proteins to their substrates can produce C3 convertase and trigger the classical complement pathway. These proteins are used to visualize indirect fluorescence, in which'
+r3_q11_t2 = 'secondary types of these proteins bind primary ones in a technique commonly used with Western blots. One of these proteins, rheumatoid factor, binds to the Fc region of another of these proteins. These proteins, made of two heavy chains and two light chains, are secreted by B cells.'
+r3_q11_t3 = 'For 10 points, name these Y-shaped proteins which bind to antigens.'
+r3_q11_answer = 'antibodies'
+r3_q11 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q11_t1, text_part_2=r3_q11_t2, text_part_3=r3_q11_t3, answer=r3_q11_answer, number=11))
+
+r3_q12_t1 = 'Scholars dispute whether Marie-Anne Collot sculpted the face of a statue of this man. A mechanism for transporting part of a statue of this person was figured out by a Greek fugitive named Marinos Carburis. This ruler hired architect Domenico Trezzini to create buildings such as the Twelve Colleges. A monument to this man was the first since Pietro Tacca\'s statue of Philip IV to depict a freestanding'
+r3_q12_t2 = 'bronze man on a rearing horse; that statue stands on a 1,250-tonne pedestal known as the Thunder Stone. This ruler is depicted in Étienne Maurice Falconet\'s "The Bronze Horseman," a statue in Senate Square in the city he founded, which is also home to the Hermitage Museum.'
+r3_q12_t3 = 'For 10 points, name this Russian Emperor, the namesake of a major city on the Baltic Sea.'
+r3_q12_answer = 'Peter the Great'
+r3_q12 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q12_t1, text_part_2=r3_q12_t2, text_part_3=r3_q12_t3, answer=r3_q12_answer, number=12))
+
+r3_q13_t1 = 'In a letter opposing a lowered interest ceiling, this philosopher outlined an early quantity theory of money. This thinker argued that spoilage prevented accumulation until the invention of money in a work where he wrote that "In the beginning all the world was America." He stated that people gain a right to land by improving it as long as it is abundant, which Robert Nozick described as this man\'s "proviso." One work by this man argues that men cannot enter into'
+r3_q13_t2 = 'slavery because they do not have absolute power over themselves, and is paired with a work that legitimizes revolutions against governments that lack the consent of the people.'
+r3_q13_t3 = 'For 10 points, name this philosopher who defended the right to "life, liberty, and estate" in his "Two Treatises of Government."'
+r3_q13_answer = 'John Locke'
+r3_q13 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q13_t1, text_part_2=r3_q13_t2, text_part_3=r3_q13_t3, answer=r3_q13_answer, number=13))
+
+r3_q14_t1 = 'The historian Richard W. Bulliet examined the military advantage offered by these animals in a book that paired them with the wheel. A corps named for these animals established by Henry C. Wayne was used for carrying mail at Fort Mohave but was shuttered due to associations with Jefferson Davis. In a battle named for these animals, Talha and Zubair were killed leading a rebel army. In that 656 CE battle named for these animals,'
+r3_q14_t2 = 'Aisha was captured by the caliph Ali. The salty milk from these animals is drunk by Bedouins. One of these animals was accidentally shot in the head at the Battle of Aqaba by its rider, T. E. Lawrence.'
+r3_q14_t3 = 'For 10 points, name these animals, the dromedary variety of which are often used for desert travel.'
+r3_q14_answer = 'camels'
+r3_q14 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q14_t1, text_part_2=r3_q14_t2, text_part_3=r3_q14_t3, answer=r3_q14_answer, number=14))
+
+r3_q15_t1 = 'A soldier born in this country wrote an epic poem translated into English as "The Araucaniad." An ornate style of poetry from this country that took its name from a combination of the words for "cultured" and "Lutheran" was propounded most notably by the author of the unfinished poem "Solitudes." That poet engaged in a long-running feud with this country\'s leading proponent of "conceptism." The 300th anniversary of the death of a poet from this country inspired the founding of its'
+r3_q15_t2 = 'Generation of \'27. A literary era in this country is often said to have ended with the death of the author of the plays "Life is a Dream" and "The Mayor of Zalamea."'
+r3_q15_t3 = 'For 10 points, name this country whose Baroque "Golden Age" featured the authors Luis de Góngora and Pedro Calderón de la Barca.'
+r3_q15_answer = 'Spain'
+r3_q15 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q15_t1, text_part_2=r3_q15_t2, text_part_3=r3_q15_t3, answer=r3_q15_answer, number=15))
+
+r3_q16_t1 = 'Scattering experiments performed on these molecules are interpreted in Kratky or Guinier plots. The synthesis of these molecules by the ROMP reaction involves the relief of ring strain. Molecules can be "masked" from the immune system by attaching one of these molecules in the process of PEGylation. The telechelic versions of these molecules contain reactive'
+r3_q16_t2 = 'end groups. These molecules can form through "living" reaction mechanisms that propagate through anionic, cationic, or radical intermediates. The polydispersity index characterizes their mass distribution, and DuPont created one of them from chloroprene.'
+r3_q16_t3 = 'For 10 points, name these molecules which can be formed by step-growth or chain-growth mechanisms, which include neoprene and nylon.'
+r3_q16_answer = 'polymers'
+r3_q16 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q16_t1, text_part_2=r3_q16_t2, text_part_3=r3_q16_t3, answer=r3_q16_answer, number=16))
+
+r3_q17_t1 = 'A set of three sacred examples of these features is found at Dewa and is venerated by a sect founded by En no Gyoja. Worship of these features was incorporated into Shugendo, some practitioners of which are named for prostrating themselves at these features. Yamabushi are considered mystics of these features. One of them named Hiei was the site of the Enryaku-ji monastery, which was razed by Oda Nobunaga. An hourglass-shaped one of these features, which'
+r3_q17_t2 = 'measures 80,000 yojanas in height and is named Sumeru is the axis-mundi in Buddhism. Along with flowers, one of these features was represented by Sakuya-hime; that example of these features contains a crater with "eight sacred peaks."'
+r3_q17_t3 = 'For 10 points, Fuji is an example of what kind of landform?'
+r3_q17_answer = 'mountains or volcanoes'
+r3_q17 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q17_t1, text_part_2=r3_q17_t2, text_part_3=r3_q17_t3, answer=r3_q17_answer, number=17))
+
+r3_q18_t1 = 'An 1890 concession gave Gerald Talbot a monopoly over this crop in Iran, sparking an riot in Tehran. A boycott of the Austrian government\'s monopoly over this product sparked the Five Days of Milan in 1848. The leading merchants of 18th-century Glasgow were known as the "lords" of this crop. The use of this crop was dubbed "loathsome to the eye" and "harmful to the brain" in a treatise titled for a'
+r3_q18_t2 = '"Counterblaste" to it by James I of England. Along with sugar and cotton, this crop was the chief export to England via the triangular trade; in England, it was popularized by Walter Raleigh after John Rolfe made it a cash crop in Virginia.'
+r3_q18_t3 = 'For 10 points, name this plant, a chief ingredient in cigarettes.'
+r3_q18_answer = 'tobacco'
+r3_q18 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q18_t1, text_part_2=r3_q18_t2, text_part_3=r3_q18_t3, answer=r3_q18_answer, number=18))
+
+r3_q19_t1 = 'A string quartet inspired by this event begins and ends with the violins imitating the beeping sound made by a phone left off the hook. A piece inspired by this event quotes the trumpet solo from "The Unanswered Question" above a chorus singing the line "we all love you." In that piece, a boy repeats the word "missing" while pre-recorded voices repeat the names of this event\'s victims. The album cover of a Steve Reich string quartet named for this event controversially used a'
+r3_q19_t2 = 'photo of it. The 2003 Pulitzer Prize for Music was awarded to a piece commemorating this event, "On the Transmigration of Souls." In the days after this event, popular musicians organized "The Concert for New York City."'
+r3_q19_t3 = 'For 10 points, name this terrorist attack in 2001.'
+r3_q19_answer = '9/11 or September 11, 2001'
+r3_q19 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q19_t1, text_part_2=r3_q19_t2, text_part_3=r3_q19_t3, answer=r3_q19_answer, number=19))
+
+r3_q20_t1 = 'This novel\'s protagonist uses scrap from a man\'s old "yellow dress" to make the "Sister\'s Choice" pattern for her quilt. Another character in this novel moves to Tucson, Arizona after falling in love with the flute player Germaine. A character in this novel demands to be called Mary Agnes and not Squeak after she is raped by a prison warden. This novel ends during a family reunion on July 4th after the protagonist\'s sister returns from'
+r3_q20_t2 = 'Africa, where she lived with the missionaries Samuel and Corinne. In this novel, "Mister" hides letters that are written by Nettie and addressed to her sister.'
+r3_q20_t3 = 'For 10 points, name this novel in which Celie addresses many of her letters about life in southern Georgia to God, a novel by Alice Walker.'
+r3_q20_answer = 'The  Color Purple'
+r3_q20 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q20_t1, text_part_2=r3_q20_t2, text_part_3=r3_q20_t3, answer=r3_q20_answer, number=20))
+
+r3_q21_t1 = 'Eugène Delacroix may be the artist standing next to the bishop in this artist\'s enigmatic "The Eternal Feminine." A group of artists admire one of this artist\'s paintings in an "Homage" to him painted by Maurice Denis. His break from traditional forms of representation is examined in an essay on his "Doubt" by Maurice Merleau-Ponty. This artist often depicted one of his frequent subjects above an Aix-Marseille railway bridge. A leering man watches a black woman revealing the title'
+r3_q21_t2 = 'woman in this artist\'s "A Modern Olympia." Pablo Picasso called this artist "the father of us all" and drew inspiration from this artist\'s many "Bathers" to develop Cubism.'
+r3_q21_t3 = 'For 10 points, name this Post-Impressionist French artist who frequently painted still lifes of apples and views of Mont Sainte-Victoire.'
+r3_q21_answer = 'Paul Cézanne'
+r3_q21 = get_or_create_question(Question(packet=round_3, text_part_1=r3_q21_t1, text_part_2=r3_q21_t2, text_part_3=r3_q21_t3, answer=r3_q21_answer, number=21))
