@@ -21,7 +21,7 @@
 \maketitle
 
 \begin{enumerate}
-	{% for q in questions %}
+	{% for q in tossups %}
     \item {{ q.text |safe}} \\\\
     Answer: {{ q.answer |safe }} \\
 	{% endfor %}

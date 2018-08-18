@@ -1,4 +1,4 @@
-from data.models import Tournament, Packet, Question
+from data.models import Tournament, Packet, Tossup
 
 '''
 Only adds objects into the database if they don't already exist so that db scripts can be ran
@@ -22,8 +22,7 @@ def get_or_create_packet(packet):
     obj, created = Packet.objects.get_or_create(
         tournament=packet.tournament,
         name=packet.name,
-        round_number=packet.round_number,
-        packet_type=packet.packet_type
+        round_number=packet.round_number
     )
 
     if created:
@@ -32,17 +31,17 @@ def get_or_create_packet(packet):
     return obj
 
 
-def get_or_create_question(question):
-    obj, created = Question.objects.get_or_create(
-        packet=question.packet,
-        text_part_1=question.text_part_1,
-        text_part_2=question.text_part_2,
-        text_part_3=question.text_part_3,
-        answer=question.answer,
-        number=question.number
+def get_or_create_tossup(tossup):
+    obj, created = Tossup.objects.get_or_create(
+        packet=tossup.packet,
+        text_part_1=tossup.text_part_1,
+        text_part_2=tossup.text_part_2,
+        text_part_3=tossup.text_part_3,
+        answer=tossup.answer,
+        number=tossup.number
     )
 
     if created:
-        print('Created question:', question.packet_id, question.number)
+        print('Created get_or_create_tossup:', tossup.packet_id, tossup.number)
 
     return obj

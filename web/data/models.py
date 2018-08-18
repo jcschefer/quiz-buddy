@@ -4,11 +4,6 @@ from enum import Enum
 import json
 
 
-class PacketType(Enum):
-    TOSSUP = 'TOSSUP'
-    BONUS = 'BONUS'
-
-
 class Tournament(models.Model):
     name = models.CharField(max_length=200)
     year = models.IntegerField()
@@ -18,10 +13,8 @@ class Packet(models.Model):
     tournament = models.ForeignKey(Tournament, on_delete=models.CASCADE)
     name = models.CharField(max_length=200)
     round_number = models.IntegerField(help_text='Corresponding round from which the packet comes')
-    packet_type = models.CharField(max_length=20, help_text='Oneof PacketType values')
 
-
-class Question(models.Model):
+class Tossup(models.Model):
     packet = models.ForeignKey(Packet, on_delete=models.CASCADE)
     text_part_1 = models.CharField(max_length=1000)
     text_part_2 = models.CharField(max_length=1000, default='')

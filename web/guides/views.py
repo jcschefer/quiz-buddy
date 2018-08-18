@@ -5,8 +5,8 @@ from django.http import HttpResponse
 from subprocess import Popen, PIPE
 import tempfile
 import datetime
-from data.utils import fetch_random_question
-from data.models import Packet, Question
+from data.utils import fetch_random_tossup
+from data.models import Packet, Tossup
 import os.path
 
 DEFAULT_QUESTION_NUMBER = 20
@@ -16,12 +16,12 @@ DEFAULT_QUESTION_NUMBER = 20
 
 def random_guide(request):
     # must manually compile the question text because templates don't support complex things
-    random_questions = [fetch_random_question() for i in range(DEFAULT_QUESTION_NUMBER)]
+    random_tossups = [fetch_random_tossup() for i in range(DEFAULT_QUESTION_NUMBER)]
 
     params = {
         'title': 'Random Study Guide',
         'date': datetime.date.today().strftime('%x'),
-        'questions': questions_to_template_arg(random_questions)
+        'tossups': tossups_to_template_arg(random_tossups)
     }
 
     return render_guide(params)
@@ -30,21 +30,21 @@ def random_guide(request):
 def packet_guide(request, packet_id):
     packet = Packet.objects.get(id=packet_id)
     tournament = packet.tournament
-    selected_questions = Question.objects.filter(packet=packet).order_by('number')
+    selected_tossups = Tossup.objects.filter(packet=packet).order_by('number')
     params = {
         'title': '{} {}: {}'.format(tournament.name, tournament.year, packet.name),
         'date': datetime.date.today().strftime('%x'),
-        'questions': questions_to_template_arg(selected_questions)
+        'tossups': tossups_to_template_arg(selected_tossups)
     }
 
     return render_guide(params)
 
 
-def questions_to_template_arg(questions):
+def tossups_to_template_arg(tossups):
     return [{
         'text': ' '.join(['\\textbf{', q.text_part_1, '(*)}', q.text_part_2, q.text_part_3]),
         'answer': q.answer
-    } for q in questions]
+    } for q in tossups]
 
 
 def render_guide(template_params):

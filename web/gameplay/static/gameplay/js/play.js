@@ -4,7 +4,7 @@ var SCORE_INCREMENT = 15 ;
 var interval    ;
 var TIMER_LENGTH = 8.00 ;
 var VALID_ANSWER_TIME = false;
-var QUESTION_URL = "/data/random_question";
+var QUESTION_URL = "/data/random_tossup";
 
 function is_correct(answer) {
 	//console.log('answer: ' + CURR_ANSWER + ' given answer: ' + answer);
@@ -18,7 +18,7 @@ function increment_score(num) {
 }
 
 function append_question() {
-	var pr = document.createElement('p') 
+	var pr = document.createElement('p')
 	pr.appendChild( document.createTextNode( CURR_TEXT ) ) ;
 	var ans = document.createElement('div');
 	ans.appendChild( document.createTextNode( CURR_ANSWER ) ) ;
@@ -62,7 +62,7 @@ function playGame() {
 			CURR_ANSWER = q.answer;
 
 			responsiveVoice.speak( q['text'], 'UK English Male', {
-					'onend': function(){ 
+					'onend': function(){
 					VALID_ANSWER_TIME = false;
 					console.log('** stopped saying stuff');
 					playGame();
@@ -100,7 +100,7 @@ $( document ).ready( function() {
 	document.body.onkeyup = function(e) {
 		var txtfield = document.getElementById("answer-box") ;
 
-		if( e.keyCode == 32 && VALID_ANSWER_TIME) { //Spacebar pressed to answer question 
+		if( e.keyCode == 32 && VALID_ANSWER_TIME) { //Spacebar pressed to answer question
 			console.log(CURR_ANSWER);
 			if( !responsiveVoice.isPlaying())
 				return ;
@@ -143,7 +143,7 @@ $( document ).ready( function() {
 
 			try {
 				clearInterval( interval ) ;
-			} catch(err) { 
+			} catch(err) {
 				console.log(err) ;
 			}
 
