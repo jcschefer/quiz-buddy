@@ -457,3 +457,154 @@ r3_q21_t3 = 'For 10 points, name this Post-Impressionist French artist who frequ
 r3_q21_answer = 'Paul Cézanne'
 r3_q21 = get_or_create_tossup(Tossup(packet=round_3, text_part_1=r3_q21_t1,
                                      text_part_2=r3_q21_t2, text_part_3=r3_q21_t3, answer=r3_q21_answer, number=21))
+
+
+# 5. Packet for round four
+round_4 = get_or_create_packet(Packet(tournament=tournament, name='Round 04', round_number=4))
+
+r4_q01_t1 = 'The rate of this process for an infinite plane, infinite cylinder, or sphere can be determined using a Heisler chart. The ability of a material to resist this process is primarily determined by the rate of umklapp scattering processes. The denominator of the Biot number contains a quantity that characterizes this process and is a transport coefficient involving a body\'s interior. This process can be explained microscopically due to diffusion of free electrons and vibration of'
+r4_q01_t2 = 'phonons. The rate of this process is proportional to the gradient in temperature, according to Fourier\'s law. This process can be explained by molecular collisions causing transfer of energy.'
+r4_q01_t3 = 'For 10 points, name this form of heat transfer by direct contact, contrasted with radiation and convection.'
+r4_q01_answer = 'thermal conduction'
+r4_q01 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q01_t1,
+                                     text_part_2=r4_q01_t2, text_part_3=r4_q01_t3, answer=r4_q01_answer, number=1))
+
+r4_q02_t1 = 'This man, whose "tongue is like no other," is put on trial in the jungle near San Cristobal in a George Steiner novel. Sebastian Haffner wrote a 1978 book titled for "the meaning of" this man. Unity Mitford left England specifically to seek out this man, whose alleged fascination with feces and repressed homosexuality are discussed in Walter Langer\'s psychological profile of him. The historian Hugh Trevor-Roper authenticated the'
+r4_q02_t2 = 'diaries attributed to this man, which claimed that his secretary Martin Bormann was "indispensable" to his work. The book "Grey Wolf" claims that this man fled to Argentina, and was protected by the Peróns after he faked his death on April 30th, 1945.'
+r4_q02_t3 = 'For 10 points, name this leader of Nazi Germany.'
+r4_q02_answer = 'Adolf Hitler'
+r4_q02 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q02_t1,
+                                     text_part_2=r4_q02_t2, text_part_3=r4_q02_t3, answer=r4_q02_answer, number=2))
+
+r4_q03_t1 = 'In his first political campaign, this man attacked his opponent\'s 47,000-dollar profit from a radio station and that man\'s lack of military service, ignoring the fact that the opponent was too old to volunteer. He lied about flying 32 bomber missions to win a Distinguished Flying Cross and faked a limp from a supposed crash landing. This ex-Marine defeated Robert'
+r4_q03_t2 = 'La Follette Jr. to win his highest office and likely coined his own nickname, "Tail-Gunner." William Fulbright voted against funding this man\'s permanent subcommittee in 1954; a year later, he was censured by the Senate. At a meeting in Wheeling, West Virginia, he claimed to have a list of subversives working at the State Department.'
+r4_q03_t3 = 'For 10 points, name this Wisconsin senator, an ardent anti-Communist.'
+r4_q03_answer = 'Joseph McCarthy'
+r4_q03 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q03_t1,
+                                     text_part_2=r4_q03_t2, text_part_3=r4_q03_t3, answer=r4_q03_answer, number=3))
+
+r4_q04_t1 = 'This economist\'s observations on the distribution of property ownership were applied analogously by Joseph Juran to management theory. In sociology, this economist developed a theory of regime change based on the "circulation of elites." A condition named for this economist, which is asserted by the first theorem of welfare economics to hold for any competitive equilibrium, is generalized to allow for compensation of lost utility by the'
+r4_q04_t2 = 'Kaldor–Hicks criterion. This economist sometimes names a "law of the vital few" according to which most effects stem from a few causes, referred to as "80/20" principle. A condition in which no individual can be better off without making another worse off is called,'
+r4_q04_t3 = 'for 10 points, what Italian\'s namesake "efficiency"?'
+r4_q04_answer = 'Vilfredo Pareto'
+r4_q04 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q04_t1,
+                                     text_part_2=r4_q04_t2, text_part_3=r4_q04_t3, answer=r4_q04_answer, number=4))
+
+r4_q05_t1 = 'Years after accidentally killing three villagers serving in this occupation during the war, the protagonist drunkenly wanders the country spending time with these people in Vonnegut\'s "God Bless You, Mr. Rosewater." Men with this job demand a toll from a motorist before trashing his abandoned Model-T, prompting Coalhouse Walker to seize J. P. Morgan\'s library, in E. L. Doctorow\'s "Ragtime." A character with a different version of this job believes that a car of teenagers killed his'
+r4_q05_t2 = '17-year-old neighbor, Clarisse McClellan. Men with that version of this job wear salamander insignias and use the Mechanical Hound in a novel in which their leader, Captain Beatty, is incinerated by the protagonist.'
+r4_q05_t3 = 'For 10 points, Guy Montag has what job that, in Ray Bradbury\'s "Fahrenheit 451," involves burning books?'
+r4_q05_answer = 'firemen'
+r4_q05 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q05_t1,
+                                     text_part_2=r4_q05_t2, text_part_3=r4_q05_t3, answer=r4_q05_answer, number=5))
+
+r4_q06_t1 = 'Accusations that an object housed in these places at Hailes contained either duck\'s blood or saffron honey led a group of commissioners to seize that vial. Supporters of these places carried a banner that depicted arms and feet around a heart and chalice to represent the "Five Wounds of Christ." The "lesser" type of these places were the first to be targeted after a tour of visitation conducted by Thomas Cromwell. Robert Aske led'
+r4_q06_t2 = 'supporters of these places in the Pilgrimage of Grace uprising. A king who was given authority over these institutions by the Act of Supremacy appropriated their income as part of their 1536 "dissolution." Henry VIII disbanded many Cistercian and Benedictine examples of these places.'
+r4_q06_t3 = 'For 10 points, name these institutions where monks live.'
+r4_q06_answer = 'monasteries or abbeys'
+r4_q06 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q06_t1,
+                                     text_part_2=r4_q06_t2, text_part_3=r4_q06_t3, answer=r4_q06_answer, number=6))
+
+r4_q07_t1 = 'In this city, the architect Ricardo Bofill converted an abandoned cement factory into the utopian apartment complex Walden 7. This city\'s "Block of Discord" is home to a private home that features a "skull" and "bones" façade. A building in this city has four spires each on both its Passion Façade and its Nativity Façade. A sculpture of a salamander made using mosaics and a'
+r4_q07_t2 = 'bench in the shape of a sea monster appear in this city\'s Parc Güell. The architect Josep Maria Jujol added a wavy façade to the Casa Milà in this city. For the 1929 International Exposition in this City, Mies van der Rohe designed a namesake chair, which he housed in a modernist pavilion.'
+r4_q07_t3 = 'For 10 points, name this city that contains much of Antoni Gaudí\'s work, including the unfinished Sagrada Família.'
+r4_q07_answer = 'Barcelona'
+r4_q07 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q07_t1,
+                                     text_part_2=r4_q07_t2, text_part_3=r4_q07_t3, answer=r4_q07_answer, number=7))
+
+r4_q08_t1 = 'The SOX family of proteins is named for one part of a structure named for this letter. A protein named for this letter has "stress-resilience" functionality and is a 36-amino-acid neuropeptide found in the hypothalamus. A structure named for this letter is used to define human haplogroups because 95 percent of it does not undergo recombination. All humans with a structure named for this letter share it with a most recent common ancestor called'
+r4_q08_t2 = 'Adam. This letter is the abbreviation for the aromatic amino acid tyrosine. This letter also names a structure that contains genes to influence testis development.'
+r4_q08_t3 = 'For 10 points, name this letter that names a chromosome that determines human sex, along with the X chromosome.'
+r4_q08_answer = 'Y'
+r4_q08 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q08_t1,
+                                     text_part_2=r4_q08_t2, text_part_3=r4_q08_t3, answer=r4_q08_answer, number=8))
+
+r4_q09_t1 = 'A poem in this collection describes "burying lamps" and "tangling shadows" in the "deep solitude." The speaker of a different poem in this collection compares himself to "a spider, trying to hide" after noting that he has been marking "crosses of fire" on "the atlas of your body." The line "The night is starry and the stars are blue and shiver in the distance" is provided as an example of the title writings in a poem from this collection, whose final poem opens by asserting "the'
+r4_q09_t2 = 'memory of you emerges from the night around me" and repeatedly states "it is the hour of departure" and "in you, everything sank!" "Tonight I Can Write the Saddest Lines" is followed by a melancholy final entry in,'
+r4_q09_t3 = 'for 10 points, what collection by Pablo Neruda?'
+r4_q09_answer = 'Twenty Love Poems and a Song of Despair'
+r4_q09 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q09_t1,
+                                     text_part_2=r4_q09_t2, text_part_3=r4_q09_t3, answer=r4_q09_answer, number=9))
+
+r4_q10_t1 = 'This god forces another character to sleep in a room filled with snakes, then in one filled with centipedes and wasps. This god has his hair tied to palace rafters by that other character, a suitor for his daughter, after the suitor is forced to find an arrow in a field that this god sets on fire. In another story, this god protects a princess by turning her into a comb and putting her in his hair. Some translations of the "Record of Ancient Matters" give this god the title "His'
+r4_q10_t2 = 'Swift-Impetuous-Male-Augustness." This god once birthed five men from a necklace belonging to his sister, to whom he later gave a sword that he pulled from the tail of the eight-headed dragon Orochi.'
+r4_q10_t3 = 'For 10 points, name this Shinto god of the sea and storms, a brother of Amaterasu.'
+r4_q10_answer = 'Susano\'o Susanowo'
+r4_q10 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q10_t1,
+                                     text_part_2=r4_q10_t2, text_part_3=r4_q10_t3, answer=r4_q10_answer, number=10))
+
+r4_q11_t1 = 'One of these events is depicted on a grave marker decorated with a sun and a moon on one side and an army on the other, and is called the "doomsday stone." It is often wrongly claimed that Irish round towers were built due to these events, which led to the founding of Dublin as a longphort. The jeweled cover of an illuminated gospel book and the relics of St. Cuthbert were lost during one of these events. In order to stop these events from occurring in France,'
+r4_q11_t2 = 'Charles the Simple offered Normandy to Rollo. Christian Europe was thrown into panic when one of these events destroyed the abbey of Lindisfarne, the first of many monasteries in the British isles to be targeted by them.'
+r4_q11_t3 = 'For 10 points, flat-bottomed longboats were used for what attacks by Scandinavian mariners?'
+r4_q11_answer = 'Viking raids'
+r4_q11 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q11_t1,
+                                     text_part_2=r4_q11_t2, text_part_3=r4_q11_t3, answer=r4_q11_answer, number=11))
+
+r4_q12_t1 = 'The Imagist collection "Sea Garden" opens with a poem about one of these objects, which H.D. describes as "lifted in the crisp sand that drives in the wind." In a "Song," Edmund Waller bids one of these objects to "Go" to teach "one who wastes her time and me." The speaker of "The Passionate Shepherd to His Love" promises "beds of" these objects. In another poem, one of these objects is threatened by "the invisible worm that flies in the'
+r4_q12_t2 = 'night in the howling storm," which has found its "bed of crimson joy." A William Blake poem about syphilis is titled for a "sick" one of these objects, which Robert Herrick advised virgins to gather "while ye may." Robert Burns compares his love to a "red, red" example of,'
+r4_q12_t3 = 'for 10 points, what kind of flower?'
+r4_q12_answer = 'roses'
+r4_q12 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q12_t1,
+                                     text_part_2=r4_q12_t2, text_part_3=r4_q12_t3, answer=r4_q12_answer, number=12))
+
+r4_q13_t1 = 'A bust of this artist by Benedetto da Maiano showed that he was best known at the time for a mosaic of Christ walking on water called the "Navicella." This artist depicted the walls of Ephesus in a scene that shows St. John the Evangelist raising Dursiana for the Peruzzi Chapel. Petrarch praised the "ingenium" of this artist, who executed a painted crucifix for the Santa Maria Novella. The Star of Bethlehem, depicted as a comet, appears above his stage-like Adoration of the Magi in a'
+r4_q13_t2 = 'series of 37 frescoes made for a Paduan money lender. This artist was supposedly discovered and taught by Cimabue. His best-known works were commissioned by Enrico Scrovegni.'
+r4_q13_t3 = 'For 10 points, name this early Renaissance artist who made the frescoes for the Arena Chapel.'
+r4_q13_answer = 'Giotto'
+r4_q13 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q13_t1,
+                                     text_part_2=r4_q13_t2, text_part_3=r4_q13_t3, answer=r4_q13_answer, number=13))
+
+r4_q14_t1 = 'A one-time hydroelectric engineer who was elected president of this country controversially pardoned his former running mate, who had been imprisoned for planning a 1996 coup. Andres Rodriguez restored this country to democracy. A dictator who ruled this country from 1954 to 1989 cooperated with a larger neighbor on what was then the most powerful hydroelectric dam in the world and was a leader of its'
+r4_q14_t2 = 'Colorado Party. An earlier president of this country was the only Latin American head of state to die in battle, perishing at the Battle of Cerro Cora. Along its eastern border is the Itaipu Dam, built under Alfredo Stroessner .'
+r4_q14_t3 = 'For 10 points, during the War of the Triple Alliance, Uruguay, Brazil, and Argentina occupied what country\'s capital of Asunción?'
+r4_q14_answer = 'Paraguay'
+r4_q14 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q14_t1,
+                                     text_part_2=r4_q14_t2, text_part_3=r4_q14_t3, answer=r4_q14_answer, number=14))
+
+r4_q15_t1 = 'This is the number of atoms of carbon plus atoms of oxygen in the ring of the smallest crown ether, and is the first number in its name. Atoms in both hexagonal close-packed and face-centered cubic structures have this coordination number. This is the number of carbon atoms in a lauryl group, which can be found in the surfactant'
+r4_q15_t2 = 'SDS. This is the total number of carbons in ethyl-propyl-heptane. The metal with this atomic number is found at the center of chlorophyll; that metal is magnesium. Pentane contains this many hydrogens, which is also the same number of hydrogens in glucose.'
+r4_q15_t3 = 'For 10 points, identify the atomic mass for the most abundant carbon isotope.'
+r4_q15_answer = 'twelve'
+r4_q15 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q15_t1,
+                                     text_part_2=r4_q15_t2, text_part_3=r4_q15_t3, answer=r4_q15_answer, number=15))
+
+r4_q16_t1 = '"Higher-order" examples of these things include "filter" and "bind," both of which allow for partial application. Christopher Strachey proposed treating these things as "first-class citizens," which allows them to be passed as arguments. The technique known as currying reduces the arity of these things to one, and is often used to optimize tail calls. Compilers can "inline" the'
+r4_q16_t2 = 'body of these things as an optimization to increase a program\'s speed. A programming paradigm named for these objects lacks side effects, and is exemplified by ML and Haskell. Methods and subroutines are examples of,'
+r4_q16_t3 = 'for 10 points, what procedures in computer science that are similar to mathematical entities that map a domain onto a range?'
+r4_q16_answer = 'functions'
+r4_q16 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q16_t1,
+                                     text_part_2=r4_q16_t2, text_part_3=r4_q16_t3, answer=r4_q16_answer, number=16))
+
+r4_q17_t1 = 'Sam Stein and Gideon Resnick in the "Daily Beast" called out Tom Perez for not personally joining one of these events. Matt Bevin apologized for stating that these events would lead to sexual assaults. The Goldwater Institute criticized the constitutionality of one of these events, which included a large gathering at Chase Field. A 110-mile march was staged by participants in one of these events, who were the subject of the failed'
+r4_q17_t2 = 'Step Up plan to raise taxes on wind energy and tobacco. Participants in one of these events in Arizona wore red shirts. During one of these events in 2018, Katrina Ruff held up a sign outside of the Capitol in Oklahoma City reading "Thanks to West Virginia."'
+r4_q17_t3 = 'For 10 points, name these events where educators walk off the job.'
+r4_q17_answer = 'public teacher strikes'
+r4_q17 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q17_t1,
+                                     text_part_2=r4_q17_t2, text_part_3=r4_q17_t3, answer=r4_q17_answer, number=17))
+
+r4_q18_t1 = 'A character in this novel describes seeing the punning headline "Red Sox Beat Yanks 5–4 On Chapman\'s Homer" thumbtacked to a door. The narrator of this novel describes the reign of Queen Yaruga, who drowned in an ice-hole during New Year\'s day festivities. This novel\'s narrator claims that he convinced his friend to write a work in four cantos that recounts the escape of a king nicknamed "The Beloved" after that friend escaped to'
+r4_q18_t2 = 'New Wye. The line "I was the shadow of the waxwing slain" is written by a character in this novel, who may have been killed by the assassin Jakob Gradus. A self-styled exiled royal from the land of Zembla named Charles Kinbote narrates,'
+r4_q18_t3 = 'for 10 points, what Vladimir Nabokov novel centering on a 999-line poem by John Shade?'
+r4_q18_answer = 'Pale Fire'
+r4_q18 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q18_t1,
+                                     text_part_2=r4_q18_t2, text_part_3=r4_q18_t3, answer=r4_q18_answer, number=18))
+
+r4_q19_t1 = 'In Daniel\'s Dream of Four Beasts, the Ancient of Days had one of these objects that "was flaming with fire." One of these objects is described as the source of the river of water of life in the Book of Revelation, which details the four and twenty elders, seven spirits, and four beasts that surround it. A class of celestial beings that share their name with these objects transport one that is seen carried on a fiery chariot in a vision of Ezekiel. In Islam, God\'s'
+r4_q19_t2 = 'object of this sort is referred to as al-\'Arsh, and is said to "includeth the heavens and the earth" in a popular verse from the Al-Baqara surah. In The Acts of the Apostles, God compares Heaven to one of these objects belonging to him and the earth to his footstool.'
+r4_q19_t3 = 'For 10 points, name these pieces of furniture on which kings sit.'
+r4_q19_answer = 'thrones'
+r4_q19 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q19_t1,
+                                     text_part_2=r4_q19_t2, text_part_3=r4_q19_t3, answer=r4_q19_answer, number=19))
+
+r4_q20_t1 = 'In a symphonic poem by Dvořák, a mother teases her misbehaving son about one of these characters, who is represented by the bass clarinet. One of these characters sings the aria "Hurr Hopp Hopp Hopp" excitedly in the third act of an 1893 opera. In a symphonic finale whose English name mentions these characters, a tolling bell repeats the dirge C C G, bassoons and ophicleides play the "Dies Irae," and a wild fugue depicts the "vulgar" round dan ce of these characters with a shrill, distorted version of the'
+r4_q20_t2 = 'idée fixe." An artist dreams about these sinister characters in the fifth and final movement of Berlioz\'s "Symphonie fantastique."'
+r4_q20_t3 = 'For 10 points, name these characters that include the antagonist of Engelbert Humperdinck\'s opera "Hansel and Gretel"'
+r4_q20_answer = 'witches'
+r4_q20 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q20_t1,
+                                     text_part_2=r4_q20_t2, text_part_3=r4_q20_t3, answer=r4_q20_answer, number=20))
+
+r4_q21_t1 = 'This story describes a question that "the more we reflect upon," the "harder it is to answer," since it involves a study of the "devious mazes of passion" through the "human heart." A sequel to this story centers on a "deputation of five strangers" who try to learn this story\'s outcome by answering a riddle about "The Discourager of Hesitancy." An arena where a woman keeps her right arm on a "cushioned parapet" is described in this story\'s setting, which is a'
+r4_q21_t2 = '"semi-barbaric" kingdom. The humorist Frank Stockton wrote this story, which concludes with a king\'s daughter making a decision about a man\'s fate after "anguished deliberation."'
+r4_q21_t3 = 'For 10 points, name this story in which it is never revealed whether a youth is saved or eaten by the title animal.'
+r4_q21_answer = '"The Lady or the Tiger?"'
+r4_q21 = get_or_create_tossup(Tossup(packet=round_4, text_part_1=r4_q21_t1,
+                                     text_part_2=r4_q21_t2, text_part_3=r4_q21_t3, answer=r4_q21_answer, number=21))
