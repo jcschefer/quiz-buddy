@@ -1,4 +1,5 @@
-from data.models import Tournament, Packet, Tossup
+from data.models import Tournament, Packet, Tossup, Keyword, KeywordTossupLinkage
+from .keywords import get_tossup_keywords
 
 '''
 Only adds objects into the database if they don't already exist so that db scripts can be ran
@@ -42,6 +43,15 @@ def get_or_create_tossup(tossup):
     )
 
     if created:
-        print('Created get_or_create_tossup:', tossup.packet_id, tossup.number)
+        print('Created tossup:', tossup.packet, tossup.number)
+
+    for keyword in get_tossup_keywords(obj):
+        kw, created = Keyword.objects.get_or_create(keyword=keyword)
+        if created:
+            print('created keyword:', keyword)
+
+        linkage, created = KeywordTossupLinkage.objects.get_or_create(keyword=kw, tossup=obj)
+        if created:
+            print('linked keyword id', kw.id, 'to tossup id', obj.id)
 
     return obj

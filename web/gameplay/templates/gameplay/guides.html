@@ -32,9 +32,21 @@
 					<li>
 						<p>Packet Downloads</p>
 						<ul>
-							{% for obj in ids_and_links %}
+							{% for obj in packet_ids_and_links %}
 								<li>
 									<a href="{% url 'packet_guide' obj.packet_id %}">
+										{{ obj.title }}
+									</a>
+								</li>
+							{% endfor %}
+						</ul>
+					</li>
+					<li>
+						<p>Keyword Downloads</p>
+						<ul>
+							{% for obj in keyword_ids_and_links %}
+								<li>
+									<a href="{% url 'keyword_guide' obj.keyword_id %}">
 										{{ obj.title }}
 									</a>
 								</li>

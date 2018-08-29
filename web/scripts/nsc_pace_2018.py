@@ -1,5 +1,5 @@
 # Inserts data for the NSC PACE tournament 2018
-# run this script from the web directory's base directory
+# To run, import this file from ./manage.py shell
 
 from data.models import Tournament, Packet, Tossup
 from .utils.idempotents import get_or_create_tournament, get_or_create_packet, get_or_create_tossup

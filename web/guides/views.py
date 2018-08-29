@@ -6,7 +6,7 @@ from subprocess import Popen, PIPE
 import tempfile
 import datetime
 from data.utils import fetch_random_tossup
-from data.models import Packet, Tossup
+from data.models import Packet, Tossup, Keyword, KeywordTossupLinkage
 import os.path
 
 DEFAULT_QUESTION_NUMBER = 20
@@ -33,6 +33,18 @@ def packet_guide(request, packet_id):
     selected_tossups = Tossup.objects.filter(packet=packet).order_by('number')
     params = {
         'title': '{} {}: {}'.format(tournament.name, tournament.year, packet.name),
+        'date': datetime.date.today().strftime('%x'),
+        'tossups': tossups_to_template_arg(selected_tossups)
+    }
+
+    return render_guide(params)
+
+
+def keyword_guide(request, keyword_id):
+    links = KeywordTossupLinkage.objects.filter(keyword__id=keyword_id)
+    selected_tossups = [l.tossup for l in links]
+    params = {
+        'title': 'Keyword Guide: {}'.format(Keyword.objects.get(id=keyword_id).keyword),
         'date': datetime.date.today().strftime('%x'),
         'tossups': tossups_to_template_arg(selected_tossups)
     }
