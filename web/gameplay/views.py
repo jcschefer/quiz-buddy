@@ -29,7 +29,7 @@ def guides(request):
     keyword_ids_and_links = [{
         'keyword_id': k.id,
         'title': '{} ({})'.format(k.keyword, k.num_tossups)
-    } for k in keywords]
+    } for k in keywords[:20]]
 
     context = {
         'packet_ids_and_links': packet_ids_and_links,
