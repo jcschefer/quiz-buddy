@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/2.0/ref/settings/
 
 import os
 
+IS_PRODUCTION = bool(os.getenv('QUIZBUDDY_PRODUCTION', ''))
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -20,10 +22,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'j6#q__sd_sgv(*znbdhx3$z5**rgvmh3avxa+lpq53a1@_^^do'
+# In production, the secret key is stored as an environment variable. Locally, the default will do.
+SECRET_KEY = os.getenv('QUIZBUDDY_SECRET_KEY', 'j6#q__sd_sgv(*znbdhx3$z5**rgvmh3avxa+lpq53a1@_^^do')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = not IS_PRODUCTION
 
 ALLOWED_HOSTS = [
     'quizbuddy.herokuapp.com',
